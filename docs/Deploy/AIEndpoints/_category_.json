@@ -1,0 +1,9 @@
+{
+  "label": "AI Endpoints",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "This service covers the creation of an AI Endpoint for seamless deployment of machine learning models."
+  }
+}
+

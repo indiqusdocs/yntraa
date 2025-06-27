@@ -1,0 +1,9 @@
+{
+  "label": "Train",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "This module covers the services including Bare Metal for direct hardware access, Kubernetes Cluster for container orchestration, and Slurm Cluster for HPCs and job scheduling."
+  }
+}
+

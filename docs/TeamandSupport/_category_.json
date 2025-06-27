@@ -1,0 +1,9 @@
+{
+  "label": "Team and Support",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "This section covers tickets and users, including ticket creation, status tracking, and user management."
+  }
+}
+
