@@ -1,0 +1,26 @@
+{
+  "id": "InstanceProtection/ViewingProtectedInstances",
+  "title": "Viewing Protected Instances",
+  "description": "1. Navigate to Backups and select an Instance Protection.",
+  "source": "@site/docs/InstanceProtection/ViewingProtectedInstances.md",
+  "sourceDirName": "InstanceProtection",
+  "slug": "/InstanceProtection/ViewingProtectedInstances",
+  "permalink": "/docs/InstanceProtection/ViewingProtectedInstances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Enabling Instance Protection",
+    "permalink": "/docs/InstanceProtection/EnablingInstanceProtection"
+  },
+  "next": {
+    "title": "Changing the Protection Plan",
+    "permalink": "/docs/InstanceProtection/ChangingtheProtectionPlan"
+  }
+}

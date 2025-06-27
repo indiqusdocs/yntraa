@@ -1,0 +1,26 @@
+{
+  "id": "Compute/RHELInstances/WorkingwithRHELInstanceSnapshots",
+  "title": "Working with RHEL Instance Snapshots",
+  "description": "To view all the snapshots for the Instance, navigate to RHEL Instances and access the Snapshots tab.",
+  "source": "@site/docs/Compute/RHELInstances/WorkingwithRHELInstanceSnapshots.md",
+  "sourceDirName": "Compute/RHELInstances",
+  "slug": "/Compute/RHELInstances/WorkingwithRHELInstanceSnapshots",
+  "permalink": "/docs/Compute/RHELInstances/WorkingwithRHELInstanceSnapshots",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Networking Management with RHEL Instances",
+    "permalink": "/docs/Compute/RHELInstances/NetworkingManagementwithRHELInstances"
+  },
+  "next": {
+    "title": "Reconfiguring RHEL Instances",
+    "permalink": "/docs/Compute/RHELInstances/ReconfiguringRHELInstances"
+  }
+}

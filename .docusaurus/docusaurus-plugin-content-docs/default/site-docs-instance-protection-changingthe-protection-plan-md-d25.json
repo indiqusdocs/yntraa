@@ -1,0 +1,26 @@
+{
+  "id": "InstanceProtection/ChangingtheProtectionPlan",
+  "title": "Changing the Protection Plan",
+  "description": "Suppose you want to switch your current plan to a different one. This can be achieved as follows:",
+  "source": "@site/docs/InstanceProtection/ChangingtheProtectionPlan.md",
+  "sourceDirName": "InstanceProtection",
+  "slug": "/InstanceProtection/ChangingtheProtectionPlan",
+  "permalink": "/docs/InstanceProtection/ChangingtheProtectionPlan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Viewing Protected Instances",
+    "permalink": "/docs/InstanceProtection/ViewingProtectedInstances"
+  },
+  "next": {
+    "title": "Turning off the Protection Plan",
+    "permalink": "/docs/InstanceProtection/TurningofftheProtectionPlan"
+  }
+}

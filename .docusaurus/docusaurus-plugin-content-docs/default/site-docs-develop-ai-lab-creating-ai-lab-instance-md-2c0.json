@@ -1,0 +1,26 @@
+{
+  "id": "Develop/AI Lab/CreatingAILabInstance",
+  "title": "Creating AI Lab Instance",
+  "description": "This service allows users to manage and create AI Labs on the Shakti Cloud Platform, where they can build and deploy AI projects.",
+  "source": "@site/docs/Develop/AI Lab/CreatingAILabInstance.md",
+  "sourceDirName": "Develop/AI Lab",
+  "slug": "/Develop/AI Lab/CreatingAILabInstance",
+  "permalink": "/docs/Develop/AI Lab/CreatingAILabInstance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "AI Lab",
+    "permalink": "/docs/category/ai-lab"
+  },
+  "next": {
+    "title": "Viewing Details of AI Lab Instances",
+    "permalink": "/docs/Develop/AI Lab/ViewingDetailsofAILabInstances"
+  }
+}

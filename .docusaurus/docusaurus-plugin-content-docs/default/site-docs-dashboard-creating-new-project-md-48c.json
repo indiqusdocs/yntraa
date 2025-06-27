@@ -1,0 +1,26 @@
+{
+  "id": "Dashboard/CreatingNewProject",
+  "title": "Creating New Project",
+  "description": "You can create a New Project based on your requirements and purchase various services. A project dropdown in the top right of the dashboard lets you create new project.",
+  "source": "@site/docs/Dashboard/CreatingNewProject.md",
+  "sourceDirName": "Dashboard",
+  "slug": "/Dashboard/CreatingNewProject",
+  "permalink": "/docs/Dashboard/CreatingNewProject",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Default Project",
+    "permalink": "/docs/Dashboard/DefaultProject"
+  },
+  "next": {
+    "title": "Billing and Wallet",
+    "permalink": "/docs/category/billing-and-wallet"
+  }
+}

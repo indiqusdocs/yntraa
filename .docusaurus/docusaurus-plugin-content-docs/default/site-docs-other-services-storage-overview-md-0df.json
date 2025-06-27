@@ -1,0 +1,26 @@
+{
+  "id": "OtherServices/Storage/Overview",
+  "title": "Overview",
+  "description": "",
+  "source": "@site/docs/OtherServices/Storage/Overview.md",
+  "sourceDirName": "OtherServices/Storage",
+  "slug": "/OtherServices/Storage/Overview",
+  "permalink": "/docs/OtherServices/Storage/Overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Other Services",
+    "permalink": "/docs/category/other-services-1"
+  },
+  "next": {
+    "title": "Creating New Storage",
+    "permalink": "/docs/OtherServices/Storage/CreatingNewStorage"
+  }
+}

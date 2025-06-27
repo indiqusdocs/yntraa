@@ -1,0 +1,26 @@
+{
+  "id": "InstanceProtection/TurningofftheProtectionPlan",
+  "title": "Turning off the Protection Plan",
+  "description": "Protection can be turned off in two ways. The first one is as follows:",
+  "source": "@site/docs/InstanceProtection/TurningofftheProtectionPlan.md",
+  "sourceDirName": "InstanceProtection",
+  "slug": "/InstanceProtection/TurningofftheProtectionPlan",
+  "permalink": "/docs/InstanceProtection/TurningofftheProtectionPlan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Changing the Protection Plan",
+    "permalink": "/docs/InstanceProtection/ChangingtheProtectionPlan"
+  },
+  "next": {
+    "title": "Tools and Utilities",
+    "permalink": "/docs/category/tools-and-utilities"
+  }
+}

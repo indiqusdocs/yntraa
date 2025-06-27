@@ -1,0 +1,26 @@
+{
+  "id": "Compute/Kubernetes/CreatingaKubernetesCluster",
+  "title": "Creating a Kubernetes Cluster",
+  "description": "To create a Kubernetes cluster on an advanced VPC AZ, follow these steps:",
+  "source": "@site/docs/Compute/Kubernetes/CreatingaKubernetesCluster.md",
+  "sourceDirName": "Compute/Kubernetes",
+  "slug": "/Compute/Kubernetes/CreatingaKubernetesCluster",
+  "permalink": "/docs/Compute/Kubernetes/CreatingaKubernetesCluster",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "About Kubernetes on Ananta",
+    "permalink": "/docs/Compute/Kubernetes/AboutKubernetesonAnanta"
+  },
+  "next": {
+    "title": "Viewing Kubernetes Cluster Details",
+    "permalink": "/docs/Compute/Kubernetes/ViewingKubernetesClusterDetails"
+  }
+}

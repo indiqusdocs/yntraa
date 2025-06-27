@@ -1,0 +1,298 @@
+{
+  "/blog-1b9": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f4f34a3a"
+      }
+    ],
+    "__props": "c15d9823"
+  },
+  "/blog/archive-182": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "f81c1134"
+  },
+  "/blog/authors-0b7": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "ef8b811a"
+  },
+  "/blog/authors/all-sebastien-lorber-articles-dea": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "f4f34a3a"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "c9c9bef8"
+  },
+  "/blog/authors/yangshun-7c6": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [],
+    "sidebar": "814f3328",
+    "__props": "1dea6ca3"
+  },
+  "/blog/mdx-blog-post-e9f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/blog/tags-287": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "3a2db09e"
+  },
+  "/blog/tags/docusaurus-85c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f4f34a3a"
+      }
+    ],
+    "__props": "3217192f"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/search-822": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "138e0e15"
+    }
+  },
+  "/docs-99a": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docs-2a3": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
+  },
+  "/docs-941": {
+    "__comp": "a94703ab"
+  },
+  "/docs/BillingandWallet/AddingWalletBalance-0fa": {
+    "__comp": "17896441",
+    "content": "ffe7f9c7"
+  },
+  "/docs/BillingandWallet/CreditVoucherBalance-0c2": {
+    "__comp": "17896441",
+    "content": "fe5a427c"
+  },
+  "/docs/category/ai-endpoints-b82": {
+    "__comp": "14eb3368",
+    "__props": "0a97b243"
+  },
+  "/docs/category/ai-lab-d96": {
+    "__comp": "14eb3368",
+    "__props": "a1e377b5"
+  },
+  "/docs/category/ai-workspace-284": {
+    "__comp": "14eb3368",
+    "__props": "cb742529"
+  },
+  "/docs/category/bare-metal-16c": {
+    "__comp": "14eb3368",
+    "__props": "12ffc58f"
+  },
+  "/docs/category/billing-and-wallet-093": {
+    "__comp": "14eb3368",
+    "__props": "ef0e7f45"
+  },
+  "/docs/category/dashboard-9d3": {
+    "__comp": "14eb3368",
+    "__props": "94fad094"
+  },
+  "/docs/category/deploy-e62": {
+    "__comp": "14eb3368",
+    "__props": "e05d6b0b"
+  },
+  "/docs/category/develop-32b": {
+    "__comp": "14eb3368",
+    "__props": "bbb60812"
+  },
+  "/docs/category/kubernetes-cluster-84f": {
+    "__comp": "14eb3368",
+    "__props": "ba8e311d"
+  },
+  "/docs/category/release-notes-ff9": {
+    "__comp": "14eb3368",
+    "__props": "2da440b9"
+  },
+  "/docs/category/serverless-d4f": {
+    "__comp": "14eb3368",
+    "__props": "dbdda312"
+  },
+  "/docs/category/slurm-cluster-456": {
+    "__comp": "14eb3368",
+    "__props": "4fab51e6"
+  },
+  "/docs/category/team-and-support-4eb": {
+    "__comp": "14eb3368",
+    "__props": "38afff7f"
+  },
+  "/docs/category/tickets-3a2": {
+    "__comp": "14eb3368",
+    "__props": "3fc97f98"
+  },
+  "/docs/category/train-cc0": {
+    "__comp": "14eb3368",
+    "__props": "8ede9e3f"
+  },
+  "/docs/category/users-6d4": {
+    "__comp": "14eb3368",
+    "__props": "260c50e5"
+  },
+  "/docs/Dashboard/CreatingNewProject-816": {
+    "__comp": "17896441",
+    "content": "48cc0d06"
+  },
+  "/docs/Dashboard/DefaultProject-134": {
+    "__comp": "17896441",
+    "content": "744183a6"
+  },
+  "/docs/Deploy/AIEndpoints/CreatingNewAIEndpoints-991": {
+    "__comp": "17896441",
+    "content": "ddc8c36e"
+  },
+  "/docs/Deploy/AIEndpoints/ViewingAIEndpoints-152": {
+    "__comp": "17896441",
+    "content": "6b12c7eb"
+  },
+  "/docs/Deploy/Serverless/CreatingServerlessGPU-bfd": {
+    "__comp": "17896441",
+    "content": "c72d6d83"
+  },
+  "/docs/Deploy/Serverless/ViewingServerlessGPU-d6c": {
+    "__comp": "17896441",
+    "content": "2b0fe3e0"
+  },
+  "/docs/Develop/AI Lab/CreatingAILabInstance-e66": {
+    "__comp": "17896441",
+    "content": "2c01970f"
+  },
+  "/docs/Develop/AI Lab/ViewingDetailsofAILabInstances-32d": {
+    "__comp": "17896441",
+    "content": "76dda8f8"
+  },
+  "/docs/Develop/AI Workspace/CreatingNewAIWorkspace-0a7": {
+    "__comp": "17896441",
+    "content": "b8f17668"
+  },
+  "/docs/Develop/AI Workspace/ViewingDetailsofAIWorkspace-ef5": {
+    "__comp": "17896441",
+    "content": "955d52f8"
+  },
+  "/docs/intro-fdd": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/docs/LoggingIn-3e4": {
+    "__comp": "17896441",
+    "content": "9c0b8e9c"
+  },
+  "/docs/ReleaseNotes/Ver1100-a27": {
+    "__comp": "17896441",
+    "content": "77c2c3a3"
+  },
+  "/docs/ReleaseNotes/Ver1110-eab": {
+    "__comp": "17896441",
+    "content": "cf71ffe8"
+  },
+  "/docs/ResettingPassword-afa": {
+    "__comp": "17896441",
+    "content": "6e9df120"
+  },
+  "/docs/SigningUp-a09": {
+    "__comp": "17896441",
+    "content": "79a1df6f"
+  },
+  "/docs/TeamandSupport/Tickets/CreatingNewTicket-f7f": {
+    "__comp": "17896441",
+    "content": "07f908ed"
+  },
+  "/docs/TeamandSupport/Tickets/ViewingTicketStatus-4f0": {
+    "__comp": "17896441",
+    "content": "339615a8"
+  },
+  "/docs/TeamandSupport/Users/CreatingNewUser-769": {
+    "__comp": "17896441",
+    "content": "8e4a3027"
+  },
+  "/docs/Train/BareMetal/CreatingBareMetalServer-6ef": {
+    "__comp": "17896441",
+    "content": "4e540064"
+  },
+  "/docs/Train/BareMetal/ViewingBareMetalServer-779": {
+    "__comp": "17896441",
+    "content": "ade8f552"
+  },
+  "/docs/Train/KubernetesCluster/CreatingKubernetesCluster-700": {
+    "__comp": "17896441",
+    "content": "fd80de11"
+  },
+  "/docs/Train/KubernetesCluster/ViewingKubernetesCluster-6bc": {
+    "__comp": "17896441",
+    "content": "4a69d917"
+  },
+  "/docs/Train/SlurmCluster/CreatingSlurmCluster-27b": {
+    "__comp": "17896441",
+    "content": "dac91508"
+  },
+  "/docs/Train/SlurmCluster/ViewingSlurmCluster-daa": {
+    "__comp": "17896441",
+    "content": "094d8d31"
+  },
+  "/-2e1": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

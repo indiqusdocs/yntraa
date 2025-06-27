@@ -1,0 +1,26 @@
+{
+  "id": "ReleaseNotes/Ver11000",
+  "title": "Version 1.10.0.0",
+  "description": "About this Release",
+  "source": "@site/docs/ReleaseNotes/Ver11000.md",
+  "sourceDirName": "ReleaseNotes",
+  "slug": "/ReleaseNotes/Ver11000",
+  "permalink": "/docs/ReleaseNotes/Ver11000",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 38,
+  "frontMatter": {
+    "sidebar_position": 38
+  },
+  "sidebar": "sidebar2",
+  "previous": {
+    "title": "Version 1.10.1.0",
+    "permalink": "/docs/ReleaseNotes/Ver11010"
+  },
+  "next": {
+    "title": "Version 1.9.0.0",
+    "permalink": "/docs/ReleaseNotes/Ver1900"
+  }
+}

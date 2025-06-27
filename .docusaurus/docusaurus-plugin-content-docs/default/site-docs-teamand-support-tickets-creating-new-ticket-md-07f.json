@@ -1,0 +1,26 @@
+{
+  "id": "TeamandSupport/Tickets/CreatingNewTicket",
+  "title": "Creating New Ticket",
+  "description": "The following are the steps to create new ticket:",
+  "source": "@site/docs/TeamandSupport/Tickets/CreatingNewTicket.md",
+  "sourceDirName": "TeamandSupport/Tickets",
+  "slug": "/TeamandSupport/Tickets/CreatingNewTicket",
+  "permalink": "/docs/TeamandSupport/Tickets/CreatingNewTicket",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Tickets",
+    "permalink": "/docs/category/tickets"
+  },
+  "next": {
+    "title": "Viewing Ticket Status",
+    "permalink": "/docs/TeamandSupport/Tickets/ViewingTicketStatus"
+  }
+}

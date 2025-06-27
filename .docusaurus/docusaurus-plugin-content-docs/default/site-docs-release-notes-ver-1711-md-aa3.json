@@ -1,0 +1,26 @@
+{
+  "id": "ReleaseNotes/Ver1711",
+  "title": "Version 1.7.1.1",
+  "description": "About this Release",
+  "source": "@site/docs/ReleaseNotes/Ver1711.md",
+  "sourceDirName": "ReleaseNotes",
+  "slug": "/ReleaseNotes/Ver1711",
+  "permalink": "/docs/ReleaseNotes/Ver1711",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 42,
+  "frontMatter": {
+    "sidebar_position": 42
+  },
+  "sidebar": "sidebar2",
+  "previous": {
+    "title": "Version 1.7.2.0",
+    "permalink": "/docs/ReleaseNotes/Ver1720"
+  },
+  "next": {
+    "title": "Version 1.7.1.0",
+    "permalink": "/docs/ReleaseNotes/Ver1710"
+  }
+}

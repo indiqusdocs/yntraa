@@ -1,0 +1,26 @@
+{
+  "id": "AccountCentre/TeamandChildUserManagement",
+  "title": "Team and Child User Management",
+  "description": "Team members or child users can be onboarded using the TEAM section from the account centre. Ananta Cloud allows you to add billing, technical, or other admin users who can log in to your account and perform operations.",
+  "source": "@site/docs/AccountCentre/TeamandChildUserManagement.md",
+  "sourceDirName": "AccountCentre",
+  "slug": "/AccountCentre/TeamandChildUserManagement",
+  "permalink": "/docs/AccountCentre/TeamandChildUserManagement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Organisation/Account Profile",
+    "permalink": "/docs/AccountCentre/Organisation-AccountProfile"
+  },
+  "next": {
+    "title": "Subscriptions and Services",
+    "permalink": "/docs/AccountCentre/SubscriptionsandServices"
+  }
+}

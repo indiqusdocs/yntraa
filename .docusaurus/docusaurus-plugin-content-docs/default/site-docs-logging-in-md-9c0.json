@@ -1,0 +1,26 @@
+{
+  "id": "LoggingIn",
+  "title": "Logging In",
+  "description": "Any user with a valid email and password can log into Shakti and will automatically be directed to the control panel.",
+  "source": "@site/docs/LoggingIn.md",
+  "sourceDirName": ".",
+  "slug": "/LoggingIn",
+  "permalink": "/docs/LoggingIn",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Signing Up",
+    "permalink": "/docs/SigningUp"
+  },
+  "next": {
+    "title": "Resetting Password",
+    "permalink": "/docs/ResettingPassword"
+  }
+}

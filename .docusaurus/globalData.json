@@ -1,0 +1,249 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "BillingandWallet/AddingWalletBalance",
+              "path": "/docs/BillingandWallet/AddingWalletBalance",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "BillingandWallet/CreditVoucherBalance",
+              "path": "/docs/BillingandWallet/CreditVoucherBalance",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Dashboard/CreatingNewProject",
+              "path": "/docs/Dashboard/CreatingNewProject",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Dashboard/DefaultProject",
+              "path": "/docs/Dashboard/DefaultProject",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Deploy/AIEndpoints/CreatingNewAIEndpoints",
+              "path": "/docs/Deploy/AIEndpoints/CreatingNewAIEndpoints",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Deploy/AIEndpoints/ViewingAIEndpoints",
+              "path": "/docs/Deploy/AIEndpoints/ViewingAIEndpoints",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Deploy/Serverless/CreatingServerlessGPU",
+              "path": "/docs/Deploy/Serverless/CreatingServerlessGPU",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Deploy/Serverless/ViewingServerlessGPU",
+              "path": "/docs/Deploy/Serverless/ViewingServerlessGPU",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Develop/AI Lab/CreatingAILabInstance",
+              "path": "/docs/Develop/AI Lab/CreatingAILabInstance",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Develop/AI Lab/ViewingDetailsofAILabInstances",
+              "path": "/docs/Develop/AI Lab/ViewingDetailsofAILabInstances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Develop/AI Workspace/CreatingNewAIWorkspace",
+              "path": "/docs/Develop/AI Workspace/CreatingNewAIWorkspace",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Develop/AI Workspace/ViewingDetailsofAIWorkspace",
+              "path": "/docs/Develop/AI Workspace/ViewingDetailsofAIWorkspace",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "LoggingIn",
+              "path": "/docs/LoggingIn",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "ReleaseNotes/Ver1100",
+              "path": "/docs/ReleaseNotes/Ver1100",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "ReleaseNotes/Ver1110",
+              "path": "/docs/ReleaseNotes/Ver1110",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "ResettingPassword",
+              "path": "/docs/ResettingPassword",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "SigningUp",
+              "path": "/docs/SigningUp",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "TeamandSupport/Tickets/CreatingNewTicket",
+              "path": "/docs/TeamandSupport/Tickets/CreatingNewTicket",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "TeamandSupport/Tickets/ViewingTicketStatus",
+              "path": "/docs/TeamandSupport/Tickets/ViewingTicketStatus",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "TeamandSupport/Users/CreatingNewUser",
+              "path": "/docs/TeamandSupport/Users/CreatingNewUser",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Train/BareMetal/CreatingBareMetalServer",
+              "path": "/docs/Train/BareMetal/CreatingBareMetalServer",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Train/BareMetal/ViewingBareMetalServer",
+              "path": "/docs/Train/BareMetal/ViewingBareMetalServer",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Train/KubernetesCluster/CreatingKubernetesCluster",
+              "path": "/docs/Train/KubernetesCluster/CreatingKubernetesCluster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Train/KubernetesCluster/ViewingKubernetesCluster",
+              "path": "/docs/Train/KubernetesCluster/ViewingKubernetesCluster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Train/SlurmCluster/CreatingSlurmCluster",
+              "path": "/docs/Train/SlurmCluster/CreatingSlurmCluster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Train/SlurmCluster/ViewingSlurmCluster",
+              "path": "/docs/Train/SlurmCluster/ViewingSlurmCluster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/dashboard",
+              "path": "/docs/category/dashboard",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/billing-and-wallet",
+              "path": "/docs/category/billing-and-wallet",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/develop",
+              "path": "/docs/category/develop",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/ai-lab",
+              "path": "/docs/category/ai-lab",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/ai-workspace",
+              "path": "/docs/category/ai-workspace",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/train",
+              "path": "/docs/category/train",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/bare-metal",
+              "path": "/docs/category/bare-metal",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/kubernetes-cluster",
+              "path": "/docs/category/kubernetes-cluster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/slurm-cluster",
+              "path": "/docs/category/slurm-cluster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/deploy",
+              "path": "/docs/category/deploy",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/ai-endpoints",
+              "path": "/docs/category/ai-endpoints",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/serverless",
+              "path": "/docs/category/serverless",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/team-and-support",
+              "path": "/docs/category/team-and-support",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/tickets",
+              "path": "/docs/category/tickets",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/users",
+              "path": "/docs/category/users",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/release-notes",
+              "path": "/docs/category/release-notes",
+              "sidebar": "sidebar1"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "sidebar1": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            },
+            "sidebar2": {
+              "link": {
+                "path": "/docs/ReleaseNotes/Ver1110",
+                "label": "ReleaseNotes/Ver1110"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

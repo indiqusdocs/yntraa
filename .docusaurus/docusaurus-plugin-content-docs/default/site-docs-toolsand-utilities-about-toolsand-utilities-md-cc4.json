@@ -1,0 +1,26 @@
+{
+  "id": "ToolsandUtilities/AboutToolsandUtilities",
+  "title": "About Tools and Utilities",
+  "description": "The Tools and Utilities sections on Ananta Cloud Console keep a record of cloud management utilities and assets that might be needed to use specific sections of the Ananta-powered cloud.",
+  "source": "@site/docs/ToolsandUtilities/AboutToolsandUtilities.md",
+  "sourceDirName": "ToolsandUtilities",
+  "slug": "/ToolsandUtilities/AboutToolsandUtilities",
+  "permalink": "/docs/ToolsandUtilities/AboutToolsandUtilities",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Tools and Utilities",
+    "permalink": "/docs/category/tools-and-utilities"
+  },
+  "next": {
+    "title": "Managing SSH Keys and Key Pairs for Linux Instances",
+    "permalink": "/docs/ToolsandUtilities/ManagingSSHKeysandKeyPairs"
+  }
+}

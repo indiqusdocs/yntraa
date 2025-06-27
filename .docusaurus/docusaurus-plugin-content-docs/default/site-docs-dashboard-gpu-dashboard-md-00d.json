@@ -1,0 +1,26 @@
+{
+  "id": "Dashboard/GPU Dashboard",
+  "title": "GPU Dashboard",
+  "description": "",
+  "source": "@site/docs/Dashboard/GPU Dashboard.md",
+  "sourceDirName": "Dashboard",
+  "slug": "/Dashboard/GPU Dashboard",
+  "permalink": "/docs/Dashboard/GPU Dashboard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Dashboard Overview",
+    "permalink": "/docs/Dashboard/Dashboard Overview"
+  },
+  "next": {
+    "title": "Billing and Wallet",
+    "permalink": "/docs/category/billing-and-wallet"
+  }
+}

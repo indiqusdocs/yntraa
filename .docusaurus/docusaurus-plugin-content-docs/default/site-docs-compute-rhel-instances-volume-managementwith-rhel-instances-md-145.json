@@ -1,0 +1,26 @@
+{
+  "id": "Compute/RHELInstances/VolumeManagementwithRHELInstances",
+  "title": "Volume Management with RHEL Instances",
+  "description": "To view the disk attached to particular instance, navigate to RHEL Instances and access the Volumes tab.",
+  "source": "@site/docs/Compute/RHELInstances/VolumeManagementwithRHELInstances.md",
+  "sourceDirName": "Compute/RHELInstances",
+  "slug": "/Compute/RHELInstances/VolumeManagementwithRHELInstances",
+  "permalink": "/docs/Compute/RHELInstances/VolumeManagementwithRHELInstances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Configuring Alerts on RHEL Instances",
+    "permalink": "/docs/Compute/RHELInstances/ConfiguringAlertsonRHELInstances"
+  },
+  "next": {
+    "title": "Networking Management with RHEL Instances",
+    "permalink": "/docs/Compute/RHELInstances/NetworkingManagementwithRHELInstances"
+  }
+}

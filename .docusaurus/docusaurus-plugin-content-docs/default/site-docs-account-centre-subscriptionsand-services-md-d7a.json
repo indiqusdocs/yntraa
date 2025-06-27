@@ -1,0 +1,26 @@
+{
+  "id": "AccountCentre/SubscriptionsandServices",
+  "title": "Subscriptions and Services",
+  "description": "A subscription is a record that gets created whenever a new resource is purchased or a service is activated. In other words, a subscription is a financial ‘agreement’ that links the item that has been purchased, its value, and its renewal frequency.",
+  "source": "@site/docs/AccountCentre/SubscriptionsandServices.md",
+  "sourceDirName": "AccountCentre",
+  "slug": "/AccountCentre/SubscriptionsandServices",
+  "permalink": "/docs/AccountCentre/SubscriptionsandServices",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Team and Child User Management",
+    "permalink": "/docs/AccountCentre/TeamandChildUserManagement"
+  },
+  "next": {
+    "title": "Unbilled Charges",
+    "permalink": "/docs/AccountCentre/UnbilledCharges"
+  }
+}

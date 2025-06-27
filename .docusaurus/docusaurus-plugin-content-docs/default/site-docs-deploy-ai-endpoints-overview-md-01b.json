@@ -1,0 +1,26 @@
+{
+  "id": "Deploy/AIEndpoints/Overview",
+  "title": "Overview",
+  "description": "",
+  "source": "@site/docs/Deploy/AIEndpoints/Overview.md",
+  "sourceDirName": "Deploy/AIEndpoints",
+  "slug": "/Deploy/AIEndpoints/Overview",
+  "permalink": "/docs/Deploy/AIEndpoints/Overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "AI Endpoints",
+    "permalink": "/docs/category/ai-endpoints"
+  },
+  "next": {
+    "title": "Creating New AI Endpoints",
+    "permalink": "/docs/Deploy/AIEndpoints/CreatingNewAIEndpoints"
+  }
+}

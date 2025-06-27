@@ -1,0 +1,26 @@
+{
+  "id": "ReleaseNotes/Ver2110",
+  "title": "Version 2.1.1.0",
+  "description": "About this Release",
+  "source": "@site/docs/ReleaseNotes/Ver2110.md",
+  "sourceDirName": "ReleaseNotes",
+  "slug": "/ReleaseNotes/Ver2110",
+  "permalink": "/docs/ReleaseNotes/Ver2110",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "sidebar2",
+  "previous": {
+    "title": "Version 2.1.1.1",
+    "permalink": "/docs/ReleaseNotes/Ver2111"
+  },
+  "next": {
+    "title": "Version 2.1.0.0",
+    "permalink": "/docs/ReleaseNotes/Ver2100"
+  }
+}

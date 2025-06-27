@@ -1,0 +1,26 @@
+{
+  "id": "Networking/FirewallandSecurity/AccessingtheVFControlPanel",
+  "title": "Accessing the Virtual Firewall Control Panel",
+  "description": "The Virtual Firewall Service is delivered as an integration using OS images pre-loaded with pfSense or FortiGate VM.",
+  "source": "@site/docs/Networking/FirewallandSecurity/AccessingtheVFControlPanel.md",
+  "sourceDirName": "Networking/FirewallandSecurity",
+  "slug": "/Networking/FirewallandSecurity/AccessingtheVFControlPanel",
+  "permalink": "/docs/Networking/FirewallandSecurity/AccessingtheVFControlPanel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Adding Instances to a Virtual-Firewall-Based Network",
+    "permalink": "/docs/Networking/FirewallandSecurity/AddingInstancestoaVFI-basedNetwork"
+  },
+  "next": {
+    "title": "Application Load Balancer",
+    "permalink": "/docs/Networking/FirewallandSecurity/ApplicationLoadBalancer"
+  }
+}

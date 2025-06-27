@@ -1,0 +1,26 @@
+{
+  "id": "Deploy/AIEndpoints/CreatingNewAIEndpoints",
+  "title": "Creating New AI Endpoints",
+  "description": "The following are the steps to create AI Endpoints:",
+  "source": "@site/docs/Deploy/AIEndpoints/CreatingNewAIEndpoints.md",
+  "sourceDirName": "Deploy/AIEndpoints",
+  "slug": "/Deploy/AIEndpoints/CreatingNewAIEndpoints",
+  "permalink": "/docs/Deploy/AIEndpoints/CreatingNewAIEndpoints",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "AI Endpoints",
+    "permalink": "/docs/category/ai-endpoints"
+  },
+  "next": {
+    "title": "Viewing AI Endpoints",
+    "permalink": "/docs/Deploy/AIEndpoints/ViewingAIEndpoints"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Networking/VirtualPrivateClouds/ManagingVPCInstances",
+  "title": "Managing VPC Instances",
+  "description": "Viewing VPC Instances",
+  "source": "@site/docs/Networking/VirtualPrivateClouds/ManagingVPCInstances.md",
+  "sourceDirName": "Networking/VirtualPrivateClouds",
+  "slug": "/Networking/VirtualPrivateClouds/ManagingVPCInstances",
+  "permalink": "/docs/Networking/VirtualPrivateClouds/ManagingVPCInstances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Managing Access Control on VPC Subnets",
+    "permalink": "/docs/Networking/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets"
+  },
+  "next": {
+    "title": "IPv4 Addresses and VPC",
+    "permalink": "/docs/Networking/VirtualPrivateClouds/IPv4AddressesandVPC"
+  }
+}

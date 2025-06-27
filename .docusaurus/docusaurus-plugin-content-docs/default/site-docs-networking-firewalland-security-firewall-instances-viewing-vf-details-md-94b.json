@@ -1,0 +1,26 @@
+{
+  "id": "Networking/FirewallandSecurity/FirewallInstances/ViewingVFDetails",
+  "title": "Viewing Virtual Firewall Details",
+  "description": "As the virtual firewalls are created, Cloud Console users can view the enabled Virtual Firewalls in the Networking > Virtual Firewalls section. The following details are shown:",
+  "source": "@site/docs/Networking/FirewallandSecurity/FirewallInstances/ViewingVFDetails.md",
+  "sourceDirName": "Networking/FirewallandSecurity/FirewallInstances",
+  "slug": "/Networking/FirewallandSecurity/FirewallInstances/ViewingVFDetails",
+  "permalink": "/docs/Networking/FirewallandSecurity/FirewallInstances/ViewingVFDetails",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1.5,
+  "frontMatter": {
+    "sidebar_position": 1.5
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "About Firewall Instances",
+    "permalink": "/docs/Networking/FirewallandSecurity/FirewallInstances/AboutFirewallInstances"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/Networking/FirewallandSecurity/FirewallInstances/Overview"
+  }
+}

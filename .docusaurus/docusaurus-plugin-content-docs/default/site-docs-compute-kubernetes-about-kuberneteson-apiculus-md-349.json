@@ -1,0 +1,26 @@
+{
+  "id": "Compute/Kubernetes/AboutKubernetesonApiculus",
+  "title": "About Kubernetes on Ananta",
+  "description": "Ananta offers Cloud Console users the ability to deploy highly-available Kubernetes clusters for their cloud-native development, deployment and DevOps use cases. The Ananta Kubernetes Service (AK8s) extends basic and advanced cluster management functionalities via the Cloud Console UI and the kubectl utility.",
+  "source": "@site/docs/Compute/Kubernetes/AboutKubernetesonApiculus.md",
+  "sourceDirName": "Compute/Kubernetes",
+  "slug": "/Compute/Kubernetes/AboutKubernetesonApiculus",
+  "permalink": "/docs/Compute/Kubernetes/AboutKubernetesonApiculus",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Kubernetes",
+    "permalink": "/docs/category/kubernetes"
+  },
+  "next": {
+    "title": "Creating a Kubernetes Cluster",
+    "permalink": "/docs/Compute/Kubernetes/CreatingaKubernetesCluster"
+  }
+}

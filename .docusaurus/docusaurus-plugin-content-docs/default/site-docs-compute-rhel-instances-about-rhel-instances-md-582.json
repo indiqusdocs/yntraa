@@ -1,0 +1,26 @@
+{
+  "id": "Compute/RHELInstances/AboutRHELInstances",
+  "title": "About RHEL Instances",
+  "description": "Instances are computing units that provide you with resources to run your applications/workloads. Red Hat Enterprise Linux (RHEL) Instances are virtual machines that run the images of RHEL Operating System.",
+  "source": "@site/docs/Compute/RHELInstances/AboutRHELInstances.md",
+  "sourceDirName": "Compute/RHELInstances",
+  "slug": "/Compute/RHELInstances/AboutRHELInstances",
+  "permalink": "/docs/Compute/RHELInstances/AboutRHELInstances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "RHEL Instances",
+    "permalink": "/docs/category/rhel-instances"
+  },
+  "next": {
+    "title": "Creating RHEL Instances",
+    "permalink": "/docs/Compute/RHELInstances/CreatingRHELInstances"
+  }
+}

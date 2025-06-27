@@ -1,0 +1,26 @@
+{
+  "id": "Networking/FirewallandSecurity/AboutFirewallInstances",
+  "title": "About Firewall Instances",
+  "description": "Ananta supports the delivery and management of Virtual Firewall Instances (VFI) in an as-a-service model. VFI is essentially a Linux Instance pre-loaded with a firewall software which makes it work as a a virtual appliance. The Service falls under the Virtual Firewall and is built using our integration framework using pfSense or FortiGate VM for powering the appliance.",
+  "source": "@site/docs/Networking/FirewallandSecurity/AboutFirewallInstances.md",
+  "sourceDirName": "Networking/FirewallandSecurity",
+  "slug": "/Networking/FirewallandSecurity/AboutFirewallInstances",
+  "permalink": "/docs/Networking/FirewallandSecurity/AboutFirewallInstances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Virtual Firewalls",
+    "permalink": "/docs/category/virtual-firewalls"
+  },
+  "next": {
+    "title": "Creating a Virtual Firewall",
+    "permalink": "/docs/Networking/FirewallandSecurity/CreatingaVirtualFirewall"
+  }
+}

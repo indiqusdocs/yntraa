@@ -1,0 +1,26 @@
+{
+  "id": "ReleaseNotes/Ver11300",
+  "title": "Version 1.13.0.0",
+  "description": "About this Release",
+  "source": "@site/docs/ReleaseNotes/Ver11300.md",
+  "sourceDirName": "ReleaseNotes",
+  "slug": "/ReleaseNotes/Ver11300",
+  "permalink": "/docs/ReleaseNotes/Ver11300",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 32,
+  "frontMatter": {
+    "sidebar_position": 32
+  },
+  "sidebar": "sidebar2",
+  "previous": {
+    "title": "Version 1.14.0.0",
+    "permalink": "/docs/ReleaseNotes/Ver11400"
+  },
+  "next": {
+    "title": "Version 1.12.1.0",
+    "permalink": "/docs/ReleaseNotes/Ver11210"
+  }
+}
