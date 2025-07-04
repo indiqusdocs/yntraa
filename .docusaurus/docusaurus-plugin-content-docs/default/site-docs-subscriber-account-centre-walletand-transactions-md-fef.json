@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/AccountCentre/WalletandTransactions",
+  "title": "Wallet and Transactions",
+  "description": "For all practical purposes, the service balance acts as your wallet balance or purchase capacity at any given point of time. The service balance is an aggregation of your credit limit, total payments made, and the total charges incurred on your account. Your service balance is always displayed on the top bar and gets updated in real-time when a transaction or a charge is recorded.",
+  "source": "@site/docs/Subscriber/AccountCentre/WalletandTransactions.md",
+  "sourceDirName": "Subscriber/AccountCentre",
+  "slug": "/Subscriber/AccountCentre/WalletandTransactions",
+  "permalink": "/docs/Subscriber/AccountCentre/WalletandTransactions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Invoices and Credit Notes",
+    "permalink": "/docs/Subscriber/AccountCentre/InvoicesandCreditNotes"
+  },
+  "next": {
+    "title": "Payments",
+    "permalink": "/docs/Subscriber/AccountCentre/Payments"
+  }
+}

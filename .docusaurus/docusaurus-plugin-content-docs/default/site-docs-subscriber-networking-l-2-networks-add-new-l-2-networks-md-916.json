@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Networking/L2 Networks/AddNewL2Networks",
+  "title": "Adding New L2 Network",
+  "description": "To add a new L2 network, click the New Network button. The following screen appears:",
+  "source": "@site/docs/Subscriber/Networking/L2 Networks/AddNewL2Networks.md",
+  "sourceDirName": "Subscriber/Networking/L2 Networks",
+  "slug": "/Subscriber/Networking/L2 Networks/AddNewL2Networks",
+  "permalink": "/docs/Subscriber/Networking/L2 Networks/AddNewL2Networks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "About L2 Networks",
+    "permalink": "/docs/Subscriber/Networking/L2 Networks/AboutL2Networks"
+  },
+  "next": {
+    "title": "DNS Management",
+    "permalink": "/docs/category/dns-management"
+  }
+}

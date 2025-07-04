@@ -16,7 +16,7 @@
   },
   "sidebar": "sidebar1",
   "next": {
-    "title": "Signing Up",
-    "permalink": "/docs/SigningUp"
+    "title": "Wallet and Transactions",
+    "permalink": "/docs/category/wallet-and-transactions"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
+  "title": "Viewing Graphs and Utilization of Linux Instances",
+  "description": "Graphs (Real-time)",
+  "source": "@site/docs/Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
+  "sourceDirName": "Subscriber/Compute/LinuxInstances",
+  "slug": "/Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
+  "permalink": "/docs/Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/Subscriber/Compute/LinuxInstances/Overview"
+  },
+  "next": {
+    "title": "Configuring Alerts",
+    "permalink": "/docs/Subscriber/Compute/LinuxInstances/ConfiguringAlerts"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
+  "title": "Establishing Site-to-Site VPN Between Two VPCs",
+  "description": "A Site-to-Site Virtual Private Network (VPN) provides a secure and encrypted connection between two Virtual Private Clouds (VPC), enabling seamless communication across geographically separated networks. This setup is commonly used to connect different environments (such as production and development) or extend on-premises infrastructure to the cloud.",
+  "source": "@site/docs/Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
+  "sourceDirName": "Subscriber/Networking/IPv4-basedNetworking",
+  "slug": "/Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
+  "permalink": "/docs/Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Using Remote Access VPN with VPC",
+    "permalink": "/docs/Subscriber/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC"
+  },
+  "next": {
+    "title": "Virtual Firewalls",
+    "permalink": "/docs/category/virtual-firewalls"
+  }
+}

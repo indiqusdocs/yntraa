@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Compute/Autoscale/CreatingAutoscaleGroups",
+  "title": "Creating Autoscale Groups",
+  "description": "To create Autoscale Groups, follow these steps:",
+  "source": "@site/docs/Subscriber/Compute/Autoscale/CreatingAutoscaleGroups.md",
+  "sourceDirName": "Subscriber/Compute/Autoscale",
+  "slug": "/Subscriber/Compute/Autoscale/CreatingAutoscaleGroups",
+  "permalink": "/docs/Subscriber/Compute/Autoscale/CreatingAutoscaleGroups",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Requirements for Autoscale",
+    "permalink": "/docs/Subscriber/Compute/Autoscale/RequirementsforAutoscale"
+  },
+  "next": {
+    "title": "Using Static Password In Autoscale Group’s VMs",
+    "permalink": "/docs/Subscriber/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs"
+  }
+}

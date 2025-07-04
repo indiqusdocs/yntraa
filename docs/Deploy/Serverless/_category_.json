@@ -1,9 +1,0 @@
-{
-  "label": "Serverless",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "This section covers how to create a serverless GPU, allowing users to run GPU-powered workloads without managing servers or infrastructure."
-  }
-}
-

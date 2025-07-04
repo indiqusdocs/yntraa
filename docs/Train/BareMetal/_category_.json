@@ -1,9 +1,0 @@
-{
-  "label": "Bare Metal",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "This service offers a dedicated physical server with no virtualization layer, providing users control over hardware resources. This section guides you through provisioning your Bare Metal server on Yotta to ensure an efficient infrastructure experience."
-  }
-}
-

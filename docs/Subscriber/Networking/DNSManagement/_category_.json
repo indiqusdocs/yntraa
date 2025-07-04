@@ -1,0 +1,8 @@
+{
+  "label": "DNS Management",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Yntraa servers can be used as authoritative name server(s) for managing DNS records."
+  }
+}

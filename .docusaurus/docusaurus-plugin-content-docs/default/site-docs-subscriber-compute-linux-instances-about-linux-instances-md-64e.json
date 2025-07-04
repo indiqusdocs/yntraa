@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Compute/LinuxInstances/AboutLinuxInstances",
+  "title": "About Linux Instances",
+  "description": "Yntraa cloud console offers a highly usable and visual way of working with and operating Linux Instances using the Cloud Console. You can access all the Linux Instances available in your account in the following way:",
+  "source": "@site/docs/Subscriber/Compute/LinuxInstances/AboutLinuxInstances.md",
+  "sourceDirName": "Subscriber/Compute/LinuxInstances",
+  "slug": "/Subscriber/Compute/LinuxInstances/AboutLinuxInstances",
+  "permalink": "/docs/Subscriber/Compute/LinuxInstances/AboutLinuxInstances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Linux Instances",
+    "permalink": "/docs/category/linux-instances"
+  },
+  "next": {
+    "title": "Creating Linux Instances",
+    "permalink": "/docs/Subscriber/Compute/LinuxInstances/CreatingLinuxInstances"
+  }
+}

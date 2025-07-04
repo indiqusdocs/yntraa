@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots",
+  "title": "Working with Windows Instance Snapshots",
+  "description": "To view all the snapshots taken for the Instance, navigate to Windows Instances Screen, select a Windows Instance, and access the Snapshots tab.",
+  "source": "@site/docs/Subscriber/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
+  "sourceDirName": "Subscriber/Compute/WindowsInstances",
+  "slug": "/Subscriber/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots",
+  "permalink": "/docs/Subscriber/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Networking Management on Windows Instances",
+    "permalink": "/docs/Subscriber/Compute/WindowsInstances/NetworkingManagementonWindowsInstances"
+  },
+  "next": {
+    "title": "Protection",
+    "permalink": "/docs/Subscriber/Compute/WindowsInstances/Protection"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Compute/Autoscale/RequirementsforAutoscale",
+  "title": "Requirements for Autoscale",
+  "description": "- Yntraa now uses the native Autoscale feature of ACS. This feature is available with ACS version 4.18.0.0 onwards.",
+  "source": "@site/docs/Subscriber/Compute/Autoscale/RequirementsforAutoscale.md",
+  "sourceDirName": "Subscriber/Compute/Autoscale",
+  "slug": "/Subscriber/Compute/Autoscale/RequirementsforAutoscale",
+  "permalink": "/docs/Subscriber/Compute/Autoscale/RequirementsforAutoscale",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "About Autoscale",
+    "permalink": "/docs/Subscriber/Compute/Autoscale/AboutAutoscale"
+  },
+  "next": {
+    "title": "Creating Autoscale Groups",
+    "permalink": "/docs/Subscriber/Compute/Autoscale/CreatingAutoscaleGroups"
+  }
+}

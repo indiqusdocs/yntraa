@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/AccountCentre/SupportandTickets",
+  "title": "Support and Tickets",
+  "description": "Yntraa cloud console provides SLA-driven support to all subscriber customers in accordance with the terms and conditions outlined in the Service Level Agreement. To access the SLA, navigate to the User icon in the top helper bar and select Account under Account Centre.",
+  "source": "@site/docs/Subscriber/AccountCentre/SupportandTickets.md",
+  "sourceDirName": "Subscriber/AccountCentre",
+  "slug": "/Subscriber/AccountCentre/SupportandTickets",
+  "permalink": "/docs/Subscriber/AccountCentre/SupportandTickets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Payments",
+    "permalink": "/docs/Subscriber/AccountCentre/Payments"
+  },
+  "next": {
+    "title": "Standard Agreements",
+    "permalink": "/docs/Subscriber/AccountCentre/StandardAgreements"
+  }
+}

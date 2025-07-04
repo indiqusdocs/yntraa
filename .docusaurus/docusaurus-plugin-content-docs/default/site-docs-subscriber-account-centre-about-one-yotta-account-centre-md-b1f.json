@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/AccountCentre/AboutOneYottaAccountCentre",
+  "title": "About One Yotta Account Centre",
+  "description": "The Account Centre on the Yntraa cloud console is a non-technical (commercial and support) dashboard used for viewing and managing all non-technical aspects of your Yntraa cloud account. You can access the Account Centre by clicking on any item in the user menu at the top-right, the help/support icon in the header, or the wallet icon in the header.",
+  "source": "@site/docs/Subscriber/AccountCentre/AboutOneYottaAccountCentre.md",
+  "sourceDirName": "Subscriber/AccountCentre",
+  "slug": "/Subscriber/AccountCentre/AboutOneYottaAccountCentre",
+  "permalink": "/docs/Subscriber/AccountCentre/AboutOneYottaAccountCentre",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Account Centre",
+    "permalink": "/docs/category/account-centre"
+  },
+  "next": {
+    "title": "Organisation/Account Profile",
+    "permalink": "/docs/Subscriber/AccountCentre/Organisation-AccountProfile"
+  }
+}

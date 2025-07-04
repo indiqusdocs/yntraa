@@ -1,9 +1,0 @@
-{
-  "label": "Users",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "This section guides you through creating a new user in your Shakti Cloud account, allowing you to input their basic contact information and define their user type."
-  }
-}
-
