@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "3fae0fae84c55640",
+    "id": "2574a029e0815b85",
     "type": "split",
     "children": [
       {
-        "id": "99856c0f7ac01684",
+        "id": "1d6311de41e541eb",
         "type": "tabs",
         "children": [
           {
-            "id": "1c3e81af1dd92315",
+            "id": "6611cde81b30435f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ReleaseNotes/Ver1110.md",
+                "file": "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ver1110"
+              "title": "WorkingwithWindowsInstanceSnapshots"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c50d1df83d3da7bb",
+    "id": "c3b5e3f506089a2a",
     "type": "split",
     "children": [
       {
-        "id": "f1456a3f882dfeac",
+        "id": "589eb5c4f80f7e29",
         "type": "tabs",
         "children": [
           {
-            "id": "d45fa90ffa8b9bc5",
+            "id": "ef7415b37c790712",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,13 +48,13 @@
             }
           },
           {
-            "id": "90a1a21739696d93",
+            "id": "b00788db09f77547",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "release  notes",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "1acbde6de83c38d3",
+            "id": "083a36e270c4e0da",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 417.5
   },
   "right": {
-    "id": "f27b6e8a49e79237",
+    "id": "d1303f5c52f5e51b",
     "type": "split",
     "children": [
       {
-        "id": "f44d83185cbea879",
+        "id": "037bb199944f925e",
         "type": "tabs",
         "children": [
           {
-            "id": "d65b381d9af76b08",
+            "id": "4f32f4b6d25447c3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Develop/AI Lab/CreatingAILabInstance.md",
+                "file": "docs/Administration/ManagingQuickPlans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CreatingAILabInstance"
+              "title": "Backlinks for ManagingQuickPlans"
             }
           },
           {
-            "id": "fef134f2eb3d6edc",
+            "id": "e6943db203bc7115",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/AboutEstimates.md",
+                "file": "docs/Administration/ManagingQuickPlans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AboutEstimates"
+              "title": "Outgoing links from ManagingQuickPlans"
             }
           },
           {
-            "id": "b1dd5a0c30d8549e",
+            "id": "f2bf414bbe43ee9d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,18 +135,19 @@
             }
           },
           {
-            "id": "6f2858a1316fb2d0",
+            "id": "1eb93ed6b31295d5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/AboutEstimates.md"
+                "file": "docs/Administration/ManagingQuickPlans.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AboutEstimates"
+              "title": "Outline of ManagingQuickPlans"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,53 +164,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c3e81af1dd92315",
+  "active": "6611cde81b30435f",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
+    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/Protection.md",
+    "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
+    "docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/WorkingwithSnapshots.md",
+    "docs/Subscribers/Compute/RHELInstances/VolumeManagement.md",
+    "docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization.md",
+    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
+    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/Overview.md",
+    "docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md",
+    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
+    "docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
+    "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
+    "docs/StackComponents.png",
+    "docs/StackComponents.svg",
+    "build/blog/rss.xml",
+    "build/blog/atom.xml",
+    "build/blog/atom.css",
+    "build/blog/rss.css",
+    "build/blog/rss.xsl",
+    "build/blog/atom.xsl",
+    "build/search-index.json",
     "build/sitemap.xml",
-    "build/404.html",
-    "build/assets/js/main.14939e70.js.LICENSE.txt",
-    "build/assets/js/runtime~main.f85f28b2.js",
-    "build/assets/js/main.14939e70.js",
-    "build/assets/js/bbb60812.6b152b40.js",
-    "build/assets/js/ffe7f9c7.f2a2e566.js",
-    "build/assets/js/fd80de11.fe85a14a.js",
-    "build/assets/js/fe5a427c.13a4c5ff.js",
-    "build/assets/js/f81c1134.4ab1a3f2.js",
-    "build/assets/js/f4f34a3a.b819e35e.js",
-    "build/assets/images/OneYotta2-ef8ea550a11425dc167624fb14cb93e9.png",
-    "build/assets/images/ViewingAILab1-dbab742155e5a26de5700a2faa9a17f6.png",
-    "build/assets/images/WalletandVouchers1-2fdc4cf2dfc89acbd4703c43a6733ec6.png",
-    "build/assets/images/WalletandVouchers-e8463fbdb4dc229a0efe68c2d66189ac.png",
-    "build/assets/images/Users-3380f624cb930cffe9f91836905e8b85.png",
-    "build/assets/images/TicketModule-fba502e47cfdc41bd2402c53ec8b3fbf.png",
-    "build/assets/images/Serverless3-f71e0e5fa68e7f7f481b1a69fba9b650.png",
-    "build/assets/images/SlurmCluster3-2f22124f2c20586077c7e3ef8d9118ec.png",
-    "build/assets/images/SlurmCluster4-f73b505c32df77594117f73491c960fd.png",
-    "build/assets/images/SlurmCluster1-0c87e14bd536b72ba2b88d05f7863cac.png",
-    "docs/ReleaseNotes/Ver1100.md",
-    "docs/ReleaseNotes/Ver1110.md",
-    "docs/Deploy/Serverless/ViewingServerlessGPU.md",
-    "docs/Deploy/Serverless/CreatingServerlessGPU.md",
-    "docs/Deploy/AIEndpoints/CreatingNewAIEndpoints.md",
-    "docs/Deploy/AIEndpoints/ViewingAIEndpoints.md",
-    "docs/Train/SlurmCluster/ViewingSlurmCluster.md",
-    "docs/Train/KubernetesCluster/ViewingKubernetesCluster.md",
-    "docs/Train/KubernetesCluster/CreatingKubernetesCluster.md",
-    "docs/Train/BareMetal/ViewingBareMetalServer.md",
-    "docs/Train/BareMetal/CreatingBareMetalServer.md",
-    "docs/Develop/AI Workspace/ViewingDetailsofAIWorkspace.md",
-    "docs/Develop/AI Workspace/CreatingNewAIWorkspace.md",
-    "docs/Develop/AI Lab/ViewingDetailsofAILabInstances.md",
-    "docs/Develop/AI Lab/CreatingAILabInstance.md",
-    "docs/SigningUp.md",
-    "docs/TeamandSupport/Users/ManagingUsers.md",
-    "docs/Train/SlurmCluster/CreatingSlurmCluster.md",
-    "docs/Train/GPU as a Service.md",
-    "docs/FAQs.md",
-    "docs/TeamandSupport/Tickets/FAQs.md",
-    "docs/Deploy/Serverless/ManagingSeverlessGPU.md",
-    "docs/Deploy/Serverless/Overview.md",
-    "docs/Deploy/AIEndpoints/Overview.md",
-    "docs/Deploy/AIEndpoints/ManagingAIEndpoints.md"
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/img/sps.svg",
+    "build/img/sbs.svg",
+    "build/img/sps.png",
+    "build/img/sbs.png",
+    "build/img/rn.svg",
+    "build/img/rn.png",
+    "build/img/logo.svg",
+    "build/img/logo.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

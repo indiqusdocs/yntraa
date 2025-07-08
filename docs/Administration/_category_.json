@@ -1,0 +1,8 @@
+{
+  "label": "Administration",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "The Administration section helps you manage your cloud platform. It helps you manage accounts, services, billing, support, and more."
+  }
+}

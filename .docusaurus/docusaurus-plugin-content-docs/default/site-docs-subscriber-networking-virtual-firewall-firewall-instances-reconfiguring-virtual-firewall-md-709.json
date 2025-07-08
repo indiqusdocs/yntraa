@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
+  "title": "Reconfiguring Virtual Firewall",
+  "description": "To view available reconfiguration options, navigate to the Networking section and select a Virtual Firewall and access the Reconfigure tab.",
+  "source": "@site/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall.md",
+  "sourceDirName": "Subscriber/Networking/VirtualFirewall/FirewallInstances",
+  "slug": "/Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
+  "permalink": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Snapshots",
+    "permalink": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Snapshots"
+  },
+  "next": {
+    "title": "Operations",
+    "permalink": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Operations"
+  }
+}

@@ -1,10 +1,12 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 # Resetting Password
 
-To reset a password, follow these steps:
+Forgotten passwords can be reset by clicking on **I have forgotten my password** on [Access Central](/docs/Introduction/AccessCentral). If the email entered is valid and exists on the system, instructions to set a new password will be sent by email.
 
-1. You can reset a forgotten password by clicking the **Forgot Password?** Link.
-2. The following window appears, enter your registered email here.
-3. If the entered email is valid and exists in the system, the system sends instructions over email to set a new password.
+Passwords must adhere to the [password policies](/docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies) defined in the platform configurations.
+
+
+
+

@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Compute/LinuxInstances/NetworkingManagement",
+  "title": "Networking Management",
+  "description": "To view the networks of particular Instance, navigate to Operating Linux Instances, select a Linux Instance and access the Networking tab.",
+  "source": "@site/docs/Subscriber/Compute/LinuxInstances/NetworkingManagement.md",
+  "sourceDirName": "Subscriber/Compute/LinuxInstances",
+  "slug": "/Subscriber/Compute/LinuxInstances/NetworkingManagement",
+  "permalink": "/docs/Subscriber/Compute/LinuxInstances/NetworkingManagement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Volume Management",
+    "permalink": "/docs/Subscriber/Compute/LinuxInstances/VolumeManagement"
+  },
+  "next": {
+    "title": "Working with Linux Instance Snapshots",
+    "permalink": "/docs/Subscriber/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots"
+  }
+}

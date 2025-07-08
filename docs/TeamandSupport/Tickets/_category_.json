@@ -1,9 +1,0 @@
-{
-  "label": "Tickets",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "This section explains how to create a ticket and track its status in Shakti Cloud."
-  }
-}
-

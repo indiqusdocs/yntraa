@@ -1,7 +1,7 @@
 {
   "id": "FAQs",
-  "title": "FAQs",
-  "description": "",
+  "title": "Frequently Asked Questions (FAQs)",
+  "description": "How are data durability and redundancy achieved with block volumes?Data redundancy is achieved at the storage level by design as the storage layer replicates Block Volume data across multiple storage devices and Availability Zones.",
   "source": "@site/docs/FAQs.md",
   "sourceDirName": ".",
   "slug": "/FAQs",
@@ -10,14 +10,14 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 13,
+  "sidebarPosition": 10,
   "frontMatter": {
-    "sidebar_position": 13
+    "sidebar_position": 10
   },
   "sidebar": "sidebar1",
   "previous": {
-    "title": "Managing Users",
-    "permalink": "/docs/TeamandSupport/Users/ManagingUsers"
+    "title": "Adding Quick Plans to a Catalogue",
+    "permalink": "/docs/Administration/ManagingQuickPlans/AddingQuickPlanstoaCatalogue"
   },
   "next": {
     "title": "Release Notes",

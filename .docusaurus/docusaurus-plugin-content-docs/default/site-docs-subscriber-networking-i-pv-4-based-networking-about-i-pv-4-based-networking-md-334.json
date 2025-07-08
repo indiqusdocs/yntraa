@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
+  "title": "About IPv4-based Networking",
+  "description": "IPv4 Addresses form the backbone of networking operations on Apiculus. Internally, IPv4 Addresses are treated as a monetisable Service on Apiculus. However, the use of IPv4 Addresses is implicit as part of other essential Services.",
+  "source": "@site/docs/Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking.md",
+  "sourceDirName": "Subscriber/Networking/IPv4-basedNetworking",
+  "slug": "/Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
+  "permalink": "/docs/Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "IPv4-based Networking",
+    "permalink": "/docs/category/ipv4-based-networking"
+  },
+  "next": {
+    "title": "Managing VPN Gateways and Site-to-Site VPN",
+    "permalink": "/docs/Subscriber/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN"
+  }
+}

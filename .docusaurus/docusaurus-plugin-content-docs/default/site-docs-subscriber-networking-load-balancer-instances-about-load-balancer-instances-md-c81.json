@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
+  "title": "About Load Balancer Instances",
+  "description": "The Apiculus Load Balancer Instances (LBI) Service allows Cloud Console users to create load balancer appliances, which are Linux Instances pre-loaded with a Citrix NetScaler VPX image. LBI can be used with VPC networks to achieve various traffic management features that are not possible using the standard VPC-based load balancing.",
+  "source": "@site/docs/Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
+  "sourceDirName": "Subscriber/Networking/LoadBalancerInstances",
+  "slug": "/Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
+  "permalink": "/docs/Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Load Balancer Instances",
+    "permalink": "/docs/category/load-balancer-instances-1"
+  },
+  "next": {
+    "title": "Creating a Load Balancer Instance",
+    "permalink": "/docs/Subscriber/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance"
+  }
+}

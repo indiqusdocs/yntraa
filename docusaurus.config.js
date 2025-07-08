@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Shakti Cloud Technical Documentation',
- // tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
+  title: 'Yantraa Technical Documentation',
+  tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.console.shakticloud.ai',
+  url: 'https://docs.apiculus.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -34,12 +34,13 @@ const config = {
     locales: ['en'],
   },
 
-stylesheets: [ 
+stylesheets: [
     {
-      href: "https://fonts.cdnfonts.com/css/helvetica-255", // Update this to the correct link to load Aptos
+      href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap',
       rel: 'stylesheet',
     },
   ],
+  
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -88,7 +89,6 @@ stylesheets: [
     ],
   ],
   
-  // here is the search plug-in.
 plugins: [
 [
 require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -99,7 +99,6 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 ],
 
   themeConfig:
-  
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
 		docs: {
@@ -112,14 +111,13 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 	  
     },
       // Replace with your project's social card
-      image: 'img/shakti-social-card.png',
+      image: 'img/apiculus-social-card.png',
       navbar: {
         title: '',
 		// hideOnScroll: true,
         logo: {
-          alt: 'Shakti',
-          src: 'img/logolight.png',
-		  srcDark: 'img/logo.svg',
+          alt: 'Apiculus',
+          src: 'img/logo.svg',
         },
         items: [
           
@@ -127,36 +125,50 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             type: 'docSidebar',
             sidebarId: 'sidebar1',
             position: 'left',
-            label: 'Docs',
+            label: 'Service Providers',
 			position: "left",
           },
-		
-		{
+		  {
             type: 'docSidebar',
             sidebarId: 'sidebar2',
             position: 'left',
-            label: 'Release Notes',
-			position: "left",
+            label: 'Subscribers',
           },
-		/*   {
-          href: '#', // Change to the desired link
-          label: 'APIs', // The label of your button
-          position: 'right',
-          className: 'button button--primary', // Add button classes here
-        },
-		 */  	  
 		  {
-          href: 'https://console.shakticloud.ai', // Change to the desired link
-          label: 'Shakti Cloud', // The label of your button
+            type: 'docSidebar',
+            sidebarId: 'sidebar4',
+            position: 'left',
+            label: 'Release Notes',
+          },
+		  
+		  {
+          type: 'dropdown',
+          label: 'APIs',
+          position: 'left', // Can be 'left' or 'right'
+          items: [
+            {
+              label: 'Management APIs',
+             to: '/docs/APIs/apioverview',
+            },
+            {
+              label: 'Global APIs',
+			  href: 'https://swagger.apiculus.io',
+            },
+          ],
+        },
+		   
+		  
+		  {
+          href: 'https://try.apiculus.io', // Change to the desired link
+          label: 'Try Apiculus', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
 		  	  
 		  ],
       },
-	/*	
-     footer: {
-		style: 'dark',
+    /*  footer: {
+        style: 'dark',
         links: [
           {
             title: 'Docs',
@@ -165,7 +177,15 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
                 label: 'Service Providers',
                 to: '/docs/intro',
               },
-			 ],
+			  			  {
+                label: 'Release Notes',
+                to: '/docs/category/release-notes',
+              },
+			  {
+                label: 'Subscribers',
+                to: '/docs/Subscribers/intro',
+              },
+            ],
           },
           {
             title: 'Social',
@@ -191,10 +211,10 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
               },
             ],
           },
-        ],		
- Copyright ${new Date().getFullYear()} Software Technology Parks of India (STPI),
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} Apiculus, Inc.`,
       },
-	*/ 
+	  */
 	  
 	  /* Algolia Search is here.
 	 
@@ -218,4 +238,3 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 };
 
 export default config;
-

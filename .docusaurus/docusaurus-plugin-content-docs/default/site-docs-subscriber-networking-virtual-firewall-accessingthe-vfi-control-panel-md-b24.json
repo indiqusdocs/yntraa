@@ -1,0 +1,26 @@
+{
+  "id": "Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
+  "title": "Accessing the VFI Control Panel",
+  "description": "The Virtual Firewall Service is delivered as an integration using OS images pre-loaded with pfSense or FortiGate VM.",
+  "source": "@site/docs/Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel.md",
+  "sourceDirName": "Subscriber/Networking/VirtualFirewall",
+  "slug": "/Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
+  "permalink": "/docs/Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "sidebar1",
+  "previous": {
+    "title": "Deploying VNF and VM Within VNF",
+    "permalink": "/docs/Subscriber/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF"
+  },
+  "next": {
+    "title": "L2 Networks",
+    "permalink": "/docs/category/l2-networks"
+  }
+}

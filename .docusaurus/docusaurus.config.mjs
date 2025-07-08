@@ -4,9 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Shakti Cloud Technical Documentation",
+  "title": "Yantraa Technical Documentation",
+  "tagline": "Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.console.shakticloud.ai",
+  "url": "https://docs.apiculus.com",
   "baseUrl": "/",
   "organizationName": "",
   "projectName": "",
@@ -22,7 +23,7 @@ export default {
   },
   "stylesheets": [
     {
-      "href": "https://fonts.cdnfonts.com/css/helvetica-255",
+      "href": "https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap",
       "rel": "stylesheet"
     }
   ],
@@ -31,7 +32,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\ysharma\\shakti\\sidebars.js"
+          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -54,7 +55,7 @@ export default {
   ],
   "plugins": [
     [
-      "C:\\Users\\ysharma\\shakti\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
@@ -68,30 +69,50 @@ export default {
       },
       "versionPersistence": "localStorage"
     },
-    "image": "img/shakti-social-card.png",
+    "image": "img/apiculus-social-card.png",
     "navbar": {
       "title": "",
       "logo": {
-        "alt": "Shakti",
-        "src": "img/logolight.png",
-        "srcDark": "img/logo.svg"
+        "alt": "Apiculus",
+        "src": "img/logo.svg"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "sidebar1",
           "position": "left",
-          "label": "Docs"
+          "label": "Service Providers"
         },
         {
           "type": "docSidebar",
           "sidebarId": "sidebar2",
           "position": "left",
+          "label": "Subscribers"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "sidebar4",
+          "position": "left",
           "label": "Release Notes"
         },
         {
-          "href": "https://console.shakticloud.ai",
-          "label": "Shakti Cloud",
+          "type": "dropdown",
+          "label": "APIs",
+          "position": "left",
+          "items": [
+            {
+              "label": "Management APIs",
+              "to": "/docs/APIs/apioverview"
+            },
+            {
+              "label": "Global APIs",
+              "href": "https://swagger.apiculus.io"
+            }
+          ]
+        },
+        {
+          "href": "https://try.apiculus.io",
+          "label": "Try Apiculus",
           "position": "right",
           "className": "button button--primary"
         }
@@ -336,7 +357,6 @@ export default {
   "scripts": [],
   "headTags": [],
   "clientModules": [],
-  "tagline": "",
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {

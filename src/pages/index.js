@@ -19,7 +19,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--2g"
             to="/docs/intro">
-            Click Here to View.
+            View all Documentation
           </Link>
         </div>
       </div>
@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} Documentation`}
-      description="">
+      description="Apiculus Documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
@@ -40,5 +40,3 @@ export default function Home() {
     </Layout>
   );
 }
-
-
