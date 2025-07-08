@@ -73,8 +73,9 @@ export default {
     "navbar": {
       "title": "",
       "logo": {
-        "alt": "Apiculus",
-        "src": "img/logo.svg"
+        "alt": "Yntraa",
+        "src": "img/logo.svg",
+        "srcDark": "img/logolight.svg"
       },
       "items": [
         {

@@ -116,8 +116,9 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
         title: '',
 		// hideOnScroll: true,
         logo: {
-          alt: 'Apiculus',
+          alt: 'Yntraa',
           src: 'img/logo.svg',
+		  srcDark: 'img/logolight.svg',
         },
         items: [
           
