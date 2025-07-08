@@ -1,6 +1,6 @@
 ### Self-service and Administration
 
-Ananta brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud-commerce.
+Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud-commerce.
 
 | FEATURES                                      | DESCRIPTION                                                                                                                                                     |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

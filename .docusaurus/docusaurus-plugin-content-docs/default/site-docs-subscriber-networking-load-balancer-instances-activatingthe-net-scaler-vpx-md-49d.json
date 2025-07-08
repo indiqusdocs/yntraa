@@ -18,5 +18,9 @@
   "previous": {
     "title": "Creating a Load Balancer Instance",
     "permalink": "/docs/Subscriber/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance"
+  },
+  "next": {
+    "title": "Linux Instances",
+    "permalink": "/docs/category/linux-instances"
   }
 }

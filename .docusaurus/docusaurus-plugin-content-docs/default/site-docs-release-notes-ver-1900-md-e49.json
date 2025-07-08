@@ -14,10 +14,10 @@
   "frontMatter": {
     "sidebar_position": 39
   },
-  "sidebar": "sidebar2",
+  "sidebar": "sidebar4",
   "previous": {
-    "title": "Version 2.0.0.0",
-    "permalink": "/docs/ReleaseNotes/Ver2000"
+    "title": "Version 1.10.0.0",
+    "permalink": "/docs/ReleaseNotes/Ver11000"
   },
   "next": {
     "title": "Version 1.8.0.0",

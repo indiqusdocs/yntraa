@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Welcome",
-  "description": "Welcome to Shakti Cloud! As a subscriber, you can access a powerful platform designed to accelerate artificial intelligence (AI) and high-performance computing (HPC) workloads. It offers a range of services to support the development, training, and deployment of AI applications.",
+  "description": "Apiculus is an end-to-end cloud-as-a-service solution that addresses the technology, business enablement and customer experience needs of regional, domestic and edge cloud service providers. Apiculus presents itself as an all-in-one technology platform that combines cloud service monetisation, infrastructure management and customer life cycle management, and offers an integrated solution for cloud providers in edge markets.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -16,7 +16,7 @@
   },
   "sidebar": "sidebar1",
   "next": {
-    "title": "Wallet and Transactions",
-    "permalink": "/docs/category/wallet-and-transactions"
+    "title": "Logging In",
+    "permalink": "/docs/LoggingIn"
   }
 }
