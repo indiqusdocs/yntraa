@@ -166,6 +166,8 @@
   },
   "active": "6611cde81b30435f",
   "lastOpenFiles": [
+    "static/img/logolighty.png",
+    "static/img/logo.svg",
     "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
     "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
@@ -191,7 +193,6 @@
     "docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md",
     "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
     "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
-    "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
     "docs/StackComponents.png",
     "docs/StackComponents.svg",
     "build/blog/rss.xml",
@@ -211,7 +212,6 @@
     "build/img/rn.svg",
     "build/img/rn.png",
     "build/img/logo.svg",
-    "build/img/logo.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
