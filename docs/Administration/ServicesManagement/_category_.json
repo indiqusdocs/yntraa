@@ -1,0 +1,8 @@
+{
+  "label": "Services Management",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+	"description": "Service providers can use Apiculus Service Catalogues to manage and monetize their cloud services. They can create services, set prices, and define availability, including Availability Zones and cloud collections. Providers control what services to offer and how to make them available to customers."
+  }
+}

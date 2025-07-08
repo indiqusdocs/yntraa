@@ -1,0 +1,8 @@
+{
+  "label": "Services and System Requirements",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+	"description": "This section outlines the key services provided via Apiculus, along with the prerequisites and system-level information necessary for optimal operation."
+  }
+}
