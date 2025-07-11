@@ -10,8 +10,7 @@ To access the following documents, navigate to the User icon in the top helper b
 - Terms and Conditions
 - Privacy Policy
 - Frequently Asked Questions (optional)
-  
-  ![SLA](img/SLA.png)
+![SLA](img/SLA.png)
 
 
 

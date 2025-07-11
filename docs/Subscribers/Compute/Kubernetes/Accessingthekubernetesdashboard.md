@@ -3,7 +3,7 @@ sidebar_position: 10
 ---
 # Accessing the Kubernetes Dashboard
 
-To access the dashboard in Kubernetes version 1.24 and onwards, follow these steps:
+To access the dashboard in Kubernetes version 1.24 and onwards, the following steps are:
 
 1. Create a Kubernetes cluster.
 2. Navigate to the **Kubernetes Clusters** screen, select your Kubernetes cluster, and go to the **Access** section. Download the `kubeconfig` file from there.

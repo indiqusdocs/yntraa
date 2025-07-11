@@ -896,371 +896,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscriber/Compute/LinuxInstances/AboutLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/AboutLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/AppOverlays",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/AppOverlays",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ConfiguringAlerts",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ConfiguringAlerts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ConnectingtoaLinuxInstance",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ConnectingtoaLinuxInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/CreatingLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/CreatingLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/NetworkingManagement",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/NetworkingManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/Operations",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/Overview",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ReconfiguringLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ReconfiguringLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/VolumeManagement",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/AboutRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/AboutRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ConfiguringAlerts",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ConfiguringAlerts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ConnectingtoaRHELInstance",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ConnectingtoaRHELInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/CreatingRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/CreatingRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/NetworkingManagement",
-              "path": "/docs/Subscriber/Compute/RHELInstances/NetworkingManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/Overview",
-              "path": "/docs/Subscriber/Compute/RHELInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ProtectingRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ProtectingRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ReconfiguringRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ReconfiguringRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/RHELInstanceOperations",
-              "path": "/docs/Subscriber/Compute/RHELInstances/RHELInstanceOperations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ViewingGraphsandUtilization",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ViewingGraphsandUtilization",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ViewingRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ViewingRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/VolumeManagement",
-              "path": "/docs/Subscriber/Compute/RHELInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/WorkingwithSnapshots",
-              "path": "/docs/Subscriber/Compute/RHELInstances/WorkingwithSnapshots",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/DNSManagement/AboutDNSManagement",
-              "path": "/docs/Subscriber/Networking/DNSManagement/AboutDNSManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "path": "/docs/Subscriber/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/DNSManagement/ManagingDNSRecords",
-              "path": "/docs/Subscriber/Networking/DNSManagement/ManagingDNSRecords",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "path": "/docs/Subscriber/Networking/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "path": "/docs/Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "path": "/docs/Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "path": "/docs/Subscriber/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "path": "/docs/Subscriber/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/L2 Networks/AboutL2Networks",
-              "path": "/docs/Subscriber/Networking/L2 Networks/AboutL2Networks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/L2 Networks/AddNewL2Networks",
-              "path": "/docs/Subscriber/Networking/L2 Networks/AddNewL2Networks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "path": "/docs/Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "path": "/docs/Subscriber/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
-              "path": "/docs/Subscriber/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/AboutNATGateways",
-              "path": "/docs/Subscriber/Networking/NATGateways/AboutNATGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/Instances",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/Operations",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/Overview",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/PortForwardingforVMviaVNF",
-              "path": "/docs/Subscriber/Networking/NATGateways/PortForwardingforVMviaVNF",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/PortForwardingwithPublicIP",
-              "path": "/docs/Subscriber/Networking/NATGateways/PortForwardingwithPublicIP",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/CreatingaVirtualFirewall",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/CreatingaVirtualFirewall",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/Operations",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/Overview",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/Snapshots",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Snapshots",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccessCentral",
-              "path": "/docs/Subscribers/AccessCentral",
-              "sidebar": "sidebar2"
-            },
-            {
               "id": "Subscribers/AccountCentre/AboutApiculusAccountCentre",
               "path": "/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre",
               "sidebar": "sidebar2"
@@ -1846,8 +1481,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "Subscribers/SigningUp",
-              "path": "/docs/Subscribers/SigningUp",
+              "id": "Subscribers/signingup",
+              "path": "/docs/Subscribers/signingup",
               "sidebar": "sidebar2"
             },
             {
@@ -2121,6 +1756,46 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/account-centre",
+              "path": "/docs/category/account-centre",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/cloudoperations-management",
+              "path": "/docs/category/cloudoperations-management",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/compute",
+              "path": "/docs/category/compute",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/kubernetes",
+              "path": "/docs/category/kubernetes",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/linux-instances",
+              "path": "/docs/category/linux-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/rhel-instances",
+              "path": "/docs/category/rhel-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/windows-instances",
+              "path": "/docs/category/windows-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/autoscale",
+              "path": "/docs/category/autoscale",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "/category/networking",
               "path": "/docs/category/networking",
               "sidebar": "sidebar1"
@@ -2176,111 +1851,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/linux-instances",
-              "path": "/docs/category/linux-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/rhel-instances",
-              "path": "/docs/category/rhel-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/account-centre",
-              "path": "/docs/category/account-centre",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/cloudoperations-management",
-              "path": "/docs/category/cloudoperations-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/compute",
-              "path": "/docs/category/compute",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/kubernetes",
-              "path": "/docs/category/kubernetes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/linux-instances-1",
-              "path": "/docs/category/linux-instances-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/rhel-instances-1",
-              "path": "/docs/category/rhel-instances-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/windows-instances",
-              "path": "/docs/category/windows-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/autoscale",
-              "path": "/docs/category/autoscale",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/networking-1",
-              "path": "/docs/category/networking-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/nat-gateways-1",
-              "path": "/docs/category/nat-gateways-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managing-nat-gateways-1",
-              "path": "/docs/category/managing-nat-gateways-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/virtual-private-clouds-1",
-              "path": "/docs/category/virtual-private-clouds-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/about-vpc-instances-1",
-              "path": "/docs/category/about-vpc-instances-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/ipv4-based-networking-1",
-              "path": "/docs/category/ipv4-based-networking-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/virtual-firewalls-1",
-              "path": "/docs/category/virtual-firewalls-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/firewall-instances-1",
-              "path": "/docs/category/firewall-instances-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/l2-networks-1",
-              "path": "/docs/category/l2-networks-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/dns-management-1",
-              "path": "/docs/category/dns-management-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/load-balancer-instances-2",
-              "path": "/docs/category/load-balancer-instances-2",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/storage",
               "path": "/docs/category/storage",
               "sidebar": "sidebar1"
@@ -2331,13 +1901,13 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/linux-instances-2",
-              "path": "/docs/category/linux-instances-2",
+              "id": "/category/linux-instances-1",
+              "path": "/docs/category/linux-instances-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/rhel-instances-2",
-              "path": "/docs/category/rhel-instances-2",
+              "id": "/category/rhel-instances-1",
+              "path": "/docs/category/rhel-instances-1",
               "sidebar": "sidebar2"
             },
             {
@@ -2351,58 +1921,58 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/networking-2",
-              "path": "/docs/category/networking-2",
+              "id": "/category/networking-1",
+              "path": "/docs/category/networking-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/nat-gateways-2",
-              "path": "/docs/category/nat-gateways-2",
+              "id": "/category/nat-gateways-1",
+              "path": "/docs/category/nat-gateways-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/managing-nat-gateways-2",
-              "path": "/docs/category/managing-nat-gateways-2",
+              "id": "/category/managing-nat-gateways-1",
+              "path": "/docs/category/managing-nat-gateways-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/virtual-private-clouds-2",
-              "path": "/docs/category/virtual-private-clouds-2",
+              "id": "/category/virtual-private-clouds-1",
+              "path": "/docs/category/virtual-private-clouds-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/about-vpc-instances-2",
-              "path": "/docs/category/about-vpc-instances-2",
+              "id": "/category/about-vpc-instances-1",
+              "path": "/docs/category/about-vpc-instances-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/ipv4-based-networking-2",
-              "path": "/docs/category/ipv4-based-networking-2",
+              "id": "/category/ipv4-based-networking-1",
+              "path": "/docs/category/ipv4-based-networking-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/virtual-firewalls-2",
-              "path": "/docs/category/virtual-firewalls-2",
+              "id": "/category/virtual-firewalls-1",
+              "path": "/docs/category/virtual-firewalls-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/firewall-instances-2",
-              "path": "/docs/category/firewall-instances-2",
+              "id": "/category/firewall-instances-1",
+              "path": "/docs/category/firewall-instances-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/l2-networks-2",
-              "path": "/docs/category/l2-networks-2",
+              "id": "/category/l2-networks-1",
+              "path": "/docs/category/l2-networks-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/dns-management-2",
-              "path": "/docs/category/dns-management-2",
+              "id": "/category/dns-management-1",
+              "path": "/docs/category/dns-management-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/load-balancer-instances-3",
-              "path": "/docs/category/load-balancer-instances-3",
+              "id": "/category/load-balancer-instances-2",
+              "path": "/docs/category/load-balancer-instances-2",
               "sidebar": "sidebar2"
             },
             {

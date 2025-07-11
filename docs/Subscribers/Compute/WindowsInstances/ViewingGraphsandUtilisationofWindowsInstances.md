@@ -17,6 +17,7 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 - 1-min load average
 - 5-min load average
 - 15-min load average
+![graphs](img/graphs.png)
 ## Utilisation (Historical)
 
  To view historical usage across supported parameters, navigate to [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Utilisation** tab.

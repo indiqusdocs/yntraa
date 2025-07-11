@@ -4,8 +4,11 @@ sidebar_position: 11
 # Operations
 
  To view all available Instance operations, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Operations** tab.
+ ![operations1](img/operations1.png)
+![operations2](img/operations2.png)
 
-Yntraa cloud console provides the options to perform the following operations on Linux Instances:
+
+Yntraa cloud platform provides the options to perform the following operations on Linux Instances:
 
 - **Restart Instance** - Perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
 - **Force Stop Instance** - Force stop a running or a hung Linux Instance.

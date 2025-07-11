@@ -3,9 +3,9 @@ sidebar_position: 2
 ---
 # Viewing Kubernetes Cluster Details
 
-Yntraa cloud console offers a detailed view of Kubernetes clusters on the UI. Yntraa also brings the full power and accessibility of cluster management via the kubectl interface.
+Yntraa cloud platform offers a detailed view of Kubernetes clusters on the UI. Yntraa also brings the full power and accessibility of cluster management via the kubectl interface.
 
-To view cluster details on the UI, follow these steps:
+To view cluster details on the UI, the following steps are:
 
 1. Navigate to **Compute > Kubernetes**
 2. All the Kubernetes clusters for your account will be listed here with the following details.
@@ -13,6 +13,7 @@ To view cluster details on the UI, follow these steps:
     - Public IP address
     - Autoscaling Enabled/Disabled
     - Created
+      
 ![kubedetail](img/kubedetail.png) 
        
 You can view a list of sections and the various operations or actions you can perform inside the particular section by clicking on the Kubernetes Cluster name. Below the cluster name is an informational view where you can find the below details.

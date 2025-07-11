@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c40'),
+    component: ComponentCreator('/docs', '254'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3e4'),
+        component: ComponentCreator('/docs', '3b3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'a67'),
+            component: ComponentCreator('/docs', '4cb'),
             routes: [
               {
                 path: '/docs/AboutServiceProviderAdministration/AdminConsole',
@@ -606,13 +606,7 @@ export default [
               },
               {
                 path: '/docs/category/about-vpc-instances-1',
-                component: ComponentCreator('/docs/category/about-vpc-instances-1', '67d'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/about-vpc-instances-2',
-                component: ComponentCreator('/docs/category/about-vpc-instances-2', '581'),
+                component: ComponentCreator('/docs/category/about-vpc-instances-1', 'cd0'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -768,13 +762,7 @@ export default [
               },
               {
                 path: '/docs/category/dns-management-1',
-                component: ComponentCreator('/docs/category/dns-management-1', '18a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/dns-management-2',
-                component: ComponentCreator('/docs/category/dns-management-2', 'c0a'),
+                component: ComponentCreator('/docs/category/dns-management-1', '91f'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -786,13 +774,7 @@ export default [
               },
               {
                 path: '/docs/category/firewall-instances-1',
-                component: ComponentCreator('/docs/category/firewall-instances-1', '4d4'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/firewall-instances-2',
-                component: ComponentCreator('/docs/category/firewall-instances-2', '6db'),
+                component: ComponentCreator('/docs/category/firewall-instances-1', '432'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -846,13 +828,7 @@ export default [
               },
               {
                 path: '/docs/category/ipv4-based-networking-1',
-                component: ComponentCreator('/docs/category/ipv4-based-networking-1', 'fbb'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/ipv4-based-networking-2',
-                component: ComponentCreator('/docs/category/ipv4-based-networking-2', '510'),
+                component: ComponentCreator('/docs/category/ipv4-based-networking-1', 'd78'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -876,13 +852,7 @@ export default [
               },
               {
                 path: '/docs/category/l2-networks-1',
-                component: ComponentCreator('/docs/category/l2-networks-1', '6c9'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/l2-networks-2',
-                component: ComponentCreator('/docs/category/l2-networks-2', '9f4'),
+                component: ComponentCreator('/docs/category/l2-networks-1', '76d'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -894,13 +864,7 @@ export default [
               },
               {
                 path: '/docs/category/linux-instances-1',
-                component: ComponentCreator('/docs/category/linux-instances-1', 'a4b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/linux-instances-2',
-                component: ComponentCreator('/docs/category/linux-instances-2', '3fc'),
+                component: ComponentCreator('/docs/category/linux-instances-1', '0a9'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -918,13 +882,7 @@ export default [
               },
               {
                 path: '/docs/category/load-balancer-instances-2',
-                component: ComponentCreator('/docs/category/load-balancer-instances-2', '05d'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/load-balancer-instances-3',
-                component: ComponentCreator('/docs/category/load-balancer-instances-3', '85a'),
+                component: ComponentCreator('/docs/category/load-balancer-instances-2', 'f7d'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -948,13 +906,7 @@ export default [
               },
               {
                 path: '/docs/category/managing-nat-gateways-1',
-                component: ComponentCreator('/docs/category/managing-nat-gateways-1', '2c5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/managing-nat-gateways-2',
-                component: ComponentCreator('/docs/category/managing-nat-gateways-2', 'cff'),
+                component: ComponentCreator('/docs/category/managing-nat-gateways-1', 'dcb'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -978,13 +930,7 @@ export default [
               },
               {
                 path: '/docs/category/nat-gateways-1',
-                component: ComponentCreator('/docs/category/nat-gateways-1', '6f5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/nat-gateways-2',
-                component: ComponentCreator('/docs/category/nat-gateways-2', '2c6'),
+                component: ComponentCreator('/docs/category/nat-gateways-1', 'c9e'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -996,13 +942,7 @@ export default [
               },
               {
                 path: '/docs/category/networking-1',
-                component: ComponentCreator('/docs/category/networking-1', '1cc'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/networking-2',
-                component: ComponentCreator('/docs/category/networking-2', 'ddc'),
+                component: ComponentCreator('/docs/category/networking-1', 'b2c'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -1050,13 +990,7 @@ export default [
               },
               {
                 path: '/docs/category/rhel-instances-1',
-                component: ComponentCreator('/docs/category/rhel-instances-1', '18a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/rhel-instances-2',
-                component: ComponentCreator('/docs/category/rhel-instances-2', 'e8b'),
+                component: ComponentCreator('/docs/category/rhel-instances-1', 'aae'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -1134,13 +1068,7 @@ export default [
               },
               {
                 path: '/docs/category/virtual-firewalls-1',
-                component: ComponentCreator('/docs/category/virtual-firewalls-1', '32e'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/virtual-firewalls-2',
-                component: ComponentCreator('/docs/category/virtual-firewalls-2', '42d'),
+                component: ComponentCreator('/docs/category/virtual-firewalls-1', 'ec8'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -1152,13 +1080,7 @@ export default [
               },
               {
                 path: '/docs/category/virtual-private-clouds-1',
-                component: ComponentCreator('/docs/category/virtual-private-clouds-1', '02b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/virtual-private-clouds-2',
-                component: ComponentCreator('/docs/category/virtual-private-clouds-2', '3ab'),
+                component: ComponentCreator('/docs/category/virtual-private-clouds-1', 'da0'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -1755,444 +1677,6 @@ export default [
                 component: ComponentCreator('/docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements', '9a2'),
                 exact: true,
                 sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/AboutLinuxInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/AboutLinuxInstances', '545'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/AppOverlays',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/AppOverlays', '4cc'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/ConfiguringAlerts',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/ConfiguringAlerts', '3f7'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/ConnectingtoaLinuxInstance',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/ConnectingtoaLinuxInstance', 'c96'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/CreatingLinuxInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/CreatingLinuxInstances', '009'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/NetworkingManagement', '8b5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/Operations',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/Operations', 'a9b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/Overview',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/Overview', 'dd6'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/ProtectingLinuxInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/ProtectingLinuxInstances', 'f4a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/ReconfiguringLinuxInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/ReconfiguringLinuxInstances', '1de'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances', 'e58'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/VolumeManagement',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/VolumeManagement', '3e3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots',
-                component: ComponentCreator('/docs/Subscriber/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots', '193'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/AboutRHELInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/AboutRHELInstances', '3bf'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/ConfiguringAlerts',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/ConfiguringAlerts', '1d0'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/ConnectingtoaRHELInstance',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/ConnectingtoaRHELInstance', '4c3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/CreatingRHELInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/CreatingRHELInstances', '9b8'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/NetworkingManagement', 'dd7'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/Overview',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/Overview', 'f69'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/ProtectingRHELInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/ProtectingRHELInstances', '8ef'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/ReconfiguringRHELInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/ReconfiguringRHELInstances', 'abb'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/RHELInstanceOperations',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/RHELInstanceOperations', '288'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/ViewingGraphsandUtilization',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/ViewingGraphsandUtilization', '19c'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/ViewingRHELInstances',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/ViewingRHELInstances', '770'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/VolumeManagement',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/VolumeManagement', '1bc'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Compute/RHELInstances/WorkingwithSnapshots',
-                component: ComponentCreator('/docs/Subscriber/Compute/RHELInstances/WorkingwithSnapshots', 'd91'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/DNSManagement/AboutDNSManagement',
-                component: ComponentCreator('/docs/Subscriber/Networking/DNSManagement/AboutDNSManagement', '987'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole',
-                component: ComponentCreator('/docs/Subscriber/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole', '8fd'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/DNSManagement/ManagingDNSRecords',
-                component: ComponentCreator('/docs/Subscriber/Networking/DNSManagement/ManagingDNSRecords', '3e1'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/DNSManagement/SwitchingtoAnotherDNSProvider',
-                component: ComponentCreator('/docs/Subscriber/Networking/DNSManagement/SwitchingtoAnotherDNSProvider', 'da3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking',
-                component: ComponentCreator('/docs/Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking', '53e'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs',
-                component: ComponentCreator('/docs/Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs', '21d'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN',
-                component: ComponentCreator('/docs/Subscriber/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN', '84a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC',
-                component: ComponentCreator('/docs/Subscriber/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC', 'f51'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/L2 Networks/AboutL2Networks',
-                component: ComponentCreator('/docs/Subscriber/Networking/L2 Networks/AboutL2Networks', 'a1b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/L2 Networks/AddNewL2Networks',
-                component: ComponentCreator('/docs/Subscriber/Networking/L2 Networks/AddNewL2Networks', 'd02'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances',
-                component: ComponentCreator('/docs/Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances', '9f3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX',
-                component: ComponentCreator('/docs/Subscriber/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX', '1d1'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance',
-                component: ComponentCreator('/docs/Subscriber/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance', '456'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/NATGateways/AboutNATGateways',
-                component: ComponentCreator('/docs/Subscriber/Networking/NATGateways/AboutNATGateways', '7c3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Instances',
-                component: ComponentCreator('/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Instances', 'd03'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/IPv4Addresses',
-                component: ComponentCreator('/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/IPv4Addresses', '0ff'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Operations',
-                component: ComponentCreator('/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Operations', '111'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Overview',
-                component: ComponentCreator('/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Overview', '679'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways',
-                component: ComponentCreator('/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways', '521'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/NATGateways/PortForwardingforVMviaVNF',
-                component: ComponentCreator('/docs/Subscriber/Networking/NATGateways/PortForwardingforVMviaVNF', '147'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/NATGateways/PortForwardingwithPublicIP',
-                component: ComponentCreator('/docs/Subscriber/Networking/NATGateways/PortForwardingwithPublicIP', '9c9'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel', '80d'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork', '4c3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/CreatingaVirtualFirewall',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/CreatingaVirtualFirewall', 'f49'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF', '091'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances', 'd7a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts', 'dbe'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement', '65d'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Operations',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Operations', '06e'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Overview',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Overview', '2e8'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall', 'd22'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Snapshots',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Snapshots', 'a61'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization', '6e2'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails', 'c8b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/VolumeManagement',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/VolumeManagement', 'e3c'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds', '9a6'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs', 'e2c'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers', 'f8d'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC', 'c3f'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets', '274'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances', 'f83'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview', '10e'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring', 'd70'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations', '6ce'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC', '50f'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscriber/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC',
-                component: ComponentCreator('/docs/Subscriber/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC', '734'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccessCentral',
-                component: ComponentCreator('/docs/Subscribers/AccessCentral', '882'),
-                exact: true,
-                sidebar: "sidebar2"
               },
               {
                 path: '/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre',
@@ -2897,8 +2381,8 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/Subscribers/SigningUp',
-                component: ComponentCreator('/docs/Subscribers/SigningUp', '106'),
+                path: '/docs/Subscribers/signingup',
+                component: ComponentCreator('/docs/Subscribers/signingup', '8ce'),
                 exact: true,
                 sidebar: "sidebar2"
               },

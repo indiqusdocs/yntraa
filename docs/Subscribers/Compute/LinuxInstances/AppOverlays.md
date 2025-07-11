@@ -12,7 +12,7 @@ The following sections list the instructions to verify/login into DB application
 - [Elasticsearch](#elasticsearch)
 ## MongoDB
 
- To set up and Log into MongoDB, follow these steps:
+ To set up and Log into MongoDB, the following steps are :
 
 1. Type `mongosh` in the command line or terminal and press **Enter** to start the MongoDB shell.
 2. To set password:
@@ -36,7 +36,7 @@ The following sections list the instructions to verify/login into DB application
 For more information about creating database and collection, refer [MongoDB documentation](https://www.mongodb.com/docs/).
 ## MySQL
 
- To set up and log into MySQL, follow these steps:
+ To set up and log into MySQL, the following steps are :
  
 1. To log into MySQL, type:
     `sudo mysql`
@@ -51,7 +51,7 @@ For more information about creating database and collection, refer [MongoDB docu
 For more information, refer [MySQL documentation](https://dev.mysql.com/doc/).
 ## PostgreSQL
  
- To set up and log into PostgreSQL, follow these steps:
+ To set up and log into PostgreSQL, the following steps are :
  
 1. To log into PostgreSQL, switch to the postgres user and then access the PostgreSQL prompt:
 	`sudo -i -u postgres`
@@ -75,7 +75,7 @@ For more information, refer [MySQL documentation](https://dev.mysql.com/doc/).
 For more information, refer [PostgreSQL documentation ](https://www.postgresql.org/docs/).
 ## Redis
 
-To set up and log into Redis, follow these steps:
+To set up and log into Redis, the following steps are :
 
 1. To log into Redis, type `redis-cli` in the Redis Command-Line Interface (CLI).
 2. To set the password, edit the `redis-config` file:
@@ -91,7 +91,7 @@ To set up and log into Redis, follow these steps:
 For more information, refer [Redis documentation](https://redis.io/docs/latest/).
 ## Cassandra
 
-To set up and log into Cassandra, follow these steps:
+To set up and log into Cassandra, the following steps are :
 
 1. To log into Cassandra using `cqlsh`, open your terminal and type `cqlsh`.
 2. To set the password, edit the `cassandra.yaml` configuration file:

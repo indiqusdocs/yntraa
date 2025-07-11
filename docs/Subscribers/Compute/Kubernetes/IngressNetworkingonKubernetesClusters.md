@@ -4,6 +4,7 @@ sidebar_position: 7
 # Ingress Networking on Kubernetes Clusters
 
 To view networking, navigate to [Kubernetes](AboutKubernetes.md) and select a **cluster details**. This section manage a cluster's firewalls and ingress networking. Here, Port forwarding and load balancing rules can also be managed using `kubectl`.
+![ingress1](img/ingress1.png)
 
 :::note
 Yntraa Kubernetes Service supports traefik and nginx ingress controllers.
@@ -19,11 +20,13 @@ A firewall restricts incoming and outgoing network traffic to enhance the securi
     3. Enter the Start Port.
     4. Enter the End Port.
     5. Click the **ADD FIREWALL RULE** button.
+ ![ingress2](img/ingress2.png)
 ## Adding a Port Forwarding Rule to Cluster
 
 Port forwarding allows external traffic to access specific services running within Kubernetes pods, enabling external communication with applications.
 
 1. Click the **ADD NETWORKING RULE** button, and the following window appears.
+![ingress3](img/ingress3.png)
 2. Select **Port Forwarding**  from the list of networking options and then specify the following options:
     1. Select the particular node from the list.
     2. Choose a Protocol from the available options, i.e., TCP, UDP.
@@ -42,6 +45,7 @@ Cluster load balancing rules distribute incoming network traffic across multiple
     4. Enter the Private Port.
     5. Select the algorithm.
     6. Click the **ADD LOAD BALANCING RULE** button.
+    ![ingress4](img/ingress4.png)
 
 
 

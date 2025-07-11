@@ -3,50 +3,66 @@ sidebar_position: 3
 ---
 # Signing Up
 
-Apiculus offers an easy way of signing up for a subscriber cloud account. Clicking on the **Sign Up** link on [Access Central](/docs/Subscribers/AccessCentral) will navigate to the signup form. Users can simply fill up this form and follow the next steps to get access to their account.
+To get started with the Yntraa cloud platform, new users must create an account through a straightforward sign-up process. Whether you're accessing the platform for the first time or looking to register for cloud services, the platform offers a user-friendly interface designed to make account creation simple and secure. The following steps to begin your journey with Yntraa:
+ 
+1. [SigningUp on the Account](#signingup-on-the-account)
+2. [Completing Profile Details](#completing-profile-details)
+## SigningUp on the Account
 
-## Self-service Signup
+Signing up on the One Yotta platform is a simple process designed to help new users get started quickly. Whether you're accessing cloud services or other features, creating an account is your first step. Just click the **Sign Up** link on the login page and follow the guided instructions to register and begin using the platform. To create a new One Yotta account and gain access to all services, Here are the following steps:
 
-Self-service signups are completely automated and require no intervention from admins. These are only governed by configurations and rules defined under platform configurations, and take up default values from there. The flow of information is as below:
+1. **Open the Signup Page**: Navigate to the official One Yotta signup page via [https://account.yotta.com/](https://account.yotta.com/)
+2. **Register a New Account**:
+    - At the bottom of the login box, look for the line: “Not a member? Sign Up.”
+    - Click on the "Sign Up” link to begin registration as a new user.
+      
+![signup1](img/signup1.png)
 
-1. Subscriber clicks on **Sign Up** on Access Central and fills up the signup form.
-   ![Signup](Signup.png)
-2. A signup request is registered on the system and a verification email is sent to the subscriber; at this stage, the Admin Console will show this account as **awaiting confirmation.**
-   ![Signup](Signup1.png)
-3. Subscriber follows the instructions in the email and verifies their email.
-   ![Instructions on mail](Signup2.png)
-4. Additionally, if mobile verification is enabled (SMS gateway required), the subscriber verifies their mobile phone details.
-5. Upon successful verification, the subscriber sets their account password and logs in with their email and password combination.
+3. **Enter Your First and Last Name**:
+    - In the “First Name” field, enter your given name.
+    - In the “Last Name” field, enter your surname.
+4. **Provide a Valid Email Address**:
+    - Type your email address in the “Email” field.
+    - This email will be used for communication and login purposes.
+5. **Enter Mobile Details**:
+    - Select your country code from the dropdown.
+    - Input your mobile number in the “Mobile No” field.
+6. **Choose Account Type**:
+    - Toggle between **Company** and **Individual** based on your usage.
+    - In the example shown, **Individual** is selected.
+7. **Select Country and State**:
+    - Choose your country from the “Country” dropdown.
+    - Select your state from the “State” dropdown.
+8. **Enter Your City and Postal Code**:
+    - Type your city name in the “City” field.
+    - Enter your area’s postal code in the “Postal Code” field.
+9. **Agree to Terms and Policies**:
+    - Tick the checkbox that states “I agree to the Terms & Conditions and Privacy Policy.”
+    - You must agree to proceed with the registration.
+10. **Submit the Form**: Click the orange “Submit” button at the bottom to complete your signup.
+    
+![signup2](img/signup2.png)
+11. **Registration Confirmation**: After submission, follow any email or mobile verification steps as prompted to activate your account.
+    
+![signup3](img/signup3.png)
 
-## Admin-assisted Signup
+![signup4](img/signup4.png)
+## Completing Profile Details
 
-Admin-assisted signups are semi-automated and require basic intervention from admins. These are governed by configurations and rules defined under platform configurations, and take up default values from there. Additionally, admins can manually add or edit information before publishing the account. The flow of information is as below:
+After registering One Yotta account, you will be prompted to complete profile for verification. The following steps are :
 
-1. Subscriber clicks on **Sign Up** on Access Central and fills up the signup form.
-      ![Signup](Signup.png)
-2. A signup request is registered on the system and a notification email is sent to the admin; at this stage, the Admin Console will show this account as **draft**.
-   ![Admin User Account Verification](AdminVerification.png)
-3. Admin users can log in to the Admin Console and verify the information (and add/edit, if needed) and proceed to publishing the account.
-4. A verification email is sent to the subscriber; at this stage, the Admin Console will show this account as **awaiting confirmation**.
-5. Subscriber follows the instructions in the email and verifies their email.
-6. Additionally, if mobile verification is enabled (SMS gateway required), the subscriber verifies their mobile phone details.
-7. Upon successful verification, the subscriber sets their account password and logs in with their email and password combination.
-
-## Admin-initiated Signup
-
-Admin-initiated signups are manual and require the maximum intervention from admins. These are governed by configurations and rules defined under platform configurations, and take up default values from there. However, admins need to initiate the entire signup process from filling the form on behalf of the subscribers. The flow of information is as below:
-
-1. If the admin-initiated mode is enabled, the **Sign Up** link will not be shown on Access Central.
-2. Admin users can log in to the Admin Console and proceed to [create a new subscriber account](/docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts).
-3. Once published, a verification email is sent to the subscriber; at this stage, the Admin Console will show this account as awaiting confirmation.
-4. Subscriber follows the instructions in the email and verifies their email.
-5. Additionally, if mobile verification is enabled (SMS gateway required), the subscriber verifies their mobile phone details.
-6. Upon successful verification, the subscriber sets their account password and logs in with their email and password combination.
-
-:::note
-Only new subscriber accounts can be created using this process. Resellers, child admins and child subscribers can not be created this way and need to be invited from within their respective parent accounts.
-:::
-
-
-
-
+1. **Enter Your Name**: Your name may be pre-filled based on the registration info. Verify or update it if needed.
+2. **Provide PAN Information (Optional)**: 
+    - If applicable, check the "PAN Applicable" box.
+    - Enter your "PAN number" in the field provided.
+3. **Enter Address Details**: 
+    - Fill in "Address Line 1" (mandatory) and "Address Line 2" (optional).
+    - Select "Country", "State", and enter "City" and "Postal Code".
+4. **Provide GST Information (Optional)**: 
+    - If GST is applicable to you, check the "GST Applicable" box.
+    - Enter "GSTIN" in the provided field.
+5. **Select Taxation Type**: Choose the appropriate option based on your organization or individual status:
+    - Indian Organization or Individual (Non-SEZ).
+    - Indian Organization or Individual (Located in a SEZ).
+6. **Submit the Form**: Once all required fields are completed and verified, click the "Submit" button to finish the signup verification process.  
+![signup5](img/signup5.png)

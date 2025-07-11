@@ -6,7 +6,7 @@ sidebar_position: 2
 You can connect to Linux Instances via SSH sessions using passwords (less secure) or [SSH key pairs](/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs) (most secure)
 ## Connect from a Windows Machine
 
-To connect to your Linux Instance from a Windows machine, you will need to use a small application called PuTTy, an SSH client.
+To connect to your Linux Instance from a Windows machine, you will must use a small application called PuTTy, an SSH client.
 
 1. [Download and install PuTTy.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Launch PuTTy on your computer.

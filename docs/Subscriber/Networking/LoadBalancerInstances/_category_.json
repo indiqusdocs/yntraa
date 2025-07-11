@@ -1,9 +1,0 @@
-{
-  "label": "Load Balancer Instances",
-  "position": 7,
-  "link": {
-    "type": "generated-index",
-    "description": "The Yntraa Load Balancer Instances (YBI) Service allows Cloud Console users to create load balancer appliances, which are Linux Instances pre-loaded with a Citrix NetScaler VPX image.
-"
-  }
-}

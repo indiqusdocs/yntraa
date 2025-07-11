@@ -5,7 +5,7 @@ sidebar_position: 6
 
 To view the disks attached to particular Instance, navigate to [RHEL Instances](AboutRHELInstances.md) and access the **Volumes** tab.
 
-RHEL Instances on Yntraa cloud console work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
+RHEL Instances on Yntraa cloud platform work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
 ![volumerhel](img/volumerhel.png)
 
 The following are the quick actions:
