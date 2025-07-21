@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '1cc'),
+    component: ComponentCreator('/docs', '8f2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e7d'),
+        component: ComponentCreator('/docs', '7ba'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'a19'),
+            component: ComponentCreator('/docs', '113'),
             routes: [
               {
                 path: '/docs/AboutServiceProviderAdministration/AdminConsole',
@@ -2476,8 +2476,8 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBucket/AboutApiculusObjectStorage',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBucket/AboutApiculusObjectStorage', '318'),
+                path: '/docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage', '213'),
                 exact: true,
                 sidebar: "sidebar2"
               },

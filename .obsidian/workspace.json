@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
+                "file": "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AboutKubernetes"
+              "title": "ConnectingtoaLinuxInstance"
             }
           }
         ]
@@ -166,6 +166,22 @@
   },
   "active": "6611cde81b30435f",
   "lastOpenFiles": [
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots.md",
+    "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
+    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
+    "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
+    "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/img/yntraaos.jpg",
+    "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringObjectStorage/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringBlockVolumes/index.html",
@@ -176,10 +192,8 @@
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringRHELInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringWindowsInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringLinuxInstances/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService/index.html",
     "build/icons/home.svg",
     "docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard.md",
-    "docs/Subscribers/Compute/Kubernetes/AboutKubernetes.md",
     "docs/Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine.md",
     "docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard.md",
     "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
@@ -190,11 +204,6 @@
     "docs/Subscribers/AccountCentre/SupportandTickets.md",
     "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
     "docs/Subscribers/AccountCentre/StandardAgreements.md",
-    "docs/Subscribers/AccountCentre/Payments.md",
-    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
-    "docs/Subscribers/Compute/Autoscale/AboutAutoscale.md",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/Subscribers/signingup.md",
     "build/assets/images/reconfiguring2-ff06a0673b364b02ed16da745daca4e2.png",
     "build/assets/images/restartcluster-6bc506f7bad41d2368016216031453e2.png",
     "build/assets/images/scalecluster-b2ed790a9d4296acf6d5557281eb3054.png",
@@ -203,15 +212,6 @@
     "build/assets/images/staticpass3-29f303e1470b0cc282e5883c4258574f.png",
     "build/assets/images/user1-979af0abc0538519f93a5edd1d418e93.png",
     "build/assets/images/user2-b75dfb865c6d9533c8b9976580492b06.png",
-    "build/assets/images/user3-354f7e373a742730251f9d81309a7156.png",
-    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs.md",
-    "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
-    "docs/Subscribers/AccountCentre/AboutApiculusAccountCentre.md",
-    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
-    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
-    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
