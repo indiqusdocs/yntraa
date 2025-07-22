@@ -6,10 +6,10 @@ Invoices are generated at the end of each billing cycle for the services consume
 
 ![Invoices and Credit Notes](img/InvoicesandCreditNotes.png)
 
-If Apiculus Cloud takes online payments, then payments against individual invoices can be made by clicking on the wallet/payment icon next to the invoice. Doing so will navigate to the payment gateway page, where you can use any of the supported modes of payment.
+If Yntraa cloud platform takes online payments, then payments against individual invoices can be made by clicking on the wallet/payment icon next to the invoice. Doing so will navigate to the payment gateway page, where you can use any of the supported modes of payment.
 
 :::note
-Apiculus Cloud does not store any card or bank account information, and the payment gateway provider handles it solely.
+Yntraa cloud platform does not store any card or bank account information, and the payment gateway provider handles it solely.
 :::
 
 
