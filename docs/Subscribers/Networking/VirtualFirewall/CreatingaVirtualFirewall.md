@@ -8,7 +8,7 @@ sidebar_position: 2
  1. In the main menu, navigate to the **Networking > Virtual Firewalls** tab. 
  2. To activate the service, click the **NEW VIRTUAL FIREWALL** button.
 	:::note
-	 Apiculus currently only supports one Virtual Firewall per Availability Zone.
+	 Yntraa currently only supports one Virtual Firewall per Availability Zone.
 	 :::
 	![Creating a Virtual Firewall](img/CreatingaVirtualFirewall1.png)
 3. Select your Availability Zone.
@@ -39,7 +39,7 @@ If **approval-based provisioning** is enable for the VFI Service, the following 
 	-  Upon approval or activation, the Virtual Firewall appliance becomes visible in the **Virtual Firewalls list**.
 	  ![Creating a Virtual Firewall](img/CreatingaVirtualFirewall8.png)
 3. **Accessing the Request**
-	- The request is available under the **Requests** section in the **Support & Operations** menu on the Apiculus Admin Console.
+	- The request is available under the **Requests** section in the **Support & Operations** menu on the Yntraa Admin console.
 4. **Admin Actions**
 	- The administrator can:
 	    - Review the request
