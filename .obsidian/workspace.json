@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/DNSManagement/AboutDNSManagement.md",
+                "file": "docs/Subscribers/FAQs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AboutDNSManagement"
+              "title": "FAQs"
             }
           }
         ]
@@ -166,6 +166,9 @@
   },
   "active": "3afd1fe7567fdff9",
   "lastOpenFiles": [
+    "docs/FAQs.md",
+    "docs/Subscribers/FAQs.md",
+    "docs/Subscribers/Networking/DNSManagement/AboutDNSManagement.md",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualFirewallInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringWindowsInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringBlockVolumes/index.html",
@@ -176,12 +179,10 @@
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringRHELInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringLinuxInstances/index.html",
     "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringDNSManagement/index.html",
-    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService/index.html",
     "CloudExperienceManagement/img/CloudConsoleOverview.png",
     "CloudExperienceManagement/CloudOperationsManagement.md",
     "CloudExperienceManagement/CloudConsoleOverview.md",
     "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs.md",
-    "docs/Subscribers/Networking/DNSManagement/AboutDNSManagement.md",
     "docs/Subscribers/AdminVerification.png",
     "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/LoggingIn.md",
@@ -196,8 +197,6 @@
     "build/img/shakti-social-card.png",
     "build/img/sbs.svg",
     "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
-    "docs/FAQs.md",
-    "docs/Subscribers/FAQs.md",
     "docs/Subscribers/Compute/WindowsInstances/Protection.md",
     "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
     "docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances.md",
