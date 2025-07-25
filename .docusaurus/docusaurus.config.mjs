@@ -4,10 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Yantraa Technical Documentation",
-  "tagline": "Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.",
+  "title": "Yntraa Technical Documentation",
+  "tagline": "Find user guides, quickstarts, and, FAQs.",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.apiculus.com",
+  "url": "https://docs.yntraa.com",
   "baseUrl": "/",
   "organizationName": "",
   "projectName": "",
@@ -32,7 +32,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\prkumar\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -55,7 +55,7 @@ export default {
   ],
   "plugins": [
     [
-      "C:\\Users\\prkumar\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
@@ -80,40 +80,13 @@ export default {
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "sidebar1",
-          "position": "left",
-          "label": "Service Providers"
-        },
-        {
-          "type": "docSidebar",
           "sidebarId": "sidebar2",
           "position": "left",
-          "label": "Subscribers"
+          "label": "Docs"
         },
         {
-          "type": "docSidebar",
-          "sidebarId": "sidebar4",
-          "position": "left",
-          "label": "Release Notes"
-        },
-        {
-          "type": "dropdown",
-          "label": "APIs",
-          "position": "left",
-          "items": [
-            {
-              "label": "Management APIs",
-              "to": "/docs/APIs/apioverview"
-            },
-            {
-              "label": "Global APIs",
-              "href": "https://swagger.apiculus.io"
-            }
-          ]
-        },
-        {
-          "href": "https://try.apiculus.io",
-          "label": "Try Apiculus",
+          "href": "https://yntraa.com",
+          "label": "Yntraa Cloud Platform",
           "position": "right",
           "className": "button button--primary"
         }

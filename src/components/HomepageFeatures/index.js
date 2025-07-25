@@ -1,21 +1,21 @@
 import React from 'react';
 
 const FeatureList = [
+//  {
+//    title: 'Service Providers',
+//    link: '/docs/intro',
+//    description: 'Click here to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.',
+//  },
   {
-    title: 'Service Providers',
-    link: '/docs/intro',
-    description: 'Click here to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.',
-  },
-  {
-    title: 'Subscribers',
+   title: 'Subscribers',
     link: '/docs/Subscribers/intro',
-    description: 'Click here to access detailed documentation on all services supported and deliverable via the Apiculus CloudConsole.',
+    description: 'Click here to access detailed documentation on all services supported and delivered via the Yntraa Cloud Platform.',
   },
-  {
-    title: 'Release Notes',
-    link: '/docs/category/release-notes',
-    description: 'Click here to learn about the new features, enhancements, known issues, and bugs in all the releases till date.',
-  },
+//  {
+//    title: 'Release Notes',
+//    link: '/docs/category/release-notes',
+//    description: 'Click here to learn about the new features, enhancements, known issues, and bugs in all the releases till date.',
+//  },
 ];
 
 function Feature({ title, description, link }) {

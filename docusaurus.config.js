@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Yantraa Technical Documentation',
-  tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
+  title: 'Yntraa Technical Documentation',
+  tagline: 'Find user guides, quickstarts, and, FAQs.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.apiculus.com',
+  url: 'https://docs.yntraa.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -62,7 +62,7 @@ stylesheets: [
 		  // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
     //      editUrl:
-      //      'https://github.com/imyogeshs/apiculus',
+      //      'https://github.com/imyogeshs/yntraa',
         },
         blog: {
           showReadingTime: true,
@@ -122,46 +122,47 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
         },
         items: [
           
-		  {
-            type: 'docSidebar',
-            sidebarId: 'sidebar1',
-            position: 'left',
-            label: 'Service Providers',
-			position: "left",
-          },
+//		  {
+//            type: 'docSidebar',
+//            sidebarId: 'sidebar1',
+//            position: 'left',
+//            label: 'Service Providers',
+//			position: "left",
+//          },
+
 		  {
             type: 'docSidebar',
             sidebarId: 'sidebar2',
             position: 'left',
-            label: 'Subscribers',
+            label: 'Docs',
           },
-		  {
-            type: 'docSidebar',
-            sidebarId: 'sidebar4',
-            position: 'left',
-            label: 'Release Notes',
-          },
+	    	//  {
+          //  type: 'docSidebar',
+          //  sidebarId: 'sidebar4',
+          //  position: 'left',
+          //  label: 'Release Notes',
+         // },
 		  
-		  {
-          type: 'dropdown',
-          label: 'APIs',
-          position: 'left', // Can be 'left' or 'right'
-          items: [
-            {
-              label: 'Management APIs',
-             to: '/docs/APIs/apioverview',
-            },
-            {
-              label: 'Global APIs',
-			  href: 'https://swagger.apiculus.io',
-            },
-          ],
-        },
+	//	  {
+    //      type: 'dropdown',
+    //      label: 'APIs',
+    //      position: 'left', // Can be 'left' or 'right'
+    //      items: [
+    //        {
+    //          label: 'Management APIs',
+    //         to: '/docs/APIs/apioverview',
+    //        },
+    //        {
+    //          label: 'Global APIs',
+	//		  href: 'https://swagger.apiculus.io',
+    //        },
+    //      ],
+    //    },
 		   
 		  
 		  {
-          href: 'https://try.apiculus.io', // Change to the desired link
-          label: 'Try Apiculus', // The label of your button
+          href: 'https://yntraa.com', // Change to the desired link
+          label: 'Yntraa Cloud Platform', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
