@@ -17,10 +17,12 @@ The Alerts tab lists all the alerts already configured for that particular RHEL 
 - Trigger When
 - Value
 - Reading Duration
+  
 ![alertrhel](img/alertrhel.png)
 ## Adding an Alert
 
 You can create or add alerts simply by clicking the **CREATE ALERT** button. The following screen appears, and you can configure the alert using the on-screen input form.
+
 ![alercreation](img/alercreation.png)
 
 The various fields of the add alert page are described below:
@@ -41,6 +43,7 @@ This will list and display all the email IDs already configured for the alerts. 
 3. Add the email ids; multiple IDs can be added (separated by a comma).
 4. Click the **+** icon.
 5. Click **Update**.
+   
 ![receipientrhel](img/receipientrhel.png)
    
 :::note

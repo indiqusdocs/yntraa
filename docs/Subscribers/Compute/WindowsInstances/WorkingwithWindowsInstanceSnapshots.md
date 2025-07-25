@@ -22,7 +22,7 @@ Two quick options are available, one is to revert the Instance from the snapshot
 - Click the **CREATE SNAPSHOT** button.
 - Specify the name and the description of the snapshot.
 - To create a Snapshot, click **Create**. To cancel this action, click **Cancel**.
-![![snapshots2](img/snapshots2.png)]
+![snapshots2](img/snapshots2.png)]
 
 
 

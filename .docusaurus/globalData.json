@@ -576,11 +576,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "LoggingIn",
-              "path": "/docs/LoggingIn",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "ReleaseNotes/Ver11000",
               "path": "/docs/ReleaseNotes/Ver11000",
               "sidebar": "sidebar4"
@@ -1241,8 +1236,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "Subscribers/LoggingIn",
-              "path": "/docs/Subscribers/LoggingIn",
+              "id": "Subscribers/Logging In",
+              "path": "/docs/Subscribers/Logging In",
               "sidebar": "sidebar2"
             },
             {
@@ -1481,8 +1476,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "Subscribers/SigningUp",
-              "path": "/docs/Subscribers/SigningUp",
+              "id": "Subscribers/Signing Up",
+              "path": "/docs/Subscribers/Signing Up",
               "sidebar": "sidebar2"
             },
             {

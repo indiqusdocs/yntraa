@@ -3,11 +3,11 @@ sidebar_position: 4
 ---
 # Feature List and Integration Details
 
-AS3 is delivered as an integration with Cloudian HyperStore. The integration functions using API-driven checkpoints.
+YS3 is delivered as an integration with Cloudian HyperStore. The integration functions using API-driven checkpoints.
 
 ## Standard Integration Touchpoints
 
-- **Account Creation** - When end-users opt for the AS3, an account is created on Cloudian Hyperstore. This account allows user to manage and configure their Cloudian HyperStore deployment, access administrative features, and control various aspects of their storage environment.
+- **Account Creation** - When end-users opt for the YS3, an account is created on Cloudian Hyperstore. This account allows user to manage and configure their Cloudian HyperStore deployment, access administrative features, and control various aspects of their storage environment.
 - **Cataloguing** - This service is part of the catalogue, i.e., the service provider configures from where to deliver the service and what price to deliver the service.
 - **Usage Reporting -** All usage data is available through the UI. Users can log in to Yntraa cloud platform at any time to view consumed resources and the associated usage details.
 
@@ -19,7 +19,7 @@ AS3 is delivered as an integration with Cloudian HyperStore. The integration fun
 
 ## Feature List
 
-The following features are available as part of AS3, with ongoing enhancements.
+The following features are available as part of YS3, with ongoing enhancements.
 
 - **Single S3 Zone**- Currently, on Yntraa cloud platform, only single S3 zone support is available
 - **Buckets View** - On the Yntraa cloud platform UI, the end user can log in and view all the distinct buckets they have created.

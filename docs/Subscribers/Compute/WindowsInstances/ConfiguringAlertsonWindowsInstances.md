@@ -21,6 +21,7 @@ The Alerts tab can be accessed from the instances details. It shows the alerts a
 # Adding an Alert
 
 Subscribers can create or add alerts simply by clicking on the **Add Alert** button. The following screen will open up, and the subscriber must describe the details of the alert.
+
 ![alertcreation](img/alertcreation.png)
 
 The various fields of the add alert page are described below:
@@ -43,6 +44,7 @@ This will list and display all the email IDs already configured for the alerts. 
 3. Add the email ids; multiple ids can be added and separated by (,).
 4. Click the **+** icon.
 5. Then click **Update**, and update the recipient's list.
+   
 ![recepient](img/recepient.png)
 
 :::note
