@@ -10,8 +10,8 @@ To access the Yntraa cloud platform and its features, users must log in using th
 3. **Enter Your Password**:
     - In the **Password** field, enter your account password.
     - Click the **eye icon** if you want to view the password before submitting.
-4. **Optional**: Check the “Remember me” box to stay logged in on the same device (optional).
-5. **Click Sign In**: Click the orange “Sign In” button to proceed.
+4. **Optional**: Check the **Remember me** box to stay logged in on the same device (optional).
+5. **Click Sign In**: Click the orange **Sign In** button to proceed.
    
 ![login1](img/login1.png)
 

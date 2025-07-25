@@ -5,7 +5,7 @@ sidebar_position: 3
 
 ## Software Version
 
-The required version may vary depending on the HyperStore release. The recommended version is Cloudian HyperStore Version  7.4.1.
+The required version may vary depending on the HyperStore release. The recommended version is Cloudian HyperStore Version 7.4.1.
 
 ## Management VM Requirements
 

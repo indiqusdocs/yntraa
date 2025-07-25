@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '1f7'),
+    component: ComponentCreator('/docs', '1bc'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c69'),
+        component: ComponentCreator('/docs', '193'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '180'),
+            component: ComponentCreator('/docs', '8af'),
             routes: [
               {
                 path: '/docs/AboutServiceProviderAdministration/AdminConsole',
@@ -1295,12 +1295,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/LoggingIn',
-                component: ComponentCreator('/docs/LoggingIn', '3e4'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/ReleaseNotes/Ver11000',
                 component: ComponentCreator('/docs/ReleaseNotes/Ver11000', '427'),
                 exact: true,
@@ -2093,8 +2087,8 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/Subscribers/LoggingIn',
-                component: ComponentCreator('/docs/Subscribers/LoggingIn', 'fc2'),
+                path: '/docs/Subscribers/Logging In',
+                component: ComponentCreator('/docs/Subscribers/Logging In', 'cbf'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -2381,8 +2375,8 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/Subscribers/SigningUp',
-                component: ComponentCreator('/docs/Subscribers/SigningUp', '106'),
+                path: '/docs/Subscribers/Signing Up',
+                component: ComponentCreator('/docs/Subscribers/Signing Up', '44b'),
                 exact: true,
                 sidebar: "sidebar2"
               },

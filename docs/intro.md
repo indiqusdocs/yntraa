@@ -3,11 +3,11 @@ sidebar_position: 1
 ---
 # Welcome
 
-Apiculus is an end-to-end cloud-as-a-service solution that addresses the technology, business enablement and customer experience needs of regional, domestic and edge cloud service providers. Apiculus presents itself as an all-in-one technology platform that combines cloud service monetisation, infrastructure management and customer life cycle management, and offers an integrated solution for cloud providers in edge markets.
+Yntraa cloud platform is an end-to-end cloud-as-a-service solution that addresses the technology, business enablement and customer experience needs of regional, domestic and edge cloud service providers. Yntraa cloud platform presents itself as an all-in-one technology platform that combines cloud service monetisation, infrastructure management and customer life cycle management, and offers an integrated solution for cloud providers in edge markets.
 
 ![Welcome](welcome1.png)
 
-## Apiculus enables:
+## Yntraa enables:
 
 <div class="card-grid-3">
 
@@ -28,7 +28,7 @@ Apiculus is an end-to-end cloud-as-a-service solution that addresses the technol
 </div>
 
 ## Stack Components
-Items in <span class="blue">**blue**</span> are Apiculus software capabilities; items in **black** are services and extensions that can be monetised; items in <span class="green">**green**</span> are service provider’s assets.
+Items in <span class="blue">**blue**</span> are Yntraa software capabilities; items in **black** are services and extensions that can be monetised; items in <span class="green">**green**</span> are service provider’s assets.
 ![Stack Components](StackComponents.webp)
 ## Features and Specifications
 This section covers the following:
@@ -37,7 +37,7 @@ This section covers the following:
 - [End-to-end Business Enablement](intro#end-to-end-business-enablement)
 ### Self-service and Administration
 
-Apiculus brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud commerce.
+Yntraa cloud platform brings a powerful layer of self-service along with a multitude of configurable options for managing customer journeys, admin operations and cloud commerce.
 
 | FEATURES                                      | DESCRIPTION                                                                                                                                                     |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ Apiculus brings a powerful layer of self-service along with a multitude of confi
 | Self-service Platform Configurations          | Configure the end-user experience, right from branding to policy documentation, custom links and platform default behaviours.                                   |
 | Role-based Admin Access                       | Onboard various functional personnel with our customisable role-based access system.                                                                            |
 ### Integrated Billing and XaaS Monetisation
-With Apiculus, service providers can set up a marketplace of IaaS, PaaS, multi-cloud and other value-added service offerings. Apiculus offers not only the listing of services, but also a complete automated and integrated provisioning, operating, and billing paradigm.
+With Yntraa, service providers can set up a marketplace of IaaS, PaaS, multi-cloud and other value-added service offerings. Yntraa cloud platform offers not only the listing of services, but also a complete automated and integrated provisioning, operating, and billing paradigm.
 
 | FEATURES                                           | DESCRIPTION                                                                                                                                                  |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -67,7 +67,7 @@ With Apiculus, service providers can set up a marketplace of IaaS, PaaS, multi-c
 
 ### End-to-End Business Enablement
 
-Apiculus ships with SLA-backed integrated support and all the tools needed to enable stellar service delivery on the cloud. As an extension of business enablement, Apiculus also offers comprehensive localisation across branding, regulatory, compliance and other localisation domains.
+Yntraa ships with SLA-backed integrated support and all the tools needed to enable stellar service delivery on the cloud. As an extension of business enablement, Yntraa cloud platform also offers comprehensive localisation across branding, regulatory, compliance and other localisation domains.
 
 | FEATURES                                            | DESCRIPTION                                                                                                                                                     |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,7 +82,7 @@ Apiculus ships with SLA-backed integrated support and all the tools needed to en
 | Integrable with External Billing and ITSM Systems   | Get our team of solution experts to onboard you and accelerate your GTM with our Cloud Accelerator program.                                                   |
 
 ## Services Catalogue
-The Apiculus cloud catalogue is offered for all production [Availability Zones](/docs/Administration/ServicesManagement/WorkingwithAvailabilityZones), as shown below.
+The Yntraa cloud platform catalogue is offered for all production [Availability Zones](/docs/Administration/ServicesManagement/WorkingwithAvailabilityZones), as shown below.
 
 | #   | Service                                    | Type     | ISV                       |
 | --- | ------------------------------------------ | -------- | ------------------------- |
@@ -90,7 +90,7 @@ The Apiculus cloud catalogue is offered for all production [Availability Zones]
 | 2   | Windows Instance                           | Core     | Apache CloudStack         |
 | 3   | Block Volumes                              | Core     | Apache CloudStack         |
 | 4   | VPC Networking                             | Core     | Apache CloudStack         |
-| 5   | Apiculus Autoscale (deprecated March 2024) | Core     | Apiculus Converge         |
+| 5   | Yntraa Autoscale (deprecated March 2024)   | Core     | Yntraa Converge           |
 | 6   | DNS Management                             | Extended | PowerDNS                  |
 | 7   | Multi-cloud AWS                            | Extended | AWS                       |
 | 8   | Metal Instances                            | Extended | Canonical MAAS            |
