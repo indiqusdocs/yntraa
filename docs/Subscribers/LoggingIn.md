@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
 ---
-## Logging In the Yntraa Cloud Platform
-
+# Logging In
 To access the Yntraa cloud platform and its features, users must log in using their registered email and password. The following steps to login/signin securely.
 
 1. **Open the Yntraa Login Page**: Navigate to the official login page [https://account.yotta.com/](https://account.yotta.com/) of the Yntraa cloud platform.

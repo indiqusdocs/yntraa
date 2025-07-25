@@ -5,8 +5,6 @@ sidebar_position: 3
 
 To get started with the Yntraa cloud platform, new users must create an account through a straightforward sign-up process. Whether you're accessing the platform for the first time or looking to register for cloud services, the platform offers a user-friendly interface designed to make account creation simple and secure. 
 
-## Signing Up on the Account
-
 Signing up on the One Yotta platform is a simple process designed to help new users get started quickly. Whether you're accessing cloud services or other features, creating an account is your first step. Just click the **Sign Up** link on the login page and follow the guided instructions to register and begin using the platform. To create a new One Yotta account and gain access to all services, Here are the following steps:
 
 1. **Open the Signup Page**: Navigate to the official One Yotta signup page via [https://account.yotta.com/](https://account.yotta.com/)

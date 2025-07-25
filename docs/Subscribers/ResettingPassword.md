@@ -4,7 +4,6 @@ sidebar_position: 5
 # Resetting Password
 
 If you’ve forgotten your One Yotta account password, you can easily reset it by clicking the “Forgot Password?” link on the login page, the following steps to verify your email, and setting a new password:
-## Reset One Yotta Account Password
 
 If you’ve lost access to your One Yotta password or need to change it for security purposes, the following simple steps to reset it:
 

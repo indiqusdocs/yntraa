@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Connecting to a RHEL Instance
 
-You can connect to RHEL Instances via SSH sessions using passwords (less secure) or [SSH key pairs](/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs) (most secure)
+You can connect to RHEL Instances via SSH sessions using passwords (less secure) or SSH key pairs (most secure).
 
 ## Connecting from a Windows Machine
 

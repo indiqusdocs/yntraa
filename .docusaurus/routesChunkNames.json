@@ -255,17 +255,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-1f7": {
+  "/docs-257": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-c69": {
+  "/docs-018": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-180": {
+  "/docs-d71": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/AboutServiceProviderAdministration/AdminConsole-ebe": {
@@ -740,14 +740,6 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-inbuild-apps-90-b-bc0"
   },
-  "/docs/category/instance-protection-52f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-instance-protectionc-79-aa0"
-  },
-  "/docs/category/instance-protection-1-6a5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-instance-protection-1535-d09"
-  },
   "/docs/category/introduction-7d5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-introduction-73-c-74a"
@@ -899,14 +891,6 @@
   "/docs/category/support-management-a1c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-support-management-708-35f"
-  },
-  "/docs/category/tools-and-utilities-6e6": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tools-and-utilitiesae-2-63c"
-  },
-  "/docs/category/tools-and-utilities-1-e3c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tools-and-utilities-1282-e3a"
   },
   "/docs/category/trial-management-069": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -1067,10 +1051,6 @@
   "/docs/Introduction/SupportedSMSGateways-a2a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-introduction-supported-sms-gateways-298-221"
-  },
-  "/docs/LoggingIn-3e4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-logging-in-9-c-0-4d1"
   },
   "/docs/ReleaseNotes/Ver11000-427": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1584,18 +1564,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-fa-qs-91-e-888"
   },
-  "/docs/Subscribers/InstanceProtection/AboutInstanceprotection-a4f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-instance-protection-about-instanceprotection-51-c-39e"
-  },
-  "/docs/Subscribers/InstanceProtection/EnablingInstanceProtection-55b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-instance-protection-enabling-instance-protection-93-a-1b0"
-  },
-  "/docs/Subscribers/InstanceProtection/ManagingProtectedInstances-9b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-instance-protection-managing-protected-instancesd-75-ff7"
-  },
   "/docs/Subscribers/intro-8ac": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-intro-705-f27"
@@ -1851,22 +1819,6 @@
   "/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements-993": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-storage-object-storage-bucket-system-requirements-4-af-229"
-  },
-  "/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities-683": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-about-toolsand-utilities-0-f-8-b04"
-  },
-  "/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages-66b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-managing-custom-templatesand-imagesbf-4-e1e"
-  },
-  "/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots-428": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-managing-instanceand-volume-snapshotsf-52-d45"
-  },
-  "/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs-ff1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-managing-ssh-keysand-key-pairs-08-a-43f"
   },
   "/docs/WalletandTransactions/-f6e": {
     "__comp": "__comp---theme-doc-item-178-a40",

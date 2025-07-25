@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '1bc'),
+    component: ComponentCreator('/docs', '257'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '193'),
+        component: ComponentCreator('/docs', '018'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '8af'),
+            component: ComponentCreator('/docs', 'd71'),
             routes: [
               {
                 path: '/docs/AboutServiceProviderAdministration/AdminConsole',
@@ -838,18 +838,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/instance-protection',
-                component: ComponentCreator('/docs/category/instance-protection', '52f'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/instance-protection-1',
-                component: ComponentCreator('/docs/category/instance-protection-1', '6a5'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
                 path: '/docs/category/introduction',
                 component: ComponentCreator('/docs/category/introduction', '7d5'),
                 exact: true,
@@ -1076,18 +1064,6 @@ export default [
                 component: ComponentCreator('/docs/category/support-management', 'a1c'),
                 exact: true,
                 sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/tools-and-utilities',
-                component: ComponentCreator('/docs/category/tools-and-utilities', '6e6'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/tools-and-utilities-1',
-                component: ComponentCreator('/docs/category/tools-and-utilities-1', 'e3c'),
-                exact: true,
-                sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/trial-management',
@@ -2098,32 +2074,14 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/Subscribers/InstanceProtection/AboutInstanceprotection',
-                component: ComponentCreator('/docs/Subscribers/InstanceProtection/AboutInstanceprotection', 'a4f'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/Subscribers/InstanceProtection/EnablingInstanceProtection',
-                component: ComponentCreator('/docs/Subscribers/InstanceProtection/EnablingInstanceProtection', '55b'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/Subscribers/InstanceProtection/ManagingProtectedInstances',
-                component: ComponentCreator('/docs/Subscribers/InstanceProtection/ManagingProtectedInstances', '9b9'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
                 path: '/docs/Subscribers/intro',
                 component: ComponentCreator('/docs/Subscribers/intro', '8ac'),
                 exact: true,
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/Subscribers/Logging In',
-                component: ComponentCreator('/docs/Subscribers/Logging In', 'cbf'),
+                path: '/docs/Subscribers/LoggingIn',
+                component: ComponentCreator('/docs/Subscribers/LoggingIn', 'fc2'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -2410,8 +2368,8 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/Subscribers/Signing Up',
-                component: ComponentCreator('/docs/Subscribers/Signing Up', '44b'),
+                path: '/docs/Subscribers/SigningUp',
+                component: ComponentCreator('/docs/Subscribers/SigningUp', '106'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -2496,30 +2454,6 @@ export default [
               {
                 path: '/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements',
                 component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements', '993'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities', '683'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages', '66b'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots', '428'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs', 'ff1'),
                 exact: true,
                 sidebar: "sidebar2"
               },

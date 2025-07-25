@@ -1216,28 +1216,13 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "Subscribers/InstanceProtection/AboutInstanceprotection",
-              "path": "/docs/Subscribers/InstanceProtection/AboutInstanceprotection",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/InstanceProtection/EnablingInstanceProtection",
-              "path": "/docs/Subscribers/InstanceProtection/EnablingInstanceProtection",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/InstanceProtection/ManagingProtectedInstances",
-              "path": "/docs/Subscribers/InstanceProtection/ManagingProtectedInstances",
-              "sidebar": "sidebar2"
-            },
-            {
               "id": "Subscribers/intro",
               "path": "/docs/Subscribers/intro",
               "sidebar": "sidebar2"
             },
             {
-              "id": "Subscribers/Logging In",
-              "path": "/docs/Subscribers/Logging In",
+              "id": "Subscribers/LoggingIn",
+              "path": "/docs/Subscribers/LoggingIn",
               "sidebar": "sidebar2"
             },
             {
@@ -1476,8 +1461,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "Subscribers/Signing Up",
-              "path": "/docs/Subscribers/Signing Up",
+              "id": "Subscribers/SigningUp",
+              "path": "/docs/Subscribers/SigningUp",
               "sidebar": "sidebar2"
             },
             {
@@ -1548,26 +1533,6 @@
             {
               "id": "Subscribers/Storage/ObjectStorageBucket/SystemRequirements",
               "path": "/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/ToolsandUtilities/AboutToolsandUtilities",
-              "path": "/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
-              "path": "/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
-              "path": "/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs",
-              "path": "/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs",
               "sidebar": "sidebar2"
             },
             {
@@ -1866,16 +1831,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/instance-protection",
-              "path": "/docs/category/instance-protection",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/tools-and-utilities",
-              "path": "/docs/category/tools-and-utilities",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/account-centre-1",
               "path": "/docs/category/account-centre-1",
               "sidebar": "sidebar2"
@@ -1988,16 +1943,6 @@
             {
               "id": "/category/object-storage-bucket-1",
               "path": "/docs/category/object-storage-bucket-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/instance-protection-1",
-              "path": "/docs/category/instance-protection-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/tools-and-utilities-1",
-              "path": "/docs/category/tools-and-utilities-1",
               "sidebar": "sidebar2"
             },
             {
