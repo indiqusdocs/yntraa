@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
+                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AboutFirewallInstances"
+              "title": "Overview"
             }
           }
         ]
@@ -166,27 +166,29 @@
   },
   "active": "6611cde81b30435f",
   "lastOpenFiles": [
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/blog/rss.css",
-    "build/blog/atom.css",
-    "build/blog/atom.xsl",
-    "build/blog/rss.xsl",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
-    "build/img/logolighty.png",
+    "build/docs/Administration/SubscribersandAccounts/WorkingwithAccountStates",
+    "build/docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation",
+    "build/docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Overview",
+    "build/docs/Administration/SubscribersandAccounts",
+    "build/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services",
+    "build/docs/Administration/ServicesManagement/CustomCatalogues",
+    "build/docs/Administration/ServicesManagement/Working with Default Services",
+    "build/docs/Administration/ServicesManagement",
+    "build/docs/Administration/ResellerManagement/Overview/index.html",
+    "build/docs/Administration/ResellerManagement/ManagingBillingforResellers/index.html",
     "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/undraw_docusaurus_react.svg",
     "build/img/sps.svg",
-    "build/img/rn.svg",
     "build/img/sps.png",
     "build/img/shakti-social-card.png",
     "build/img/sbs.svg",
     "build/img/sbs.png",
+    "build/img/rn.png",
+    "build/img/rn.svg",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
     "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
     "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
@@ -210,8 +212,6 @@
     "docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md",
     "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
-    "docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
