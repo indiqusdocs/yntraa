@@ -941,16 +941,6 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "Subscribers/CloudExperienceManagement/CloudConsoleOverview",
-              "path": "/docs/Subscribers/CloudExperienceManagement/CloudConsoleOverview",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/CloudExperienceManagement/CloudOperationsManagement",
-              "path": "/docs/Subscribers/CloudExperienceManagement/CloudOperationsManagement",
-              "sidebar": "sidebar2"
-            },
-            {
               "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
               "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
               "sidebar": "sidebar2"
@@ -1721,11 +1711,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/cloudoperations-management",
-              "path": "/docs/category/cloudoperations-management",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/compute",
               "path": "/docs/category/compute",
               "sidebar": "sidebar1"
@@ -1833,11 +1818,6 @@
             {
               "id": "/category/account-centre-1",
               "path": "/docs/category/account-centre-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/cloudoperations-management-1",
-              "path": "/docs/category/cloudoperations-management-1",
               "sidebar": "sidebar2"
             },
             {
