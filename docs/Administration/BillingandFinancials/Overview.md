@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Overview
 
-The Billing and Financials section is designed to give complete details of the Apiculus billing system. This section gives administrators of Apiculus complete access to customers’ billing records, invoices, transactions, and other financial items supported on Apiculus.
+The Billing and Financials section is designed to give complete details of the Yntraa billing system. This section gives administrators of Yntraa complete access to customers’ billing records, invoices, transactions, and other financial items supported on Yntraa.
 
 :::note
 All sections allow downloading of data as a .csv file.
@@ -11,7 +11,7 @@ All sections allow downloading of data as a .csv file.
 
 ## Subscriptions
 
-This section shows records of all customers’ subscriptions. A subscription is created whenever a resource is purchased (or service is activated) on the Apiculus Cloud Console.
+This section shows records of all customers’ subscriptions. A subscription is created whenever a resource is purchased (or service is activated) on the Yntraa cloud platform.
 
 Available actions:
 
@@ -23,7 +23,7 @@ Available actions:
 
 ## Invoices
 
-Invoices are generated on Apiculus for the previous month’s usage on the 1st of each new month. These invoices are automatically generated and emailed to customers.
+Invoices are generated on Yntraa for the previous month’s usage on the 1st of each new month. These invoices are automatically generated and emailed to customers.
 
 Available actions:
 
@@ -34,7 +34,7 @@ Available actions:
 ![Billing and Financials Overview](img/Overview2.png)
 
 :::note
-The invoice template is customisable via a support request to the Apiculus (By Yotta) Support team. However, certain information, such as the prefix for the invoice numbering, payment period, and dunning rules are customisable from the Apiculus Admin Console.
+The invoice template is customisable via a support request to the Yntraa (By Yotta) Support team. However, certain information, such as the prefix for the invoice numbering, payment period, and dunning rules are customisable from the Yntraa Admin platform.
 :::
 
 ## Credit Notes
@@ -55,7 +55,7 @@ A credit note can be created by downloading the .xls or .ods template and upload
 
 ## Transactions
 
-All customer transaction records (successful, failed, and pending) are displayed in the Transactions section. For transactions made using an online payment gateway via Apiculus, records are automatically fetched.
+All customer transaction records (successful, failed, and pending) are displayed in the Transactions section. For transactions made using an online payment gateway via Yntraa, records are automatically fetched.
 
 Available actions:
 
@@ -68,7 +68,7 @@ Available actions:
 
 ## Tax Deductions
 
-Apiculus supports recording quarterly tax deductions for all customer invoices. The Tax Deductions section lists all such tax deductions and allows for adding new items. The Tax Deductions feature is optional and must be enabled from the global settings, where admins also get the ability to define their country’s fiscal period and quarters.
+Yntraa supports recording quarterly tax deductions for all customer invoices. The Tax Deductions section lists all such tax deductions and allows for adding new items. The Tax Deductions feature is optional and must be enabled from the global settings, where admins also get the ability to define their country’s fiscal period and quarters.
 
 Available actions:
 

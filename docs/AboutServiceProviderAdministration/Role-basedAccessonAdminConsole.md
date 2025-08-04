@@ -3,11 +3,11 @@ sidebar_position: 2
 ---
 # Role-based Access on Admin Console
 
-Apiculus Admin Console offers role-based access control (RBAC) for all admin users. The system ships with default roles, with rights and privileges as outlined in this article.
+Yntraa Admin platform offers role-based access control (RBAC) for all admin users. The system ships with default roles, with rights and privileges as outlined in this article.
 
 ## Admin Roles
 
-The Apiculus system ships with the following default admin roles:
+The Yntraa system ships with the following default admin roles:
 
 - Admin
 - Accounts & Orders (AOM)
@@ -18,7 +18,7 @@ The Apiculus system ships with the following default admin roles:
 - User (read-only)
 
 :::note
-To create new roles or modify any existing ones, a ticket may be raised to Apiculus (By Yotta) Support. The ability to manage roles on the Admin Console UI is currently under development.
+To create new roles or modify any existing ones, a ticket may be raised to Yntraa (By Yotta) Support. The ability to manage roles on the Admin Console UI is currently under development.
 :::
 
 ## RBAC Details

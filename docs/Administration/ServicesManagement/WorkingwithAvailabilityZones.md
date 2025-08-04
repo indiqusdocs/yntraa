@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Working with Availability Zones
 
-Availability Zones (AZ) on Apiculus are a highly versatile and unique way of managing Service delivery and availability. Apiculus AZs are essentially control planes for underlying ISV, designed to handle a range of delivery scenarios. Apiculus AZs also take into account the limitations that an ISV may have (e.g., inability to manage multiple serviceable regions via a single management plane). In other words, Apiculus AZ can be seen as the 'delivery-level unification' of all underlying cloud services into a unified service topology.
+Availability Zones (AZ) on Yntraa are a highly versatile and unique way of managing Service delivery and availability. Yntraa AZs are essentially control planes for underlying ISV, designed to handle a range of delivery scenarios. Yntraa AZs also take into account the limitations that an ISV may have (e.g., inability to manage multiple serviceable regions via a single management plane). In other words, Yntraa AZ can be seen as the 'delivery-level unification' of all underlying cloud services into a unified service topology.
 
 ![Working with Availability Zones](img/AvailabilityZones.jpg)
 
@@ -45,7 +45,7 @@ Disabling or Deleting an AZ will cascade into all the Cloud Collections, Default
 :::
 
 :::note
-Currently, only the option to map CloudStack-based AZs is available on the Apiculus Admin Console UI. Support for other types of AZs is being developed.
+Currently, only the option to map CloudStack-based AZs is available on the Yntraa Admin platform UI. Support for other types of AZs is being developed.
 :::
 
 

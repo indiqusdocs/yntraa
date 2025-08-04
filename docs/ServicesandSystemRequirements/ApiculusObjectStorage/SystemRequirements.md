@@ -36,7 +36,7 @@ To perform a fresh installation of HyperStore 7.4.1, you must have an RHEL 7. x 
 A software license is required to use Cloudian HyperStore. Contact Cloudian or their authorised partners to discuss licensing options, pricing, and any specific requirements related to software licensing. 
 
 :::note
-Apiculus does not ship with a Cloudian HyperStore license.
+Yntraa does not ship with a Cloudian HyperStore license.
 :::
 
 ## Hardware BoQ

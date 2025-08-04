@@ -18,7 +18,7 @@ Credit notes can be created for (in increasing order of levels of control offer
 - **Custom Amount** - Generated with custom/specified line items with optional tax fields for each line item.
 
 :::note
-The above options are only available when creating credit notes from the Apiculus Cloud Console against a single invoice.
+The above options are only available when creating credit notes from the Yntraa Cloud Console against a single invoice.
 :::
 
 

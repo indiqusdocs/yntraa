@@ -20,7 +20,7 @@ Admins can create accounts from the Admin Console regardless of the [signup mod
 
 ### Managing Self-Signups
 
-Self-signups are accounts that are created without admin intervention. The Apiculus system automates sending of the email verification code and only the subscriber needs to perform the required actions. Until the subscriber verifies their email, self-signup accounts will be visible under the **Awaiting Confirmation** section of account management. Admins can resend the verification email to these accounts.
+Self-signups are accounts that are created without admin intervention. The Yntraa system automates sending of the email verification code and only the subscriber needs to perform the required actions. Until the subscriber verifies their email, self-signup accounts will be visible under the **Awaiting Confirmation** section of account management. Admins can resend the verification email to these accounts.
 :::note
 Self-signup accounts treated as 'retail' accounts, are created with **R** in their account IDs and follow all the configurations and rules applied for self-signup accounts.  
 :::
@@ -33,16 +33,16 @@ The only difference between admin-assisted and admin-initiated signups is that, 
 Admin-assisted and admin-initiated accounts are treated as 'enterprise' accounts, are created with an **E** in their account IDs, and follow all the configurations and rules applied to admin-assisted accounts.
 :::
 
-## Creating Accounts Using the Apiculus Accounts API
+## Creating Accounts Using the Yntraa Accounts API
 
-Subscriber accounts can be created using the Apiculus Accounts API. These accounts bypass all verification steps and can be used to create subscriber accounts programmatically.
+Subscriber accounts can be created using the Yntraa Accounts API. These accounts bypass all verification steps and can be used to create subscriber accounts programmatically.
 
 :::note
 Accounts created using the API are treated as 'enterprise' accounts, are created with **E** in their account IDs and take all the configurations and rules applied for admin-assisted accounts.  
 :::
 ## Updating Accounts
 
-Account information can be updated, and other available actions can be performed by going into the target subscriber account in the Apiculus Admin Console.
+Account information can be updated, and other available actions can be performed by going into the target subscriber account in the Yntraa Admin platform.
 
 
 

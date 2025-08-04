@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Configuring Automation Policies
 
-Apiculus allows service providers to define automation policies and workflows to handle scenarios around invoice reminders, non-payments, and customer identity verification.
+Yntraa allows service providers to define automation policies and workflows to handle scenarios around invoice reminders, non-payments, and customer identity verification.
 
 Navigate to **Administration** > **Settings** > **Automation** to configure automation policies.
 ![Configuring Automation Policies](img/ConfiguringAutomationPolicies1.png)

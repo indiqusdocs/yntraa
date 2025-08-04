@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 # Configuring Virtual Firewall Instances
-Apiculus offers Virtual Firewall Instances as integrations with **pfSense®** and **FortiGate** VM.
+Yntraa offers Virtual Firewall Instances as integrations with **pfSense®** and **FortiGate** VM.
 
 You can monetise the service with the following components:
 - Firewall provider

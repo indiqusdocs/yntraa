@@ -3,13 +3,13 @@ sidebar_position: 4
 ---
 # Frequently Asked Questions (FAQs)
 
-<details><summary>**What is object storage in the context of Apiculus?**</summary>Object storage is a scalable and durable storage solution for managing unstructured data such as files, images, videos, and backups.</details>
+<details><summary>**What is object storage in the context of Yntraa?**</summary>Object storage is a scalable and durable storage solution for managing unstructured data such as files, images, videos, and backups.</details>
 
 <details><summary>**How does object storage differ from block storage?**</summary>Unlike block storage, object storage stores data as objects with metadata, making it suitable for vast amounts of unstructured data.</details>
 
 <details><summary>**What are the typical use cases for object storage in the cloud?**</summary>Object storage is used for content distribution, backup and archiving, web applications, and more.</details>
 
-<details><summary>**How do I upload and manage objects in Apiculus object storage?**</summary>You can upload, manage, and organize objects using the Object Storage Menu available in your Apiculus account.</details>
+<details><summary>**How do I upload and manage objects in Yntraa object storage?**</summary>You can upload, manage, and organize objects using the Object Storage Menu available in your Yntraa account.</details>
 
 <details><summary>**How is data durability ensured in object storage?**</summary>Object storage ensures data durability through replication across multiple physical locations, ensuring high availability and redundancy.</details>
 

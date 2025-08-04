@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # System Requirements
-Apiculus Authoritative Nameserver (A53) is deployed on a dedicated virtual machine within the Apiculus management stack for optimal performance and security.
+Yntraa Authoritative Nameserver (Y53) is deployed on a dedicated virtual machine within the Yntraa management stack for optimal performance and security.
 ## Software Version
 
 The recommended versions for the underlying software are:

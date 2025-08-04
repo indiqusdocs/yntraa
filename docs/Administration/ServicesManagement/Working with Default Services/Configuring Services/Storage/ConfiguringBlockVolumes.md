@@ -3,7 +3,7 @@ sidebar_position: 10
 ---
 # Configuring Block Volumes
 
-Apiculus Block Volumes are the underlying software-defined volume management layer that powers various storage-related or storage-driven cloud Services.
+Yntraa Block Volumes are the underlying software-defined volume management layer that powers various storage-related or storage-driven cloud Services.
 
 Follow these steps to configure Block Volumes:
 

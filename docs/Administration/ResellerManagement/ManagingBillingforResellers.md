@@ -14,13 +14,13 @@ Even with the Reseller module enabled and customers getting acquired via reselle
 
 Once an invoice is generated, payments can be received from the customers in the following ways:
 
-1. Making a payment against an invoice from **Account Centre > Invoices and Credit Notes** on Apiculus Cloud Console; _self-service, initiated by customer, executed via payment gateway_.
-2. Making a 'bulk' payment from **Account Centre > Wallet and Transactions** on Apiculus Cloud Console; _self-service, initiated by customer, executed via payment gateway_.
-3. Recording an offline transaction from the account-level or global **Transactions** section on the Apiculus Admin Console; _admin-assisted, initiated by admin, recorded manually_.
+1. Making a payment against an invoice from **Account Centre > Invoices and Credit Notes** on Yntraa cloud platform; _self-service, initiated by customer, executed via payment gateway_.
+2. Making a 'bulk' payment from **Account Centre > Wallet and Transactions** on Yntraa cloud platform; _self-service, initiated by customer, executed via payment gateway_.
+3. Recording an offline transaction from the account-level or global **Transactions** section on the Yntraa cloud platform; _admin-assisted, initiated by admin, recorded manually_.
 
 ## Settling Bills with Resellers
 
-Billing between service provider and reseller needs to be handled offline, and Apiculus maintains and presents all the information needed to achieve this as part of the reseller life cycle. The Metabase business intelligence and dashboard system offers a **Reseller Management** dashboard that shows all the required information as reports and widgets. Some of the standard reports delivered via Metabase are:
+Billing between service provider and reseller needs to be handled offline, and Yntraa maintains and presents all the information needed to achieve this as part of the reseller life cycle. The Metabase business intelligence and dashboard system offers a **Reseller Management** dashboard that shows all the required information as reports and widgets. Some of the standard reports delivered via Metabase are:
 
 - Total reseller-driven sales
 - Non-reseller sales
@@ -29,7 +29,7 @@ Billing between service provider and reseller needs to be handled offline, and A
 
 The above information can be used to generate the relevant invoices for resellers and payments can be sent offline.
 
-For any other report requirements, a ticket can be created with Apiculus (By Yotta) Support.
+For any other report requirements, a ticket can be created with Yntraa (By Yotta) Support.
 
 
 

@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Assigning Custom Catalogues to Customers
 
-[Custom Catalogues](CreatingaCustomCatalogue.md) can be assigned to one or more customers using the Apiculus Admin Console. This is a guided workflow on the Apiculus Admin Console UI and can be done in simple steps.
+[Custom Catalogues](CreatingaCustomCatalogue.md) can be assigned to one or more customers using the Yntraa Admin platform. This is a guided workflow on the Yntraa Admin platform UI and can be done in simple steps.
 
 1. Navigate to **Services > Custom Catalogues**.
 2. Click on the catalogue that needs to be associated with one or more customers.![Assigning Custom Catalogues to Customers](img/CustomCatalogues.png)
@@ -16,7 +16,7 @@ sidebar_position: 4
 7. Once all the desired changes are made, click the **PUBLISH CUSTOM CATALOGUE** button.
 
 :::note
-If the newly-linked customer is already on any resource creation/purchase page on the Apiculus Cloud Console at the time of publishing the changes, their purchase will fail.
+If the newly-linked customer is already on any resource creation/purchase page on the Yntraa cloud platform at the time of publishing the changes, their purchase will fail.
 :::
 
 

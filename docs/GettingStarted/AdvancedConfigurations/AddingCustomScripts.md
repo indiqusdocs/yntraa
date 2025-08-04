@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Adding Custom Scripts
 
-Apiculus supports adding custom `<script>` elements to the platform's HTML `<head>` components for execution during rendering of the platform UI in browsers. 
+Yntraa supports adding custom `<script>` elements to the platform's HTML `<head>` components for execution during rendering of the platform UI in browsers. 
 
 This can be useful in a number of cases:
 
@@ -11,7 +11,7 @@ This can be useful in a number of cases:
 - You want to write a custom function or logic to control how and what elements render on the web page.
 - You don't want ad-blockers or privacy-focused browsers to flag external scripts (for example, Google Analytics, Tag Manager etc.) as ads.
 
-Custom scripts can be added individually to Apiculus Cloud Console and to the Admin Console. To add a custom script, navigate to **Settings > Custom Scripts** from the user menu on the top right of the Apiculus Admin Console and paste the script in either of the text boxes as appropriate.
+Custom scripts can be added individually to Yntraa cloud platform and to the Admin Console. To add a custom script, navigate to **Settings > Custom Scripts** from the user menu on the top right of the Yntraa Admin platform and paste the script in either of the text boxes as appropriate.
 
 :::note
 The script should be wrapped between `<script>` and `</script>` tags.

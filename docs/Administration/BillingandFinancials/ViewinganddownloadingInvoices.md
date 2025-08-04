@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Viewing and Downloading Invoices
 
-You can view all invoices that are generated on the Apiculus system. Apiculus stores invoices as downloadable and printable .pdf files that are stored on the Apiculus management server(s) on the service provider premises.
+You can view all invoices that are generated on the Yntraa system. Yntraa stores invoices as downloadable and printable .pdf files that are stored on the Yntraa management server(s) on the service provider premises.
 
 Invoices contain the following (blocks of) information:
 - Invoice details (invoice ID, bill/due dates, payable amount)
@@ -25,7 +25,7 @@ You can download the invoices in the following ways:
 2. Click on  ![Download Button](img/downloadblack.png) (download icon) to download the required invoice. 
 
 :::note
-Apiculus allows complete customisation of the invoice template according to brand, local and national compliance requirements. For any invoice customisation request, a ticket may be raised to the Support support team.
+Yntraa allows complete customisation of the invoice template according to brand, local and national compliance requirements. For any invoice customisation request, a ticket may be raised to the Support support team.
 :::
 
 

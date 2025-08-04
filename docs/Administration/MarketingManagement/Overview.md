@@ -7,7 +7,7 @@ To cater to the service provider’s marketing needs, service providers can crea
 
 The Marketing section provides admins this ability to boost their marketing strategy. Admins can create any number of vouchers that can be redeemed by the subscriber. Various discount codes can be created and distributed among end customers all depending on the service provider's marketing strategy. This is essential for go-to-market (GTM) strategy and can be a key factor for existing customers.
 
-Marketing features for service providers on Apiculus extend across:
+Marketing features for service providers on Yntraa extend across:
 
 - [One-time cash coupons using a voucher code](WorkingwithCoupons)
 - [Time-based promotions using discount codes](WorkingwithDiscountCodes)

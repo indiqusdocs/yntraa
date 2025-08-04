@@ -8,7 +8,7 @@ You can configure the static content that the users can view from their portal. 
 Navigate to **Administration** > **Settings** > **Content** to customise the standard static content.
 ![Publishing](img/Publishing1.png)
 
-Apiculus includes a built-in content versioning and management system. Each time a static content document is updated, the system triggers an acceptance from all subscribers and admin users.
+Yntraa includes a built-in content versioning and management system. Each time a static content document is updated, the system triggers an acceptance from all subscribers and admin users.
 ## Updating Standard Content/Policies
 
 To update the standard content/policies:

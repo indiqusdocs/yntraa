@@ -5,14 +5,14 @@ sidebar_position: 2
 
 ## Software Version
 
-Apiculus supports NetScaler VPX version 13.
+Yntraa supports NetScaler VPX version 13.
 
 ## Software License
 
 NetScaler VPX requires a valid software license to operate. Licensing details, including the types of licenses available, feature sets, and subscription options, can be obtained from the Citrix website, by contacting Citrix Sales or from any of the authorised partners of Citrix. The licensing terms and pricing may vary depending on your requirements and deployment model. 
 
 :::note
-Apiculus does not include NetScaler VPX licenses.
+Yntraa does not include NetScaler VPX licenses.
 :::
 
 ## Networking and VM Requirements

@@ -3,9 +3,9 @@ sidebar_position: 1
 ---
 # Building Blocks
 
-Apiculus Cloud Console is the topmost layer on a technology stack that is fine-tuned and optimised for performance, features and experience. The Apiculus solution uses Enterprise-grade components to handle various facets of infrastructure management and service delivery.
+Yntraa cloud platform is the topmost layer on a technology stack that is fine-tuned and optimised for performance, features and experience. The Yntraa solution uses Enterprise-grade components to handle various facets of infrastructure management and service delivery.
 
-In short, the building blocks of Apiculus are:
+In short, the building blocks of Yntraa are:
 
 - [Apiculus Cloud Console and Admin Console](/docs/AboutServiceProviderAdministration/AdminConsole) - service provider administration, subscriber CMP, billing, service catalogues, platform administration
 - [Apache CloudStack](https://cloudstack.apache.org/) - orchestrator to facilitate virtual infrastructure and asset provisioning

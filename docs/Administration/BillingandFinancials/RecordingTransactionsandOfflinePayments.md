@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 # Recording Transactions and Offline Payments
 
-You can record payments received outside the Apiculus system as Transactions using the Apiculus Admin Cloud Console. These payments may either be against invoices that are open or advance payments that adjust against invoices generated in future.
+You can record payments received outside the Yntraa system as Transactions using the Yntraa Admin cloud platform. These payments may either be against invoices that are open or advance payments that adjust against invoices generated in future.
 
 You can record transactions at the account level and from global section of the Admin Cloud Console.
 ## Recording Single Transactions

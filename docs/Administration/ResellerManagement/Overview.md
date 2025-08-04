@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Overview
 
-The reseller and channel management feature on Apiculus is aimed at service providers who have partners and customer acquisition channels. Service provider administrators can manage resellers, and each reseller can log in to view accounts that are tagged using their respective reseller codes.
+The reseller and channel management feature on Yntraa is aimed at service providers who have partners and customer acquisition channels. Service provider administrators can manage resellers, and each reseller can log in to view accounts that are tagged using their respective reseller codes.
 
 :::note
 This is an experimental feature and offers limited functionality. This is not to be construed as a white-label partner/distribution management module. This feature is under further development.

@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Updating Subscription Charges
 
-The Apiculus Admin Cloud Console offers an easy way of handling subscription price changes. Admins can update subscription prices after a resource has been created and bring the new prices in effect from the current billing cycle.
+The Yntraa Admin cloud platform offers an easy way of handling subscription price changes. Admins can update subscription prices after a resource has been created and bring the new prices in effect from the current billing cycle.
 
 Subscription price updates can be made from the subscriptions listing under an account's details or from the global list under **Billing and Financials**.
 

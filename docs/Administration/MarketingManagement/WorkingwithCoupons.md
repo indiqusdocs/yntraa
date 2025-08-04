@@ -7,7 +7,7 @@ sidebar_position: 3
 
 To access Coupons, navigate to **Marketing > Promotions** section in the main admin navigation panel and switching the view to show Coupons using the switcher dropdown at the top of the listing.
 
-Apiculus comes with a built-in mini dashboard for viewing information related to Coupons. It  highlights the **Total** value of coupons, **Active** value of coupons, **Used** Value of coupons, and **Expired** value of coupons. The details are listed below:
+Yntraa comes with a built-in mini dashboard for viewing information related to Coupons. It  highlights the **Total** value of coupons, **Active** value of coupons, **Used** Value of coupons, and **Expired** value of coupons. The details are listed below:
 
 - It shows the information of all the coupon codes that have been created till now. Using the showing filter, the active, expired, used and disabled coupon codes information can be filtered and viewed.![Working with Coupons](img/Coupons1.png)
 
@@ -43,5 +43,5 @@ A confirmation message appears. Click **Send Email** to send the email to the c
 ![Working with Coupons](img/Coupons7.png)
 
 ## Redeeming Coupons
-Subscriber/customers can redeem Coupons from the [Wallet](/docs/Subscribers/AccountCentre/WalletandTransactions) section of their [Account Centre](/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre). Redeeming a Coupon will instantly add the Coupon value to their service balance/wallet.
+Subscriber/customers can redeem Coupons from the [Wallet](/docs/Subscribers/AccountCentre/WalletandTransactions) section of their [Account Centre](AboutYntraaAccountCentre.md). Redeeming a Coupon will instantly add the Coupon value to their service balance/wallet.
 

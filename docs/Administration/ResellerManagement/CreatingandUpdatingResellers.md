@@ -7,14 +7,14 @@ sidebar_position: 2
 [This feature requires the reseller module to be enabled.](/docs/GettingStarted/AdvancedConfigurations/EnablingResellerModule)
 :::
 
-Resellers can be created by navigating to the **Resellers** section on the main navigation panel. Apiculus lets admins create custom reseller codes for each reseller, which can be used during subscriber account creation.
+Resellers can be created by navigating to the **Resellers** section on the main navigation panel. Yntraa lets admins create custom reseller codes for each reseller, which can be used during subscriber account creation.
 
 ![Creating and Updating Resellers](img/reseller1.png)
 
 Admins can define a **Commission Percentage** while creating a reseller. This information can be used at the time of managing billing between the service provider and the reseller.
 
 :::note
-Reseller billing is not handled on the Apiculus platform as all invoices are generated on the system and sent directly to the end customers.
+Reseller billing is not handled on the Yntraa cloud platform as all invoices are generated on the system and sent directly to the end customers.
 :::
 
 ## Updating a Reseller

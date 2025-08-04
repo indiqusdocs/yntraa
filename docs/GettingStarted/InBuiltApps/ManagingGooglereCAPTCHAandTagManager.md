@@ -3,9 +3,9 @@ sidebar_position: 2
 ---
 # Managing Google reCAPTCHA and Tag Manager
 
-Apiculus supports form protection and marketing stack integration as in-built apps using [Google reCAPTCHA](https://www.google.com/recaptcha/) and [Google Tag Manager (GTM)](https://tagmanager.google.com/), respectively.
+Yntraa supports form protection and marketing stack integration as in-built apps using [Google reCAPTCHA](https://www.google.com/recaptcha/) and [Google Tag Manager (GTM)](https://tagmanager.google.com/), respectively.
 
-The required credentials can be obtained from the Google reCAPTCHA admin (site key and secret key) and Google Tag Manager account (GTM container ID) dashboards and used with Apiculus. 
+The required credentials can be obtained from the Google reCAPTCHA admin (site key and secret key) and Google Tag Manager account (GTM container ID) dashboards and used with Yntraa. 
 
 1. To manage the credentials, navigate to **Administration** > **Settings > Extensions > Google**.
    ![Managing Google reCAPTCHA and Tag Manager](img/ManagingGooglereCAPTCHAandTagManager.png)
@@ -14,7 +14,7 @@ The required credentials can be obtained from the Google reCAPTCHA admin (site k
 4. Click **Publish Settings**.
 
 :::note
-Apiculus supports only Invisible reCAPTCHA v2. Using reCAPTCHA is mandatory, but using GTM is optional.
+Yntraa supports only Invisible reCAPTCHA v2. Using reCAPTCHA is mandatory, but using GTM is optional.
 :::
 
 

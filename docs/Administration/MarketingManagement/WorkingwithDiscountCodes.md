@@ -51,7 +51,7 @@ A confirmation message appears. Click **Confirm** to send the email to the cust
 
 ## Applying Discount Codes
 
-Subscribers/customers can view and apply all available Discount Codes at the time of purchase confirmation on all supported Services in Apiculus Cloud Console.
+Subscribers/customers can view and apply all available Discount Codes at the time of purchase confirmation on all supported Services in Yntraa cloud platform.
 
 :::note
 Discount-deflated amounts are permanent, i.e., any Service subscribed at a discounted rate using a Discount Code will carry the discounted price for its lifetime.

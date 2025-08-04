@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Configuring System Emails using SMTP
 
-Apiculus Cloud Console is the top layer of the technology stack that is fine-tuned and Apiculus delivers all system-generated emails, messages and notifications using SMTP. Any valid email address can be set up as the system email sender using standard SMTP settings.
+Yntraa cloud platform is the top layer of the technology stack that is fine-tuned and Yntraa delivers all system-generated emails, messages and notifications using SMTP. Any valid email address can be set up as the system email sender using standard SMTP settings.
 
 1. Navigate to **Administration** > **Settings > Marketing & Communications > Email**.
    ![Configuring System Emails using SMTP](img/ConfiguringSystemEmailsusingSMTP.png)

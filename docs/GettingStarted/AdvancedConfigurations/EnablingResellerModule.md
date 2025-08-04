@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Enabling Reseller Module
 
-Apiculus ships with an experimental Reseller Module, which allows service providers to onboard subscribers/customers via a reseller partner. This is limited-functionality partner module, which enables the following:
+Yntraa ships with an experimental Reseller Module, which allows service providers to onboard subscribers/customers via a reseller partner. This is limited-functionality partner module, which enables the following:
 
 1. Adding resellers to the system and assigning unique reseller codes to each.
 2. Allowing end customers to signup using a valid reseller code to associate the account with the corresponding reseller.

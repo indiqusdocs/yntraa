@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
 ---
-# About Apiculus Object Storage
+# About Yntraa Object Storage
 
-Apiculus Object Storage (AS3) provides scalable and flexible storage for unstructured data in the form of objects. In object storage, data is stored as discrete objects containing data, metadata, and a unique identifier. Apiculus delivers the service as an integration with Cloudian HyperStore.
+Yntraa Object Storage (YS3) provides scalable and flexible storage for unstructured data in the form of objects. In object storage, data is stored as discrete objects containing data, metadata, and a unique identifier. Yntraa delivers the service as an integration with Cloudian HyperStore.
 
 ![Apiculus Object Storage](img/ApiculusObjectStorage.png)
 

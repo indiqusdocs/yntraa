@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Supported Payment Gateways
 
-The following payment gateways are supported on Apiculus to receive payments:
+The following payment gateways are supported on Yntraa to receive payments:
 
 - [Razorpay (India)](https://razorpay.com/)
 - [Stripe (global)](https://stripe.com/)
@@ -22,7 +22,7 @@ The following payment gateways are supported on Apiculus to receive payments:
 - DataWorld (Nepal) - In-house Gateway for DataWorld. Not available globally.
 
 :::note
-Apiculus supports the listed payment gateways in a **redirect** mode. Auto-debits and recurring payments are not currently supported.
+Yntraa supports the listed payment gateways in a **redirect** mode. Auto-debits and recurring payments are not currently supported.
 :::
 
 

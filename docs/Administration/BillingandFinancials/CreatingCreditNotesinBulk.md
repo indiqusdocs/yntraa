@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 # Creating Credit Notes in Bulk
 
-Apiculus offers the means to upload credit notes in bulk (generate unique credit notes based on multiple linked invoices). 
+Yntraa offers the means to upload credit notes in bulk (generate unique credit notes based on multiple linked invoices). 
 
 Navigate to **Billing and Financials > Credit Notes**. Then, click the **Add Credit Notes** button. ![Creating Credit Notes in Bulk](img/CreatingCreditNotesinBulk2.png)
 

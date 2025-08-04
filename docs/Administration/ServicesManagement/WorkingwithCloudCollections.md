@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 # Working with Cloud Collections
-A Cloud Collection (CC) on Apiculus is a grouping of repeating components (called Collection Items) that can be published to offer options/configurations for subscribers to choose from when purchasing a cloud resource. Apiculus CC can be based on a variety of factors, some examples of which are listed below:
+A Cloud Collection (CC) on Yntraa is a grouping of repeating components (called Collection Items) that can be published to offer options/configurations for subscribers to choose from when purchasing a cloud resource. Yntraa CC can be based on a variety of factors, some examples of which are listed below:
 
 | Type of Collection     | Collection Title (Example)                                                              | Collection Items (Example)                                                                                 |
 | ---------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -38,7 +38,7 @@ A Cloud Collection (CC) on Apiculus is a grouping of repeating components (calle
 Cloud Collections are dependent on Availability Zones, which means that the same collection needs to be created for each AZ to make it available across multiple AZs.
 :::
 ## Adding Collection Items
-Once a Cloud Collection is created, you can add Collection Items by going into the collection's details and choosing from the upload options. Each collection 'type' has its own specific item types and the Apiculus Admin Console UI lists the sections accordingly. There are two ways of creating Collection Items:
+Once a Cloud Collection is created, you can add Collection Items by going into the collection's details and choosing from the upload options. Each collection 'type' has its own specific item types and the Yntraa Admin platform UI lists the sections accordingly. There are two ways of creating Collection Items:
 - **Upload Using Template** – This option gives a way to bulk-upload Collection Items; useful for adding multiple items together, but prone to error as data entered manually to the spreadsheet/template is only validated at the time of upload.
 - **Add Using UI** – This option gives a way to create Collection Items individually; useful as chances of misconfigurations are low since the UI shows a list of available options to choose from.
 ## Publishing and Managing Collections
@@ -50,7 +50,7 @@ Collections may be published after all required details and items have been adde
 - The Availability Zone - Cloud Collection mapping can not be modified after a collection is created.
 
 :::note
-If any resource in the underlying ISV is recreated, the corresponding Collection Item must be updated in Apiculus failing which, any resource purchase action that uses this Collection Item will fail.
+If any resource in the underlying ISV is recreated, the corresponding Collection Item must be updated in Yntraa failing which, any resource purchase action that uses this Collection Item will fail.
 :::
 
 

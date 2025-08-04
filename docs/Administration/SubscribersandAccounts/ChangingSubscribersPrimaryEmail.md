@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 # Changing Subscriber’s Primary Email
 
-The Apiculus Admin Console allows you to change the customer’s primary email ID. The Primary email ID can be updated anytime through simple and verifiable steps with the notification sent to both the new and old email IDs.
+The Yntraa Admin platform allows you to change the customer’s primary email ID. The Primary email ID can be updated anytime through simple and verifiable steps with the notification sent to both the new and old email IDs.
 ## Steps for Changing the Primary Email
 1. Navigate to **Account Management** > **Select Account**> **Edit Account**.
 2. Under the **Details** section, click on the **Change Primary Email** button.
