@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a33'),
+    component: ComponentCreator('/docs', '357'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '397'),
+        component: ComponentCreator('/docs', '056'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'dcb'),
+            component: ComponentCreator('/docs', '4d5'),
             routes: [
               {
                 path: '/docs/AboutServiceProviderAdministration/AdminConsole',
@@ -1637,8 +1637,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre', '574'),
+                path: '/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre', '69e'),
                 exact: true,
                 sidebar: "sidebar2"
               },
