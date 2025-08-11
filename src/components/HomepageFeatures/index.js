@@ -6,11 +6,11 @@ const FeatureList = [
 //    link: '/docs/intro',
 //    description: 'Click here to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.',
 //  },
-  {
-   title: 'Subscribers',
-    link: '/docs/Subscribers/intro',
-    description: 'Click here to access detailed documentation on all services supported and delivered via the Yntraa Cloud Platform.',
-  },
+//  {
+//   title: 'Subscribers',
+//    link: '/docs/Subscribers/intro',
+//    description: 'Click here to access detailed documentation on all services supported and delivered via the Yntraa Cloud Platform.',
+//  },
 //  {
 //    title: 'Release Notes',
 //    link: '/docs/category/release-notes',

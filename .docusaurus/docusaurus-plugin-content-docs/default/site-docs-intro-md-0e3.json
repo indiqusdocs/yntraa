@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Welcome",
-  "description": "Yntraa cloud platform is an end-to-end cloud-as-a-service solution that addresses the technology, business enablement and customer experience needs of regional, domestic and edge cloud service providers. Yntraa cloud platform presents itself as an all-in-one technology platform that combines cloud service monetisation, infrastructure management and customer life cycle management, and offers an integrated solution for cloud providers in edge markets.",
+  "description": "Welcome to Yntraa! As a subscriber, you have access to a powerful platform designed to simplify and enhance the management of your cloud and network services. Yntraa offers a range of tools to help you streamline operations, automate tasks, and optimize your digital services.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -13,10 +13,5 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
-  },
-  "sidebar": "sidebar1",
-  "next": {
-    "title": "Wallet and Transactions",
-    "permalink": "/docs/category/wallet-and-transactions"
   }
 }

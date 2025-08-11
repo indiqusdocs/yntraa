@@ -32,7 +32,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\prkumar\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -55,7 +55,7 @@ export default {
   ],
   "plugins": [
     [
-      "C:\\Users\\prkumar\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
@@ -80,9 +80,15 @@ export default {
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "sidebar2",
+          "sidebarId": "sidebar1",
           "position": "left",
           "label": "Docs"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "sidebar2",
+          "position": "left",
+          "label": "FAQs"
         },
         {
           "href": "https://yntraa.com",

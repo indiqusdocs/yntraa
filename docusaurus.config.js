@@ -132,10 +132,16 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 
 		  {
             type: 'docSidebar',
-            sidebarId: 'sidebar2',
+            sidebarId: 'sidebar1',
             position: 'left',
             label: 'Docs',
           },
+		  	{
+          type: 'docSidebar',
+          sidebarId: 'sidebar2',
+          position: 'left',
+          label: 'FAQs',
+        },
 	    	//  {
           //  type: 'docSidebar',
           //  sidebarId: 'sidebar4',

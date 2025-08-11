@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} Documentation`}
-      description="Apiculus Documentation">
+      description="Yntraa Technical Documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
