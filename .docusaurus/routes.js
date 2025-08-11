@@ -84,22 +84,16 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '357'),
+    component: ComponentCreator('/docs', 'a03'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '056'),
+        component: ComponentCreator('/docs', 'ba6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '4d5'),
+            component: ComponentCreator('/docs', 'b25'),
             routes: [
-              {
-                path: '/docs/AboutServiceProviderAdministration/AdminConsole',
-                component: ComponentCreator('/docs/AboutServiceProviderAdministration/AdminConsole', 'ebe'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
               {
                 path: '/docs/AboutServiceProviderAdministration/ISVConsoles',
                 component: ComponentCreator('/docs/AboutServiceProviderAdministration/ISVConsoles', 'b5a'),
@@ -253,24 +247,6 @@ export default [
               {
                 path: '/docs/Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory',
                 component: ComponentCreator('/docs/Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory', 'aa1'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Administration/MarketingManagement/Overview',
-                component: ComponentCreator('/docs/Administration/MarketingManagement/Overview', '5f6'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Administration/MarketingManagement/WorkingwithCoupons',
-                component: ComponentCreator('/docs/Administration/MarketingManagement/WorkingwithCoupons', '8bd'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Administration/MarketingManagement/WorkingwithDiscountCodes',
-                component: ComponentCreator('/docs/Administration/MarketingManagement/WorkingwithDiscountCodes', '4ea'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -791,12 +767,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/introduction',
-                component: ComponentCreator('/docs/category/introduction', '7d5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/category/ipv4-based-networking',
                 component: ComponentCreator('/docs/category/ipv4-based-networking', '25a'),
                 exact: true,
@@ -889,12 +859,6 @@ export default [
               {
                 path: '/docs/category/managing-quick-plans',
                 component: ComponentCreator('/docs/category/managing-quick-plans', '435'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/marketing-management',
-                component: ComponentCreator('/docs/category/marketing-management', 'ea9'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1225,36 +1189,6 @@ export default [
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', 'fdd'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Introduction/AccessCentral',
-                component: ComponentCreator('/docs/Introduction/AccessCentral', '7b5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Introduction/BillingConcepts',
-                component: ComponentCreator('/docs/Introduction/BillingConcepts', '0f1'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Introduction/BuildingBlocks',
-                component: ComponentCreator('/docs/Introduction/BuildingBlocks', '923'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Introduction/SupportedPaymentGateways',
-                component: ComponentCreator('/docs/Introduction/SupportedPaymentGateways', '291'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Introduction/SupportedSMSGateways',
-                component: ComponentCreator('/docs/Introduction/SupportedSMSGateways', 'a2a'),
                 exact: true,
                 sidebar: "sidebar1"
               },

@@ -11,11 +11,6 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "AboutServiceProviderAdministration/AdminConsole",
-              "path": "/docs/AboutServiceProviderAdministration/AdminConsole",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "AboutServiceProviderAdministration/ISVConsoles",
               "path": "/docs/AboutServiceProviderAdministration/ISVConsoles",
               "sidebar": "sidebar1"
@@ -143,21 +138,6 @@
             {
               "id": "Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory",
               "path": "/docs/Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/MarketingManagement/Overview",
-              "path": "/docs/Administration/MarketingManagement/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/MarketingManagement/WorkingwithCoupons",
-              "path": "/docs/Administration/MarketingManagement/WorkingwithCoupons",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/MarketingManagement/WorkingwithDiscountCodes",
-              "path": "/docs/Administration/MarketingManagement/WorkingwithDiscountCodes",
               "sidebar": "sidebar1"
             },
             {
@@ -548,31 +528,6 @@
             {
               "id": "intro",
               "path": "/docs/intro",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/AccessCentral",
-              "path": "/docs/Introduction/AccessCentral",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/BillingConcepts",
-              "path": "/docs/Introduction/BillingConcepts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/BuildingBlocks",
-              "path": "/docs/Introduction/BuildingBlocks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/SupportedPaymentGateways",
-              "path": "/docs/Introduction/SupportedPaymentGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/SupportedSMSGateways",
-              "path": "/docs/Introduction/SupportedSMSGateways",
               "sidebar": "sidebar1"
             },
             {
@@ -1536,11 +1491,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/introduction",
-              "path": "/docs/category/introduction",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/about-service-providers-administration",
               "path": "/docs/category/about-service-providers-administration",
               "sidebar": "sidebar1"
@@ -1663,11 +1613,6 @@
             {
               "id": "/category/billing-and-financials-1",
               "path": "/docs/category/billing-and-financials-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/marketing-management",
-              "path": "/docs/category/marketing-management",
               "sidebar": "sidebar1"
             },
             {

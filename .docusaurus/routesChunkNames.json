@@ -212,22 +212,18 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-357": {
+  "/docs-a03": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-056": {
+  "/docs-ba6": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-4d5": {
+  "/docs-b25": {
     "__comp": "a94703ab"
-  },
-  "/docs/AboutServiceProviderAdministration/AdminConsole-ebe": {
-    "__comp": "17896441",
-    "content": "b3d5b0de"
   },
   "/docs/AboutServiceProviderAdministration/ISVConsoles-b5a": {
     "__comp": "17896441",
@@ -332,18 +328,6 @@
   "/docs/Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory-aa1": {
     "__comp": "17896441",
     "content": "564a153e"
-  },
-  "/docs/Administration/MarketingManagement/Overview-5f6": {
-    "__comp": "17896441",
-    "content": "4af02927"
-  },
-  "/docs/Administration/MarketingManagement/WorkingwithCoupons-8bd": {
-    "__comp": "17896441",
-    "content": "495e3c30"
-  },
-  "/docs/Administration/MarketingManagement/WorkingwithDiscountCodes-4ea": {
-    "__comp": "17896441",
-    "content": "6fca35a8"
   },
   "/docs/Administration/ResellerManagement/CreatingandUpdatingResellers-2c1": {
     "__comp": "17896441",
@@ -689,10 +673,6 @@
     "__comp": "14eb3368",
     "__props": "90ba3800"
   },
-  "/docs/category/introduction-7d5": {
-    "__comp": "14eb3368",
-    "__props": "73c6e09c"
-  },
   "/docs/category/ipv4-based-networking-25a": {
     "__comp": "14eb3368",
     "__props": "e960addf"
@@ -756,10 +736,6 @@
   "/docs/category/managing-quick-plans-435": {
     "__comp": "14eb3368",
     "__props": "618e6859"
-  },
-  "/docs/category/marketing-management-ea9": {
-    "__comp": "14eb3368",
-    "__props": "37c88daa"
   },
   "/docs/category/nat-gateways-049": {
     "__comp": "14eb3368",
@@ -980,26 +956,6 @@
   "/docs/intro-fdd": {
     "__comp": "17896441",
     "content": "0e384e19"
-  },
-  "/docs/Introduction/AccessCentral-7b5": {
-    "__comp": "17896441",
-    "content": "f6655c7a"
-  },
-  "/docs/Introduction/BillingConcepts-0f1": {
-    "__comp": "17896441",
-    "content": "d5db3dbe"
-  },
-  "/docs/Introduction/BuildingBlocks-923": {
-    "__comp": "17896441",
-    "content": "b6b28b00"
-  },
-  "/docs/Introduction/SupportedPaymentGateways-291": {
-    "__comp": "17896441",
-    "content": "23b1ff20"
-  },
-  "/docs/Introduction/SupportedSMSGateways-a2a": {
-    "__comp": "17896441",
-    "content": "29861058"
   },
   "/docs/ReleaseNotes/Ver11000-427": {
     "__comp": "17896441",
