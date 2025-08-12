@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Yntraa Technical Documentation",
-  "tagline": "Find user guides, quickstarts, and, FAQs.",
+  "tagline": "Welcome to Yntraa! A powerful platform designed to simplify and enhance the management of your cloud and network services.\nExplore our comprehensive User Guide, helpful FAQs, and detailed Knowledge Base to streamline operations, automate tasks, and optimize your digital services.",
   "favicon": "img/favicon.ico",
   "url": "https://docs.yntraa.com",
   "baseUrl": "/",
@@ -32,7 +32,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\prkumar\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -55,7 +55,7 @@ export default {
   ],
   "plugins": [
     [
-      "C:\\Users\\prkumar\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }

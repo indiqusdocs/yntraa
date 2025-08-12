@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Yntraa Technical Documentation',
-  tagline: 'Find user guides, quickstarts, and, FAQs.',
+  tagline: 'Welcome to Yntraa! A powerful platform designed to simplify and enhance the management of your cloud and network services.\nExplore our comprehensive User Guide, helpful FAQs, and detailed Knowledge Base to streamline operations, automate tasks, and optimize your digital services.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
