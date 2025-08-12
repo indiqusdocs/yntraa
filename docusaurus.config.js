@@ -127,8 +127,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 //            sidebarId: 'sidebar1',
 //            position: 'left',
 //            label: 'Service Providers',
-//			position: "left",
-//          },
+//			  },
 
 		  {
             type: 'docSidebar',
@@ -141,6 +140,12 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
           sidebarId: 'sidebar2',
           position: 'left',
           label: 'FAQs',
+			},
+		  {
+          type: 'docSidebar',
+          sidebarId: 'sidebar3',
+          position: 'left',
+          label: 'Knowledge Base',
         },
 	    	//  {
           //  type: 'docSidebar',

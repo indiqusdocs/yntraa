@@ -91,6 +91,12 @@ export default {
           "label": "FAQs"
         },
         {
+          "type": "docSidebar",
+          "sidebarId": "sidebar3",
+          "position": "left",
+          "label": "Knowledge Base"
+        },
+        {
           "href": "https://yntraa.com",
           "label": "Yntraa Cloud Platform",
           "position": "right",

@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5ae'),
+    component: ComponentCreator('/docs', '604'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ddb'),
+        component: ComponentCreator('/docs', 'f4a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '267'),
+            component: ComponentCreator('/docs', 'cc7'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -260,6 +260,30 @@ export default [
                 component: ComponentCreator('/docs/category/windows-instances', 'a38'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Knowledgebase/intro',
+                component: ComponentCreator('/docs/Knowledgebase/intro', '3be'),
+                exact: true,
+                sidebar: "sidebar3"
+              },
+              {
+                path: '/docs/Knowledgebase/LoggingIn',
+                component: ComponentCreator('/docs/Knowledgebase/LoggingIn', '26a'),
+                exact: true,
+                sidebar: "sidebar3"
+              },
+              {
+                path: '/docs/Knowledgebase/ResettingPassword',
+                component: ComponentCreator('/docs/Knowledgebase/ResettingPassword', '008'),
+                exact: true,
+                sidebar: "sidebar3"
+              },
+              {
+                path: '/docs/Knowledgebase/SigningUp',
+                component: ComponentCreator('/docs/Knowledgebase/SigningUp', '1d7'),
+                exact: true,
+                sidebar: "sidebar3"
               },
               {
                 path: '/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre',

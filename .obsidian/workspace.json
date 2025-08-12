@@ -11,14 +11,12 @@
             "id": "3afd1fe7567fdff9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Knowledgebase/welcome.png"
               },
-              "icon": "lucide-file",
-              "title": "AboutLoadBalancerInstances"
+              "icon": "lucide-image",
+              "title": "welcome"
             }
           }
         ]
@@ -166,6 +164,15 @@
   },
   "active": "3afd1fe7567fdff9",
   "lastOpenFiles": [
+    "docs/Knowledgebase/SigningUp.md",
+    "docs/Knowledgebase/ResettingPassword.md",
+    "docs/Knowledgebase/LoggingIn.md",
+    "docs/Knowledgebase/intro.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
+    "docs/Knowledgebase/welcome.png",
+    "docs/Knowledgebase/FAQs.md",
+    "docs/Knowledgebase",
+    "docs/New folder",
     "build/assets/images/zoneapiculus-a765bdaad68ac148e59296ead6487a7a.png",
     "build/assets/images/zone-a30b2ba0ce0bb03e43b20a1c518480b1.png",
     "build/assets/images/yntraaos-4b51599dbb06da2cd5b2be0025df052a.jpg",
@@ -175,8 +182,6 @@
     "build/assets/images/winstance4-63f1dfac26a7b274b60b48c220fb8f96.png",
     "build/assets/images/winstance2-f150b4be9cf851002f892aff50f5037d.png",
     "build/assets/images/winstance3-5177dca11ecb410e6e28ba9a99bfe336.png",
-    "build/assets/images/winstance1-c8f91b047136dba3294f783262201f8a.png",
-    "build/assets/images/welcome-997c21c60a36e17cc40315965007adf6.png",
     "build/assets/js/runtime~main.642a899e.js",
     "build/assets/js/main.0b15b3c8.js.LICENSE.txt",
     "build/assets/js/fdfbf231.4080b496.js",
@@ -185,8 +190,6 @@
     "build/assets/js/fc216549.0aad7eab.js",
     "build/assets/js/fb434cf8.c146dfbc.js",
     "build/assets/js/fa1767d7.f8490124.js",
-    "build/assets/js/fa0ed69a.c1d37485.js",
-    "build/assets/js/f8da5119.8ef16e0f.js",
     "docs/Subscribers/intro.md",
     "docs/intro.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
@@ -207,11 +210,6 @@
     "docs/LoggingIn.md",
     "docs/Subscribers/ResettingPassword.md",
     "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
-    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
-    "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "docs/Subscribers/AccountCentre/StandardAgreements.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

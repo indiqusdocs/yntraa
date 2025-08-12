@@ -11,6 +11,26 @@
           "mainDocId": "Subscribers/intro",
           "docs": [
             {
+              "id": "Knowledgebase/intro",
+              "path": "/docs/Knowledgebase/intro",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/LoggingIn",
+              "path": "/docs/Knowledgebase/LoggingIn",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/ResettingPassword",
+              "path": "/docs/Knowledgebase/ResettingPassword",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/SigningUp",
+              "path": "/docs/Knowledgebase/SigningUp",
+              "sidebar": "sidebar3"
+            },
+            {
               "id": "Subscribers/AccountCentre/AboutYntraaAccountCentre",
               "path": "/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre",
               "sidebar": "sidebar1"
@@ -768,6 +788,12 @@
               "link": {
                 "path": "/docs/Subscribers/FAQs",
                 "label": "FAQs"
+              }
+            },
+            "sidebar3": {
+              "link": {
+                "path": "/docs/Knowledgebase/intro",
+                "label": "Knowledgebase/intro"
               }
             }
           }

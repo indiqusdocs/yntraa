@@ -255,17 +255,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-5ae": {
+  "/docs-604": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-ddb": {
+  "/docs-f4a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-267": {
+  "/docs-cc7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -355,6 +355,22 @@
   "/docs/category/windows-instances-a38": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-windows-instances-329-d24"
+  },
+  "/docs/Knowledgebase/intro-3be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledgebase-introaa-8-13e"
+  },
+  "/docs/Knowledgebase/LoggingIn-26a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledgebase-logging-in-011-21e"
+  },
+  "/docs/Knowledgebase/ResettingPassword-008": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledgebase-resetting-password-5-b-2-2ae"
+  },
+  "/docs/Knowledgebase/SigningUp-1d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledgebase-signing-up-076-88d"
   },
   "/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre-3c0": {
     "__comp": "__comp---theme-doc-item-178-a40",

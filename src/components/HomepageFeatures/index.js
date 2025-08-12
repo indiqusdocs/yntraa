@@ -1,21 +1,21 @@
 import React from 'react';
 
 const FeatureList = [
-//  {
-//    title: 'Service Providers',
-//    link: '/docs/intro',
-//    description: 'Click here to read the documents that offer guidance on platform setup, user management, billing, customer support, etc.',
-//  },
-//  {
-//   title: 'Subscribers',
-//    link: '/docs/Subscribers/intro',
-//    description: 'Click here to access detailed documentation on all services supported and delivered via the Yntraa Cloud Platform.',
-//  },
-//  {
-//    title: 'Release Notes',
-//    link: '/docs/category/release-notes',
-//    description: 'Click here to learn about the new features, enhancements, known issues, and bugs in all the releases till date.',
-//  },
+  {
+    title: 'User Documentation',
+   link: '/docs/Subscribers/intro',
+   description: 'Click here to read the instructions to streamline operations, automate tasks, and optimize your digital services.',
+  },
+  {
+   title: 'Frequently Asked Questions',
+  link: '/docs/Subscribers/FAQs',
+  description: 'Click here to access the frequently asked questions.',
+ },
+ {
+    title: 'Knowledge Base',
+    link: '/docs/Knowledgebase/intro',
+    description: 'Click here to access the knowledgebase.',
+  },
 ];
 
 function Feature({ title, description, link }) {
