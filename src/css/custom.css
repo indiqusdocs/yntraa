@@ -332,7 +332,7 @@ img:active {
     color: white;  /* Change the text color */
     border-radius: 25px;  /* Make the button rounded */
     padding: 10px 20px;  /* Adjust padding */
-    font-size: 16px;  /* Adjust font size */
+    font-size: 14px;  /* Adjust font size */
     text-transform: uppercase;  /* Make text uppercase */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Add shadow effect */
     transition: background-color 0.3s ease;  /* Add a hover transition */
@@ -346,13 +346,14 @@ img:active {
 
 /* Title color for both light and dark modes */
 html .hero__title {
-     font-size: 32px; /* Title size */
+/*	line-height: 2.2; */
+     font-size: 22px; /* Title size */
 	color: #000000 !important; /* Force the title color to remain black */
 }
 
 .hero__subtitle {
     color: #334253; /* Replace with your desired description color */
-	font-size: 19px; /* Title size */
+	font-size: 14px; /* Title size */
 }
 
 .title {
@@ -360,5 +361,5 @@ html .hero__title {
 }
 
 .description {
-  font-size: 16px;
+  font-size: 12px;
 }
