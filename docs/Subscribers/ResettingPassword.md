@@ -13,15 +13,14 @@ Resetting your password on the Yntraa cloud platform is a quick and secure proce
 2. Click **Forgot Your Password**, enter your registered email, and click **Submit**.
    ![forgotpassword2](img/forgotpassword2.png)
 
-3. Follow the instructions in your email.
+3. Follow the instructions in your email to reset the password.
    ![forgotpassword3](img/forgotpassword3.png)
-
-4. To update the password. The following screen appears:
    ![forgotpassword4](img/forgotpassword4.png)
 
-5. Enter the following details :
+4. Enter the following details:
    
      - Enter your **New Password**.
      - Re-enter the same password in the **Confirm Password** field.
-     - Click **Submit**.
+       
+5. Click **Submit**.
    

@@ -12,7 +12,7 @@ To log in to your Yntraa cloud platform, follow these steps:
    ![login1](img/login1.png)
    
 2. Enter your **Email** and **Password**.
-3. (Optional) Select the Remember me checkbox to stay signed in on this device
+3. (Optional) Select the **Remember me** checkbox to stay signed in on this device
 4. Click **Sign In**.
    
 

@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '604'),
+    component: ComponentCreator('/docs', 'dcc'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f4a'),
+        component: ComponentCreator('/docs', 'ac7'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'cc7'),
+            component: ComponentCreator('/docs', 'a78'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -227,26 +227,32 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Knowledgebase/intro',
-                component: ComponentCreator('/docs/Knowledgebase/intro', '3be'),
+                path: '/docs/Knowledgebase/IPv4Networking',
+                component: ComponentCreator('/docs/Knowledgebase/IPv4Networking', 'f85'),
                 exact: true,
                 sidebar: "sidebar3"
               },
               {
-                path: '/docs/Knowledgebase/LoggingIn',
-                component: ComponentCreator('/docs/Knowledgebase/LoggingIn', '26a'),
+                path: '/docs/Knowledgebase/WhatisaVirtualFirewallintheCloud',
+                component: ComponentCreator('/docs/Knowledgebase/WhatisaVirtualFirewallintheCloud', '3e1'),
                 exact: true,
                 sidebar: "sidebar3"
               },
               {
-                path: '/docs/Knowledgebase/ResettingPassword',
-                component: ComponentCreator('/docs/Knowledgebase/ResettingPassword', '008'),
+                path: '/docs/Knowledgebase/WhatisaVPC',
+                component: ComponentCreator('/docs/Knowledgebase/WhatisaVPC', '467'),
                 exact: true,
                 sidebar: "sidebar3"
               },
               {
-                path: '/docs/Knowledgebase/SigningUp',
-                component: ComponentCreator('/docs/Knowledgebase/SigningUp', '1d7'),
+                path: '/docs/Knowledgebase/WhatisInstances',
+                component: ComponentCreator('/docs/Knowledgebase/WhatisInstances', 'ed1'),
+                exact: true,
+                sidebar: "sidebar3"
+              },
+              {
+                path: '/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR',
+                component: ComponentCreator('/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR', '182'),
                 exact: true,
                 sidebar: "sidebar3"
               },

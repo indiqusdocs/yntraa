@@ -21,7 +21,7 @@ To access the Yntraa cloud platform, you first need to sign up on the One Yotta 
     - **Company** or **Individual** as your account type.
     - Select the I agree to the **Terms & Conditions and Privacy Policy** checkbox.
 
-4. Click Submit. The following screen appears:
+4. Click **Submit**. The following screen appears:
    ![signup3](img/signup3.png)
 
 5. Follow the instructions in your email and the SMS to verify and activate your account. 
@@ -38,6 +38,7 @@ To access the Yntraa cloud platform, you first need to sign up on the One Yotta 
     - **Address Line 1** (mandatory) and **Address Line 2** (optional).
     - **Country**, **City** and **Postal Code**.
     - (Optional) Select checkbox **GST Applicable** and enter your **GSTIN**.
-    - Taxation: Either **Indian Organization or Individual (Non-SEZ) or Indian Organization or Individual (Located in SEZ)**.
-    - Click **Submit**.
+    - **Taxation**: Either **Indian Organization or Individual (Non-SEZ) or Indian Organization or Individual (Located in SEZ)**.
+      
+8. Click **Submit**.
 

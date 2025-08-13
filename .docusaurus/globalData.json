@@ -11,23 +11,28 @@
           "mainDocId": "Subscribers/intro",
           "docs": [
             {
-              "id": "Knowledgebase/intro",
-              "path": "/docs/Knowledgebase/intro",
+              "id": "Knowledgebase/IPv4Networking",
+              "path": "/docs/Knowledgebase/IPv4Networking",
               "sidebar": "sidebar3"
             },
             {
-              "id": "Knowledgebase/LoggingIn",
-              "path": "/docs/Knowledgebase/LoggingIn",
+              "id": "Knowledgebase/WhatisaVirtualFirewallintheCloud",
+              "path": "/docs/Knowledgebase/WhatisaVirtualFirewallintheCloud",
               "sidebar": "sidebar3"
             },
             {
-              "id": "Knowledgebase/ResettingPassword",
-              "path": "/docs/Knowledgebase/ResettingPassword",
+              "id": "Knowledgebase/WhatisaVPC",
+              "path": "/docs/Knowledgebase/WhatisaVPC",
               "sidebar": "sidebar3"
             },
             {
-              "id": "Knowledgebase/SigningUp",
-              "path": "/docs/Knowledgebase/SigningUp",
+              "id": "Knowledgebase/WhatisInstances",
+              "path": "/docs/Knowledgebase/WhatisInstances",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/WhatisIPAddressSubnetTierandCIDR",
+              "path": "/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR",
               "sidebar": "sidebar3"
             },
             {
@@ -792,8 +797,8 @@
             },
             "sidebar3": {
               "link": {
-                "path": "/docs/Knowledgebase/intro",
-                "label": "Knowledgebase/intro"
+                "path": "/docs/Knowledgebase/IPv4Networking",
+                "label": "Knowledgebase/IPv4Networking"
               }
             }
           }
