@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledgebase/IPv4Networking.md",
+                "file": "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4Networking"
+              "title": "WhatisIPAddressSubnetTierandCIDR"
             }
           }
         ]
@@ -166,6 +166,12 @@
   },
   "active": "3afd1fe7567fdff9",
   "lastOpenFiles": [
+    "docs/Knowledgebase/WhatisaVPC.md",
+    "docs/Knowledgebase/WhatisaVirtualFirewallintheCloud.md",
+    "docs/Knowledgebase/WhatisInstances.md",
+    "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
+    "docs/Knowledgebase/img/3tierednetwork.png",
+    "docs/Knowledgebase/IPv4Networking.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/blog/atom.css",
@@ -176,7 +182,6 @@
     "build/sitemap.xml",
     "build/index.html",
     "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -186,12 +191,6 @@
     "build/img/sbs.svg",
     "build/img/sbs.png",
     "build/img/logolighty.png",
-    "build/img/rn.svg",
-    "docs/Knowledgebase/WhatisaVirtualFirewallintheCloud.md",
-    "docs/Knowledgebase/WhatisaVPC.md",
-    "docs/Knowledgebase/WhatisInstances.md",
-    "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
-    "docs/Knowledgebase/IPv4Networking.md",
     "docs/Subscribers/LoggingIn.md",
     "docs/Subscribers/ResettingPassword.md",
     "docs/Subscribers/SigningUp.md",

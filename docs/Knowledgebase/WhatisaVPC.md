@@ -13,7 +13,7 @@ VPCs commonly follow a **3-tier network architecture**, which is a widely adopte
 - **Application Tier** – Hosts the core business logic and processes requests from the web tier.
 - **Database Tier** – Stores and manages data, typically secured in private subnets with no direct internet access.
 
-![3-Tiered Network Architecture](img/3TieredNetwork.png)
+![3-Tiered Network Architecture](img/3tierednetwork.png)
 This tiered model improves security (by isolating each layer), scalability (you can scale tiers independently), and maintainability.
 ## Use Cases of VPCs
 
