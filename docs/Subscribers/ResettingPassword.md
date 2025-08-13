@@ -3,30 +3,24 @@ sidebar_position: 5
 ---
 # Resetting Password
 
-If you’ve forgotten your One Yotta account password, you can easily reset it by clicking the “Forgot Password?” link on the login page, the following steps to verify your email, and setting a new password:
+Resetting your password on the Yntraa cloud platform is a quick and secure process. Whether you have forgotten your current password or to update it for security reasons.
 
-If you’ve lost access to your One Yotta password or need to change it for security purposes, the following simple steps to reset it:
+To reset your One Yotta account password, follow these step:
 
-1. On the One Yotta login page, click the **Forgot Your Password?** link located beneath the password input field.
-2. **Enter Registered Email**: 
-    - You’ll be redirected to a new screen asking for your registered **email address**.
-    - Enter your email in the input field.
-    - Click the **Submit** button.  
-      
-![forgotpassword1](img/forgotpassword1.png)
-![forgotpassword2](img/forgotpassword2.png)
-
-3. **Check Your Email**: Open your inbox and look for an email from **Yotta** (no-reply@yotta.com) with the subject **Reset password**, which contains a **link to reset your credentials**.
+1. Navigate to [https://account.yotta.com/](https://account.yotta.com/). The following screen appears :
+   ![forgotpassword1](img/forgotpassword1.png)
    
-![forgotpassword3](img/forgotpassword3.png)
+2. Click **Forgot Your Password**, enter your registered email, and click **Submit**.
+    
+    ![forgotpassword2](img/forgotpassword2.png)
 
-4. **Enter New Password**:
-    -  Type your new password in the first input field.
-    - Make sure the password includes at least one uppercase letter, one lowercase letter, one number, one special character, and is 8–15 characters long.
-5. **Confirm New Password**: Re-enter the same password in the second input field to confirm it.
-6. **(Optional) Sign Out of Other Devices**:
-    - There is a checkbox for **Sign out from other devices**
-    - Checked by default — uncheck it if you want to stay signed in elsewhere.
-7. **Submit the Form**: Click the orange **Submit** button to save your new password. Once submitted successfully, you should be able to log in with your new credentials.
+3. Follow the instructions in your email.
+   ![forgotpassword3](img/forgotpassword3.png)
+
+4. The following screen appears :
+   ![forgotpassword4](img/forgotpassword4.png)
+
+     1.  Enter your **New Password** (8–15 characters, including at least one uppercase letter, one lowercase letter, one number, and one special character).
+     2.  Re-enter the same password in the **Confirm Password** field.
+     3.  Click **Submit** to save your new password.
    
-![forgotpassword4](img/forgotpassword4.png)
