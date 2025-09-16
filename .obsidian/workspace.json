@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
+                "file": "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "WhatisIPAddressSubnetTierandCIDR"
+              "title": "AboutLinuxInstances"
             }
           }
         ]
@@ -156,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,35 +167,36 @@
   },
   "active": "3afd1fe7567fdff9",
   "lastOpenFiles": [
-    "docs/Knowledgebase/WhatisaVPC.md",
-    "docs/Knowledgebase/WhatisaVirtualFirewallintheCloud.md",
-    "docs/Knowledgebase/WhatisInstances.md",
-    "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
-    "docs/Knowledgebase/img/3tierednetwork.png",
-    "docs/Knowledgebase/IPv4Networking.md",
-    "build/blog/atom.xml",
     "build/blog/rss.xml",
+    "build/blog/atom.xml",
     "build/blog/atom.css",
     "build/blog/rss.css",
     "build/blog/atom.xsl",
     "build/blog/rss.xsl",
     "build/search-index.json",
     "build/sitemap.xml",
+    "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk",
     "build/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
     "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
     "build/img/sps.svg",
+    "build/img/undraw_docusaurus_react.svg",
     "build/img/sps.png",
-    "build/img/shakti-social-card.png",
+    "build/img/rn.svg",
     "build/img/sbs.svg",
+    "build/img/shakti-social-card.png",
     "build/img/sbs.png",
-    "build/img/logolighty.png",
+    "build/img/rn.png",
     "docs/Subscribers/LoggingIn.md",
     "docs/Subscribers/ResettingPassword.md",
-    "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/intro.md",
+    "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
+    "docs/Knowledgebase/WhatisaVPC.md",
+    "docs/Knowledgebase/WhatisaVirtualFirewallintheCloud.md",
+    "docs/Knowledgebase/WhatisInstances.md",
+    "docs/Knowledgebase/IPv4Networking.md",
+    "docs/Subscribers/SigningUp.md",
     "docs/Knowledgebase/SigningUp.md",
     "docs/Knowledgebase/LoggingIn.md",
     "docs/Knowledgebase/ResettingPassword.md",
