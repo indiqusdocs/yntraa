@@ -14,7 +14,7 @@ const FeatureList = [
  {
     title: 'Knowledge Base',
     link: '/docs/Knowledgebase/IPv4Networking',
-    description: 'Click here to access the knowledgebase.',
+    description: 'Click here to access the knowledge base.',
   },
 ];
 
