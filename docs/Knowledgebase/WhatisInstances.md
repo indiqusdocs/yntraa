@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# What is Instances ?
+# What is Instances?
 
 Cloud computing allows users to run virtual machines called instances, which are flexible, on-demand servers that can run different operating systems. The two most common types of instances available in cloud environments are Linux instances and Windows instances. Both serve unique purposes and cater to different application needs.
 

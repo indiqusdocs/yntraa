@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
 ---
-# What is a Virtual Firewall in the Cloud ?
+# What is a Virtual Firewall in the Cloud?
 
 A virtual firewall is a software-based tool used to protect cloud systems. Just like a physical firewall protects a building from fire, a virtual firewall helps protect your cloud network from harmful or unwanted traffic. It controls the flow of data between different parts of your system and blocks anything suspicious or risky. This keeps your applications and data safe, whether traffic is coming from outside the cloud or moving between parts of the same system.
 
-## Why Use a Virtual Firewall in the Cloud ?
+## Why Use a Virtual Firewall in the Cloud?
 
 In the cloud, many applications and systems are constantly talking to each other. A virtual firewall helps make sure that only safe and approved communication happens. It acts like a traffic officer, checking each request and deciding whether to let it through or not. This is especially important in the cloud, where resources are shared, and mistakes or attacks can spread quickly if not stopped early.
 

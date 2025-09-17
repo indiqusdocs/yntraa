@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-d9c": {
+  "/docs-3fc": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-9b3": {
+  "/docs-98c": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-1e8": {
+  "/docs-d8e": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -268,6 +268,10 @@
   "/docs/category/windows-instances-a38": {
     "__comp": "14eb3368",
     "__props": "3291a1bf"
+  },
+  "/docs/FAQs-ad9": {
+    "__comp": "17896441",
+    "content": "088a4258"
   },
   "/docs/Knowledgebase/IPv4Networking-f85": {
     "__comp": "17896441",
@@ -536,10 +540,6 @@
   "/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots-17e": {
     "__comp": "17896441",
     "content": "315ba90b"
-  },
-  "/docs/Subscribers/FAQs-16b": {
-    "__comp": "17896441",
-    "content": "91e1fafb"
   },
   "/docs/Subscribers/intro-b36": {
     "__comp": "17896441",

@@ -8,12 +8,12 @@ const FeatureList = [
   },
   {
    title: 'Frequently Asked Questions',
-  link: '/docs/Subscribers/FAQs',
+  link: '/docs/FAQs',
   description: 'Click here to access the frequently asked questions.',
  },
  {
     title: 'Knowledge Base',
-    link: '/docs/Knowledgebase/intro',
+    link: '/docs/Knowledgebase/IPv4Networking',
     description: 'Click here to access the knowledgebase.',
   },
 ];

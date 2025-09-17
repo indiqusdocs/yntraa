@@ -11,6 +11,11 @@
           "mainDocId": "Subscribers/intro",
           "docs": [
             {
+              "id": "FAQs",
+              "path": "/docs/FAQs",
+              "sidebar": "sidebar2"
+            },
+            {
               "id": "Knowledgebase/IPv4Networking",
               "path": "/docs/Knowledgebase/IPv4Networking",
               "sidebar": "sidebar3"
@@ -346,11 +351,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/FAQs",
-              "path": "/docs/Subscribers/FAQs",
-              "sidebar": "sidebar2"
-            },
-            {
               "id": "Subscribers/intro",
               "path": "/docs/Subscribers/intro",
               "sidebar": "sidebar1"
@@ -506,7 +506,7 @@
             },
             "sidebar2": {
               "link": {
-                "path": "/docs/Subscribers/FAQs",
+                "path": "/docs/FAQs",
                 "label": "FAQs"
               }
             },

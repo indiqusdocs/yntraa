@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd9c'),
+    component: ComponentCreator('/docs', '3fc'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '9b3'),
+        component: ComponentCreator('/docs', '98c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '1e8'),
+            component: ComponentCreator('/docs', 'd8e'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -159,6 +159,12 @@ export default [
                 component: ComponentCreator('/docs/category/windows-instances', 'a38'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/FAQs',
+                component: ComponentCreator('/docs/FAQs', 'ad9'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
                 path: '/docs/Knowledgebase/IPv4Networking',
@@ -561,12 +567,6 @@ export default [
                 component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots', '17e'),
                 exact: true,
                 sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/FAQs',
-                component: ComponentCreator('/docs/Subscribers/FAQs', '16b'),
-                exact: true,
-                sidebar: "sidebar2"
               },
               {
                 path: '/docs/Subscribers/intro',

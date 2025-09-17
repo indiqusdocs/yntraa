@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-# What is IP Address, Subnet, Tier and CIDR ?
+# What is IP Address, Subnet, Tier and CIDR?
 
  Every device or service in a network—whether it's a virtual machine, load balancer, or database—needs a unique IP address to talk to other devices. It’s like a digital address for communication. For example, a VM may be assigned `192.168.1.10`, which allows it to send and receive data across the network.
 
