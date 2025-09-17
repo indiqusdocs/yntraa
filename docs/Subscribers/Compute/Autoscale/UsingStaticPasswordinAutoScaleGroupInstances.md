@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# Using Static Password In Autoscale Group’s VMs
+# Using Static Password In Autoscale Group’s Instances
 
 1. Create a VPC and add a network tier inside the VPC. 
    ![staticpass1](img/staticpass1.png)  

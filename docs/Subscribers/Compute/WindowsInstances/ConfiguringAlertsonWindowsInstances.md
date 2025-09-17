@@ -11,7 +11,7 @@ Subscribers can configure alerts for instances running on the Yntraa cloud conso
 
 # Instance Alerts
 
-The Alerts tab can be accessed from the instances details. It shows the alerts already configured for that particular VM with following details:
+The Alerts tab can be accessed from the instances details. It shows the alerts already configured for that particular instance with following details:
 - ID
 - Alert Name
 - Parameter

@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-3fc": {
+  "/docs-238": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-98c": {
+  "/docs-c65": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-d8e": {
+  "/docs-c80": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -345,9 +345,9 @@
     "__comp": "17896441",
     "content": "d37d70b0"
   },
-  "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs-727": {
+  "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances-3fd": {
     "__comp": "17896441",
-    "content": "1bbb8da7"
+    "content": "22235b28"
   },
   "/docs/Subscribers/Compute/Kubernetes/AboutKubernetes-0bc": {
     "__comp": "17896441",

@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3fc'),
+    component: ComponentCreator('/docs', '238'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '98c'),
+        component: ComponentCreator('/docs', 'c65'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'd8e'),
+            component: ComponentCreator('/docs', 'c80'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -275,8 +275,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs', '727'),
+                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances', '3fd'),
                 exact: true,
                 sidebar: "sidebar1"
               },

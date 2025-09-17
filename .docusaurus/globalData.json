@@ -106,8 +106,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs",
-              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs",
+              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances",
+              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances",
               "sidebar": "sidebar1"
             },
             {
