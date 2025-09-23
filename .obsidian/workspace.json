@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "WhatisIPAddressSubnetTierandCIDR"
             }
+          },
+          {
+            "id": "ec0327a8a7dd3597",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3afd1fe7567fdff9",
+  "active": "ec0327a8a7dd3597",
   "lastOpenFiles": [
+    "build/Docs-Yntraa-Sept17.zip",
+    "build/index.html",
+    "build/index.zip",
     "build/img/sps.svg",
     "build/img/sbs.png",
     "build/img/undraw_docusaurus_tree.svg",
@@ -177,7 +193,6 @@
     "build/img/shakti-social-card.png",
     "build/img/rn.svg",
     "build/img/apiculu_logo.svg",
-    "build/img/logolighty.png",
     "build/img/favicon.ico",
     "build/img",
     "build/icons",
@@ -186,8 +201,6 @@
     "build/blog/rss.css",
     "build/blog/atom.css",
     "build/blog/atom.xsl",
-    "build/blog/rss.xsl",
-    "build/search-index.json",
     "docs/FAQs.md",
     "docs/Knowledgebase/WhatisInstances.md",
     "docs/Knowledgebase/WhatisaVPC.md",
