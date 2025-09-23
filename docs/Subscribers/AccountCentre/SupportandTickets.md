@@ -42,7 +42,7 @@ Please refer to the following table for a quick reference on ticket classifiers:
 ||Invoices|List of invoices to choose from|
 ||Statements|List of statements to choose from|
 ||Other|-|
-|Technical|Virtual Machines|List of VMs to choose from|
+|Technical|Instances|List of Instances to choose from|
 ||Virtual Private Clouds|List of VPCs to choose from|
 ||Disks|List of root and addon volumes to choose from|
 ||Other|-|

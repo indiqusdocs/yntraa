@@ -255,17 +255,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-3fc": {
+  "/docs-238": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-98c": {
+  "/docs-c65": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-d8e": {
+  "/docs-c80": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/account-centre-23a": {
@@ -388,9 +388,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-autoscale-requirementsfor-autoscaled-37-738"
   },
-  "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs-727": {
+  "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances-3fd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-autoscale-using-static-passwordin-auto-scale-group-v-ms-1-bb-4d0"
+    "content": "content---docs-subscribers-compute-autoscale-using-static-passwordin-auto-scale-group-instances-222-428"
   },
   "/docs/Subscribers/Compute/Kubernetes/AboutKubernetes-0bc": {
     "__comp": "__comp---theme-doc-item-178-a40",

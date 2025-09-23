@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
+                "file": "docs/Subscribers/Compute/LinuxInstances/Overview.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WhatisIPAddressSubnetTierandCIDR"
+              "title": "Overview"
             }
           },
           {
@@ -178,6 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "ec0327a8a7dd3597",
   "lastOpenFiles": [
     "build/Docs-Yntraa-Sept17.zip",
@@ -185,12 +186,28 @@
     "build/index.zip",
     "build/img/sps.svg",
     "build/img/sbs.png",
+=======
+  "active": "ef7415b37c790712",
+  "lastOpenFiles": [
+    "build/blog/tags/hola/index.html",
+    "build/blog/tags/facebook/index.html",
+    "build/blog/tags/hello/index.html",
+    "build/blog/tags/docusaurus/index.html",
+    "build/blog/authors/yangshun/index.html",
+    "build/blog/authors/all-sebastien-lorber-articles/index.html",
+    "build/blog/welcome/index.html",
+    "build/blog/tags/hola",
+    "build/blog/tags/index.html",
+    "build/blog/tags/hello",
+    "build/blog/tags/facebook",
+>>>>>>> 8feaf1ede5346b5ddecab187a872d28028019cdc
     "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.svg",
+    "build/img/undraw_docusaurus_react.svg",
     "build/img/sps.png",
-    "build/img/sbs.svg",
     "build/img/shakti-social-card.png",
+<<<<<<< HEAD
     "build/img/rn.svg",
     "build/img/apiculu_logo.svg",
     "build/img/favicon.ico",
@@ -206,26 +223,37 @@
     "docs/Knowledgebase/WhatisaVPC.md",
     "docs/Knowledgebase/WhatisaVirtualFirewallintheCloud.md",
     "docs/Knowledgebase/IPv4Networking.md",
+=======
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "build/img/rn.png",
+    "build/img/logolight.svg",
+    "docs/Subscribers/Compute/LinuxInstances/Operations.md",
+    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagement.md",
+    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
+>>>>>>> 8feaf1ede5346b5ddecab187a872d28028019cdc
     "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
-    "docs/Subscribers/LoggingIn.md",
-    "docs/Subscribers/ResettingPassword.md",
-    "docs/Subscribers/intro.md",
-    "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
-    "docs/Subscribers/SigningUp.md",
-    "docs/Knowledgebase/SigningUp.md",
-    "docs/Knowledgebase/LoggingIn.md",
-    "docs/Knowledgebase/ResettingPassword.md",
-    "docs/Knowledgebase/intro.md",
+    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances.md",
+    "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
+    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
+    "docs/Subscribers/Compute/Autoscale/AboutAutoscale.md",
+    "docs/Subscribers/Networking/NATGateways/PortForwardingforInstanceviaVNF.md",
+    "docs/Subscribers/Networking/NATGateways/AboutNATGateways.md",
+    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways.md",
+    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview.md",
+    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Operations.md",
+    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses.md",
+    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Instances.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
     "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-    "docs/intro.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md",
+    "docs/Subscribers/Networking/L2 Networks/AddNewL2Networks.md",
+    "docs/Subscribers/Networking/L2 Networks/AboutL2Networks.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
+    "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
