@@ -1,54 +1,41 @@
 {
   "main": {
-    "id": "2574a029e0815b85",
+    "id": "177ac5a3d2f4f77d",
     "type": "split",
     "children": [
       {
-        "id": "7973f3e7c4bed24e",
+        "id": "b760fd2b26cd02b1",
         "type": "tabs",
         "children": [
           {
-            "id": "3afd1fe7567fdff9",
+            "id": "66f00727da0bb396",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/LinuxInstances/Overview.md",
+                "file": "docs/Subscribers/AccountCentre/WalletandTransactions.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
-            }
-          },
-          {
-            "id": "ec0327a8a7dd3597",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "WalletandTransactions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c3b5e3f506089a2a",
+    "id": "5b9d1233506a2d15",
     "type": "split",
     "children": [
       {
-        "id": "589eb5c4f80f7e29",
+        "id": "39147d62ff3d3ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "ef7415b37c790712",
+            "id": "3b293c9b3e031693",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,13 +48,13 @@
             }
           },
           {
-            "id": "b00788db09f77547",
+            "id": "6773dbb15e0e0c5a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "release  notes",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -78,7 +65,7 @@
             }
           },
           {
-            "id": "083a36e270c4e0da",
+            "id": "264cdb52ff060957",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 300
   },
   "right": {
-    "id": "d1303f5c52f5e51b",
+    "id": "d747967a3c11d7c3",
     "type": "split",
     "children": [
       {
-        "id": "037bb199944f925e",
+        "id": "a0e388d007efbaad",
         "type": "tabs",
         "children": [
           {
-            "id": "4f32f4b6d25447c3",
+            "id": "1b39c0a162963d60",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Administration/ManagingQuickPlans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,50 +103,52 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ManagingQuickPlans"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e6943db203bc7115",
+            "id": "e8fd400af69e9a1f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Administration/ManagingQuickPlans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ManagingQuickPlans"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f2bf414bbe43ee9d",
+            "id": "6023df2ec27989f6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "1eb93ed6b31295d5",
+            "id": "134e2d4da4042182",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Administration/ManagingQuickPlans.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ManagingQuickPlans"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,93 +157,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "ec0327a8a7dd3597",
+  "active": "66f00727da0bb396",
   "lastOpenFiles": [
-    "build/Docs-Yntraa-Sept17.zip",
-    "build/index.html",
-    "build/index.zip",
-    "build/img/sps.svg",
-    "build/img/sbs.png",
-=======
-  "active": "ef7415b37c790712",
-  "lastOpenFiles": [
-    "build/blog/tags/hola/index.html",
-    "build/blog/tags/facebook/index.html",
     "build/blog/tags/hello/index.html",
+    "build/blog/tags/hola/index.html",
     "build/blog/tags/docusaurus/index.html",
-    "build/blog/authors/yangshun/index.html",
     "build/blog/authors/all-sebastien-lorber-articles/index.html",
-    "build/blog/welcome/index.html",
-    "build/blog/tags/hola",
+    "build/blog/tags/facebook/index.html",
+    "build/blog/authors/yangshun/index.html",
     "build/blog/tags/index.html",
+    "build/blog/long-blog-post/index.html",
+    "build/blog/tags/hola",
     "build/blog/tags/hello",
-    "build/blog/tags/facebook",
->>>>>>> 8feaf1ede5346b5ddecab187a872d28028019cdc
-    "build/img/undraw_docusaurus_tree.svg",
+    "build/blog/authors/index.html",
+    "build/assets/images/snapshots1-e2bfbf1d5b2466939a2b16f0efdbd820.png",
+    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
+    "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
+    "docs/Subscribers/AccountCentre/SupportandTickets.md",
+    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
+    "docs/Subscribers/AccountCentre/StandardAgreements.md",
+    "docs/Subscribers/AccountCentre/Payments.md",
+    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
+    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
+    "docs/Subscribers/AccountCentre/AboutYntraaAccountCentre.md",
+    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
     "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sps.svg",
     "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/sps.svg",
     "build/img/sps.png",
     "build/img/shakti-social-card.png",
-<<<<<<< HEAD
-    "build/img/rn.svg",
-    "build/img/apiculu_logo.svg",
-    "build/img/favicon.ico",
-    "build/img",
-    "build/icons",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/blog/rss.css",
-    "build/blog/atom.css",
-    "build/blog/atom.xsl",
-    "docs/FAQs.md",
-    "docs/Knowledgebase/WhatisInstances.md",
-    "docs/Knowledgebase/WhatisaVPC.md",
-    "docs/Knowledgebase/WhatisaVirtualFirewallintheCloud.md",
-    "docs/Knowledgebase/IPv4Networking.md",
-=======
     "build/img/sbs.svg",
     "build/img/sbs.png",
-    "build/img/rn.png",
-    "build/img/logolight.svg",
-    "docs/Subscribers/Compute/LinuxInstances/Operations.md",
-    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
->>>>>>> 8feaf1ede5346b5ddecab187a872d28028019cdc
-    "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
-    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances.md",
-    "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/Subscribers/Compute/Autoscale/AboutAutoscale.md",
-    "docs/Subscribers/Networking/NATGateways/PortForwardingforInstanceviaVNF.md",
-    "docs/Subscribers/Networking/NATGateways/AboutNATGateways.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Operations.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses.md",
-    "docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Instances.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-    "docs/Subscribers/Networking/L2 Networks/AddNewL2Networks.md",
-    "docs/Subscribers/Networking/L2 Networks/AboutL2Networks.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "build/img/rn.svg"
   ]
 }

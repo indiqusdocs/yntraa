@@ -5,7 +5,7 @@ sidebar_position: 3
 
 Team members or child users can be onboarded using the **TEAM** section from the Account Centre, allows you to add billing, technical, or other admin users who can log in to your account and perform operations.
 
-![user1](img/user1.png)
+![teamandchild](img/teamandchild.png)
 
 To add a child user, click the **+INVITE TEAM MEMBERS** button on the top right. This will open up a dialog box with the following information requirements:
 
@@ -19,8 +19,7 @@ To add a child user, click the **+INVITE TEAM MEMBERS** button on the top righ
     - **Billing -** gets permissions to perform billing actions and read-only for other actions.
     - **Technical -** gets permissions to perform technical actions and read-only for other actions.
 
-![user2](img/user2.png)
-![user3](img/user3.png)
+![addteammember](img/addteammember.png)
 
 The child user receives an email notification when their account is created. They can then login and use the Yntraa cloud platform based on their assigned role.
 

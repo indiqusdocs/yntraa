@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 # Support and Tickets
 Yntraa cloud platform provides SLA-driven support to all subscriber customers in accordance with the terms and conditions outlined in the Service Level Agreement. To access the SLA, navigate to the User icon in the top helper bar and select Account under Account Centre.
-![Support and Tickets](img/SupportandTickets1.png)
+![accountcentre](img/accountcentre.png)
 ## Creating a Support Ticket
 
 The Yntraa cloud platform has a ticketing section that can be accessed by clicking on **Support & Tickets** in the main navigation panel of the Account Centre. The tickets section shows a list of all the tickets in your account and lets you filter the view based on ticket priority and ticket status.
@@ -19,7 +19,7 @@ To open the ticket creation dialog box, click the **CREATE A TICKET** button in
 	 The size limit on ticket attachments is 3 MB.
   ::: 
 
-![Support and Tickets](img/SupportandTickets2.png)
+![newsuppotticket](img/newsuppotticket.png)
 
 Creating a ticket will send you a notification email and another email with ticket information that can be used to track and communicate with the support agent(s). Both emails will be received at your email address on record.
 
@@ -27,7 +27,7 @@ Creating a ticket will send you a notification email and another email with tick
 
 You may reply to the assigned support agent from the ticket interface by using the message box at the bottom of the ticket. Ticket replies also support uploading attachments.
 
-![Support and Tickets](img/SupportandTickets3.png)
+![replyingtoagent](img/replyingtoagent.png)
 
 Alternatively, you can reply to the email that you received with the ticket information or the latest reply from the support agent. Email replies will also show up in the ticket details section on Yntraa cloud platform.
 
