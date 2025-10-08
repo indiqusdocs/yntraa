@@ -4,10 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Yntraa Technical Documentation",
-  "tagline": "Welcome to Yntraa! A powerful platform designed to simplify and enhance the management of your cloud and network services.\nExplore our comprehensive User Guide, helpful FAQs, and detailed Knowledge Base to streamline operations, automate tasks, and optimize your digital services.",
+  "title": "Yntraa Cloud Technical Documentation",
+  "tagline": "Welcome to Yntraa Cloud! A powerful platform designed to simplify and enhance the management of your cloud and network services.\nExplore our comprehensive User Guide, helpful FAQs, and detailed Knowledge Base to streamline operations, automate tasks, and optimize your digital services.",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.yntraa.com",
+  "url": "https://docs.yntraacloud.ai",
   "baseUrl": "/",
   "organizationName": "",
   "projectName": "",
@@ -32,7 +32,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\prkumar\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -55,7 +55,7 @@ export default {
   ],
   "plugins": [
     [
-      "C:\\Users\\prkumar\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
@@ -69,13 +69,13 @@ export default {
       },
       "versionPersistence": "localStorage"
     },
-    "image": "img/apiculus-social-card.png",
+    "image": "img/social-card.png",
     "navbar": {
       "title": "",
       "logo": {
-        "alt": "Yntraa",
+        "alt": "Yntraa Cloud",
         "src": "img/logo.svg",
-        "srcDark": "img/logolight.svg"
+        "srcDark": "img/logo.svg"
       },
       "items": [
         {

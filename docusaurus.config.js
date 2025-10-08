@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Yntraa Technical Documentation',
-  tagline: 'Welcome to Yntraa! A powerful platform designed to simplify and enhance the management of your cloud and network services.\nExplore our comprehensive User Guide, helpful FAQs, and detailed Knowledge Base to streamline operations, automate tasks, and optimize your digital services.',
+  title: 'Yntraa Cloud Technical Documentation',
+  tagline: 'Welcome to Yntraa Cloud! A powerful platform designed to simplify and enhance the management of your cloud and network services.\nExplore our comprehensive User Guide, helpful FAQs, and detailed Knowledge Base to streamline operations, automate tasks, and optimize your digital services.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.yntraa.com',
+  url: 'https://docs.yntraacloud.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -111,14 +111,14 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 	  
     },
       // Replace with your project's social card
-      image: 'img/apiculus-social-card.png',
+      image: 'img/social-card.png',
       navbar: {
         title: '',
 		// hideOnScroll: true,
         logo: {
-          alt: 'Yntraa',
+          alt: 'Yntraa Cloud',
           src: 'img/logo.svg',
-		  srcDark: 'img/logolight.svg',
+		  srcDark: 'img/logo.svg',
         },
         items: [
           
