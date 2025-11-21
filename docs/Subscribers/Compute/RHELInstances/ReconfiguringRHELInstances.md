@@ -5,7 +5,7 @@ sidebar_position: 9
 
 To view available reconfiguration options, navigate to [RHEL Instances](AboutRHELInstances.md) and access the **Reconfigure** tab.
 
-A RHEL Instance on Yntraa cloud platform can be reconfigured in the following ways:
+A RHEL Instance on Yntraa Cloud can be reconfigured in the following ways:
 
 - Billing interval changed between monthly and hourly.
 - Choosing and applying a new Compute pack.

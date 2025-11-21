@@ -12,7 +12,7 @@ To add a child user, click the **+INVITE TEAM MEMBERS** button on the top righ
 - **User Details -** name, email, country, phone number, etc., for the child user.
 - **Password -** set a strong password to begin with. 
   :::note
-   The child user can reset the password from the Yntraa cloud platform.
+   The child user can reset the password from the Yntraa Cloud.
   :::
 - **Group -** the role of the child user. These can be:
     - **Admin -** gets access to all functionalities.
@@ -21,7 +21,7 @@ To add a child user, click the **+INVITE TEAM MEMBERS** button on the top righ
 
 ![addteammember](img/addteammember.png)
 
-The child user receives an email notification when their account is created. They can then login and use the Yntraa cloud platform based on their assigned role.
+The child user receives an email notification when their account is created. They can then login and use the Yntraa Cloud based on their assigned role.
 
 :::note
 The first/default user will supersede all other admin users, which means that while admin users can edit or remove other users, only the default user can delete other admin users.

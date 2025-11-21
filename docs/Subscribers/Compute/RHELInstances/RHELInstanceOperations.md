@@ -4,7 +4,7 @@ sidebar_position: 11
 # RHEL Instance Operations
 
 To view all available Instance operations, navigate to [RHEL Instances](AboutRHELInstances.md) and access the **Operations** tab.
-Yntraa cloud platform provides the options to perform common operations on RHEL Instances.
+Yntraa Cloud provides the options to perform common operations on RHEL Instances.
 
 - **Restart Instance** - Perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
 - **Force Stop Instance** - Force stop a running or a hung RHEL Instance.

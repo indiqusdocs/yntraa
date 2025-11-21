@@ -19,7 +19,7 @@ sidebar_position: 4
 	9. Remove cloud-init data and configuration.  <br />`sudo rm -rf /var/lib/cloud` <br /> `sudo sed -i '/cloud-init/d' /etc/default/grub`
 	11. Remove any cloud-init entry from the grub. <br />`sudo update-grub`
 	12. Reboot the system. <br />`sudo reboot`
-5. Stop the VM from the Yntraa cloud platform and create a Root snapshot of that VM.
+5. Stop the VM from the Yntraa Cloud and create a Root snapshot of that VM.
 ![staticpass3](img/staticpass3.png)
 6. Create Image using the Snapshot. (After creation, it will be visible in the **My Image** section).
 ![staticpass4](img/staticpass4.png)

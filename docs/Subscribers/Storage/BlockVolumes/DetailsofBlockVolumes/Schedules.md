@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Creating Automated Snapshot Schedules
 
-Yntraa cloud platform users can create snapshot policies for their root and data disks. These schedules enable for strategic management of data retention policies and can be used as an alternative backup solution. To create or manage the Snapshot schedules, navigate to the **Schedules** section of disk details.
+Yntraa Cloud users can create snapshot policies for their root and data disks. These schedules enable for strategic management of data retention policies and can be used as an alternative backup solution. To create or manage the Snapshot schedules, navigate to the **Schedules** section of disk details.
 
 The following schedules are supported:
 

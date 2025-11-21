@@ -7,7 +7,7 @@ To view the configured alerts or configure new ones, navigate to the [Operating 
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 
-You can configure alerts for instances running on the Yntraa cloud platform. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
+You can configure alerts for instances running on the Yntraa Cloud. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
 ## Instance Alerts
 
 The Alerts tab lists all the alerts already configured for that particular Linux Instance. In addition, it will show the following details:

@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Frequently Asked Questions (FAQs)
 
-<details><summary>**What is object storage in the context of Yntraa cloud platform?**</summary>object storage is a scalable and durable storage solution for managing unstructured data such as files, images, videos, and backups.</details>
+<details><summary>**What is object storage in the context of Yntraa Cloud?**</summary>object storage is a scalable and durable storage solution for managing unstructured data such as files, images, videos, and backups.</details>
 
 <details><summary>**How does object storage differ from block storage?**</summary>Unlike block storage, object storage stores data as objects with metadata, making it suitable for vast amounts of unstructured data.</details>
 

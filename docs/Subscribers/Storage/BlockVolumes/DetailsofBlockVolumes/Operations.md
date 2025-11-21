@@ -5,7 +5,7 @@ sidebar_position: 4
 
 To view all available Block Volume operations, navigate to the **Storage**, select the **Block Volumes** and access the **Operations** tab.
 
-Yntraa cloud platform provides the options to perform the following operations on Block Volumes:
+Yntraa Cloud provides the options to perform the following operations on Block Volumes:
 
 - **Detach From Instance** -
 	Use this option to detach this Volume from its Instance.

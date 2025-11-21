@@ -11,7 +11,7 @@ Subscriptions have the following characteristics:
 - By default, all subscriptions are set to prorate on entry as well as on exit. This means that subscriptions created or deleted in the middle of a billing cycle will be charged only for the applicable period, not the entire billing month.
 - Subscriptions can be canceled (or deactivated) at any time. However, while canceling, you’ll have the option to delete the subscription immediately (instant deletion) or just cancel the automatic renewal (scheduled deletion).
 
-Yntraa cloud platform supports the following types of subscriptions:
+Yntraa Cloud supports the following types of subscriptions:
 
 - **Fixed Recurring -** These have a fixed charge for a fixed period and are automatically renewed with the same fixed charges.
 - **Usage-based -** These are metered (mostly) in an hourly fashion and are billed on the number of usage hours.

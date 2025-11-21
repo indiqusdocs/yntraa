@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Deploying VNF and VM Within VNF
 
-This section provides a step-by-step guide for deploying a Virtual Network Function (VNF)—specifically a virtual firewall—and provisioning a Virtual Machine (VM) behind it using the Yntraa Cloud platform. This setup allows users to route VM traffic through the VNF, enabling secure and segmented network environments. 
+This section provides a step-by-step guide for deploying a Virtual Network Function (VNF)—specifically a virtual firewall—and provisioning a Virtual Machine (VM) behind it using the Yntraa Cloud. This setup allows users to route VM traffic through the VNF, enabling secure and segmented network environments. 
 
 It is ideal for use cases requiring:
 - Advanced traffic control
@@ -27,7 +27,7 @@ The following are the high level steps required for deploying VNF and VM within 
   
 ## Creating the New Virtual Firewall
 
-To enhance your network security within the Yntraa cloud platform, you can deploy a virtual firewall that manages and filters traffic between your virtual resources. This firewall acts as a protective layer, enforcing rules and access controls based on your configuration.
+To enhance your network security within the Yntraa Cloud, you can deploy a virtual firewall that manages and filters traffic between your virtual resources. This firewall acts as a protective layer, enforcing rules and access controls based on your configuration.
 
 The following steps guide you through the process of navigating to the correct section, initiating the firewall creation, and completing its configuration:
 
@@ -37,7 +37,7 @@ The following steps guide you through the process of navigating to the correct s
 ![virtualapiculus](img/virtualapiculus.png)
 ### Configuration Options for Virtual Firewall
 
-To configure the new virtual firewall in the Yntraa cloud platform, you must define a few key options such as the zone, compute size, firewall provider, and access rules. These settings ensure the firewall is tailored to your deployment needs.
+To configure the new virtual firewall in the Yntraa Cloud, you must define a few key options such as the zone, compute size, firewall provider, and access rules. These settings ensure the firewall is tailored to your deployment needs.
 
 The following steps guide you through selecting configuration options like availability zone, compute configuration, firewall provider, and traffic rules before finalizing the setup:
 
@@ -68,11 +68,11 @@ A green **POWERED ON** icon confirms that the firewall is active and running.
 ![greenapiculus](img/greenapiculus.png)
 ### Viewing Firewall Details
 
-To check the configuration and operational status of your deployed virtual firewall, you can access its detailed view in the Yntraa cloud platform. This section provides essential system specifications, network settings, and real-time status indicators.
+To check the configuration and operational status of your deployed virtual firewall, you can access its detailed view in the Yntraa Cloud. This section provides essential system specifications, network settings, and real-time status indicators.
 
 The following steps guide you through viewing the full details of your virtual firewall instance, including public IP, provider, and availability zone:
 
-1. From the Yntraa cloud platform:
+1. From the Yntraa Cloud:
     - Navigate to the **Virtual Firewalls** section in the left-hand menu.
     - Locate and click on the **ADC-R522-40-Test** firewall instance to open its configuration page.
 2. On the firewall **Overview** page, you can view the following key details:
@@ -88,7 +88,7 @@ To understand the network configuration, navigate to the **Networking** section 
 
 The following steps guide you through accessing the Networking section and identifying the WAN and LAN tiers connected to your firewall:
 
-1. Open the Firewall Instance: From the Yntraa cloud platform, navigate to the **Virtual Firewalls** section and open the required firewall instance (for example, ADC-R522-40-Test).
+1. Open the Firewall Instance: Navigate to the **Virtual Firewalls** section and open the required firewall instance (for example, ADC-R522-40-Test).
 2. Click on the **Networking** option: In the left-side menu, under the opened firewall instance, click on the **Networking** tab. This section displays all networks linked to the selected firewall.
 3. Identify the **WAN Tier**: Look for the network labeled as ISOLATED_NETWORK. This is the WAN Tier (for example, ADC-R522-40-Test), typically connected to external/public networks.
 4. Identify the **LAN Tiers**: LAN tiers used for internal communications. For example:
@@ -101,7 +101,7 @@ To manage and configure the pfsense firewall, you can access its web-based Graph
 
 The following steps help you access the pfsense firewall GUI from your browser using the public IP address:
 
-1. **Copy the Public IP Address**: From the firewall details page in Yntraa cloud platform, note down the Public IPv4 (L2-WAN) address.
+1. **Copy the Public IP Address**: From the firewall details page in Yntraa Cloud, note down the Public IPv4 (L2-WAN) address.
 2. **Open a Web Browser**
 3. Paste the IP address in the address bar and press **Enter**.
 4. **Ignore the Security Warning**: If a warning appears, it is because of a self-signed certificate. Just click **Advanced** and then **Proceed** to continue.
@@ -113,7 +113,7 @@ To deploy a Linux virtual machine (VM) behind the pfsense firewall in Yntraa clo
 
 The following steps guide you through deploying the new Linux VM under the pfsense firewall:
 
-1. From the Yntraa cloud platform, navigate to the left sidebar.
+1. From the Yntraa Cloud, navigate to the left sidebar.
 2. Under the Compute section, click on Linux Instances.
 3. Choose Availability Zone: Select a zone for example, AZ1- India North 1 (or as per your requirement).
 4. Select Compute Configuration: Choose a VM configuration.
@@ -124,7 +124,7 @@ The following steps guide you through deploying the new Linux VM under the pfsen
 ![deployapiculus](img/deployapiculus.png)
 ## Creating a New Linux Instance
 
-To create a new Linux instance in Yntraa cloud platform, you must to configure parameters such as the zone, network, and operating system image. These options help ensure the VM is deployed in the correct environment and connected to the appropriate virtual network and firewall.
+To create a new Linux instance in Yntraa Cloud, you must to configure parameters such as the zone, network, and operating system image. These options help ensure the VM is deployed in the correct environment and connected to the appropriate virtual network and firewall.
 
 The following steps guide you through the process of creating a new Linux instance based on your setup requirements:
 
@@ -137,7 +137,7 @@ The following steps guide you through the process of creating a new Linux instan
 ![deployapiculus](img/deployapiculus.png)
 ### Choosing a Root Disk
    
-When deploying a Linux VM in Yntraa cloud platform, selecting the right root disk is a key step in defining your VM’s storage capacity and performance. The root disk serves as the primary storage where the operating system and essential files are installed. You can choose from predefined disk packs or specify a custom size based on your needs.
+When deploying a Linux VM in Yntraa Cloud, selecting the right root disk is a key step in defining your VM’s storage capacity and performance. The root disk serves as the primary storage where the operating system and essential files are installed. You can choose from predefined disk packs or specify a custom size based on your needs.
    
 The following steps guide you through choosing a root disk option that best fits your storage needs and budget:
    
@@ -176,7 +176,7 @@ If you choose root user password method, ensure that **Also email me the passwor
 ![authenticationapi](img/authenticationapi.png)
 ### Confirming Instance Purchase 
 
-Once you finalized all the configuration details for your Linux VM in Yntraa cloud platform, the platform prompts you to confirm the instance purchase. This is your final opportunity to review costs and apply any available discount codes before deployment.
+Once you finalized all the configuration details for your Linux VM in Yntraa Cloud, the platform prompts you to confirm the instance purchase. This is your final opportunity to review costs and apply any available discount codes before deployment.
    
 The following steps guide you through the confirmation process:
    
@@ -187,7 +187,7 @@ The following steps guide you through the confirmation process:
 ![vmapiculus](img/vmapiculus.png)
 ### Checking VM Console and Internet Connectivity
 
-After deploying a Linux VM under the pfsense firewall in Yntraa cloud platform, it is important to verify that the instance is running correctly and has internet access. This ensures successful configuration and network functionality.
+After deploying a Linux VM under the pfsense firewall in Yntraa Cloud, it is important to verify that the instance is running correctly and has internet access. This ensures successful configuration and network functionality.
  
  The following steps help you check the VM console and test internet connectivity:
 

@@ -2,11 +2,11 @@
 sidebar_position: 9
 ---
 # Support and Tickets
-Yntraa cloud platform provides SLA-driven support to all subscriber customers in accordance with the terms and conditions outlined in the Service Level Agreement. To access the SLA, navigate to the User icon in the top helper bar and select Account under Account Centre.
+Yntraa Cloud provides SLA-driven support to all subscriber customers in accordance with the terms and conditions outlined in the Service Level Agreement. To access the SLA, navigate to the User icon in the top helper bar and select Account under Account Centre.
 ![accountcentre](img/accountcentre.png)
 ## Creating a Support Ticket
 
-The Yntraa cloud platform has a ticketing section that can be accessed by clicking on **Support & Tickets** in the main navigation panel of the Account Centre. The tickets section shows a list of all the tickets in your account and lets you filter the view based on ticket priority and ticket status.
+The Yntraa Cloud has a ticketing section that can be accessed by clicking on **Support & Tickets** in the main navigation panel of the Account Centre. The tickets section shows a list of all the tickets in your account and lets you filter the view based on ticket priority and ticket status.
 
 To open the ticket creation dialog box, click the **CREATE A TICKET** button in the left corner. Ticket creation follows the single-form interaction paradigm where all the relevant information is captured intelligently in one place to create the ticket. The ticket creation dialog will show the following options:
 
@@ -29,7 +29,7 @@ You may reply to the assigned support agent from the ticket interface by using t
 
 ![replyingtoagent](img/replyingtoagent.png)
 
-Alternatively, you can reply to the email that you received with the ticket information or the latest reply from the support agent. Email replies will also show up in the ticket details section on Yntraa cloud platform.
+Alternatively, you can reply to the email that you received with the ticket information or the latest reply from the support agent. Email replies will also show up in the ticket details section on Yntraa Cloud.
 
 # Ticket Classifiers
 

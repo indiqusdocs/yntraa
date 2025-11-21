@@ -21,7 +21,7 @@ The following are the high-level tasks required to configure port forwarding for
 
 ## Accessing and Selecting a NAT Gateway
 
-This section outlines the steps to access and select a NAT Gateway within the Yntraa cloud platform. Before managing configuration or operational settings, users must navigate to the appropriate section of the dashboard and identify the NAT Gateway instance relevant to their network environment. This ensures that all subsequent actions are performed on the correct gateway associated with the intended Virtual Network Function (VNF). 
+This section outlines the steps to access and select a NAT Gateway within the Yntraa Cloud. Before managing configuration or operational settings, users must navigate to the appropriate section of the dashboard and identify the NAT Gateway instance relevant to their network environment. This ensures that all subsequent actions are performed on the correct gateway associated with the intended Virtual Network Function (VNF). 
 
 The following steps guide you through locating and selecting your NAT Gateway from the dashboard:
 
@@ -65,7 +65,7 @@ To allow external access through a NAT Gateway in the  Cloud Portal, you can add
 
 The following steps guide you through logging into the Cloud Portal, navigating to the NAT Gateways section, selecting the relevant gateway, and initiating the process of creating a new port forwarding rule by accessing the Port Forwarding interface and reviewing any existing rules: 
 
-1. Login to the Yntraa cloud platform.
+1. Login to the Yntraa Cloud.
 2. From the left-hand side menu, under the **Networking** section, click on **NAT Gateways**.
 3. Choose the NAT Gateway for which you want to configure the port forwarding rule (for example ADC-R522-40-Test_ISOLATED_NETWORK).
 4. Once inside the selected NAT Gateway, see a section titled **Port Forwarding** along with the public IP address.

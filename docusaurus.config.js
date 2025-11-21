@@ -133,7 +133,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             type: 'docSidebar',
             sidebarId: 'sidebar1',
             position: 'left',
-            label: 'Docs',
+            label: 'User Manual',
           },
 		  	{
           type: 'docSidebar',
