@@ -172,7 +172,7 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 		   
 		  
 		  {
-          href: 'https://yntraa.com', // Change to the desired link
+          href: 'https://yntraacloud.ai', // Change to the desired link
           label: 'Yntraa Cloud Platform', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here

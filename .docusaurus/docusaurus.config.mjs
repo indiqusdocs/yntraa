@@ -97,7 +97,7 @@ export default {
           "label": "Knowledge Base"
         },
         {
-          "href": "https://yntraa.com",
+          "href": "https://yntraacloud.ai",
           "label": "Yntraa Cloud Platform",
           "position": "right",
           "className": "button button--primary"
