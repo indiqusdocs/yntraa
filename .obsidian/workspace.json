@@ -25,12 +25,14 @@
             "id": "966685f8b4ca747d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "docs/Subscribers/Compute/LinuxInstances/Overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Overview"
             }
           }
         ],
@@ -181,6 +183,22 @@
   },
   "active": "966685f8b4ca747d",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/WindowsInstances/Protection.md",
+    "docs/Subscribers/Compute/LinuxInstances/Overview.md",
+    "docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/Operations.md",
+    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagement.md",
+    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
+    "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions.md",
+    "docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage.md",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
@@ -191,7 +209,6 @@
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
     "build/img/rn.svg",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
@@ -212,21 +229,6 @@
     "docs/Subscribers/Compute/RHELInstances/VolumeManagement.md",
     "docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances.md",
     "docs/Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails.md",
-    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances.md",
-    "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
-    "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements.md",
-    "docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider.md",
-    "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/StandardAgreements.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
-    "docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters.md",
-    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
-    "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
-    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
-    "docs/Subscribers/Networking/NATGateways/PortForwardingwithPublicIP.md"
+    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances.md"
   ]
 }
