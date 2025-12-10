@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
 ---
-# Creating Object Storage Bucket
+# Creating Object Storage
 
-An Object Storage Bucket is where you store your files in the cloud. Creating an Object Storage Bucket is the first step to organize, access, and manage your data easily.
+An Object Storage  is where you store your files in the cloud. Creating an Object Storage is the first step to organize, access, and manage your data easily.
 
-To create an Object Storage Bucket, follow these steps:
+To create an Object Storage, follow these steps:
 
 1. Navigate to **Storage > Object Storage Bucket** from the left-hand menu.
 

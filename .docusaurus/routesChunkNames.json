@@ -255,17 +255,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-50c": {
+  "/docs-5c2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-678": {
+  "/docs-77c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-98d": {
+  "/docs-035": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -279,6 +279,14 @@
   "/docs/category/autoscale-8f1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-autoscale-89-f-000"
+  },
+  "/docs/category/backup-recovery-as-a-service-c9c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-backup-recovery-as-a-servicee-9-a-1e7"
+  },
+  "/docs/category/backup-recovery-as-a-service-1-921": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-backup-recovery-as-a-service-1311-0eb"
   },
   "/docs/category/block-volumes-5ee": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -300,6 +308,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-firewall-instances-554-639"
   },
+  "/docs/category/flexi-db-db0": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-flexi-dbffd-757"
+  },
   "/docs/category/ipv4-based-networking-25a": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-ipv-4-based-networkinge-96-716"
@@ -320,6 +332,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-load-balancer-instances-016-f8b"
   },
+  "/docs/category/managed-database-as-a-service-a11": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-managed-database-as-a-service-790-5b6"
+  },
   "/docs/category/managing-nat-gateways-0d2": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-managing-nat-gateways-3-d-2-2e6"
@@ -332,9 +348,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-networking-156-ede"
   },
-  "/docs/category/object-storage-bucket-3dd": {
+  "/docs/category/object-storage-7c0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-object-storage-bucket-8-d-3-567"
+    "__props": "__props---docs-category-object-storage-3-ca-b7d"
   },
   "/docs/category/rhel-instances-163": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -419,6 +435,10 @@
   "/docs/Subscribers/AccountCentre/WalletandTransactions-30d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-account-centre-walletand-transactionsf-49-9ee"
+  },
+  "/docs/Subscribers/BRbaaS/BRaaS/-b9d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-b-rbaa-s-b-raa-s-f-55-daf"
   },
   "/docs/Subscribers/Compute/Autoscale/AboutAutoscale-784": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -508,10 +528,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-linux-instances-overview-4-fa-a1f"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances-49f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-protecting-linux-instances-223-f5c"
-  },
   "/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances-f93": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-linux-instances-reconfiguring-linux-instances-800-df0"
@@ -551,10 +567,6 @@
   "/docs/Subscribers/Compute/RHELInstances/Overview-398": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-rhel-instances-overview-9-a-6-957"
-  },
-  "/docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances-3b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-protecting-rhel-instances-413-d34"
   },
   "/docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances-36f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -600,10 +612,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-windows-instances-networking-managementon-windows-instancesd-68-42d"
   },
-  "/docs/Subscribers/Compute/WindowsInstances/Protection-805": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-protectionca-1-3b3"
-  },
   "/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances-425": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-windows-instances-reconfiguring-windows-instances-999-1d8"
@@ -635,6 +643,10 @@
   "/docs/Subscribers/LoggingIn-3a5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-logging-in-949-c38"
+  },
+  "/docs/Subscribers/MDbaaS/FlexiDB/-405": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-flexi-db-a-91-015"
   },
   "/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement-bfe": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -868,25 +880,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-storage-block-volumes-workingwith-instance-volumese-5-a-02d"
   },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage-7d7": {
+  "/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage-30b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-about-yntraa-object-storage-7-cf-6e4"
+    "content": "content---docs-subscribers-storage-object-storage-about-yntraa-object-storage-98-a-382"
   },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket-9ca": {
+  "/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage-afc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-creating-object-storage-bucket-62-a-0f2"
+    "content": "content---docs-subscribers-storage-object-storage-creating-object-storagedce-16f"
   },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails-c6a": {
+  "/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails-e67": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-feature-listand-integration-details-306-5d4"
+    "content": "content---docs-subscribers-storage-object-storage-feature-listand-integration-details-0-bb-422"
   },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions-e02": {
+  "/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions-01c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-frequently-asked-questions-952-83a"
-  },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements-7c8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-system-requirements-4-af-229"
+    "content": "content---docs-subscribers-storage-object-storage-frequently-asked-questionscf-1-30d"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

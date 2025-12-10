@@ -91,6 +91,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/BRbaaS/BRaaS/BRaaS",
+              "path": "/docs/Subscribers/BRbaaS/BRaaS/",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
               "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
               "sidebar": "sidebar1"
@@ -201,11 +206,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances",
               "path": "/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances",
               "sidebar": "sidebar1"
@@ -253,11 +253,6 @@
             {
               "id": "Subscribers/Compute/RHELInstances/Overview",
               "path": "/docs/Subscribers/Compute/RHELInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/RHELInstances/ProtectingRHELInstances",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances",
               "sidebar": "sidebar1"
             },
             {
@@ -316,11 +311,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/Protection",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/Protection",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances",
               "sidebar": "sidebar1"
@@ -358,6 +348,11 @@
             {
               "id": "Subscribers/LoggingIn",
               "path": "/docs/Subscribers/LoggingIn",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/FlexiDB/FlexiDB",
+              "path": "/docs/Subscribers/MDbaaS/FlexiDB/",
               "sidebar": "sidebar1"
             },
             {
@@ -651,28 +646,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage",
+              "id": "Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket",
+              "id": "Subscribers/Storage/ObjectStorage/CreatingObjectStorage",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails",
+              "id": "Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Storage/ObjectStorageBucket/SystemRequirements",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements",
+              "id": "Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
               "sidebar": "sidebar1"
             },
             {
@@ -726,8 +716,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/object-storage-bucket",
-              "path": "/docs/category/object-storage-bucket",
+              "id": "/category/object-storage",
+              "path": "/docs/category/object-storage",
               "sidebar": "sidebar1"
             },
             {
@@ -783,6 +773,26 @@
             {
               "id": "/category/load-balancer-instances",
               "path": "/docs/category/load-balancer-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/managed-database-as-a-service",
+              "path": "/docs/category/managed-database-as-a-service",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/flexi-db",
+              "path": "/docs/category/flexi-db",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/backup-recovery-as-a-service",
+              "path": "/docs/category/backup-recovery-as-a-service",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/backup-recovery-as-a-service-1",
+              "path": "/docs/category/backup-recovery-as-a-service-1",
               "sidebar": "sidebar1"
             }
           ],

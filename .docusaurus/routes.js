@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '50c'),
+    component: ComponentCreator('/docs', '5c2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '678'),
+        component: ComponentCreator('/docs', '77c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '98d'),
+            component: ComponentCreator('/docs', '035'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -144,6 +144,18 @@ export default [
               {
                 path: '/docs/category/autoscale',
                 component: ComponentCreator('/docs/category/autoscale', '8f1'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/backup-recovery-as-a-service',
+                component: ComponentCreator('/docs/category/backup-recovery-as-a-service', 'c9c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/backup-recovery-as-a-service-1',
+                component: ComponentCreator('/docs/category/backup-recovery-as-a-service-1', '921'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -178,6 +190,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/category/flexi-db',
+                component: ComponentCreator('/docs/category/flexi-db', 'db0'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/category/ipv4-based-networking',
                 component: ComponentCreator('/docs/category/ipv4-based-networking', '25a'),
                 exact: true,
@@ -208,6 +226,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/category/managed-database-as-a-service',
+                component: ComponentCreator('/docs/category/managed-database-as-a-service', 'a11'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/category/managing-nat-gateways',
                 component: ComponentCreator('/docs/category/managing-nat-gateways', '0d2'),
                 exact: true,
@@ -226,8 +250,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/object-storage-bucket',
-                component: ComponentCreator('/docs/category/object-storage-bucket', '3dd'),
+                path: '/docs/category/object-storage',
+                component: ComponentCreator('/docs/category/object-storage', '7c0'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -354,6 +378,12 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/WalletandTransactions',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/WalletandTransactions', '30d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/BRbaaS/BRaaS/',
+                component: ComponentCreator('/docs/Subscribers/BRbaaS/BRaaS/', 'b9d'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -490,12 +520,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances', '49f'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances',
                 component: ComponentCreator('/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances', 'f93'),
                 exact: true,
@@ -552,12 +576,6 @@ export default [
               {
                 path: '/docs/Subscribers/Compute/RHELInstances/Overview',
                 component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/Overview', '398'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances', '3b5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -628,12 +646,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/Protection',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/Protection', '805'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances',
                 component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances', '425'),
                 exact: true,
@@ -678,6 +690,12 @@ export default [
               {
                 path: '/docs/Subscribers/LoggingIn',
                 component: ComponentCreator('/docs/Subscribers/LoggingIn', '3a5'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/MDbaaS/FlexiDB/',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/FlexiDB/', '405'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1030,32 +1048,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage', '7d7'),
+                path: '/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage', '30b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket', '9ca'),
+                path: '/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage', 'afc'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails', 'c6a'),
+                path: '/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails', 'e67'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions', 'e02'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements', '7c8'),
+                path: '/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions', '01c'),
                 exact: true,
                 sidebar: "sidebar1"
               }
