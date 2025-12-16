@@ -11,14 +11,17 @@
             "id": "0408a2002d40adf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "FrequentlyAskedQuestions"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -168,39 +172,42 @@
   },
   "active": "0408a2002d40adf7",
   "lastOpenFiles": [
+    "build/assets/js/0058b4c6.104825de.js",
+    "build/assets/js/a94703ab.41efd8d8.js",
+    "Untitled.base",
+    "Sample.md",
+    "README.md",
+    "docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions.md",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/blog/atom.css",
+    "build/blog/rss.css",
+    "build/blog/atom.xsl",
+    "build/blog/rss.xsl",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.svg",
+    "build/img/social-card.png",
+    "build/img/sps.png",
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "build/img/rn.svg",
+    "build/img/rn.png",
     "docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails.md",
     "docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage.md",
     "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md",
-    "docs/Subscribers/Storage/ObjectStorage/img/SummaryAndEstimatedCost.png",
-    "docs/Subscribers/Storage/ObjectStorage/img/NewObjectStorageButton.png",
-    "docs/Subscribers/Storage/ObjectStorage/img/yntraaos.jpg",
-    "docs/Subscribers/Storage/ObjectStorage/img/EndUserLicenseAgreementAndPrivacyPolicy.png",
-    "docs/Subscribers/Storage/ObjectStorage/img/NameYourBucket.png",
-    "docs/Subscribers/Storage/ObjectStorage/img/ObjectStorageBucketMenu.png",
-    "docs/Subscribers/Storage/ObjectStorage/img/ChooseYourAz.png",
-    "docs/Subscribers/Storage/ObjectStorage/_category_.json",
-    "docs/Subscribers/Storage/ObjectStorage/img",
-    "docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions.md",
-    "docs/Subscribers/Storage/ObjectStorage",
     "docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions.md",
     "docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage.md",
     "docs/Subscribers/Compute/LinuxInstances/Overview.md",
-    "docs/Subscribers/BRbaaS/BRaaS/img/VPCSubnets2.png",
-    "docs/Subscribers/BRbaaS/BRaaS/img/VPCSubnets1.png",
-    "docs/Subscribers/BRbaaS/BRaaS/img/VPCManagement2.png",
-    "docs/Subscribers/BRbaaS/BRaaS/_category_.json",
-    "docs/Subscribers/BRbaaS/BRaaS/img",
     "docs/Subscribers/BRbaaS/BRaaS/BRaaS.md",
-    "docs/Subscribers/BRbaaS/BRaaS",
     "docs/Subscribers/BRbaaS/FlexiDB/BRaaS.md",
-    "docs/Subscribers/BRbaaS/FlexiDB/img",
-    "docs/Subscribers/BRbaaS/FlexiDB/_category_.json",
     "docs/Subscribers/BRbaaS/FlexiDB/FlexiDB.md",
-    "docs/Subscribers/BRbaaS/_category_.json",
-    "docs/Subscribers/BRbaaS/img",
     "docs/Subscribers/MDbaaS - Copy/FlexiDB/FlexiDB.md",
     "docs/Subscribers/MDbaaS/FlexiDB/FlexiDB.md",
     "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/Reconfiguring.md",
@@ -211,9 +218,6 @@
     "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
     "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/IPv4AddressesandVPC.md",
     "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/CreateListandViewVPCs.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/AboutVirtualPrivateClouds.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/WorkingwithVPNConnectionsinaVPC.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/DifferenceBetweenL2NetworksandVPC.md",
     "Untitled.canvas"
   ]
 }
