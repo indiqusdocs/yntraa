@@ -11,17 +11,14 @@
             "id": "0408a2002d40adf7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "docs/Subscribers/MDbaaS/Serviceprovisioning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Serviceprovisioning"
             }
           }
         ]
@@ -172,6 +169,30 @@
   },
   "active": "0408a2002d40adf7",
   "lastOpenFiles": [
+    "docs/Subscribers/MDbaaS/img/create.png",
+    "docs/Subscribers/MDbaaS/img/open.png",
+    "docs/Subscribers/MDbaaS/img/field.png",
+    "docs/Subscribers/MDbaaS/img/pik.png",
+    "docs/Subscribers/MDbaaS/img/pic.png",
+    "docs/Subscribers/MDbaaS/img/Quik.png",
+    "Pasted image 20260122124639.png",
+    "docs/Subscribers/MDbaaS/MDBaas.md",
+    "docs/Subscribers/intro.md",
+    "docs/Subscribers/SigningUp.md",
+    "docs/Subscribers/LoggingIn.md",
+    "docs/Subscribers/ResettingPassword.md",
+    "docs/Subscribers/MDbaaS/Serviceprovisioning.md",
+    "docs/Subscribers/MDbaaS/PreRequisites.md",
+    "docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture.md",
+    "docs/Subscribers/MDbaaS/introduction.md",
+    "docs/FAQs.md",
+    "docs/Subscribers/MDbaaS/FlexiDB/FlexiDB.md",
+    "node_modules",
+    "docs/Knowledgebase/WhatisaVirtualFirewallintheCloud.md",
+    "docs/Knowledgebase/IPv4Networking.md",
+    "docs/Knowledgebase/WhatisaVPC.md",
+    "docs/Knowledgebase/WhatisInstances.md",
+    "Untitled.canvas",
     "build/assets/js/0058b4c6.104825de.js",
     "build/assets/js/a94703ab.41efd8d8.js",
     "Untitled.base",
@@ -184,40 +205,16 @@
     "build/blog/rss.css",
     "build/blog/atom.xsl",
     "build/blog/rss.xsl",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
     "build/img/sps.svg",
-    "build/img/social-card.png",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/rn.png",
     "docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails.md",
     "docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage.md",
-    "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md",
     "docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage.md",
-    "docs/Subscribers/Compute/LinuxInstances/Overview.md",
-    "docs/Subscribers/BRbaaS/BRaaS/BRaaS.md",
-    "docs/Subscribers/BRbaaS/FlexiDB/BRaaS.md",
-    "docs/Subscribers/BRbaaS/FlexiDB/FlexiDB.md",
-    "docs/Subscribers/MDbaaS - Copy/FlexiDB/FlexiDB.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/FlexiDB.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/Reconfiguring.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/Overview.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/VPCManagementandBasicOperations.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/ManagingVPCInstances.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "docs/Subscribers/MDbaaS/FlexiDB/AboutVPCInstances/CreateListandViewVPCs.md",
-    "Untitled.canvas"
+    "docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage.md"
   ]
 }

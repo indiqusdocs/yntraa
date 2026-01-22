@@ -32,7 +32,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Ayushree\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -55,7 +55,7 @@ export default {
   ],
   "plugins": [
     [
-      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Ayushree\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }

@@ -351,8 +351,28 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/MDbaaS/FlexiDB/FlexiDB",
-              "path": "/docs/Subscribers/MDbaaS/FlexiDB/",
+              "id": "Subscribers/MDbaaS/introduction",
+              "path": "/docs/Subscribers/MDbaaS/introduction",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/MDBaas",
+              "path": "/docs/Subscribers/MDbaaS/",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/PreRequisites",
+              "path": "/docs/Subscribers/MDbaaS/PreRequisites",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Serviceoverviewandarchitecture",
+              "path": "/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Serviceprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/Serviceprovisioning",
               "sidebar": "sidebar1"
             },
             {
@@ -778,11 +798,6 @@
             {
               "id": "/category/managed-database-as-a-service",
               "path": "/docs/category/managed-database-as-a-service",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/flexi-db",
-              "path": "/docs/category/flexi-db",
               "sidebar": "sidebar1"
             },
             {

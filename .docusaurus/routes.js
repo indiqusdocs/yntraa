@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -84,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5c2'),
+    component: ComponentCreator('/docs', '43d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '77c'),
+        component: ComponentCreator('/docs', '09f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '035'),
+            component: ComponentCreator('/docs', 'baa'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -151,12 +186,6 @@ export default [
               {
                 path: '/docs/category/firewall-instances',
                 component: ComponentCreator('/docs/category/firewall-instances', '8bc'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/flexi-db',
-                component: ComponentCreator('/docs/category/flexi-db', 'db0'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -659,8 +688,32 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/FlexiDB/',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/FlexiDB/', '405'),
+                path: '/docs/Subscribers/MDbaaS/',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/', '563'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/MDbaaS/introduction',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/introduction', 'e4f'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/MDbaaS/PreRequisites',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/PreRequisites', '004'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture', 'd76'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/MDbaaS/Serviceprovisioning',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/Serviceprovisioning', '303'),
                 exact: true,
                 sidebar: "sidebar1"
               },
