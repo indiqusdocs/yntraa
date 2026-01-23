@@ -45,5 +45,29 @@ These selections determine:
 Database services are deployed within private networks by default.
 :::
 	![img](img/create.png)
+**Review and Validation**: Before submission, Review all entered details carefully and Validate licensing, node count, and storage selections.
 
+Once validated:
+- Click **Check** to validate the request
+- Click **Confirm** to submit the provisioning request
+	![img](img/val.png)
+	
+**Backend Validation and Deployment**: After submission, the request is routed to Yntraa backend systems and Validation checks are performed for:
+	- Resource availability
+	- Licensing compliance
+	- Architecture feasibility
+- Deployment is initiated by Yntraa automation and operations teams
+- Database software is installed, configured, and validated
 
+You may be contacted if:
+- Additional clarification is required
+- Corrections are needed in the submitted request
+## Provisioning Status and Confirmation
+- You can track the request status via the Yntraa Cloud Console or support communications.
+- Once deployment is completed:
+	- You receive confirmation
+	- Database access details and connection information are shared as per the service plan
+
+:::note 
+Provisioning timelines vary depending on database type, cluster size, and licensing validation.
+:::

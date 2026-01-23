@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '43d'),
+    component: ComponentCreator('/docs', 'c4e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '09f'),
+        component: ComponentCreator('/docs', 'ec8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'baa'),
+            component: ComponentCreator('/docs', '538'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -694,14 +694,38 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster', '6c5'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/MDbaaS/introduction',
                 component: ComponentCreator('/docs/Subscribers/MDbaaS/introduction', 'e4f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/MDbaaS/Postprovisioning',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/Postprovisioning', '1fc'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/MDbaaS/PreRequisites',
                 component: ComponentCreator('/docs/Subscribers/MDbaaS/PreRequisites', '004'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement', 'e88'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/MDbaaS/servicedeprovisioning',
+                component: ComponentCreator('/docs/Subscribers/MDbaaS/servicedeprovisioning', '1ef'),
                 exact: true,
                 sidebar: "sidebar1"
               },

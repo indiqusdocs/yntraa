@@ -255,17 +255,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-43d": {
+  "/docs-c4e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-09f": {
+  "/docs-ec8": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-baa": {
+  "/docs-538": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -644,13 +644,29 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-m-dbaa-s-070-cdc"
   },
+  "/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster-6c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-backuphighavailabilityanddisaster-552-e7c"
+  },
   "/docs/Subscribers/MDbaaS/introduction-e4f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-m-dbaa-s-introductionaae-d8e"
   },
+  "/docs/Subscribers/MDbaaS/Postprovisioning-1fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-postprovisioningf-12-69b"
+  },
   "/docs/Subscribers/MDbaaS/PreRequisites-004": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-m-dbaa-s-pre-requisites-41-a-d65"
+  },
+  "/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement-e88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-scalingandconfigurationmanagement-510-58c"
+  },
+  "/docs/Subscribers/MDbaaS/servicedeprovisioning-1ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-servicedeprovisioningd-81-4fe"
   },
   "/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture-d76": {
     "__comp": "__comp---theme-doc-item-178-a40",

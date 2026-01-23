@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/MDbaaS/Serviceprovisioning.md",
+                "file": "docs/Subscribers/MDbaaS/servicedeprovisioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serviceprovisioning"
+              "title": "servicedeprovisioning"
             }
           }
         ]
@@ -169,6 +169,16 @@
   },
   "active": "0408a2002d40adf7",
   "lastOpenFiles": [
+    "docs/Subscribers/MDbaaS/Serviceprovisioning.md",
+    "docs/Subscribers/MDbaaS/servicedeprovisioning.md",
+    "docs/Subscribers/MDbaaS/introduction.md",
+    "docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster.md",
+    "docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement.md",
+    "docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture.md",
+    "docs/Subscribers/MDbaaS/PreRequisites.md",
+    "docs/Subscribers/MDbaaS/Postprovisioning.md",
+    "docs/Subscribers/MDbaaS/MDBaas.md",
+    "docs/Subscribers/MDbaaS/img/val.png",
     "docs/Subscribers/MDbaaS/img/create.png",
     "docs/Subscribers/MDbaaS/img/open.png",
     "docs/Subscribers/MDbaaS/img/field.png",
@@ -176,15 +186,10 @@
     "docs/Subscribers/MDbaaS/img/pic.png",
     "docs/Subscribers/MDbaaS/img/Quik.png",
     "Pasted image 20260122124639.png",
-    "docs/Subscribers/MDbaaS/MDBaas.md",
     "docs/Subscribers/intro.md",
     "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/LoggingIn.md",
     "docs/Subscribers/ResettingPassword.md",
-    "docs/Subscribers/MDbaaS/Serviceprovisioning.md",
-    "docs/Subscribers/MDbaaS/PreRequisites.md",
-    "docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture.md",
-    "docs/Subscribers/MDbaaS/introduction.md",
     "docs/FAQs.md",
     "docs/Subscribers/MDbaaS/FlexiDB/FlexiDB.md",
     "node_modules",
@@ -207,14 +212,9 @@
     "build/blog/rss.xsl",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sps.svg",
     "docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails.md",
     "docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorage.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions.md",
-    "docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage.md"
+    "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md"
   ]
 }

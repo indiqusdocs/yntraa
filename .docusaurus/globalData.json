@@ -351,6 +351,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/MDbaaS/Backuphighavailabilityanddisaster",
+              "path": "/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/MDbaaS/introduction",
               "path": "/docs/Subscribers/MDbaaS/introduction",
               "sidebar": "sidebar1"
@@ -361,8 +366,23 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/MDbaaS/Postprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/Postprovisioning",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/MDbaaS/PreRequisites",
               "path": "/docs/Subscribers/MDbaaS/PreRequisites",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Scalingandconfigurationmanagement",
+              "path": "/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/servicedeprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/servicedeprovisioning",
               "sidebar": "sidebar1"
             },
             {
