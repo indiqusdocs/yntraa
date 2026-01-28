@@ -3,20 +3,9 @@ sidebar_position: 4
 ---
 # Logging In
 
-Any user with a valid username/email and password can log in to Apiculus and will automatically be directed to their respective control panel based on their user type.
-
-Upon successful login, the navigation is as below:
-
-- Subscriber users (admin and children) - to Apiculus Cloud Console
-- Reseller users - to Apiculus Admin Console in the reseller view
-- Admin users - to Apiculus Admin Console
-
-![LoggingIn](LoggingIn.png)
-
-
-
-
-
-
-
+To log in to your Yntraa Cloud, follow these steps:
+1. Navigate to [https://account.yotta.com](https://account.yotta.com). The following screen appears :   ![login1](img/login1.png)
+2. Enter your **Email** and **Password**.
+3. (Optional) Select the **Remember me** checkbox to stay signed in on your current device.
+4. Click **Sign In**.
 

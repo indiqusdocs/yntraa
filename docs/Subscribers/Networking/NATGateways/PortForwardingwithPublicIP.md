@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Port Forwarding with Public IP
 
-In Apiculus cloud platform, an additional Public IP enables you to expose internal services hosted on virtual machines (VMs) to the internet by creating dedicated port forwarding rules. This approach is especially useful when multiple external IPs are needed for services such as SSH, HTTP, or custom applications. By assigning specific public IPs to particular services or VMs, you can achieve greater control, flexibility, and network segmentation.
+In Yntraa Cloud, an additional Public IP enables you to expose internal services hosted on virtual machines (VMs) to the internet by creating dedicated port forwarding rules. This approach is especially useful when multiple external IPs are needed for services such as SSH, HTTP, or custom applications. By assigning specific public IPs to particular services or VMs, you can achieve greater control, flexibility, and network segmentation.
 
 The following are the high level steps required to configure port forwarding with Public IP:
 
@@ -18,7 +18,7 @@ The following are the high level steps required to configure port forwarding wit
 
 To enable external connectivity for your services through a NAT Gateway, you need to allocate a public IPv4 address. This address serves as the entry point for inbound traffic and is essential for setting up port forwarding or other external access configurations.
 
-The following steps guide you through the process of navigating to your NAT Gateway, generating a new public IPv4 address, and verifying its successful addition and availability within the Apiculus cloud platform:
+The following steps guide you through the process of navigating to your NAT Gateway, generating a new public IPv4 address, and verifying its successful addition and availability within the YYntraa Cloud:
 
 1. Navigate to the **NAT Gateways** section from the left-hand menu.
 2. Select the desired gateway (for example, ADC-R522-40-Test_ISOLATED_NETWORK).
@@ -33,7 +33,7 @@ The following steps guide you through the process of navigating to your NAT Gate
 
 Once a public IPv4 address has been successfully added to your NAT Gateway, the next step is to configure port forwarding. This enables external access to internal services by mapping incoming traffic on specific ports to designated internal IP addresses within your network.
 
-The following steps guide you through locating the unused public IP, accessing the port forwarding interface, and initiating the configuration of a new port forwarding rule using the Apiculus cloud platform:
+The following steps guide you through locating the unused public IP, accessing the port forwarding interface, and initiating the configuration of a new port forwarding rule using the Yntraa Cloud:
 
 1. **Navigate to IPv4 Addresses**: In the left-hand menu under **Networking**, click on **IPv4 Addresses**
 2. **Identify the Newly Acquired Public IP**: Look for the public IP address that is marked as **Unused** under the **USAGE** column.

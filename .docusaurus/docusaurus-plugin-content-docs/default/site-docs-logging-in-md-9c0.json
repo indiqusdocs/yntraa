@@ -1,7 +1,7 @@
 {
   "id": "LoggingIn",
   "title": "Logging In",
-  "description": "Any user with a valid username/email and password can log in to Apiculus and will automatically be directed to their respective control panel based on their user type.",
+  "description": "To access the Yntraa cloud platform and its features, users must log in using their registered email and password. The following steps to login/signin securely.",
   "source": "@site/docs/LoggingIn.md",
   "sourceDirName": ".",
   "slug": "/LoggingIn",
@@ -10,9 +10,9 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 4
   },
   "sidebar": "sidebar1",
   "previous": {
@@ -20,7 +20,7 @@
     "permalink": "/docs/intro"
   },
   "next": {
-    "title": "Wallet and Transactions",
-    "permalink": "/docs/category/wallet-and-transactions"
+    "title": "Frequently Asked Questions (FAQs)",
+    "permalink": "/docs/FAQs"
   }
 }

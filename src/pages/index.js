@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--2g"
-            to="/docs/intro">
+            to="/docs/Subscribers/intro">
             View all Documentation
           </Link>
         </div>
@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} Documentation`}
-      description="Apiculus Documentation">
+      description="Yntraa Technical Documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Yantraa Technical Documentation',
-  tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
+  title: 'Yntraa Cloud Technical Documentation',
+  tagline: 'Welcome to Yntraa Cloud! A powerful platform designed to simplify and enhance the management of your cloud and network services.\nExplore our comprehensive User Guide, helpful FAQs, and detailed Knowledge Base to streamline operations, automate tasks, and optimize your digital services.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.apiculus.com',
+  url: 'https://docs.yntraacloud.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -62,7 +62,7 @@ stylesheets: [
 		  // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
     //      editUrl:
-      //      'https://github.com/imyogeshs/apiculus',
+      //      'https://github.com/imyogeshs/yntraa',
         },
         blog: {
           showReadingTime: true,
@@ -111,56 +111,69 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 	  
     },
       // Replace with your project's social card
-      image: 'img/apiculus-social-card.png',
+      image: 'img/social-card.png',
       navbar: {
         title: '',
 		// hideOnScroll: true,
         logo: {
-          alt: 'Apiculus',
+          alt: 'Yntraa Cloud',
           src: 'img/logo.svg',
+		  srcDark: 'img/logo.svg',
         },
         items: [
           
+//		  {
+//            type: 'docSidebar',
+//            sidebarId: 'sidebar1',
+//            position: 'left',
+//            label: 'Service Providers',
+//			  },
+
 		  {
             type: 'docSidebar',
             sidebarId: 'sidebar1',
             position: 'left',
-            label: 'Service Providers',
-			position: "left",
+            label: 'User Manual',
           },
+		  	{
+          type: 'docSidebar',
+          sidebarId: 'sidebar2',
+          position: 'left',
+          label: 'FAQs',
+			},
 		  {
-            type: 'docSidebar',
-            sidebarId: 'sidebar2',
-            position: 'left',
-            label: 'Subscribers',
-          },
-		  {
-            type: 'docSidebar',
-            sidebarId: 'sidebar4',
-            position: 'left',
-            label: 'Release Notes',
-          },
-		  
-		  {
-          type: 'dropdown',
-          label: 'APIs',
-          position: 'left', // Can be 'left' or 'right'
-          items: [
-            {
-              label: 'Management APIs',
-             to: '/docs/APIs/apioverview',
-            },
-            {
-              label: 'Global APIs',
-			  href: 'https://swagger.apiculus.io',
-            },
-          ],
+          type: 'docSidebar',
+          sidebarId: 'sidebar3',
+          position: 'left',
+          label: 'Knowledge Base',
         },
+	    	//  {
+          //  type: 'docSidebar',
+          //  sidebarId: 'sidebar4',
+          //  position: 'left',
+          //  label: 'Release Notes',
+         // },
+		  
+	//	  {
+    //      type: 'dropdown',
+    //      label: 'APIs',
+    //      position: 'left', // Can be 'left' or 'right'
+    //      items: [
+    //        {
+    //          label: 'Management APIs',
+    //         to: '/docs/APIs/apioverview',
+    //        },
+    //        {
+    //          label: 'Global APIs',
+	//		  href: 'https://swagger.apiculus.io',
+    //        },
+    //      ],
+    //    },
 		   
 		  
 		  {
-          href: 'https://try.apiculus.io', // Change to the desired link
-          label: 'Try Apiculus', // The label of your button
+          href: 'https://yntraacloud.ai', // Change to the desired link
+          label: 'Yntraa Cloud Platform', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },

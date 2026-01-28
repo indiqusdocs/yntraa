@@ -14,7 +14,7 @@ To create a Linux instance, follow these steps:
    ![zone](img/zone.png)
 4. Select a VPC or VNF network from the **Select Network** Dropdown and, select the appropriate tier listed in **Select Network**.
 	:::note
-	To add a Linux Instance to a VPC or VNF, you need to have a VPC or VNF configured with at least one tier.
+	To add a Linux Instance to a VPC or VNF, you must have a VPC or VNF configured with at least one tier.
 	:::
 5. Select the **OS Image** to run on your Instance.
 6. Select the **Compute Pack** from the available compute collections.

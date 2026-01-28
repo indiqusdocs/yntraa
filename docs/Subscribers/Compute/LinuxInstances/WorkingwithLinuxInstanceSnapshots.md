@@ -22,7 +22,7 @@ The following quick options are available:
 - Revert the Instance from the Snapshot
 - Delete the Snapshot
 ## Creating a Snapshot
-To create a Snapshot, follow these steps:
+To create a Snapshot, the following steps are :
 1. Click the **CREATE SNAPSHOT** button. The Take Snapshot window appears.
 2. Enter the name  and description of the Snapshot.
 3. Click the Create button. The Snapshot will be created.

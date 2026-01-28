@@ -6,7 +6,7 @@ sidebar_position: 5
 
 To resize an available **Block Volumes**, navigate to **Storage**, select the **Block Volumes** and access the **Resize** tab.
 
-Follow the steps to choose Disk Configuration on Apiculus Cloud Console:
+Follow the steps to choose Disk Configuration on Yntraa Cloud:
 
 - To resize the Data Disk, click the **RESIZE DATA DISK** button.  
 	![Resize](img/Resize1.png)

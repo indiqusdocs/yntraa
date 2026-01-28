@@ -8,2116 +8,756 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Subscribers/intro",
           "docs": [
-            {
-              "id": "AboutServiceProviderAdministration/AdminConsole",
-              "path": "/docs/AboutServiceProviderAdministration/AdminConsole",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "AboutServiceProviderAdministration/ISVConsoles",
-              "path": "/docs/AboutServiceProviderAdministration/ISVConsoles",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "AboutServiceProviderAdministration/ManagingSupportTickets",
-              "path": "/docs/AboutServiceProviderAdministration/ManagingSupportTickets",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards",
-              "path": "/docs/AboutServiceProviderAdministration/MetabaseBusinessIntelligenceDashboards",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "AboutServiceProviderAdministration/OTRSTicketingandServiceInterface",
-              "path": "/docs/AboutServiceProviderAdministration/OTRSTicketingandServiceInterface",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "AboutServiceProviderAdministration/Role-basedAccessonAdminConsole",
-              "path": "/docs/AboutServiceProviderAdministration/Role-basedAccessonAdminConsole",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "AboutServiceProviderAdministration/ZabbixDashboardandNMS",
-              "path": "/docs/AboutServiceProviderAdministration/ZabbixDashboardandNMS",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/AboutEstimates",
-              "path": "/docs/Administration/BillingandFinancials/AboutEstimates",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/AboutInvoice",
-              "path": "/docs/Administration/BillingandFinancials/AboutInvoice",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts",
-              "path": "/docs/Administration/BillingandFinancials/AddingOne-timeChargesandDiscounts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice",
-              "path": "/docs/Administration/BillingandFinancials/CreatingaCreditNoteAgainstanInvoice",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/CreatingCreditNotesinBulk",
-              "path": "/docs/Administration/BillingandFinancials/CreatingCreditNotesinBulk",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/DeactivatingaSubscription",
-              "path": "/docs/Administration/BillingandFinancials/DeactivatingaSubscription",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/Overview",
-              "path": "/docs/Administration/BillingandFinancials/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/RecordingTaxDeductions",
-              "path": "/docs/Administration/BillingandFinancials/RecordingTaxDeductions",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments",
-              "path": "/docs/Administration/BillingandFinancials/RecordingTransactionsandOfflinePayments",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/ResendingCreditNotes",
-              "path": "/docs/Administration/BillingandFinancials/ResendingCreditNotes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/ReversingTransactions",
-              "path": "/docs/Administration/BillingandFinancials/ReversingTransactions",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/UpdatingSubscriptionCharges",
-              "path": "/docs/Administration/BillingandFinancials/UpdatingSubscriptionCharges",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/ViewingandDownloadingCreditNotes",
-              "path": "/docs/Administration/BillingandFinancials/ViewingandDownloadingCreditNotes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/ViewinganddownloadingInvoices",
-              "path": "/docs/Administration/BillingandFinancials/ViewinganddownloadingInvoices",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/ViewingReceiptsandAcknowledgments",
-              "path": "/docs/Administration/BillingandFinancials/ViewingReceiptsandAcknowledgments",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/ViewingTaxDeductions",
-              "path": "/docs/Administration/BillingandFinancials/ViewingTaxDeductions",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/BillingandFinancials/ViewingTransactionDetails",
-              "path": "/docs/Administration/BillingandFinancials/ViewingTransactionDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ManagingQuickPlans/AddingQuickPlanstoaCatalogue",
-              "path": "/docs/Administration/ManagingQuickPlans/AddingQuickPlanstoaCatalogue",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ManagingQuickPlans/CreatingQuickPlans",
-              "path": "/docs/Administration/ManagingQuickPlans/CreatingQuickPlans",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory",
-              "path": "/docs/Administration/ManagingQuickPlans/SettingUpaQuickPlanCategory",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/MarketingManagement/Overview",
-              "path": "/docs/Administration/MarketingManagement/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/MarketingManagement/WorkingwithCoupons",
-              "path": "/docs/Administration/MarketingManagement/WorkingwithCoupons",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/MarketingManagement/WorkingwithDiscountCodes",
-              "path": "/docs/Administration/MarketingManagement/WorkingwithDiscountCodes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ResellerManagement/CreatingandUpdatingResellers",
-              "path": "/docs/Administration/ResellerManagement/CreatingandUpdatingResellers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ResellerManagement/ManagingBillingforResellers",
-              "path": "/docs/Administration/ResellerManagement/ManagingBillingforResellers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ResellerManagement/ManagingReseller-taggedAccounts",
-              "path": "/docs/Administration/ResellerManagement/ManagingReseller-taggedAccounts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ResellerManagement/Overview",
-              "path": "/docs/Administration/ResellerManagement/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/CustomCatalogues/AssigningCustomCataloguestoCustomers",
-              "path": "/docs/Administration/ServicesManagement/CustomCatalogues/AssigningCustomCataloguestoCustomers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue",
-              "path": "/docs/Administration/ServicesManagement/CustomCatalogues/CreatingaCustomCatalogue",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/CustomCatalogues/EnablingorDisablingCatalogueItems",
-              "path": "/docs/Administration/ServicesManagement/CustomCatalogues/EnablingorDisablingCatalogueItems",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/CustomCatalogues/UpdatingPricesonCatalogues",
-              "path": "/docs/Administration/ServicesManagement/CustomCatalogues/UpdatingPricesonCatalogues",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringKubernetesService",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringLinuxInstances",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringRHELInstances",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringWindowsInstances",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Compute/ConfiguringWindowsInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/ConfiguringInstanceProtection",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/ConfiguringInstanceProtection",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringDNSManagement",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringDNSManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringIPv4Addresses",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringIPv4Addresses",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringLoadBalancerInstances",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringLoadBalancerInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualFirewallInstances",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualFirewallInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Networking services/ConfiguringVirtualPrivateClouds",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringBlockVolumes",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringBlockVolumes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringObjectStorage",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Configuring Services/Storage/ConfiguringObjectStorage",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/Working with Default Services/Overview",
-              "path": "/docs/Administration/ServicesManagement/Working with Default Services/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/WorkingwithAvailabilityZones",
-              "path": "/docs/Administration/ServicesManagement/WorkingwithAvailabilityZones",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/ServicesManagement/WorkingwithCloudCollections",
-              "path": "/docs/Administration/ServicesManagement/WorkingwithCloudCollections",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/AccountManagementOverview",
-              "path": "/docs/Administration/SubscribersandAccounts/AccountManagementOverview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/ChangingResourceLimitsforSubscribers",
-              "path": "/docs/Administration/SubscribersandAccounts/ChangingResourceLimitsforSubscribers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail",
-              "path": "/docs/Administration/SubscribersandAccounts/ChangingSubscribersPrimaryEmail",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts",
-              "path": "/docs/Administration/SubscribersandAccounts/CreatingandUpdatingSubscriberAccounts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/ImpersonatinganAccount",
-              "path": "/docs/Administration/SubscribersandAccounts/ImpersonatinganAccount",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/MaintainingRelationshipPersonnelInformation",
-              "path": "/docs/Administration/SubscribersandAccounts/MaintainingRelationshipPersonnelInformation",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory",
-              "path": "/docs/Administration/SubscribersandAccounts/UpdatingaSubscribersTaxationCategory",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation",
-              "path": "/docs/Administration/SubscribersandAccounts/UpdatingCreditLimitandOtherBillingInformation",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/WorkingwithAccountStates",
-              "path": "/docs/Administration/SubscribersandAccounts/WorkingwithAccountStates",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification",
-              "path": "/docs/Administration/SubscribersandAccounts/WorkingwithKYCandAccountVerification",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SupportManagement/End-to-endSupportUsingOTRS",
-              "path": "/docs/Administration/SupportManagement/End-to-endSupportUsingOTRS",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SupportManagement/HandlingPurchaseandProvisioningRequests",
-              "path": "/docs/Administration/SupportManagement/HandlingPurchaseandProvisioningRequests",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SupportManagement/Overview",
-              "path": "/docs/Administration/SupportManagement/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/SupportManagement/ViewingActivityLogs",
-              "path": "/docs/Administration/SupportManagement/ViewingActivityLogs",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/TrialManagement/AboutTrials",
-              "path": "/docs/Administration/TrialManagement/AboutTrials",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/TrialManagement/AutomatingTrialEnrollments",
-              "path": "/docs/Administration/TrialManagement/AutomatingTrialEnrollments",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/TrialManagement/WorkingwithAccountTrials",
-              "path": "/docs/Administration/TrialManagement/WorkingwithAccountTrials",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Administration/TrialManagement/WorkingwithSubscriptionTrials",
-              "path": "/docs/Administration/TrialManagement/WorkingwithSubscriptionTrials",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "APIs/AccountManagement/DisableAccount",
-              "path": "/docs/APIs/AccountManagement/DisableAccount",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/AccountManagement/EnableAccount",
-              "path": "/docs/APIs/AccountManagement/EnableAccount",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/AccountManagement/RestrictAccount",
-              "path": "/docs/APIs/AccountManagement/RestrictAccount",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/AccountManagement/TerminateAccount",
-              "path": "/docs/APIs/AccountManagement/TerminateAccount",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/apioverview",
-              "path": "/docs/APIs/apioverview",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/AuthenticateSession",
-              "path": "/docs/APIs/AuthenticateSession",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/CloseSession",
-              "path": "/docs/APIs/CloseSession",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/CreateAccount",
-              "path": "/docs/APIs/CreateAccount",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/Helpers/ACSKeysandRegions",
-              "path": "/docs/APIs/Helpers/ACSKeysandRegions",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/Helpers/CountryList",
-              "path": "/docs/APIs/Helpers/CountryList",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/Helpers/StatesList",
-              "path": "/docs/APIs/Helpers/StatesList",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "APIs/Helpers/TaxCategories",
-              "path": "/docs/APIs/Helpers/TaxCategories",
-              "sidebar": "sidebar3"
-            },
             {
               "id": "FAQs",
               "path": "/docs/FAQs",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/AdvancedConfigurations/AddingCustomScripts",
-              "path": "/docs/GettingStarted/AdvancedConfigurations/AddingCustomScripts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/AdvancedConfigurations/CurrencyLocalisation",
-              "path": "/docs/GettingStarted/AdvancedConfigurations/CurrencyLocalisation",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/AdvancedConfigurations/EnablingResellerModule",
-              "path": "/docs/GettingStarted/AdvancedConfigurations/EnablingResellerModule",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/AdvancedConfigurations/ManagingQuickPlanCategories",
-              "path": "/docs/GettingStarted/AdvancedConfigurations/ManagingQuickPlanCategories",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/BillingandFinancials/ConfiguringAdditionalFields",
-              "path": "/docs/GettingStarted/BillingandFinancials/ConfiguringAdditionalFields",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/BillingandFinancials/ConfiguringBasicBilling",
-              "path": "/docs/GettingStarted/BillingandFinancials/ConfiguringBasicBilling",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/BillingandFinancials/ConfiguringTaxDeductions",
-              "path": "/docs/GettingStarted/BillingandFinancials/ConfiguringTaxDeductions",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/BrandingandContent/ConfiguringCustomLinks",
-              "path": "/docs/GettingStarted/BrandingandContent/ConfiguringCustomLinks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/BrandingandContent/CustomisingBrandandGraphicAssets",
-              "path": "/docs/GettingStarted/BrandingandContent/CustomisingBrandandGraphicAssets",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/BrandingandContent/PublishingStandardStaticContent",
-              "path": "/docs/GettingStarted/BrandingandContent/PublishingStandardStaticContent",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/InBuiltApps/ConfiguringSMSGateway",
-              "path": "/docs/GettingStarted/InBuiltApps/ConfiguringSMSGateway",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/InBuiltApps/ConfiguringSystemEmailsusingSMTP",
-              "path": "/docs/GettingStarted/InBuiltApps/ConfiguringSystemEmailsusingSMTP",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/InBuiltApps/ManagingGooglereCAPTCHAandTagManager",
-              "path": "/docs/GettingStarted/InBuiltApps/ManagingGooglereCAPTCHAandTagManager",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/InBuiltApps/ManagingPaymentGateways",
-              "path": "/docs/GettingStarted/InBuiltApps/ManagingPaymentGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies",
-              "path": "/docs/GettingStarted/LoginConfigurations/ConfiguringPasswordPolicies",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/LoginConfigurations/LoginSecurityand2FA",
-              "path": "/docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies",
-              "path": "/docs/GettingStarted/PlatformAdministration/ConfiguringAutomationPolicies",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/PlatformAdministration/GeneralPlatformSettings",
-              "path": "/docs/GettingStarted/PlatformAdministration/GeneralPlatformSettings",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/PlatformAdministration/ManagingServiceProviderProfile",
-              "path": "/docs/GettingStarted/PlatformAdministration/ManagingServiceProviderProfile",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/PlatformAdministration/ManagingSPAdminUsers",
-              "path": "/docs/GettingStarted/PlatformAdministration/ManagingSPAdminUsers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/SignupConfigurations/ConfiguringAccountDefaults",
-              "path": "/docs/GettingStarted/SignupConfigurations/ConfiguringAccountDefaults",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains",
-              "path": "/docs/GettingStarted/SignupConfigurations/RestrictingFreeEmailDomains",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "GettingStarted/SignupConfigurations/SignupSettings",
-              "path": "/docs/GettingStarted/SignupConfigurations/SignupSettings",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/AccessCentral",
-              "path": "/docs/Introduction/AccessCentral",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/BillingConcepts",
-              "path": "/docs/Introduction/BillingConcepts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/BuildingBlocks",
-              "path": "/docs/Introduction/BuildingBlocks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/SupportedPaymentGateways",
-              "path": "/docs/Introduction/SupportedPaymentGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Introduction/SupportedSMSGateways",
-              "path": "/docs/Introduction/SupportedSMSGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "LoggingIn",
-              "path": "/docs/LoggingIn",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ReleaseNotes/Ver11000",
-              "path": "/docs/ReleaseNotes/Ver11000",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11010",
-              "path": "/docs/ReleaseNotes/Ver11010",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11100",
-              "path": "/docs/ReleaseNotes/Ver11100",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11110",
-              "path": "/docs/ReleaseNotes/Ver11110",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11200",
-              "path": "/docs/ReleaseNotes/Ver11200",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11210",
-              "path": "/docs/ReleaseNotes/Ver11210",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11300",
-              "path": "/docs/ReleaseNotes/Ver11300",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11400",
-              "path": "/docs/ReleaseNotes/Ver11400",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11500",
-              "path": "/docs/ReleaseNotes/Ver11500",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11510",
-              "path": "/docs/ReleaseNotes/Ver11510",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11600",
-              "path": "/docs/ReleaseNotes/Ver11600",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11610",
-              "path": "/docs/ReleaseNotes/Ver11610",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11620",
-              "path": "/docs/ReleaseNotes/Ver11620",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11700",
-              "path": "/docs/ReleaseNotes/Ver11700",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11710",
-              "path": "/docs/ReleaseNotes/Ver11710",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11720",
-              "path": "/docs/ReleaseNotes/Ver11720",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11730",
-              "path": "/docs/ReleaseNotes/Ver11730",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11740",
-              "path": "/docs/ReleaseNotes/Ver11740",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11741",
-              "path": "/docs/ReleaseNotes/Ver11741",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11750",
-              "path": "/docs/ReleaseNotes/Ver11750",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11760",
-              "path": "/docs/ReleaseNotes/Ver11760",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11800",
-              "path": "/docs/ReleaseNotes/Ver11800",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver11900",
-              "path": "/docs/ReleaseNotes/Ver11900",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver1710",
-              "path": "/docs/ReleaseNotes/Ver1710",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver1711",
-              "path": "/docs/ReleaseNotes/Ver1711",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver1720",
-              "path": "/docs/ReleaseNotes/Ver1720",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver1800",
-              "path": "/docs/ReleaseNotes/Ver1800",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver1900",
-              "path": "/docs/ReleaseNotes/Ver1900",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2000",
-              "path": "/docs/ReleaseNotes/Ver2000",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2010",
-              "path": "/docs/ReleaseNotes/Ver2010",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2030",
-              "path": "/docs/ReleaseNotes/Ver2030",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2031",
-              "path": "/docs/ReleaseNotes/Ver2031",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2040",
-              "path": "/docs/ReleaseNotes/Ver2040",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2050",
-              "path": "/docs/ReleaseNotes/Ver2050",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2051",
-              "path": "/docs/ReleaseNotes/Ver2051",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2052",
-              "path": "/docs/ReleaseNotes/Ver2052",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2100",
-              "path": "/docs/ReleaseNotes/Ver2100",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2110",
-              "path": "/docs/ReleaseNotes/Ver2110",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2111",
-              "path": "/docs/ReleaseNotes/Ver2111",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2200",
-              "path": "/docs/ReleaseNotes/Ver2200",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2210",
-              "path": "/docs/ReleaseNotes/Ver2210",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2220",
-              "path": "/docs/ReleaseNotes/Ver2220",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2300",
-              "path": "/docs/ReleaseNotes/Ver2300",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2310",
-              "path": "/docs/ReleaseNotes/Ver2310",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2400",
-              "path": "/docs/ReleaseNotes/Ver2400",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2500",
-              "path": "/docs/ReleaseNotes/Ver2500",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2510",
-              "path": "/docs/ReleaseNotes/Ver2510",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ReleaseNotes/Ver2520",
-              "path": "/docs/ReleaseNotes/Ver2520",
-              "sidebar": "sidebar4"
-            },
-            {
-              "id": "ResettingPassword",
-              "path": "/docs/ResettingPassword",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/About",
-              "path": "/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/About",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/DNSRequirements",
-              "path": "/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/DNSRequirements",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/SupportedRecordTypes",
-              "path": "/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/SupportedRecordTypes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/SystemRequirements",
-              "path": "/docs/ServicesandSystemRequirements/ApiculusAuthoritiveNameserver/SystemRequirements",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage",
-              "path": "/docs/ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails",
-              "path": "/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FeatureListandIntegrationDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions",
-              "path": "/docs/ServicesandSystemRequirements/ApiculusObjectStorage/FrequentlyAskedQuestions",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements",
-              "path": "/docs/ServicesandSystemRequirements/ApiculusObjectStorage/SystemRequirements",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/AWSLinkage/AboutAWSLinkage",
-              "path": "/docs/ServicesandSystemRequirements/AWSLinkage/AboutAWSLinkage",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/AWSLinkage/IntegrationDetails",
-              "path": "/docs/ServicesandSystemRequirements/AWSLinkage/IntegrationDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/AWSLinkage/Prerequisites",
-              "path": "/docs/ServicesandSystemRequirements/AWSLinkage/Prerequisites",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/LoadBalancerInstances/About",
-              "path": "/docs/ServicesandSystemRequirements/LoadBalancerInstances/About",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/LoadBalancerInstances/FeatureList",
-              "path": "/docs/ServicesandSystemRequirements/LoadBalancerInstances/FeatureList",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements",
-              "path": "/docs/ServicesandSystemRequirements/LoadBalancerInstances/SystemRequirements",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/AboutLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/AboutLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/AppOverlays",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/AppOverlays",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ConfiguringAlerts",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ConfiguringAlerts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ConnectingtoaLinuxInstance",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ConnectingtoaLinuxInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/CreatingLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/CreatingLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/NetworkingManagement",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/NetworkingManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/Operations",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/Overview",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ReconfiguringLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ReconfiguringLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/VolumeManagement",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots",
-              "path": "/docs/Subscriber/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/AboutRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/AboutRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ConfiguringAlerts",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ConfiguringAlerts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ConnectingtoaRHELInstance",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ConnectingtoaRHELInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/CreatingRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/CreatingRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/NetworkingManagement",
-              "path": "/docs/Subscriber/Compute/RHELInstances/NetworkingManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/Overview",
-              "path": "/docs/Subscriber/Compute/RHELInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ProtectingRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ProtectingRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ReconfiguringRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ReconfiguringRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/RHELInstanceOperations",
-              "path": "/docs/Subscriber/Compute/RHELInstances/RHELInstanceOperations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ViewingGraphsandUtilization",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ViewingGraphsandUtilization",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/ViewingRHELInstances",
-              "path": "/docs/Subscriber/Compute/RHELInstances/ViewingRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/VolumeManagement",
-              "path": "/docs/Subscriber/Compute/RHELInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Compute/RHELInstances/WorkingwithSnapshots",
-              "path": "/docs/Subscriber/Compute/RHELInstances/WorkingwithSnapshots",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/DNSManagement/AboutDNSManagement",
-              "path": "/docs/Subscriber/Networking/DNSManagement/AboutDNSManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "path": "/docs/Subscriber/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/DNSManagement/ManagingDNSRecords",
-              "path": "/docs/Subscriber/Networking/DNSManagement/ManagingDNSRecords",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "path": "/docs/Subscriber/Networking/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "path": "/docs/Subscriber/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "path": "/docs/Subscriber/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "path": "/docs/Subscriber/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "path": "/docs/Subscriber/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/L2 Networks/AboutL2Networks",
-              "path": "/docs/Subscriber/Networking/L2 Networks/AboutL2Networks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/L2 Networks/AddNewL2Networks",
-              "path": "/docs/Subscriber/Networking/L2 Networks/AddNewL2Networks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "path": "/docs/Subscriber/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "path": "/docs/Subscriber/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
-              "path": "/docs/Subscriber/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/AboutNATGateways",
-              "path": "/docs/Subscriber/Networking/NATGateways/AboutNATGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/Instances",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/Operations",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/Overview",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
-              "path": "/docs/Subscriber/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/PortForwardingforVMviaVNF",
-              "path": "/docs/Subscriber/Networking/NATGateways/PortForwardingforVMviaVNF",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/NATGateways/PortForwardingwithPublicIP",
-              "path": "/docs/Subscriber/Networking/NATGateways/PortForwardingwithPublicIP",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/CreatingaVirtualFirewall",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/CreatingaVirtualFirewall",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/Operations",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/Overview",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/Snapshots",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/Snapshots",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "path": "/docs/Subscriber/Networking/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscriber/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-              "path": "/docs/Subscriber/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccessCentral",
-              "path": "/docs/Subscribers/AccessCentral",
               "sidebar": "sidebar2"
             },
             {
-              "id": "Subscribers/AccountCentre/AboutApiculusAccountCentre",
-              "path": "/docs/Subscribers/AccountCentre/AboutApiculusAccountCentre",
-              "sidebar": "sidebar2"
+              "id": "Knowledgebase/IPv4Networking",
+              "path": "/docs/Knowledgebase/IPv4Networking",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/WhatisaVirtualFirewallintheCloud",
+              "path": "/docs/Knowledgebase/WhatisaVirtualFirewallintheCloud",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/WhatisaVPC",
+              "path": "/docs/Knowledgebase/WhatisaVPC",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/WhatisInstances",
+              "path": "/docs/Knowledgebase/WhatisInstances",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/WhatisIPAddressSubnetTierandCIDR",
+              "path": "/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Subscribers/AccountCentre/AboutYntraaAccountCentre",
+              "path": "/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre",
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/InvoicesandCreditNotes",
               "path": "/docs/Subscribers/AccountCentre/InvoicesandCreditNotes",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/Organisation-AccountProfile",
               "path": "/docs/Subscribers/AccountCentre/Organisation-AccountProfile",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/Payments",
               "path": "/docs/Subscribers/AccountCentre/Payments",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/StandardAgreements",
               "path": "/docs/Subscribers/AccountCentre/StandardAgreements",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/SubscriptionsandServices",
               "path": "/docs/Subscribers/AccountCentre/SubscriptionsandServices",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/SupportandTickets",
               "path": "/docs/Subscribers/AccountCentre/SupportandTickets",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/TeamandChildUserManagement",
               "path": "/docs/Subscribers/AccountCentre/TeamandChildUserManagement",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/UnbilledCharges",
               "path": "/docs/Subscribers/AccountCentre/UnbilledCharges",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/WalletandTransactions",
               "path": "/docs/Subscribers/AccountCentre/WalletandTransactions",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/CloudExperienceManagement/CloudConsoleOverview",
-              "path": "/docs/Subscribers/CloudExperienceManagement/CloudConsoleOverview",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/CloudExperienceManagement/CloudOperationsManagement",
-              "path": "/docs/Subscribers/CloudExperienceManagement/CloudOperationsManagement",
-              "sidebar": "sidebar2"
+              "id": "Subscribers/BRbaaS/BRaaS/BRaaS",
+              "path": "/docs/Subscribers/BRbaaS/BRaaS/",
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
               "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
               "path": "/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Autoscale/RequirementsforAutoscale",
               "path": "/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs",
-              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs",
-              "sidebar": "sidebar2"
+              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances",
+              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances",
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/AboutKubernetes",
               "path": "/docs/Subscribers/Compute/Kubernetes/AboutKubernetes",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/AboutKubernetesDashboard",
               "path": "/docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine",
               "path": "/docs/Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard",
               "path": "/docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/ClusterOperations",
               "path": "/docs/Subscribers/Compute/Kubernetes/ClusterOperations",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster",
               "path": "/docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters",
               "path": "/docs/Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/Overview",
               "path": "/docs/Subscribers/Compute/Kubernetes/Overview",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/ScalingKubernetesClusters",
               "path": "/docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails",
               "path": "/docs/Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/AboutLinuxInstances",
               "path": "/docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/AppOverlays",
               "path": "/docs/Subscribers/Compute/LinuxInstances/AppOverlays",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/ConfiguringAlerts",
               "path": "/docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance",
               "path": "/docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/CreatingLinuxInstances",
               "path": "/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/NetworkingManagement",
               "path": "/docs/Subscribers/Compute/LinuxInstances/NetworkingManagement",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/Operations",
               "path": "/docs/Subscribers/Compute/LinuxInstances/Operations",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/Overview",
               "path": "/docs/Subscribers/Compute/LinuxInstances/Overview",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances",
               "path": "/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
               "path": "/docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/VolumeManagement",
               "path": "/docs/Subscribers/Compute/LinuxInstances/VolumeManagement",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots",
               "path": "/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/AboutRHELInstances",
               "path": "/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/ConfiguringAlerts",
               "path": "/docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
               "path": "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/CreatingRHELInstances",
               "path": "/docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/NetworkingManagement",
               "path": "/docs/Subscribers/Compute/RHELInstances/NetworkingManagement",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/Overview",
               "path": "/docs/Subscribers/Compute/RHELInstances/Overview",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/Compute/RHELInstances/ProtectingRHELInstances",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances",
               "path": "/docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/RHELInstanceOperations",
               "path": "/docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization",
               "path": "/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/ViewingRHELInstances",
               "path": "/docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/VolumeManagement",
               "path": "/docs/Subscribers/Compute/RHELInstances/VolumeManagement",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/RHELInstances/WorkingwithSnapshots",
               "path": "/docs/Subscribers/Compute/RHELInstances/WorkingwithSnapshots",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/AboutWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
               "path": "/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/CreatingWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/Compute/WindowsInstances/Protection",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/Protection",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/WindowsInstanceOperations",
               "path": "/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots",
               "path": "/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/FAQs",
-              "path": "/docs/Subscribers/FAQs",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/InstanceProtection/AboutInstanceprotection",
-              "path": "/docs/Subscribers/InstanceProtection/AboutInstanceprotection",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/InstanceProtection/EnablingInstanceProtection",
-              "path": "/docs/Subscribers/InstanceProtection/EnablingInstanceProtection",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/InstanceProtection/ManagingProtectedInstances",
-              "path": "/docs/Subscribers/InstanceProtection/ManagingProtectedInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/intro",
               "path": "/docs/Subscribers/intro",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/LoggingIn",
               "path": "/docs/Subscribers/LoggingIn",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Backuphighavailabilityanddisaster",
+              "path": "/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/introduction",
+              "path": "/docs/Subscribers/MDbaaS/introduction",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/MDBaas",
+              "path": "/docs/Subscribers/MDbaaS/",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Postprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/Postprovisioning",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/PreRequisites",
+              "path": "/docs/Subscribers/MDbaaS/PreRequisites",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Scalingandconfigurationmanagement",
+              "path": "/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/servicedeprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/servicedeprovisioning",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Serviceoverviewandarchitecture",
+              "path": "/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Serviceprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/Serviceprovisioning",
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/DNSManagement/AboutDNSManagement",
               "path": "/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole",
               "path": "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform",
+              "path": "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform",
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/DNSManagement/ManagingDNSRecords",
               "path": "/docs/Subscribers/Networking/DNSManagement/ManagingDNSRecords",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider",
               "path": "/docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
               "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
               "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
               "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
               "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/L2 Networks/AboutL2Networks",
               "path": "/docs/Subscribers/Networking/L2 Networks/AboutL2Networks",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/L2 Networks/AddNewL2Networks",
               "path": "/docs/Subscribers/Networking/L2 Networks/AddNewL2Networks",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
               "path": "/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
               "path": "/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
               "path": "/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/NATGateways/AboutNATGateways",
               "path": "/docs/Subscribers/Networking/NATGateways/AboutNATGateways",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/Instances",
               "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Instances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses",
               "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/Operations",
               "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Operations",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/Overview",
               "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
               "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF",
               "path": "/docs/Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/NATGateways/PortForwardingwithPublicIP",
               "path": "/docs/Subscribers/Networking/NATGateways/PortForwardingwithPublicIP",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement",
               "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
               "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/ResettingPassword",
               "path": "/docs/Subscribers/ResettingPassword",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/SigningUp",
               "path": "/docs/Subscribers/SigningUp",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/AboutBlockVolumes",
               "path": "/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/CreatingDataDisk",
               "path": "/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations",
               "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview",
               "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume",
               "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules",
               "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots",
               "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes",
               "path": "/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes",
-              "sidebar": "sidebar2"
+              "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes",
               "path": "/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/Storage/ObjectStorageBucket/AboutApiculusObjectStorage",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/AboutApiculusObjectStorage",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/Storage/ObjectStorageBucket/SystemRequirements",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/ToolsandUtilities/AboutToolsandUtilities",
-              "path": "/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
-              "path": "/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
-              "path": "/docs/Subscribers/ToolsandUtilities/ManagingInstanceandVolumeSnapshots",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs",
-              "path": "/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairs",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "WalletandTransactions/WalletandTransactions",
-              "path": "/docs/WalletandTransactions/",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/wallet-and-transactions",
-              "path": "/docs/category/wallet-and-transactions",
+              "id": "Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/introduction",
-              "path": "/docs/category/introduction",
+              "id": "Subscribers/Storage/ObjectStorage/CreatingObjectStorage",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/about-service-providers-administration",
-              "path": "/docs/category/about-service-providers-administration",
+              "id": "Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/services-and-system-requirements",
-              "path": "/docs/category/services-and-system-requirements",
+              "id": "Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/apiculus-object-storage",
-              "path": "/docs/category/apiculus-object-storage",
+              "id": "/category/account-centre",
+              "path": "/docs/category/account-centre",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/apiculus-authoritive-nameserver",
-              "path": "/docs/category/apiculus-authoritive-nameserver",
+              "id": "/category/compute",
+              "path": "/docs/category/compute",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/aws-linkage",
-              "path": "/docs/category/aws-linkage",
+              "id": "/category/kubernetes",
+              "path": "/docs/category/kubernetes",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/load-balancer-instances",
-              "path": "/docs/category/load-balancer-instances",
+              "id": "/category/linux-instances",
+              "path": "/docs/category/linux-instances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/getting-started",
-              "path": "/docs/category/getting-started",
+              "id": "/category/rhel-instances",
+              "path": "/docs/category/rhel-instances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/platform-administration",
-              "path": "/docs/category/platform-administration",
+              "id": "/category/windows-instances",
+              "path": "/docs/category/windows-instances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/branding-and-content",
-              "path": "/docs/category/branding-and-content",
+              "id": "/category/autoscale",
+              "path": "/docs/category/autoscale",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/signup-configuration",
-              "path": "/docs/category/signup-configuration",
+              "id": "/category/storage",
+              "path": "/docs/category/storage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/login-configuration",
-              "path": "/docs/category/login-configuration",
+              "id": "/category/block-volumes",
+              "path": "/docs/category/block-volumes",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/billing-and-financials",
-              "path": "/docs/category/billing-and-financials",
+              "id": "/category/details-of-block-volume",
+              "path": "/docs/category/details-of-block-volume",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/inbuild-apps",
-              "path": "/docs/category/inbuild-apps",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/advanced-configurations",
-              "path": "/docs/category/advanced-configurations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/administration",
-              "path": "/docs/category/administration",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/subscribers-and-accounts",
-              "path": "/docs/category/subscribers-and-accounts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/trial-management",
-              "path": "/docs/category/trial-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/services-management",
-              "path": "/docs/category/services-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/working-with-default-services",
-              "path": "/docs/category/working-with-default-services",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/configuring-default-services",
-              "path": "/docs/category/configuring-default-services",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/compute-services",
-              "path": "/docs/category/compute-services",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/networking-services",
-              "path": "/docs/category/networking-services",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/storage-services",
-              "path": "/docs/category/storage-services",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/working-with-custom-catalogues",
-              "path": "/docs/category/working-with-custom-catalogues",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/billing-and-financials-1",
-              "path": "/docs/category/billing-and-financials-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/marketing-management",
-              "path": "/docs/category/marketing-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/support-management",
-              "path": "/docs/category/support-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/reseller-management",
-              "path": "/docs/category/reseller-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managing-quick-plans",
-              "path": "/docs/category/managing-quick-plans",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/release-notes",
-              "path": "/docs/category/release-notes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/management-apis",
-              "path": "/docs/category/management-apis",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/helpers",
-              "path": "/docs/category/helpers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/account-management",
-              "path": "/docs/category/account-management",
+              "id": "/category/object-storage",
+              "path": "/docs/category/object-storage",
               "sidebar": "sidebar1"
             },
             {
@@ -2171,305 +811,44 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/load-balancer-instances-1",
-              "path": "/docs/category/load-balancer-instances-1",
+              "id": "/category/load-balancer-instances",
+              "path": "/docs/category/load-balancer-instances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/linux-instances",
-              "path": "/docs/category/linux-instances",
+              "id": "/category/managed-database-as-a-service",
+              "path": "/docs/category/managed-database-as-a-service",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/rhel-instances",
-              "path": "/docs/category/rhel-instances",
+              "id": "/category/backup-recovery-as-a-service",
+              "path": "/docs/category/backup-recovery-as-a-service",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/account-centre",
-              "path": "/docs/category/account-centre",
+              "id": "/category/backup-recovery-as-a-service-1",
+              "path": "/docs/category/backup-recovery-as-a-service-1",
               "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/cloudoperations-management",
-              "path": "/docs/category/cloudoperations-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/compute",
-              "path": "/docs/category/compute",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/kubernetes",
-              "path": "/docs/category/kubernetes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/linux-instances-1",
-              "path": "/docs/category/linux-instances-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/rhel-instances-1",
-              "path": "/docs/category/rhel-instances-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/windows-instances",
-              "path": "/docs/category/windows-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/autoscale",
-              "path": "/docs/category/autoscale",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/networking-1",
-              "path": "/docs/category/networking-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/nat-gateways-1",
-              "path": "/docs/category/nat-gateways-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managing-nat-gateways-1",
-              "path": "/docs/category/managing-nat-gateways-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/virtual-private-clouds-1",
-              "path": "/docs/category/virtual-private-clouds-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/about-vpc-instances-1",
-              "path": "/docs/category/about-vpc-instances-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/ipv4-based-networking-1",
-              "path": "/docs/category/ipv4-based-networking-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/virtual-firewalls-1",
-              "path": "/docs/category/virtual-firewalls-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/firewall-instances-1",
-              "path": "/docs/category/firewall-instances-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/l2-networks-1",
-              "path": "/docs/category/l2-networks-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/dns-management-1",
-              "path": "/docs/category/dns-management-1",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/load-balancer-instances-2",
-              "path": "/docs/category/load-balancer-instances-2",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/storage",
-              "path": "/docs/category/storage",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/block-volumes",
-              "path": "/docs/category/block-volumes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/details-of-block-volume",
-              "path": "/docs/category/details-of-block-volume",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/object-storage-bucket",
-              "path": "/docs/category/object-storage-bucket",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/instance-protection",
-              "path": "/docs/category/instance-protection",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/tools-and-utilities",
-              "path": "/docs/category/tools-and-utilities",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/account-centre-1",
-              "path": "/docs/category/account-centre-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/cloudoperations-management-1",
-              "path": "/docs/category/cloudoperations-management-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/compute-1",
-              "path": "/docs/category/compute-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/kubernetes-1",
-              "path": "/docs/category/kubernetes-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/linux-instances-2",
-              "path": "/docs/category/linux-instances-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/rhel-instances-2",
-              "path": "/docs/category/rhel-instances-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/windows-instances-1",
-              "path": "/docs/category/windows-instances-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/autoscale-1",
-              "path": "/docs/category/autoscale-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/networking-2",
-              "path": "/docs/category/networking-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/nat-gateways-2",
-              "path": "/docs/category/nat-gateways-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/managing-nat-gateways-2",
-              "path": "/docs/category/managing-nat-gateways-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/virtual-private-clouds-2",
-              "path": "/docs/category/virtual-private-clouds-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/about-vpc-instances-2",
-              "path": "/docs/category/about-vpc-instances-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/ipv4-based-networking-2",
-              "path": "/docs/category/ipv4-based-networking-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/virtual-firewalls-2",
-              "path": "/docs/category/virtual-firewalls-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/firewall-instances-2",
-              "path": "/docs/category/firewall-instances-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/l2-networks-2",
-              "path": "/docs/category/l2-networks-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/dns-management-2",
-              "path": "/docs/category/dns-management-2",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/load-balancer-instances-3",
-              "path": "/docs/category/load-balancer-instances-3",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/storage-1",
-              "path": "/docs/category/storage-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/block-volumes-1",
-              "path": "/docs/category/block-volumes-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/details-of-block-volume-1",
-              "path": "/docs/category/details-of-block-volume-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/object-storage-bucket-1",
-              "path": "/docs/category/object-storage-bucket-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/instance-protection-1",
-              "path": "/docs/category/instance-protection-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/tools-and-utilities-1",
-              "path": "/docs/category/tools-and-utilities-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/helpers-1",
-              "path": "/docs/category/helpers-1",
-              "sidebar": "sidebar3"
-            },
-            {
-              "id": "/category/account-management-1",
-              "path": "/docs/category/account-management-1",
-              "sidebar": "sidebar3"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "sidebar1": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
-              }
-            },
-            "sidebar2": {
-              "link": {
                 "path": "/docs/Subscribers/intro",
                 "label": "Subscribers/intro"
               }
             },
-            "sidebar3": {
+            "sidebar2": {
               "link": {
-                "path": "/docs/APIs/apioverview",
-                "label": "APIs/apioverview"
+                "path": "/docs/FAQs",
+                "label": "FAQs"
               }
             },
-            "sidebar4": {
+            "sidebar3": {
               "link": {
-                "path": "/docs/ReleaseNotes/Ver2520",
-                "label": "ReleaseNotes/Ver2520"
+                "path": "/docs/Knowledgebase/IPv4Networking",
+                "label": "Knowledgebase/IPv4Networking"
               }
             }
           }

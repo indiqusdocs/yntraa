@@ -97,6 +97,53 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* Tool Tip in Yellow color background and yellow popup. */
+.tooltip-wrapper {
+  position: relative;
+  display: inline-block;
+  background-color: #fff176; /* Yellow background */
+  padding: 2px 4px;
+  border-radius: 4px;
+  border-bottom: 1px dotted #555;
+  cursor: help;
+}
+
+.tooltip-wrapper .tooltip-box {
+  visibility: hidden;
+  opacity: 0;
+  width: max-content;
+  max-width: 250px;
+  background-color: #fff176; /* Yellow background */
+  color: #000;
+  text-align: left;
+  border-radius: 4px;
+  padding: 6px 8px;
+  position: absolute;
+  z-index: 1000;
+  top: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: opacity 0.3s;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
+  font-size: 0.85em;
+}
+
+.tooltip-wrapper:hover .tooltip-box {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+.markdown img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%; /* prevents large images from overflowing */
+  height: auto;    /* keeps aspect ratio */
+  width: auto;     /* prevents upscaling of small images */
+}
+
+
 /* Custom CSS for Fonts and Styles */
 
 /* Set Montserrat font for all headings */
@@ -159,20 +206,15 @@ a:hover {
 
 /* Apply zoom effect to all images when clicked */
 
-img {
-  cursor: zoom-in; /* Show zoom-in cursor */
-  transition: transform 0.5s ease; /* Smooth transition effect for scaling */
-  position: relative; /* Allows z-index to work */
-  z-index: 1; /* Base z-index for all images */
+.lightbox-img {
+  cursor: zoom-in;
+  max-width: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  display: block;
+  margin: 0.6rem auto;
 }
-
-
-/* Zoom effect on click */
-img:active {
-  transform: scale(1.5); /* Zoom in the image on click */
-  cursor: zoom-out; /* Change cursor to zoom-out */
-  z-index: 1000; /* Bring zoomed image above all other elements */
-  }
 
 .footer {
   background-color: #708090; /* Replace with your desired color */
@@ -295,7 +337,7 @@ img:active {
     color: white;  /* Change the text color */
     border-radius: 25px;  /* Make the button rounded */
     padding: 10px 20px;  /* Adjust padding */
-    font-size: 16px;  /* Adjust font size */
+    font-size: 14px;  /* Adjust font size */
     text-transform: uppercase;  /* Make text uppercase */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Add shadow effect */
     transition: background-color 0.3s ease;  /* Add a hover transition */
@@ -309,13 +351,14 @@ img:active {
 
 /* Title color for both light and dark modes */
 html .hero__title {
-     font-size: 32px; /* Title size */
+/*	line-height: 2.2; */
+     font-size: 22px; /* Title size */
 	color: #000000 !important; /* Force the title color to remain black */
 }
 
 .hero__subtitle {
     color: #334253; /* Replace with your desired description color */
-	font-size: 19px; /* Title size */
+	font-size: 14px; /* Title size */
 }
 
 .title {
@@ -323,5 +366,26 @@ html .hero__title {
 }
 
 .description {
-  font-size: 16px;
+  font-size: 12px;
+}
+
+/* Put icon in fixed-width slot */
+.sidebar-label-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px; /* spacing between icon & text */
+}
+
+/* Ensure multiline text aligns properly */
+.sidebar-text {
+  display: block;
+  line-height: 1.3;
+  padding-left: 0; /* prevent shifting */
+}
+
+/* Keep icon fixed in size so text wraps correctly */
+.sidebar-icon {
+  display: inline-block;
+  width: 20px;     /* adjust as needed */
+  flex-shrink: 0;  /* prevents icon from collapsing */
 }

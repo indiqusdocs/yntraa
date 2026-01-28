@@ -5,7 +5,7 @@ sidebar_position: 5
 
 ## Viewing VPC Instances
 
-Apiculus Cloud Console offers a quick means to view Instances that are part of a VPC network, and to associate or dissociate Instances with VPCs by navigating to VPC details and selecting  **VPC Instances**.
+Yntraa Cloud offers a quick means to view Instances that are part of a VPC network, and to associate or dissociate Instances with VPCs by navigating to VPC details and selecting  **VPC Instances**.
 
 ![Managing VPC Instances](img/ManagingVPCInstances1.png)
 

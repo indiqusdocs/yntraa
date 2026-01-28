@@ -1,35 +1,62 @@
 ---
-sidebar_position: 10
+sidebar_position: 13
 ---
 # Frequently Asked Questions (FAQs)
 
-<details> <summary>**How are data durability and redundancy achieved with block volumes?**</summary>Data redundancy is achieved at the storage level by design as the storage layer replicates Block Volume data across multiple storage devices and Availability Zones.</details>
+<details><summary>**What happens if I miss a payment due date?**</summary>Depending on how your service provider has set up the payment collections policies, one of the following might happen: <br />
+**1.** You may be able to continue using your cloud account (uninterrupted usage); <br />
+**2.**  You might get payment due date notifications (reminder state); <br />
+**3.** You might be disallowed from purchasing new resources but continue to use existing ones (restricted usage); <br />
+**4.** You might be put in a disabled state along with all your cloud resources (suspended state); <br />
+**5.** You might lose access to your account and all your resources entirely (terminated state). While scenario 1 is the most ideal, realistically one of 2-5 will be configured as a policy. To avoid any likelihood of these events, it is best recommended to always pay your due invoices on time and never miss a due date.</details>
 
-<details> <summary>**What Linux distributions are supported on Apiculus Cloud Console?**</summary>Apiculus supports a range of popular Linux distributions such as Ubuntu, CentOS, Rocky, Oracle, Debian, Alma and OpenSUSE. <br />Further, any commercially supported Linux distros, e.g., RHEL, Ubuntu Enterprise etc.. are also supported. Apiculus, however, does not include licenses for enterprise Linux distributions and those need to be procured by service providers separately in a SPLA or similar model.</details>
+<details><summary>**How is my wallet balance calculated?**</summary>
+Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTransactions) is a real-time 'ability to spend' on Yntraa Cloud. It is a net total of your credit limit, all charges incurred and all payments made for your account. <br />
+`Service Balance = Credit Limit - sum(Incurred Charges) + sum(Payments)`</details>
 
-<details> <summary>**Can the cloud platform URL be changed?**</summary>
-Yes, the platform URL can be changed, but it needs to be performed as a planned activity with adequate downtime to ensure all systems can be accessed via the new URL.<br />
-It is also recommended that customers be informed well in advance before changing the main platform access URL.</details>
+<details><summary>**How can I deploy monitoring tools and other apps on my Kubernetes cluster?**</summary>Once a cluster is deployed, you can deploy pretty much any application using kubectl. Some examples:<br />
+**Postgres DB service** : A PostgreSQL Instance can be deployed on a running Kubernetes cluster using the `kubeconfig` manifests. At this moment, we have not automated this. However, there are standard methods of deploying apps and packages (example) available online, all of which just require cluster access via `kubectl`. The same should be applicable to MongoDB and MySQL instances on clusters.<br />
+**Persistent storage** : CKS uses CloudStack’s block volumes for cluster storage. As of now, CKS does not support using NFS or S3 as persistent storage for Kubernetes clusters. However, once a cluster is created, its PersistentVolume can be pointed to a S3 bucket using the Cloudian S3 operator.<br /> 
+**Monitoring of Kubernetes infrastructure** : Users can freely install their own monitoring apps (e.g., Prometheus+Grafana, Rancher etc.) using `kubectl` and Helm Charts.<br /> 
+**Gitlab, ArgoCD** : These apps can be installed using Helm.<br />
+**Advanced Load balancing and Certificate management** : Typically these are handled at the cloud provider level and not at the Kubernetes level.<br /></details>
 
-<details> <summary>**How does BYOL work with Windows Instances?**</summary>
-You can deliver Windows Instances in a BYOL (bring your own license) model by publishing evaluation Windows OS Images and simultaneously publishing QuickPlans for Windows licenses.</details>
+<details><summary>**Can I deploy a Kubernetes cluster with a private registry?**</summary>Private registry is not supported on Yntraa Cloud. However, using the Yntraa API gateway, you can still pass the private registry details (username, password, URL) as the API query parameters and the API will work as intended, but with restrictive SLA on support.</details>
 
-<details> <summary>**Is it possible to customise the invoice to show non-standard information?**</summary>Yes, invoice templates are 100% customisable. While there are 'standard' data rows that will be printed on the invoice, everything else is customisable. Some of the customisations include: <br /> **-** Printing regulatory and compliance information;<br />**-** Printing static instructions, e.g., payment transfer details;<br />**-** Printing branding and organisational information;<br />**-** Printing custom columns based on data available to the system.</details>
+<details><summary>**Why can't I access Kubernetes cluster nodes or cluster volumes directly?**</summary>Accessing cluster nodes and volumes is disabled on Yntraa Cloud in order to maintain sanity around cluster billing mechanisms.</details>
 
-<details> <summary>**What is the difference between Block Volumes and Object Storage and which ones are supported on Apiculus?**</summary>**Block Storage:** Storage such as hard disk drives and solid-state drives, use block-level access protocols like iSCSI and Fibre Channel to read and write data. This storage method is ideal for low-latency, high-performance environments where data access speed is crucial. [Block Volumes](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) is a core cloud Service on Apiculus.  <br /><br />**Object Storage:** It is a technology that manages data as objects. All data is stored in one large repository, which may be distributed across multiple physical storage devices instead of being divided into files or folders. Object Storage is a service based on the S3 protocol. It allows you to store objects, i.e., documents, images, videos, etc. Apiculus offers [object storage as a service (AS3)](/docs/ServicesandSystemRequirements/ApiculusObjectStorage/AboutApiculusObjectStorage) as an integration with the Cloudian Hyperstore. Service providers can offer this service through Apiculus Cloud Console.</details>
+<details><summary>**Can I deploy stateful applications using Yntraa Kubernetes?**</summary>Yes, Kubernetes supports stateful applications using features like StatefulSets and Persistent Volumes for data storage.</details>
 
-<details> <summary>**Why can I see more Instances for some customers than specified in the limits?**</summary>If there are Instance provisioning failures, these failed provisionings would be counted in the limits, till the "Scavenger thread" runs and cleans up the failures. Once this is done, you will see the limits being restored to what is normal.</details>
+<details><summary>**Can I use my S3 bucket with a Kubernetes cluster created on Yntraa Cloud?**</summary>Yes, if the S3 bucket has been created using the Yntraa S3 Service, you can use the CSI (container storage interface) plugin maintained by Cloudian. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Yntraa Cloud.</details>
 
-<details> <summary>**Can terminated user accounts be reactivated?**</summary>No, terminated accounts can neither be recovered, nor recreated using the same email ID. Terminated accounts also stay 'in the system' because they have financial reporting information attached to them (e.g., past invoices).</details>
+<details><summary>**Which Kubernetes versions are supported on Yntraa Cloud?**</summary>Yntraa supports Kubernetes versions 1.20.x and above.</details>
 
-<details> <summary>**Is multi-factor authentication (MFA) supported on Apiculus?**</summary>
-MFA is available as an [OTP-enhanced login feature](/docs/GettingStarted/LoginConfigurations/LoginSecurityand2FA) and can be enabled for all subscribers, all admins or all subscribers and admins.<br /><br />
-**Note**: It is not currently possible to configure MFA/2FA for individual customer accounts.</details>
+<details><summary>**Can I modify my VPC's super CIDR after creation?**</summary>No, super CIDR modification is not currently allowed on Yntraa Cloud. If you wish to change the supernet, it is recommended that you create a new VPC, new subnets and migrate Instances to the new VPC.</details>
 
-<details> <summary>**What are the recommended sizes for branding assets?**</summary> We recommend the following specifications for [branding the cloud platform](/docs/GettingStarted/BrandingandContent/CustomisingBrandandGraphicAssets):  </details>
-|Asset|Aspect Ratio|Min. Size|File Format|Any Other Consideration(s)|
+<details><summary>**What traffic will I be charged for in a VPC?**</summary>In a VPC, any east-west traffic is free. This includes any traffic or communication between subnets, load balancing between Instances etc. <br />North-south traffic may be chargeable based on your country of usage and/or service provider's preferences. This includes any traffic moving in and out of the VPC through the VR. </details>
+
+<details><summary>**Can I use Terraform to provision my cloud resources?**</summary> Yes, Yntraa Cloud supports infrastructure as code (IaC) and cloud resource creation using Terraform and the Yntraa Gateway API.<br />Any resource created using IaC will be billed hourly.</details>
+
+<details><summary>**Can I upload my own ISO or VHD images?**</summary>No, custom Image uploads are currently not possible on Yntraa Cloud.</details>
+
+<details><summary> **Can control and worker nodes be scaled individually in a Kubernetes cluster**</summary>No, when a Kubernetes cluster is scaled, the scaling configurations are applied to all the nodes alike.<br /> The following [scaling modes](/docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters) are available:
+<br/>**Scaling the Control Node** - this can be done by enabling High Availability (HA) at the time of cluster creation;<br/>**Scaling the number of Worker Nodes** - this can be done by specifying minimum and maximum cluster size (Control Nodes are excluded from these limits);<br/>**Reconfiguring the Cluster** - this can be done by specifying a new number of Worker Nodes and changing their Compute configuration.<br/></details>
+
+<details><summary>**Is there a way to add or link multiple emails to an account?**</summary>Yes, multiple email IDs can be used to login to the same subscriber 'parent' account by [creating child users](/docs/Subscribers/AccountCentre/TeamandChildUserManagement). Child users are semi-isolated accounts, in the sense that they all have their own identities on Yntraa Cloud, but share all resources created in the parent subscriber account.</details>
+
+<details><summary> **How can I get admin credentials for Windows Instances on Yntraa Cloud?**</summary>When you create a Windows Instance on Yntraa Cloud, you will receive the password on the email ID registered for your Yntraa Cloud account.</details>
+
+<details><summary>**Can Kubernetes clusters be created with differently-sized control and worker nodes?**</summary>No, Yntraa Kubernetes Service (YK8s) only supports equally-sized Control and Worker nodes in a Kubernetes cluster.</details>
+
+<details><summary>**Can root disks be attached to other Instances?**</summary>No, Root Volumes, i.e., root disks that are created at the time of Instance creation, can not be moved between Instances.<br/>Data Volumes, i.e., addon disks that are created separately, can be attached to and detached from Instances. In other words, Data Volumes are portable while Root Volumes are not.</details>
+
+<details><summary>**Will I be billled for the entire month if I don't use a resource for the whole month?**</summary>Resources are billed based on pro-ration rules defined by the service provider. Pro-ration works in the following ways:<br/>
+**Pro-rate on entry** : This means that, if enabled, your resource will be billed **from** the date of purchase and not from the beginning of the billing month.<br/>
+**Pro-rate on exit** : This means that, if enabled, your resource will be billed **till** the date of usage and not till the end of the billing month.<br/>
+Here's a more detailed illustration:<br/></details>
+|     |Pro-ration on entry ON|Pro-ration on entry OFF|Pro-ration on exit ON|Pro-ration on exit OFF|
 |---|---|---|---|---|
-|Logo|4:1, 5:2 or 16:9|Min. 128px height|.jpg or .png|_Use same specs for any alternate versions_|
-|Favicon|1:1 (square)|Min. 32px X 32px|.png, .jpg or .ico|-|
-|Banner|16:9|Min. 1200px width|.png or .jpg|_Leave 5% 'safe' visual margins from all four sides_|
-|Font|-|-|.woff|_Any font with a native bold/strong weight_|
+|Resource purchased on 8th of the month, used for the remainder of the month or deleted on last day of month|Billing start w.e.f. 8th of the month; total billable days 22 (or 23 based on length of month)|Billing start w.e.f. 1st of the month; total billable days 30 (or 31 based on length of month);|No impact|No impact|
+|Resource purchased on 1st of the month or continued from previous month, used till 23rd of month|No impact|No impact|Billing end on 23rd of the month; total billable days 23; no renewal next billing cycle|Billing end on last day of month; total billable days 30 (or 31 depending on length of month); no renewal next billing cycle|
+|Resource purchased on 8th of the month; used till 23rd of the month|Billing start w.e.f. 8th of the month; total billable days 16 if pro-rate on exit ON; 22/23 if pro-rate on exit OFF|Billing start w.e.f. 1st of the month; total billable days 23 if pro-rate on exit ON; 30/31 if pro-rate on exit OFF|Billing end on 23rd of the month; total billable days 16 if pro-rate on entry ON; 23 if pro-rate on entry OFF; no renewal next billing cycle|Billing end on 30/31st of the month; total billable days 22/23 if pro-rate on entry ON; 30/31 if pro-rate on entry OFF; no renewal next billing cycle|
+

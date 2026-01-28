@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Creating a Kubernetes Cluster
 
-To create a Kubernetes cluster, follow these steps:
+To create a Kubernetes cluster, the following steps are:
 
 1. Navigate to **Compute > Kubernetes** 
 2. Click the **NEW KUBERNETES CLUSTER** button.
@@ -17,7 +17,7 @@ To create a Kubernetes cluster, follow these steps:
 ![azkube](img/azkube.png)
 6. Select the **Compute Pack** from the available compute collections.
 ![computekube](img/computekube.png)
-7. You need to define the various cluster options listed below:
+7. You must define the various cluster options listed below:
     1. You can enable the high availability HA for the cluster.
     2. Specify the cluster size, i.e., the no. of worker nodes (Maximum Cluster Size doesn't exceed 20 nodes).
     3. Specify the node root disk size; a minimum of 8GB is required. 

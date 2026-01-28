@@ -4,7 +4,8 @@ sidebar_position: 11
 # Windows Instance Operations
 
 To view all available Instance operations, navigate to the [Windows Instances Screen](AboutWindowsInstances), select a Windows Instance, and access the **Operations** tab.
-
+![operations](img/operations.png)
+![operations1](img/operations1.png)
 Yntraa cloud console provides the options to perform common operations on Windows Instances.
 
 - **Restart Instance** - use this option to perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.

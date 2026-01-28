@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "2574a029e0815b85",
+    "id": "177ac5a3d2f4f77d",
     "type": "split",
     "children": [
       {
-        "id": "1d6311de41e541eb",
+        "id": "a93c19d5cfd5a6cd",
         "type": "tabs",
         "children": [
           {
-            "id": "6611cde81b30435f",
+            "id": "0408a2002d40adf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots.md",
+                "file": "docs/Subscribers/MDbaaS/servicedeprovisioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WorkingwithWindowsInstanceSnapshots"
+              "title": "servicedeprovisioning"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c3b5e3f506089a2a",
+    "id": "5b9d1233506a2d15",
     "type": "split",
     "children": [
       {
-        "id": "589eb5c4f80f7e29",
+        "id": "39147d62ff3d3ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "ef7415b37c790712",
+            "id": "3b293c9b3e031693",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,13 +48,13 @@
             }
           },
           {
-            "id": "b00788db09f77547",
+            "id": "6773dbb15e0e0c5a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "release  notes",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "083a36e270c4e0da",
+            "id": "264cdb52ff060957",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 300
   },
   "right": {
-    "id": "d1303f5c52f5e51b",
+    "id": "d747967a3c11d7c3",
     "type": "split",
     "children": [
       {
-        "id": "037bb199944f925e",
+        "id": "a0e388d007efbaad",
         "type": "tabs",
         "children": [
           {
-            "id": "4f32f4b6d25447c3",
+            "id": "1b39c0a162963d60",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Administration/ManagingQuickPlans.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,50 +104,52 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ManagingQuickPlans"
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "e6943db203bc7115",
+            "id": "e8fd400af69e9a1f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Administration/ManagingQuickPlans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ManagingQuickPlans"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f2bf414bbe43ee9d",
+            "id": "6023df2ec27989f6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "1eb93ed6b31295d5",
+            "id": "134e2d4da4042182",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Administration/ManagingQuickPlans.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ManagingQuickPlans"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,59 +163,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "6611cde81b30435f",
+  "active": "0408a2002d40adf7",
   "lastOpenFiles": [
-    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
-    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/Protection.md",
-    "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
-    "docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/WorkingwithSnapshots.md",
-    "docs/Subscribers/Compute/RHELInstances/VolumeManagement.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization.md",
-    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
-    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/Overview.md",
-    "docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
-    "docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
-    "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
-    "docs/StackComponents.png",
-    "docs/StackComponents.svg",
-    "build/blog/rss.xml",
+    "docs/Subscribers/MDbaaS/Serviceprovisioning.md",
+    "docs/Subscribers/MDbaaS/servicedeprovisioning.md",
+    "docs/Subscribers/MDbaaS/introduction.md",
+    "docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster.md",
+    "docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement.md",
+    "docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture.md",
+    "docs/Subscribers/MDbaaS/PreRequisites.md",
+    "docs/Subscribers/MDbaaS/Postprovisioning.md",
+    "docs/Subscribers/MDbaaS/MDBaas.md",
+    "docs/Subscribers/MDbaaS/img/val.png",
+    "docs/Subscribers/MDbaaS/img/create.png",
+    "docs/Subscribers/MDbaaS/img/open.png",
+    "docs/Subscribers/MDbaaS/img/field.png",
+    "docs/Subscribers/MDbaaS/img/pik.png",
+    "docs/Subscribers/MDbaaS/img/pic.png",
+    "docs/Subscribers/MDbaaS/img/Quik.png",
+    "Pasted image 20260122124639.png",
+    "docs/Subscribers/intro.md",
+    "docs/Subscribers/SigningUp.md",
+    "docs/Subscribers/LoggingIn.md",
+    "docs/Subscribers/ResettingPassword.md",
+    "docs/FAQs.md",
+    "docs/Subscribers/MDbaaS/FlexiDB/FlexiDB.md",
+    "node_modules",
+    "docs/Knowledgebase/WhatisaVirtualFirewallintheCloud.md",
+    "docs/Knowledgebase/IPv4Networking.md",
+    "docs/Knowledgebase/WhatisaVPC.md",
+    "docs/Knowledgebase/WhatisInstances.md",
+    "Untitled.canvas",
+    "build/assets/js/0058b4c6.104825de.js",
+    "build/assets/js/a94703ab.41efd8d8.js",
+    "Untitled.base",
+    "Sample.md",
+    "README.md",
+    "docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions.md",
     "build/blog/atom.xml",
+    "build/blog/rss.xml",
     "build/blog/atom.css",
     "build/blog/rss.css",
-    "build/blog/rss.xsl",
     "build/blog/atom.xsl",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
-    "build/img/sps.svg",
-    "build/img/sbs.svg",
-    "build/img/sps.png",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/rn.png",
-    "build/img/logo.svg",
-    "build/img/logo.png",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "build/blog/rss.xsl",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails.md",
+    "docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage.md",
+    "docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage.md",
+    "docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails.md"
   ]
 }

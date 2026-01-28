@@ -4,10 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Yantraa Technical Documentation",
-  "tagline": "Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.",
+  "title": "Yntraa Cloud Technical Documentation",
+  "tagline": "Welcome to Yntraa Cloud! A powerful platform designed to simplify and enhance the management of your cloud and network services.\nExplore our comprehensive User Guide, helpful FAQs, and detailed Knowledge Base to streamline operations, automate tasks, and optimize your digital services.",
   "favicon": "img/favicon.ico",
-  "url": "https://docs.apiculus.com",
+  "url": "https://docs.yntraacloud.ai",
   "baseUrl": "/",
   "organizationName": "",
   "projectName": "",
@@ -32,7 +32,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Ayushree\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -55,7 +55,7 @@ export default {
   ],
   "plugins": [
     [
-      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Ayushree\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
@@ -69,50 +69,36 @@ export default {
       },
       "versionPersistence": "localStorage"
     },
-    "image": "img/apiculus-social-card.png",
+    "image": "img/social-card.png",
     "navbar": {
       "title": "",
       "logo": {
-        "alt": "Apiculus",
-        "src": "img/logo.svg"
+        "alt": "Yntraa Cloud",
+        "src": "img/logo.svg",
+        "srcDark": "img/logo.svg"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "sidebar1",
           "position": "left",
-          "label": "Service Providers"
+          "label": "User Manual"
         },
         {
           "type": "docSidebar",
           "sidebarId": "sidebar2",
           "position": "left",
-          "label": "Subscribers"
+          "label": "FAQs"
         },
         {
           "type": "docSidebar",
-          "sidebarId": "sidebar4",
+          "sidebarId": "sidebar3",
           "position": "left",
-          "label": "Release Notes"
+          "label": "Knowledge Base"
         },
         {
-          "type": "dropdown",
-          "label": "APIs",
-          "position": "left",
-          "items": [
-            {
-              "label": "Management APIs",
-              "to": "/docs/APIs/apioverview"
-            },
-            {
-              "label": "Global APIs",
-              "href": "https://swagger.apiculus.io"
-            }
-          ]
-        },
-        {
-          "href": "https://try.apiculus.io",
-          "label": "Try Apiculus",
+          "href": "https://yntraacloud.ai",
+          "label": "Yntraa Cloud Platform",
           "position": "right",
           "className": "button button--primary"
         }

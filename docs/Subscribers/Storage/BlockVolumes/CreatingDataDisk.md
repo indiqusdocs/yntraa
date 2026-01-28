@@ -14,7 +14,7 @@ To create a Block Volume data disk, follow the below steps:
 7. Click on the check box after going through the policies mentioned by your cloud service provider.
    ![Creating Data Disk](img/CreatingDataDisk.png)
 8. Clicking the **Buy Hourly** or **Buy Monthly** button. A confirmation pop-over will appear, and the price summary along with any applicable discount codes.
-    1. Apply a discount code by clicking the **"Apply"** button or remove it using the **"Remove"** button.
+    1. Apply a discount code by clicking the **Apply** button or remove it using the **Remove** button.
     2. Clicking the **CANCEL** button, this action will be canceled.
 9. Click the **CONFIRM** to create the Data Disk.
 

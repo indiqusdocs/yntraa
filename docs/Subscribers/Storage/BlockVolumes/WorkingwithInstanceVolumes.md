@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Working with Instance Volumes
 
-Each Instance on Apiculus (Linux or Windows) includes a 'root' disk or volume. This is the primary disk partition on the Instance, where the operating system, data, components and files reside on the root disk.
+Each Instance on Yntraa Cloud (Linux or Windows) includes a 'root' disk or volume. This is the primary disk partition on the Instance, where the operating system, data, components and files reside on the root disk.
 
 Further, Instances can have add-on or data disks attached to them which act as additional disk partitions. These data disks are modular and can be moved between multiple Instances.
 
