@@ -13,14 +13,5 @@
   "sidebarPosition": 36,
   "frontMatter": {
     "sidebar_position": 36
-  },
-  "sidebar": "sidebar4",
-  "previous": {
-    "title": "Version 1.11.1.0",
-    "permalink": "/docs/ReleaseNotes/Ver11110"
-  },
-  "next": {
-    "title": "Version 1.10.1.0",
-    "permalink": "/docs/ReleaseNotes/Ver11010"
   }
 }

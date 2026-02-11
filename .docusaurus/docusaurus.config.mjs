@@ -32,7 +32,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Ayushree\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true,
@@ -55,7 +55,7 @@ export default {
   ],
   "plugins": [
     [
-      "C:\\Ayushree\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
@@ -95,6 +95,12 @@ export default {
           "sidebarId": "sidebar3",
           "position": "left",
           "label": "Knowledge Base"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "sidebar4",
+          "position": "left",
+          "label": "Release Notes"
         },
         {
           "href": "https://yntraacloud.ai",

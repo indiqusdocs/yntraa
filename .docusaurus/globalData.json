@@ -41,6 +41,11 @@
               "sidebar": "sidebar3"
             },
             {
+              "id": "ReleaseNotes/Ver1000",
+              "path": "/docs/ReleaseNotes/Ver1000",
+              "sidebar": "sidebar4"
+            },
+            {
               "id": "Subscribers/AccountCentre/AboutYntraaAccountCentre",
               "path": "/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre",
               "sidebar": "sidebar1"
@@ -849,6 +854,12 @@
               "link": {
                 "path": "/docs/Knowledgebase/IPv4Networking",
                 "label": "Knowledgebase/IPv4Networking"
+              }
+            },
+            "sidebar4": {
+              "link": {
+                "path": "/docs/ReleaseNotes/Ver1000",
+                "label": "ReleaseNotes/Ver1000"
               }
             }
           }

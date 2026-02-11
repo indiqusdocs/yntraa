@@ -147,12 +147,12 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
           position: 'left',
           label: 'Knowledge Base',
         },
-	    	//  {
-          //  type: 'docSidebar',
-          //  sidebarId: 'sidebar4',
-          //  position: 'left',
-          //  label: 'Release Notes',
-         // },
+	    	  {
+            type: 'docSidebar',
+            sidebarId: 'sidebar4',
+            position: 'left',
+            label: 'Release Notes',
+         },
 		  
 	//	  {
     //      type: 'dropdown',
