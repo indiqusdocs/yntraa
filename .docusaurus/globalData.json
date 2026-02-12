@@ -96,8 +96,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/BRbaaS/BRaaS/BRaaS",
-              "path": "/docs/Subscribers/BRbaaS/BRaaS/",
+              "id": "Subscribers/BRbaaS/BRaaS",
+              "path": "/docs/Subscribers/BRbaaS/BRaaS",
               "sidebar": "sidebar1"
             },
             {
@@ -821,18 +821,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/managed-database-as-a-service",
-              "path": "/docs/category/managed-database-as-a-service",
+              "id": "/category/databases",
+              "path": "/docs/category/databases",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/backup-recovery-as-a-service",
-              "path": "/docs/category/backup-recovery-as-a-service",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/backup-recovery-as-a-service-1",
-              "path": "/docs/category/backup-recovery-as-a-service-1",
+              "id": "/category/backup-recovery",
+              "path": "/docs/category/backup-recovery",
               "sidebar": "sidebar1"
             }
           ],

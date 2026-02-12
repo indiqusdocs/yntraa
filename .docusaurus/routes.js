@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -84,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '667'),
+    component: ComponentCreator('/docs', '9bb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a64'),
+        component: ComponentCreator('/docs', '7d1'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b5c'),
+            component: ComponentCreator('/docs', 'a1c'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -113,14 +148,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/backup-recovery-as-a-service',
-                component: ComponentCreator('/docs/category/backup-recovery-as-a-service', 'c9c'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/backup-recovery-as-a-service-1',
-                component: ComponentCreator('/docs/category/backup-recovery-as-a-service-1', '921'),
+                path: '/docs/category/backup-recovery',
+                component: ComponentCreator('/docs/category/backup-recovery', 'e01'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -133,6 +162,12 @@ export default [
               {
                 path: '/docs/category/compute',
                 component: ComponentCreator('/docs/category/compute', 'a28'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/databases',
+                component: ComponentCreator('/docs/category/databases', '08b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -181,12 +216,6 @@ export default [
               {
                 path: '/docs/category/load-balancer-instances',
                 component: ComponentCreator('/docs/category/load-balancer-instances', 'abc'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/managed-database-as-a-service',
-                component: ComponentCreator('/docs/category/managed-database-as-a-service', 'a11'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -347,8 +376,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/BRbaaS/BRaaS/',
-                component: ComponentCreator('/docs/Subscribers/BRbaaS/BRaaS/', 'b9d'),
+                path: '/docs/Subscribers/BRbaaS/BRaaS',
+                component: ComponentCreator('/docs/Subscribers/BRbaaS/BRaaS', '134'),
                 exact: true,
                 sidebar: "sidebar1"
               },

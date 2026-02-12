@@ -35,20 +35,10 @@ export default {
           "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "showReadingTime": true
         },
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": "C:\\Users\\ysharma\\yntraa\\src\\css\\custom.css"
         }
       }
     ]
@@ -107,6 +97,10 @@ export default {
           "label": "Yntraa Cloud Platform",
           "position": "right",
           "className": "button button--primary"
+        },
+        {
+          "type": "search",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
