@@ -41,6 +41,11 @@
               "sidebar": "sidebar3"
             },
             {
+              "id": "ReleaseNotes/Ver1000",
+              "path": "/docs/ReleaseNotes/Ver1000",
+              "sidebar": "sidebar4"
+            },
+            {
               "id": "Subscribers/AccountCentre/AboutYntraaAccountCentre",
               "path": "/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre",
               "sidebar": "sidebar1"
@@ -88,6 +93,11 @@
             {
               "id": "Subscribers/AccountCentre/WalletandTransactions",
               "path": "/docs/Subscribers/AccountCentre/WalletandTransactions",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/BRbaaS/BRaaS",
+              "path": "/docs/Subscribers/BRbaaS/BRaaS",
               "sidebar": "sidebar1"
             },
             {
@@ -201,11 +211,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances",
               "path": "/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances",
               "sidebar": "sidebar1"
@@ -253,11 +258,6 @@
             {
               "id": "Subscribers/Compute/RHELInstances/Overview",
               "path": "/docs/Subscribers/Compute/RHELInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/RHELInstances/ProtectingRHELInstances",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances",
               "sidebar": "sidebar1"
             },
             {
@@ -316,11 +316,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/Protection",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/Protection",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances",
               "sidebar": "sidebar1"
@@ -358,6 +353,51 @@
             {
               "id": "Subscribers/LoggingIn",
               "path": "/docs/Subscribers/LoggingIn",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Backuphighavailabilityanddisaster",
+              "path": "/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/introduction",
+              "path": "/docs/Subscribers/MDbaaS/introduction",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/MDBaas",
+              "path": "/docs/Subscribers/MDbaaS/",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Postprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/Postprovisioning",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/PreRequisites",
+              "path": "/docs/Subscribers/MDbaaS/PreRequisites",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Scalingandconfigurationmanagement",
+              "path": "/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/servicedeprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/servicedeprovisioning",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Serviceoverviewandarchitecture",
+              "path": "/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/MDbaaS/Serviceprovisioning",
+              "path": "/docs/Subscribers/MDbaaS/Serviceprovisioning",
               "sidebar": "sidebar1"
             },
             {
@@ -651,28 +691,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage",
+              "id": "Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket",
+              "id": "Subscribers/Storage/ObjectStorage/CreatingObjectStorage",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails",
+              "id": "Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Storage/ObjectStorageBucket/SystemRequirements",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements",
+              "id": "Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
+              "path": "/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
               "sidebar": "sidebar1"
             },
             {
@@ -726,8 +761,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/object-storage-bucket",
-              "path": "/docs/category/object-storage-bucket",
+              "id": "/category/object-storage",
+              "path": "/docs/category/object-storage",
               "sidebar": "sidebar1"
             },
             {
@@ -784,6 +819,16 @@
               "id": "/category/load-balancer-instances",
               "path": "/docs/category/load-balancer-instances",
               "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/databases",
+              "path": "/docs/category/databases",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/backup-recovery",
+              "path": "/docs/category/backup-recovery",
+              "sidebar": "sidebar1"
             }
           ],
           "draftIds": [],
@@ -804,6 +849,12 @@
               "link": {
                 "path": "/docs/Knowledgebase/IPv4Networking",
                 "label": "Knowledgebase/IPv4Networking"
+              }
+            },
+            "sidebar4": {
+              "link": {
+                "path": "/docs/ReleaseNotes/Ver1000",
+                "label": "ReleaseNotes/Ver1000"
               }
             }
           }

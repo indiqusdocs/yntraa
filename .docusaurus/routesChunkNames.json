@@ -255,17 +255,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-50c": {
+  "/docs-37a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-678": {
+  "/docs-79e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-98d": {
+  "/docs-90f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -280,6 +280,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-autoscale-89-f-000"
   },
+  "/docs/category/backup-recovery-e01": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-backup-recovery-81-a-408"
+  },
   "/docs/category/block-volumes-5ee": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-block-volumes-229-aed"
@@ -287,6 +291,10 @@
   "/docs/category/compute-a28": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-computeb-37-2a8"
+  },
+  "/docs/category/databases-08b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-databasescf-1-dd3"
   },
   "/docs/category/details-of-block-volume-644": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -332,9 +340,9 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-networking-156-ede"
   },
-  "/docs/category/object-storage-bucket-3dd": {
+  "/docs/category/object-storage-7c0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-object-storage-bucket-8-d-3-567"
+    "__props": "__props---docs-category-object-storage-3-ca-b7d"
   },
   "/docs/category/rhel-instances-163": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -380,6 +388,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-knowledgebase-whatis-ip-address-subnet-tierand-cid-rb-53-9d4"
   },
+  "/docs/ReleaseNotes/Ver1000-db9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-release-notes-ver-10002-e-7-2c8"
+  },
   "/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre-3c0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-account-centre-about-yntraa-account-centre-5-c-8-1cb"
@@ -419,6 +431,10 @@
   "/docs/Subscribers/AccountCentre/WalletandTransactions-30d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-account-centre-walletand-transactionsf-49-9ee"
+  },
+  "/docs/Subscribers/BRbaaS/BRaaS-134": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-b-rbaa-s-b-raa-s-161-20c"
   },
   "/docs/Subscribers/Compute/Autoscale/AboutAutoscale-784": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -508,10 +524,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-linux-instances-overview-4-fa-a1f"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/ProtectingLinuxInstances-49f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-protecting-linux-instances-223-f5c"
-  },
   "/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances-f93": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-linux-instances-reconfiguring-linux-instances-800-df0"
@@ -551,10 +563,6 @@
   "/docs/Subscribers/Compute/RHELInstances/Overview-398": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-rhel-instances-overview-9-a-6-957"
-  },
-  "/docs/Subscribers/Compute/RHELInstances/ProtectingRHELInstances-3b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-protecting-rhel-instances-413-d34"
   },
   "/docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances-36f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -600,10 +608,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-windows-instances-networking-managementon-windows-instancesd-68-42d"
   },
-  "/docs/Subscribers/Compute/WindowsInstances/Protection-805": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-protectionca-1-3b3"
-  },
   "/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances-425": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-windows-instances-reconfiguring-windows-instances-999-1d8"
@@ -628,6 +632,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-windows-instances-workingwith-windows-instance-snapshots-315-31d"
   },
+  "/docs/Subscribers/GettingStarted-1e5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-getting-startedc-1-d-d3f"
+  },
   "/docs/Subscribers/intro-b36": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-intro-705-f27"
@@ -635,6 +643,42 @@
   "/docs/Subscribers/LoggingIn-3a5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-logging-in-949-c38"
+  },
+  "/docs/Subscribers/MDbaaS/-563": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-070-cdc"
+  },
+  "/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster-6c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-backuphighavailabilityanddisaster-552-e7c"
+  },
+  "/docs/Subscribers/MDbaaS/introduction-e4f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-introductionaae-d8e"
+  },
+  "/docs/Subscribers/MDbaaS/Postprovisioning-1fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-postprovisioningf-12-69b"
+  },
+  "/docs/Subscribers/MDbaaS/PreRequisites-004": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-pre-requisites-41-a-d65"
+  },
+  "/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement-e88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-scalingandconfigurationmanagement-510-58c"
+  },
+  "/docs/Subscribers/MDbaaS/servicedeprovisioning-1ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-servicedeprovisioningd-81-4fe"
+  },
+  "/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture-d76": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-serviceoverviewandarchitecture-5-d-6-dde"
+  },
+  "/docs/Subscribers/MDbaaS/Serviceprovisioning-303": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-m-dbaa-s-serviceprovisioningd-79-a42"
   },
   "/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement-bfe": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -868,25 +912,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-storage-block-volumes-workingwith-instance-volumese-5-a-02d"
   },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/AboutYntraaObjectStorage-7d7": {
+  "/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage-30b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-about-yntraa-object-storage-7-cf-6e4"
+    "content": "content---docs-subscribers-storage-object-storage-about-yntraa-object-storage-98-a-382"
   },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/CreatingObjectStorageBucket-9ca": {
+  "/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage-afc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-creating-object-storage-bucket-62-a-0f2"
+    "content": "content---docs-subscribers-storage-object-storage-creating-object-storagedce-16f"
   },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/FeatureListandIntegrationDetails-c6a": {
+  "/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails-e67": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-feature-listand-integration-details-306-5d4"
+    "content": "content---docs-subscribers-storage-object-storage-feature-listand-integration-details-0-bb-422"
   },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/FrequentlyAskedQuestions-e02": {
+  "/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions-01c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-frequently-asked-questions-952-83a"
-  },
-  "/docs/Subscribers/Storage/ObjectStorageBucket/SystemRequirements-7c8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-bucket-system-requirements-4-af-229"
+    "content": "content---docs-subscribers-storage-object-storage-frequently-asked-questionscf-1-30d"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Working with Volume Snapshots
 
-**Yntraa Block Volumes** service provides extensive functionality for managing volume snapshots. Snapshots are point-in-time 'images' of a volume’s contents and can be used as a restoration point for the parent volume. The following sections outline all available snapshot functions and capabilities in the Yntraa cloud platform.
+**Yntraa Block Volumes** service provides extensive functionality for managing volume snapshots. Snapshots are point-in-time 'images' of a volume’s contents and can be used as a restoration point for the parent volume. The following sections outline all available snapshot functions and capabilities in the Yntraa Cloud.
 
 ## Creating Instant Snapshots
 

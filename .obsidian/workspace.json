@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "177ac5a3d2f4f77d",
+    "id": "0d40ca8ed76ba0ae",
     "type": "split",
     "children": [
       {
-        "id": "b760fd2b26cd02b1",
+        "id": "a1653f20d7b20255",
         "type": "tabs",
         "children": [
           {
-            "id": "66f00727da0bb396",
+            "id": "281de4fc2b8426b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/AboutYntraaAccountCentre.md",
+                "file": "docs/Subscribers/GettingStarted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AboutYntraaAccountCentre"
+              "title": "GettingStarted"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5b9d1233506a2d15",
+    "id": "263c2474d41886cf",
     "type": "split",
     "children": [
       {
-        "id": "39147d62ff3d3ab0",
+        "id": "df23b06eb83dbc4d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b293c9b3e031693",
+            "id": "cd33b57712a7ce2d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "6773dbb15e0e0c5a",
+            "id": "0fb76866ec4b4a21",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "264cdb52ff060957",
+            "id": "010107180e05e4f3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,22 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 300
   },
   "right": {
-    "id": "d747967a3c11d7c3",
+    "id": "8aedbb1b11c967fb",
     "type": "split",
     "children": [
       {
-        "id": "a0e388d007efbaad",
+        "id": "2b101724e206d5dd",
         "type": "tabs",
         "children": [
           {
-            "id": "1b39c0a162963d60",
+            "id": "c894fd125f5dafdf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Subscribers/GettingStarted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for GettingStarted"
             }
           },
           {
-            "id": "e8fd400af69e9a1f",
+            "id": "1afae0f4e6ca513d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Subscribers/GettingStarted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from GettingStarted"
             }
           },
           {
-            "id": "6023df2ec27989f6",
+            "id": "40af58247ad1c61d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,17 +137,18 @@
             }
           },
           {
-            "id": "134e2d4da4042182",
+            "id": "e88b55e8d87186c5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/Subscribers/GettingStarted.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of GettingStarted"
             }
           }
         ]
@@ -166,49 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "66f00727da0bb396",
+  "active": "281de4fc2b8426b4",
   "lastOpenFiles": [
-    "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
-    "docs/Subscribers/AdminVerification.png",
-    "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
-    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
-    "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/Subscribers/Compute/Autoscale/AboutAutoscale.md",
-    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/search/index.html",
-    "build/search",
-    "build/markdown-page/index.html",
-    "build/markdown-page",
-    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/StandardAgreements.md",
-    "docs/Subscribers/AccountCentre/Payments.md",
-    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
-    "docs/Subscribers/AccountCentre/AboutYntraaAccountCentre.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-    "build/assets/images/signup3-6234e329d6aad3a395552246e0b1dac1.png",
-    "build/assets/images/virtualapiculus-7b48d7292dd0f9b2d228a372fb859f46.png",
-    "build/assets/images/zoneapiculus-a765bdaad68ac148e59296ead6487a7a.png",
-    "build/assets/images/zone-a30b2ba0ce0bb03e43b20a1c518480b1.png",
-    "build/assets/images/yntraaos-4b51599dbb06da2cd5b2be0025df052a.jpg",
-    "build/assets/images/WorkingwithVolumeSnapshots-2333fc47591991820645fdd2f1a85176.png",
-    "build/assets/images/WorkingwithInstanceVolumes2-53309bb2e1049010f3540974850f21a2.png",
-    "build/assets/images/WorkingwithInstanceVolumes1-ba9df0fead3310308088fa0ce399e857.png",
-    "build/assets/images/winstance4-63f1dfac26a7b274b60b48c220fb8f96.png",
-    "build/assets/images",
-    "build/img/favicon.ico",
-    "build/img",
-    "build/icons",
-    "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
-    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md"
+    "docs/Subscribers/GettingStarted.md",
+    "docs/Subscribers/SigningUp - Copy.md"
   ]
 }

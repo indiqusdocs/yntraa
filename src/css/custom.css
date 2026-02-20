@@ -226,9 +226,7 @@ a:hover {
   border: none; /* Optional: remove border */
   border-radius: 20px; /* Optional: rounded corners */
   padding: 6px 10px; /* Optional: padding for better appearance */
-  
-}
-
+ }
 
 /* Colored Blocks */
 .custom-block-blue {
@@ -368,3 +366,28 @@ html .hero__title {
 .description {
   font-size: 12px;
 }
+
+/* Put icon in fixed-width slot */
+.sidebar-label-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px; /* spacing between icon & text */
+}
+
+/* Ensure multiline text aligns properly */
+.sidebar-text {
+  display: block;
+  line-height: 1.3;
+  padding-left: 0; /* prevent shifting */
+}
+
+/* Keep icon fixed in size so text wraps correctly */
+.sidebar-icon {
+  display: inline-block;
+  width: 20px;     /* adjust as needed */
+  flex-shrink: 0;  /* prevents icon from collapsing */
+}
+
+
+
+

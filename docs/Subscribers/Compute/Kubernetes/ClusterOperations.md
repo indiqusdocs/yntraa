@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 # Cluster Operations
 
-Kubernetes clusters created on Yntraa cloud platform allow for a set of management operations from the cloud console UI. While these options can be controlled using `kubectl`, these are provided on the UI for quick and easy access.
+Kubernetes clusters created on Yntraa Cloud allow for a set of management operations from the cloud console UI. While these options can be controlled using `kubectl`, these are provided on the UI for quick and easy access.
 ![operation1](img/operation1.png)
 ![operation2](img/operation2.png)
 ## Powering ON/OFF a Cluster

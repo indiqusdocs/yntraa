@@ -2,7 +2,7 @@ import React from 'react';
 
 const FeatureList = [
   {
-    title: 'User Documentation',
+    title: 'User Manual',
    link: '/docs/Subscribers/intro',
    description: 'Click here to read the instructions to streamline operations, automate tasks, and optimize your digital services.',
   },

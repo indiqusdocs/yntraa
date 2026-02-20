@@ -8,7 +8,7 @@ sidebar_position: 11
 ![operations2](img/operations2.png)
 
 
-Yntraa cloud platform provides the options to perform the following operations on Linux Instances:
+Yntraa Cloud provides the options to perform the following operations on Linux Instances:
 
 - **Restart Instance** - Perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
 - **Force Stop Instance** - Force stop a running or a hung Linux Instance.
