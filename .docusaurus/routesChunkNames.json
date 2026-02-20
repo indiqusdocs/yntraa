@@ -255,17 +255,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-37a": {
+  "/docs-ce0": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-79e": {
+  "/docs-d7f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-90f": {
+  "/docs-96f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -536,9 +536,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-linux-instances-volume-management-40-c-af4"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots-567": {
+  "/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints-7be": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-workingwith-linux-instance-snapshotsc-73-41f"
+    "content": "content---docs-subscribers-compute-linux-instances-workingwith-linux-instance-restore-points-65-f-92e"
   },
   "/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances-02c": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -628,9 +628,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-compute-windows-instances-windows-instance-operationsbf-5-d6e"
   },
-  "/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots-17e": {
+  "/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints-d3a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-workingwith-windows-instance-snapshots-315-31d"
+    "content": "content---docs-subscribers-compute-windows-instances-workingwith-windows-instance-restore-points-3-fe-aef"
   },
   "/docs/Subscribers/GettingStarted-1e5": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -688,9 +688,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-networking-dns-management-linking-domainsto-apiculus-cloud-console-2-ca-b58"
   },
-  "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform-dc6": {
+  "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud-771": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networking-dns-management-linking-domainsto-apiculus-cloud-platform-38-e-8b2"
+    "content": "content---docs-subscribers-networking-dns-management-linking-domainsto-yntraa-cloud-48-f-06a"
   },
   "/docs/Subscribers/Networking/DNSManagement/ManagingDNSRecords-a1b": {
     "__comp": "__comp---theme-doc-item-178-a40",

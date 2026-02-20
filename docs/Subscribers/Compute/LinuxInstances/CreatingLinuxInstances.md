@@ -11,7 +11,7 @@ To create a Linux instance, follow these steps:
 2. Click on **NEW LINUX INSTANCE** button.
    ![linuxinstance](img/linuxinstance.png)
 3. Choose an **Availability Zone**, which is the geographical region where your Instance will be deployed. 
-   ![zone](img/zone.png)
+   ![creatinglinux](img/creatinglinux.png)
 4. Select a VPC or VNF network from the **Select Network** Dropdown and, select the appropriate tier listed in **Select Network**.
 	:::note
 	To add a Linux Instance to a VPC or VNF, you must have a VPC or VNF configured with at least one tier.
@@ -28,13 +28,13 @@ To create a Linux instance, follow these steps:
     - **Use root user password**: On selecting Use root user password, the **Also email me the password** option is displayed. If you select this option, the password, along with the details, for instance, will be emailed to your registered email ID.
 11. In the **Name Your Linux Instance** field, enter the desired name for your Linux Instance. The Instance name contains alphanumeric characters, underscore, dots and hyphens only. 
 12. Verify the Estimated Cost of your Linux Instance based on the chosen specifications from the Summary and Estimated Costs Section (Here, both Hourly and Monthly Prices summary are displayed).
-    ![cost](img/cost.png)
+    ![costsummary](img/costsummary.png)
 13. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
 14. Choose the **BUY HOURLY** or **BUY MONTHLY** option. A confirmation window appears and the price summary will be displayed along with the discount codes if you have any in your account. 
     - You can apply any of the discount codes listed by clicking on the **APPLY** button. 
     - You can also remove the applied discount code by clicking on the **REMOVE** button. 
     - You can cancel this action by clicking on the **CANCEL** button.
-    ![instancepurchase](img/instancepurchase.png)
+    ![confirmpurchase](img/confirmpurchase.png)
 15. Click **CONFIRM** to create the Linux Instance.
 
 :::note

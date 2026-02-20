@@ -5,7 +5,7 @@ sidebar_position: 3
 
 Team members or child users can be onboarded using the **TEAM** section from the Account Centre, allows you to add billing, technical, or other admin users who can log in to your account and perform operations.
 
-![teamandchild](img/teamandchild.png)
+![team](img/team.png)
 
 To add a child user, click the **+INVITE TEAM MEMBERS** button on the top right. This will open up a dialog box with the following information requirements:
 

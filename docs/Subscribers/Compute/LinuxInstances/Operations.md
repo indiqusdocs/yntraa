@@ -4,8 +4,8 @@ sidebar_position: 11
 # Operations
 
  To view all available Instance operations, navigate to the [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Operations** tab.
- ![operations1](img/operations1.png)
-![operations2](img/operations2.png)
+ ![operationfirst](img/operationfirst.png)
+![operationsecond](img/operationsecond.png)
 
 
 Yntraa Cloud provides the options to perform the following operations on Linux Instances:

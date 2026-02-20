@@ -5,12 +5,15 @@ sidebar_position: 5
 
  To reset your One Yotta account password, follow these step:
 
-1. Navigate to [https://account.yotta.com/](https://account.yotta.com/). The following screen appears:   ![forgotpassword1](img/forgotpassword1.png)
+1. Navigate to [https://account.yotta.com/](https://account.yotta.com/). The following screen appears:
+   ![yntraalogin](yntraalogin.png)
    
-2. Click **Forgot Your Password**. The following screen appears:   ![forgotpassword2](img/forgotpassword2.png)
+2. Click **Forgot Your Password**. The following screen appears:
+   ![forgotpassword](img/forgotpassword.png)
 
 3. Enter your registered email, and click **Submit**.
-4. Follow the instructions in your email to reset the password.   ![forgotpassword3](img/forgotpassword3.png)
+4. Follow the instructions in your email to reset the password.   
+   ![resettpassword](img/resettpassword.png)
    ![forgotpassword4](img/forgotpassword4.png)
 5. Enter the following details:   
      - Enter your **New Password**.

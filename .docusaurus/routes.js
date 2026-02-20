@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '9bb'),
+    component: ComponentCreator('/docs', 'ce0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '7d1'),
+        component: ComponentCreator('/docs', 'd7f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'a1c'),
+            component: ComponentCreator('/docs', '96f'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -532,8 +532,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots',
-                component: ComponentCreator('/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots', '567'),
+                path: '/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints', '7be'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -670,8 +670,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots', '17e'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints', 'd3a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/GettingStarted',
+                component: ComponentCreator('/docs/Subscribers/GettingStarted', '1e5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -754,8 +760,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform',
-                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform', 'dc6'),
+                path: '/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud',
+                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud', '771'),
                 exact: true,
                 sidebar: "sidebar1"
               },

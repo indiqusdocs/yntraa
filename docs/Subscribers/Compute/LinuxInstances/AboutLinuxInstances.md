@@ -21,12 +21,12 @@ To view a list of sections where you can perform various operations or actions, 
 - Created 
 
 On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **POWER OFF/ON** the Instance.
-![poweron](img/poweron.png)
+![overview](img/overview.png)
 Details on available Linux Instance operations and actions can be found in their respective sections.
 
 - [Overview](docs/Subscribers/Compute/LinuxInstances/Overview.md)
 - [Graphs & Utilisation](ViewingGraphsandUtilizationofLinuxInstances.md)
-- [Snapshots](WorkingwithLinuxInstanceSnapshots.md)
+- [Snapshots](WorkingwithLinuxInstanceRestorePoints.md)
 - [Reconfigure](docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md)
 - [Operations](docs/Subscribers/Compute/LinuxInstances/Operations.md)
 

@@ -7,7 +7,7 @@ A Site-to-Site Virtual Private Network (VPN) provides a secure and encrypted con
 
 This section outlines all the steps required to establish a Site-to-Site VPN between two VPCs. The following are the high level steps to establish site-to-site VPN between two VPCs.
 
-1.  [Creating Two VPCs](#creating-two-vpcs)
+1. [Creating Two VPCs](#creating-two-vpcs)
 2. [Launching virtual machines](#launching-virtual-machines)
 3. [Configuring VPN Gateways](#configuring-vpn-gateways)
 4. [Creating Customer Gateways](#creating-customer-gateways)

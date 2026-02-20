@@ -226,8 +226,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots",
+              "id": "Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints",
+              "path": "/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints",
               "sidebar": "sidebar1"
             },
             {
@@ -341,8 +341,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots",
+              "id": "Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/GettingStarted",
+              "path": "/docs/Subscribers/GettingStarted",
               "sidebar": "sidebar1"
             },
             {
@@ -411,8 +416,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform",
-              "path": "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform",
+              "id": "Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud",
+              "path": "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud",
               "sidebar": "sidebar1"
             },
             {

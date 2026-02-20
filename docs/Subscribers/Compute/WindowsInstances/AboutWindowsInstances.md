@@ -28,7 +28,7 @@ Details on available Windows Instance operations and actions can be found in the
 - [Alerts](ConfiguringAlertsonWindowsInstances)
 - [Volumes](VolumeManagementwithWindowsInstances)
 - [Networking](NetworkingManagementonWindowsInstances)
-- [Snapshots](WorkingwithWindowsInstanceSnapshots)
+- [Snapshots](WorkingwithWindowsInstanceRestorePoints.md)
 - [Reconfigure](ReconfiguringWindowsInstances)
 - [Operations](WindowsInstanceOperations)
 

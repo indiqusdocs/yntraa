@@ -23,7 +23,7 @@ The Alerts tab lists all the alerts already configured for that particular RHEL 
 
 You can create or add alerts simply by clicking the **CREATE ALERT** button. The following screen appears, and you can configure the alert using the on-screen input form.
 
-![alercreation](img/alercreation.png)
+![alertcreation](img/alertcreation.png)
 
 The various fields of the add alert page are described below:
 

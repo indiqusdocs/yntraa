@@ -7,7 +7,7 @@ Yntraa Cloud servers can be used as authoritative name server(s) for managing DN
 
 The following sections outline how to use this service:
 
-- [Bringing your domains to Apiculus Cloud Console](LinkingDomainstoApiculusCloudPlatform.md)
+- [Bringing your domains to Apiculus Cloud Console](LinkingDomainstoYntraaCloud.md)
 - [Managing DNS records using Apiculus Cloud Console](ManagingDNSRecords.md)
 - [Switching (back) to another DNS provider](SwitchingtoAnotherDNSProvider.md)
 
