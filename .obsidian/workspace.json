@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
+                "file": "docs/Subscribers/AccountCentre/AboutYntraaAccountCentre.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "AboutLoadBalancerInstances"
+              "title": "AboutYntraaAccountCentre"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "right": {
     "id": "d747967a3c11d7c3",
@@ -168,6 +168,33 @@
   },
   "active": "66f00727da0bb396",
   "lastOpenFiles": [
+    "docs/Subscribers/AccountCentre/SupportandTickets.md",
+    "docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
+    "docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots.md",
+    "docs/Subscribers/AdminVerification.png",
+    "docs/Subscribers/Compute/LinuxInstances/VolumeManagement.md",
+    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagement.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Compute/LinuxInstances/AppOverlays.md",
+    "docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances.md",
+    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
+    "docs/Subscribers/Compute/Autoscale/AboutAutoscale.md",
+    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
+    "build/search-index.json",
+    "build/sitemap.xml",
+    "build/search/index.html",
+    "build/search",
+    "build/markdown-page/index.html",
+    "build/markdown-page",
+    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
+    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
+    "docs/Subscribers/AccountCentre/StandardAgreements.md",
+    "docs/Subscribers/AccountCentre/Payments.md",
+    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
+    "docs/Subscribers/AccountCentre/AboutYntraaAccountCentre.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
     "build/assets/images/signup3-6234e329d6aad3a395552246e0b1dac1.png",
     "build/assets/images/virtualapiculus-7b48d7292dd0f9b2d228a372fb859f46.png",
     "build/assets/images/zoneapiculus-a765bdaad68ac148e59296ead6487a7a.png",
@@ -177,27 +204,11 @@
     "build/assets/images/WorkingwithInstanceVolumes2-53309bb2e1049010f3540974850f21a2.png",
     "build/assets/images/WorkingwithInstanceVolumes1-ba9df0fead3310308088fa0ce399e857.png",
     "build/assets/images/winstance4-63f1dfac26a7b274b60b48c220fb8f96.png",
-    "build/assets/images/winstance3-5177dca11ecb410e6e28ba9a99bfe336.png",
-    "build/assets/images/winstance1-c8f91b047136dba3294f783262201f8a.png",
     "build/assets/images",
     "build/img/favicon.ico",
     "build/img",
     "build/icons",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/blog/rss.css",
-    "build/blog/atom.css",
-    "build/blog/rss.xsl",
-    "build/blog/atom.xsl",
-    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
-    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
     "docs/Subscribers/AccountCentre/TeamandChildUserManagement.md",
-    "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/StandardAgreements.md",
-    "docs/Subscribers/AccountCentre/Payments.md",
-    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
-    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
-    "docs/Subscribers/AccountCentre/AboutYntraaAccountCentre.md"
+    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md"
   ]
 }
