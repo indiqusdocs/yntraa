@@ -6,7 +6,7 @@ sidebar_position: 3
 To get started with the Yntraa Cloud, you must create an account on the One Yotta account. 
 
 1. To create a new One Yotta account and access all services, navigate to [https://account.yotta.com](https://account.yotta.com). The following screen appears:
-   ![yntraalogin](img/yntraalogin.png)
+   ![login](img/login.png)
    
 2. Click on the signup link. The following screen appears:
    ![signup2](img/signup2.png)
