@@ -1,0 +1,8 @@
+{
+  "label": "Manage Compute",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "In this section, Managed compute services are summarised."
+  }
+}

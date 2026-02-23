@@ -1,0 +1,8 @@
+{
+  "label": "Manage Storage",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "In this section, Managed storage services are summarised."
+  }
+}

@@ -96,8 +96,48 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/AdvanceServices/DevOpsasaService",
+              "path": "/docs/Subscribers/AdvanceServices/DevOpsasaService",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/BRbaaS/BRaaS",
               "path": "/docs/Subscribers/BRbaaS/BRaaS",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/CloudAssure/AssesmentandAdvisory",
+              "path": "/docs/Subscribers/CloudAssure/AssesmentandAdvisory",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/CloudAssure/MigrationAssist",
+              "path": "/docs/Subscribers/CloudAssure/MigrationAssist",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/CloudAssure/MonitoringandNotifications",
+              "path": "/docs/Subscribers/CloudAssure/MonitoringandNotifications",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/CloudAssure/OptimisationService",
+              "path": "/docs/Subscribers/CloudAssure/OptimisationService",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/CloudAssure/ProfessionalServices",
+              "path": "/docs/Subscribers/CloudAssure/ProfessionalServices",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/CloudAssure/ResiliencyAssuranceService",
+              "path": "/docs/Subscribers/CloudAssure/ResiliencyAssuranceService",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/CloudAssure/SecurityandCompliance",
+              "path": "/docs/Subscribers/CloudAssure/SecurityandCompliance",
               "sidebar": "sidebar1"
             },
             {
@@ -346,8 +386,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/GettingStartedwithYntraaCloud",
-              "path": "/docs/Subscribers/GettingStartedwithYntraaCloud",
+              "id": "Subscribers/Gettingstartedonyntraacloud",
+              "path": "/docs/Subscribers/Gettingstartedonyntraacloud",
               "sidebar": "sidebar1"
             },
             {
@@ -358,6 +398,41 @@
             {
               "id": "Subscribers/LoggingIn",
               "path": "/docs/Subscribers/LoggingIn",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManageCompute/Baremetal",
+              "path": "/docs/Subscribers/ManageCompute/Baremetal",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManageCompute/ContainerRegistry",
+              "path": "/docs/Subscribers/ManageCompute/ContainerRegistry",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManageCompute/VirtualDesktops",
+              "path": "/docs/Subscribers/ManageCompute/VirtualDesktops",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManageNetwork/LoadBalancer",
+              "path": "/docs/Subscribers/ManageNetwork/LoadBalancer",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManageSecurity/EndPointSecurity",
+              "path": "/docs/Subscribers/ManageSecurity/EndPointSecurity",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManageSecurity/YottaSmartCSOC",
+              "path": "/docs/Subscribers/ManageSecurity/YottaSmartCSOC",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManageStorage/FileStorage",
+              "path": "/docs/Subscribers/ManageStorage/FileStorage",
               "sidebar": "sidebar1"
             },
             {
@@ -641,6 +716,51 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/OtherServices/DDosProtection",
+              "path": "/docs/Subscribers/OtherServices/DDosProtection",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/HostedInternetBandwidth",
+              "path": "/docs/Subscribers/OtherServices/HostedInternetBandwidth",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/HSMandKMS",
+              "path": "/docs/Subscribers/OtherServices/HSMandKMS",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/LoadTestingasaService",
+              "path": "/docs/Subscribers/OtherServices/LoadTestingasaService",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/MangedDatabases",
+              "path": "/docs/Subscribers/OtherServices/MangedDatabases",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/MultiTenantBraaS",
+              "path": "/docs/Subscribers/OtherServices/MultiTenantBraaS",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/SIEM",
+              "path": "/docs/Subscribers/OtherServices/SIEM",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/UTMasaService",
+              "path": "/docs/Subscribers/OtherServices/UTMasaService",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/WAFasaService",
+              "path": "/docs/Subscribers/OtherServices/WAFasaService",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/ResettingPassword",
               "path": "/docs/Subscribers/ResettingPassword",
               "sidebar": "sidebar1"
@@ -713,6 +833,26 @@
             {
               "id": "Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
               "path": "/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ToolsandUtilities/MyImages",
+              "path": "/docs/Subscribers/ToolsandUtilities/MyImages",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ToolsandUtilities/RestorePoints",
+              "path": "/docs/Subscribers/ToolsandUtilities/RestorePoints",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ToolsandUtilities/SSHKeypairs",
+              "path": "/docs/Subscribers/ToolsandUtilities/SSHKeypairs",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ToolsandUtilities/VPNGateways",
+              "path": "/docs/Subscribers/ToolsandUtilities/VPNGateways",
               "sidebar": "sidebar1"
             },
             {
@@ -833,6 +973,46 @@
             {
               "id": "/category/backup-recovery",
               "path": "/docs/category/backup-recovery",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/manage-compute",
+              "path": "/docs/category/manage-compute",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/manage-network",
+              "path": "/docs/category/manage-network",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/manage-storage",
+              "path": "/docs/category/manage-storage",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/manage-security",
+              "path": "/docs/category/manage-security",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/cloud-assure",
+              "path": "/docs/category/cloud-assure",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/advance-service",
+              "path": "/docs/category/advance-service",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/other-service",
+              "path": "/docs/category/other-service",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/tools-and-utilities",
+              "path": "/docs/category/tools-and-utilities",
               "sidebar": "sidebar1"
             }
           ],
