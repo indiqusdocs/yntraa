@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'fa1'),
+    component: ComponentCreator('/docs', 'd00'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'bab'),
+        component: ComponentCreator('/docs', 'c1d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '225'),
+            component: ComponentCreator('/docs', 'e27'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -401,8 +401,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/CloudAssure/AssesmentandAdvisory',
-                component: ComponentCreator('/docs/Subscribers/CloudAssure/AssesmentandAdvisory', '77f'),
+                path: '/docs/Subscribers/CloudAssure/AssessmentandAdvisory',
+                component: ComponentCreator('/docs/Subscribers/CloudAssure/AssessmentandAdvisory', 'af4'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -755,8 +755,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManageCompute/Baremetal',
-                component: ComponentCreator('/docs/Subscribers/ManageCompute/Baremetal', '209'),
+                path: '/docs/Subscribers/ManageCompute/BareMetal',
+                component: ComponentCreator('/docs/Subscribers/ManageCompute/BareMetal', '292'),
                 exact: true,
                 sidebar: "sidebar1"
               },

@@ -106,8 +106,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/CloudAssure/AssesmentandAdvisory",
-              "path": "/docs/Subscribers/CloudAssure/AssesmentandAdvisory",
+              "id": "Subscribers/CloudAssure/AssessmentandAdvisory",
+              "path": "/docs/Subscribers/CloudAssure/AssessmentandAdvisory",
               "sidebar": "sidebar1"
             },
             {
@@ -401,8 +401,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManageCompute/Baremetal",
-              "path": "/docs/Subscribers/ManageCompute/Baremetal",
+              "id": "Subscribers/ManageCompute/BareMetal",
+              "path": "/docs/Subscribers/ManageCompute/BareMetal",
               "sidebar": "sidebar1"
             },
             {

@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-fa1": {
+  "/docs-d00": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-bab": {
+  "/docs-c1d": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-225": {
+  "/docs-e27": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -429,9 +429,9 @@
     "__comp": "17896441",
     "content": "16171859"
   },
-  "/docs/Subscribers/CloudAssure/AssesmentandAdvisory-77f": {
+  "/docs/Subscribers/CloudAssure/AssessmentandAdvisory-af4": {
     "__comp": "17896441",
-    "content": "59389ecd"
+    "content": "2a1cb960"
   },
   "/docs/Subscribers/CloudAssure/MigrationAssist-f47": {
     "__comp": "17896441",
@@ -665,9 +665,9 @@
     "__comp": "17896441",
     "content": "94918b16"
   },
-  "/docs/Subscribers/ManageCompute/Baremetal-209": {
+  "/docs/Subscribers/ManageCompute/BareMetal-292": {
     "__comp": "17896441",
-    "content": "b7d42b17"
+    "content": "8af008e5"
   },
   "/docs/Subscribers/ManageCompute/ContainerRegistry-f43": {
     "__comp": "17896441",
