@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/SigningUp.md",
-                "mode": "preview",
+                "file": "docs/Subscribers/CloudAssure/ProfessionalServices.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SigningUp"
+              "title": "ProfessionalServices"
             }
           }
         ]
@@ -172,6 +172,28 @@
   },
   "active": "281de4fc2b8426b4",
   "lastOpenFiles": [
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/search-index.json",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
+    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations/index.html",
+    "build/icons/home.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/social-card.png",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.svg",
+    "build/img/rn.svg",
+    "build/img/sps.png",
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/OtherServices/WAFasaService.md",
     "docs/Subscribers/OtherServices/UTMasaService.md",
     "docs/Subscribers/OtherServices/SIEM.md",
@@ -195,27 +217,6 @@
     "docs/Subscribers/CloudAssure/MonitoringandNotifications.md",
     "docs/Subscribers/CloudAssure/MigrationAssist.md",
     "docs/Subscribers/CloudAssure/AssessmentandAdvisory.md",
-    "docs/Subscribers/OtherServices/downloads/BRaaS.pdf",
-    "docs/Subscribers/OtherServices/downloads/YntraaCloudMDBaaS.pdf",
-    "docs/Subscribers/OtherServices/downloads",
-    "docs/Subscribers/OtherServices/New folder",
-    "docs/Subscribers/CloudAssure/img/securityactivation.png",
-    "docs/Subscribers/CloudAssure/img/security.png",
-    "docs/Subscribers/CloudAssure/downloads/CloudProfessionalService.pdf",
-    "docs/Subscribers/CloudAssure/downloads/CloudProfessional.pdf",
-    "docs/Subscribers/CloudAssure/img/professionalactivation.png",
-    "docs/Subscribers/CloudAssure/img/professional.png",
-    "docs/Subscribers/CloudAssure/downloads/ResiliencyAssuranceService.pdf",
-    "docs/Subscribers/CloudAssure/downloads/CloudOptimisationService.pdf",
-    "docs/Subscribers/CloudAssure/downloads/CloudMonitoringandNotificationService.pdf",
-    "docs/Subscribers/CloudAssure/downloads/CloudMigrationAssistService.pdf",
-    "docs/Subscribers/AdvanceServices/DevOpsasaService.md",
-    "docs/Subscribers/AdvanceServices/img/devactivation.png",
-    "docs/Subscribers/AdvanceServices/img/dev.png",
-    "docs/Subscribers/CloudAssure/img/resilienceactivation.png",
-    "docs/Subscribers/CloudAssure/img/resilience.png",
-    "docs/Subscribers/OtherServices/img/devactivation.png",
-    "docs/Subscribers/OtherServices/img/dev.png",
-    "docs/Subscribers/MDbaaS/Postprovisioning.md"
+    "docs/Subscribers/AdvanceServices/DevOpsasaService.md"
   ]
 }

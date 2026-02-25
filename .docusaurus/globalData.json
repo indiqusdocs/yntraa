@@ -856,8 +856,58 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/account-centre",
-              "path": "/docs/category/account-centre",
+              "id": "/category/networking",
+              "path": "/docs/category/networking",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/virtual-private-clouds",
+              "path": "/docs/category/virtual-private-clouds",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/about-vpc-instances",
+              "path": "/docs/category/about-vpc-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/virtual-firewalls",
+              "path": "/docs/category/virtual-firewalls",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/firewall-instances",
+              "path": "/docs/category/firewall-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/nat-gateways",
+              "path": "/docs/category/nat-gateways",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/managing-nat-gateways",
+              "path": "/docs/category/managing-nat-gateways",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/l2-networks",
+              "path": "/docs/category/l2-networks",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/ipv4-based-networking",
+              "path": "/docs/category/ipv4-based-networking",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/dns-management",
+              "path": "/docs/category/dns-management",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/load-balancer-instances",
+              "path": "/docs/category/load-balancer-instances",
               "sidebar": "sidebar1"
             },
             {
@@ -866,13 +916,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/kubernetes",
-              "path": "/docs/category/kubernetes",
+              "id": "/category/linux-instances",
+              "path": "/docs/category/linux-instances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/linux-instances",
-              "path": "/docs/category/linux-instances",
+              "id": "/category/kubernetes",
+              "path": "/docs/category/kubernetes",
               "sidebar": "sidebar1"
             },
             {
@@ -911,71 +961,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/networking",
-              "path": "/docs/category/networking",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/nat-gateways",
-              "path": "/docs/category/nat-gateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managing-nat-gateways",
-              "path": "/docs/category/managing-nat-gateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/virtual-private-clouds",
-              "path": "/docs/category/virtual-private-clouds",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/about-vpc-instances",
-              "path": "/docs/category/about-vpc-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/ipv4-based-networking",
-              "path": "/docs/category/ipv4-based-networking",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/virtual-firewalls",
-              "path": "/docs/category/virtual-firewalls",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/firewall-instances",
-              "path": "/docs/category/firewall-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/l2-networks",
-              "path": "/docs/category/l2-networks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/dns-management",
-              "path": "/docs/category/dns-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/load-balancer-instances",
-              "path": "/docs/category/load-balancer-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/databases",
-              "path": "/docs/category/databases",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/backup-recovery",
-              "path": "/docs/category/backup-recovery",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/manage-compute",
               "path": "/docs/category/manage-compute",
               "sidebar": "sidebar1"
@@ -986,8 +971,18 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/databases",
+              "path": "/docs/category/databases",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "/category/manage-storage",
               "path": "/docs/category/manage-storage",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/backup-recovery",
+              "path": "/docs/category/backup-recovery",
               "sidebar": "sidebar1"
             },
             {
@@ -1013,6 +1008,11 @@
             {
               "id": "/category/tools-and-utilities",
               "path": "/docs/category/tools-and-utilities",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/account-centre",
+              "path": "/docs/category/account-centre",
               "sidebar": "sidebar1"
             }
           ],

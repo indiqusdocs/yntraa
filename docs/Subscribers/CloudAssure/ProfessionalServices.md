@@ -12,4 +12,4 @@ To activate the desired professional service, perform the following steps:
 2. Click the **ACTIVATE** button.![professionalactivation](img/professionalactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
 
-For more information about the professional service, [click here](CloudProfessionalService.pdf).
+For more information about the professional service, click here
