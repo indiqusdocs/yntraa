@@ -7,5 +7,9 @@ Resiliency Assurance Service is a disaster recovery, focused solution designed t
 
 By combining proven resiliency methodologies with cloud-based automation and orchestration, it ensures seamless failover, reliable recovery, and minimal business impact across hybrid IT environments.
 
-For more information about the resiliency assurance service, refer to the detailed information [Resiliency Assurance Service](https://yottainfrastructure.sharepoint.com/sites/YottaDocumentManagementSystem/Athena/Forms/AllItems.aspx?id=%2Fsites%2FYottaDocumentManagementSystem%2FAthena%2FAthena%2DPublic%2FYotta%20Services%20Collaterals%20BUs%2FBusiness%20Unit%20%2D%20Cloud%20%26%20Media%20Services%2FResiliency%20Assurance%20Service%2FExternal%2FPSS%2DResiliency%20Assurance%20Service%2Epdf&parent=%2Fsites%2FYottaDocumentManagementSystem%2FAthena%2FAthena%2DPublic%2FYotta%20Services%20Collaterals%20BUs%2FBusiness%20Unit%20%2D%20Cloud%20%26%20Media%20Services%2FResiliency%20Assurance%20Service%2FExternal&p=true&ga=1).
-
+To activate the desired resiliency assurance service, perform the following steps:
+1. Navigate to **CLOUD ASSURE** > **Resiliency Assurance Service**. ![resilience](img/resilience.png)
+2. Click the **ACTIVATE** button. ![resilienceactivation.png](img/resilienceactivation.png)
+3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
+   
+   For more information about the resiliency assurance service, [click here](downloads/ResiliencyAssuranceService.pdf).

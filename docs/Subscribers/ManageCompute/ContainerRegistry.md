@@ -3,10 +3,10 @@ sidebar_position: 2
 ---
 # Container Registry
 
-To activate the desired container registry service, perform the following steps:
+To activate the desired Container Registry service, perform the following steps:
 
 1. Navigate to **MANAGED COMPUTE** > **Container Registry**.![containerregistry](img/containerregistry.png)
 2. Click the **ACTIVATE** button.![containerregistryactivation](img/containerregistryactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
-   For more information about the virtual desktop service,
+   For more information about the Container Registry service,

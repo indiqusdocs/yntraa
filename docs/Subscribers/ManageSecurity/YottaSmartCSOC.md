@@ -3,9 +3,11 @@ sidebar_position: 1
 ---
 # Yotta Smart CSOC
 
-To activate the desired yotta smart CSOC service, perform the following steps:
-1. Navigate to **MANAGED SECURITY** > **Load Balancer![yottasmartcsoc](img/yottasmartcsoc.png)
+Yotta Smart Complementary Subservice Organization Controls (CSOC) is a security operations service designed to help organizations effectively manage and respond to growing and complex cyber threats. It combines advanced monitoring and automated response capabilities with expert support to detect, investigate, and remediate security incidents quickly. 
+
+To activate the desired Yotta Smart CSOC service, perform the following steps:
+1. Navigate to **MANAGED SECURITY** > **Yotta Smart CSOC**![yottasmartcsoc](img/yottasmartcsoc.png)
 2. Click the **ACTIVATE** button.![yottasmartactivation](img/yottasmartactivation.png)
    3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
 
-For more information about the Yotta smart CSOC service, 
+For more information about the Yotta Smart CSOC service, 
