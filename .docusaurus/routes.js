@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c42'),
+    component: ComponentCreator('/docs', '5d0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f02'),
+        component: ComponentCreator('/docs', '9ee'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7ad'),
+            component: ComponentCreator('/docs', '348'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -285,6 +285,21 @@ export default [
                 component: ComponentCreator('/docs/category/windows-instances', 'a38'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/FAQ/CloudAssure/',
+                component: ComponentCreator('/docs/FAQ/CloudAssure/', '8c4'),
+                exact: true
+              },
+              {
+                path: '/docs/FAQ/CloudAssure/AssesmentandAdvisory',
+                component: ComponentCreator('/docs/FAQ/CloudAssure/AssesmentandAdvisory', 'c76'),
+                exact: true
+              },
+              {
+                path: '/docs/FAQ/ManagedCompute/VirtualDesktop',
+                component: ComponentCreator('/docs/FAQ/ManagedCompute/VirtualDesktop', '562'),
+                exact: true
               },
               {
                 path: '/docs/FAQs',

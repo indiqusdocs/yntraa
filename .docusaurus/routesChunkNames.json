@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-c42": {
+  "/docs-5d0": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-f02": {
+  "/docs-9ee": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-7ad": {
+  "/docs-348": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -352,6 +352,18 @@
   "/docs/category/windows-instances-a38": {
     "__comp": "14eb3368",
     "__props": "3291a1bf"
+  },
+  "/docs/FAQ/CloudAssure/-8c4": {
+    "__comp": "17896441",
+    "content": "d9d5b262"
+  },
+  "/docs/FAQ/CloudAssure/AssesmentandAdvisory-c76": {
+    "__comp": "17896441",
+    "content": "2d46480f"
+  },
+  "/docs/FAQ/ManagedCompute/VirtualDesktop-562": {
+    "__comp": "17896441",
+    "content": "f7673475"
   },
   "/docs/FAQs-ad9": {
     "__comp": "17896441",

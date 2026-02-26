@@ -11,6 +11,18 @@
           "mainDocId": "Subscribers/intro",
           "docs": [
             {
+              "id": "FAQ/CloudAssure/AssesmentandAdvisory",
+              "path": "/docs/FAQ/CloudAssure/AssesmentandAdvisory"
+            },
+            {
+              "id": "FAQ/CloudAssure/CloudAssure",
+              "path": "/docs/FAQ/CloudAssure/"
+            },
+            {
+              "id": "FAQ/ManagedCompute/VirtualDesktop",
+              "path": "/docs/FAQ/ManagedCompute/VirtualDesktop"
+            },
+            {
               "id": "FAQs",
               "path": "/docs/FAQs",
               "sidebar": "sidebar2"
