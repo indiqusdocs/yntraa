@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd00'),
+    component: ComponentCreator('/docs', '037'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c1d'),
+        component: ComponentCreator('/docs', 'ec4'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e27'),
+            component: ComponentCreator('/docs', 'c86'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -197,26 +197,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/manage-compute',
-                component: ComponentCreator('/docs/category/manage-compute', '0c5'),
+                path: '/docs/category/managed-compute',
+                component: ComponentCreator('/docs/category/managed-compute', 'a17'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/manage-network',
-                component: ComponentCreator('/docs/category/manage-network', '291'),
+                path: '/docs/category/managed-network',
+                component: ComponentCreator('/docs/category/managed-network', 'bbe'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/manage-security',
-                component: ComponentCreator('/docs/category/manage-security', '7dd'),
+                path: '/docs/category/managed-security',
+                component: ComponentCreator('/docs/category/managed-security', '2e6'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/manage-storage',
-                component: ComponentCreator('/docs/category/manage-storage', 'cd2'),
+                path: '/docs/category/managed-storage',
+                component: ComponentCreator('/docs/category/managed-storage', '019'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -755,44 +755,44 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManageCompute/BareMetal',
-                component: ComponentCreator('/docs/Subscribers/ManageCompute/BareMetal', '292'),
+                path: '/docs/Subscribers/ManagedCompute/BareMetal',
+                component: ComponentCreator('/docs/Subscribers/ManagedCompute/BareMetal', 'b1b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManageCompute/ContainerRegistry',
-                component: ComponentCreator('/docs/Subscribers/ManageCompute/ContainerRegistry', 'f43'),
+                path: '/docs/Subscribers/ManagedCompute/ContainerRegistry',
+                component: ComponentCreator('/docs/Subscribers/ManagedCompute/ContainerRegistry', 'c20'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManageCompute/VirtualDesktops',
-                component: ComponentCreator('/docs/Subscribers/ManageCompute/VirtualDesktops', '776'),
+                path: '/docs/Subscribers/ManagedCompute/VirtualDesktops',
+                component: ComponentCreator('/docs/Subscribers/ManagedCompute/VirtualDesktops', '05a'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManageNetwork/LoadBalancer',
-                component: ComponentCreator('/docs/Subscribers/ManageNetwork/LoadBalancer', '74e'),
+                path: '/docs/Subscribers/ManagedNetwork/LoadBalancer',
+                component: ComponentCreator('/docs/Subscribers/ManagedNetwork/LoadBalancer', '01c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManageSecurity/EndPointSecurity',
-                component: ComponentCreator('/docs/Subscribers/ManageSecurity/EndPointSecurity', '220'),
+                path: '/docs/Subscribers/ManagedSecurity/EndPointSecurity',
+                component: ComponentCreator('/docs/Subscribers/ManagedSecurity/EndPointSecurity', '935'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManageSecurity/YottaSmartCSOC',
-                component: ComponentCreator('/docs/Subscribers/ManageSecurity/YottaSmartCSOC', '174'),
+                path: '/docs/Subscribers/ManagedSecurity/YottaSmartCSOC',
+                component: ComponentCreator('/docs/Subscribers/ManagedSecurity/YottaSmartCSOC', '05b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManageStorage/FileStorage',
-                component: ComponentCreator('/docs/Subscribers/ManageStorage/FileStorage', 'a2a'),
+                path: '/docs/Subscribers/ManagedStorage/FileStorage',
+                component: ComponentCreator('/docs/Subscribers/ManagedStorage/FileStorage', '6f1'),
                 exact: true,
                 sidebar: "sidebar1"
               },

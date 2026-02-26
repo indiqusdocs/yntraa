@@ -401,38 +401,38 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManageCompute/BareMetal",
-              "path": "/docs/Subscribers/ManageCompute/BareMetal",
+              "id": "Subscribers/ManagedCompute/BareMetal",
+              "path": "/docs/Subscribers/ManagedCompute/BareMetal",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManageCompute/ContainerRegistry",
-              "path": "/docs/Subscribers/ManageCompute/ContainerRegistry",
+              "id": "Subscribers/ManagedCompute/ContainerRegistry",
+              "path": "/docs/Subscribers/ManagedCompute/ContainerRegistry",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManageCompute/VirtualDesktops",
-              "path": "/docs/Subscribers/ManageCompute/VirtualDesktops",
+              "id": "Subscribers/ManagedCompute/VirtualDesktops",
+              "path": "/docs/Subscribers/ManagedCompute/VirtualDesktops",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManageNetwork/LoadBalancer",
-              "path": "/docs/Subscribers/ManageNetwork/LoadBalancer",
+              "id": "Subscribers/ManagedNetwork/LoadBalancer",
+              "path": "/docs/Subscribers/ManagedNetwork/LoadBalancer",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManageSecurity/EndPointSecurity",
-              "path": "/docs/Subscribers/ManageSecurity/EndPointSecurity",
+              "id": "Subscribers/ManagedSecurity/EndPointSecurity",
+              "path": "/docs/Subscribers/ManagedSecurity/EndPointSecurity",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManageSecurity/YottaSmartCSOC",
-              "path": "/docs/Subscribers/ManageSecurity/YottaSmartCSOC",
+              "id": "Subscribers/ManagedSecurity/YottaSmartCSOC",
+              "path": "/docs/Subscribers/ManagedSecurity/YottaSmartCSOC",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManageStorage/FileStorage",
-              "path": "/docs/Subscribers/ManageStorage/FileStorage",
+              "id": "Subscribers/ManagedStorage/FileStorage",
+              "path": "/docs/Subscribers/ManagedStorage/FileStorage",
               "sidebar": "sidebar1"
             },
             {
@@ -961,13 +961,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/manage-compute",
-              "path": "/docs/category/manage-compute",
+              "id": "/category/managed-compute",
+              "path": "/docs/category/managed-compute",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/manage-network",
-              "path": "/docs/category/manage-network",
+              "id": "/category/managed-network",
+              "path": "/docs/category/managed-network",
               "sidebar": "sidebar1"
             },
             {
@@ -976,8 +976,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/manage-storage",
-              "path": "/docs/category/manage-storage",
+              "id": "/category/managed-storage",
+              "path": "/docs/category/managed-storage",
               "sidebar": "sidebar1"
             },
             {
@@ -986,8 +986,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/manage-security",
-              "path": "/docs/category/manage-security",
+              "id": "/category/managed-security",
+              "path": "/docs/category/managed-security",
               "sidebar": "sidebar1"
             },
             {

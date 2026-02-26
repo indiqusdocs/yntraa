@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-d00": {
+  "/docs-037": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-c1d": {
+  "/docs-ec4": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-e27": {
+  "/docs-c86": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -293,21 +293,21 @@
     "__comp": "14eb3368",
     "__props": "016802e9"
   },
-  "/docs/category/manage-compute-0c5": {
+  "/docs/category/managed-compute-a17": {
     "__comp": "14eb3368",
-    "__props": "b72fb10b"
+    "__props": "b1eb3c7c"
   },
-  "/docs/category/manage-network-291": {
+  "/docs/category/managed-network-bbe": {
     "__comp": "14eb3368",
-    "__props": "346296f5"
+    "__props": "03a22633"
   },
-  "/docs/category/manage-security-7dd": {
+  "/docs/category/managed-security-2e6": {
     "__comp": "14eb3368",
-    "__props": "66389c46"
+    "__props": "3406fb7c"
   },
-  "/docs/category/manage-storage-cd2": {
+  "/docs/category/managed-storage-019": {
     "__comp": "14eb3368",
-    "__props": "40ff22cc"
+    "__props": "900b4cb2"
   },
   "/docs/category/managing-nat-gateways-0d2": {
     "__comp": "14eb3368",
@@ -665,33 +665,33 @@
     "__comp": "17896441",
     "content": "94918b16"
   },
-  "/docs/Subscribers/ManageCompute/BareMetal-292": {
+  "/docs/Subscribers/ManagedCompute/BareMetal-b1b": {
     "__comp": "17896441",
-    "content": "8af008e5"
+    "content": "2179fe92"
   },
-  "/docs/Subscribers/ManageCompute/ContainerRegistry-f43": {
+  "/docs/Subscribers/ManagedCompute/ContainerRegistry-c20": {
     "__comp": "17896441",
-    "content": "61686c00"
+    "content": "b21f50fb"
   },
-  "/docs/Subscribers/ManageCompute/VirtualDesktops-776": {
+  "/docs/Subscribers/ManagedCompute/VirtualDesktops-05a": {
     "__comp": "17896441",
-    "content": "db972875"
+    "content": "b5ccca01"
   },
-  "/docs/Subscribers/ManageNetwork/LoadBalancer-74e": {
+  "/docs/Subscribers/ManagedNetwork/LoadBalancer-01c": {
     "__comp": "17896441",
-    "content": "6f417d2f"
+    "content": "8c19a72a"
   },
-  "/docs/Subscribers/ManageSecurity/EndPointSecurity-220": {
+  "/docs/Subscribers/ManagedSecurity/EndPointSecurity-935": {
     "__comp": "17896441",
-    "content": "308b1509"
+    "content": "ec7eb993"
   },
-  "/docs/Subscribers/ManageSecurity/YottaSmartCSOC-174": {
+  "/docs/Subscribers/ManagedSecurity/YottaSmartCSOC-05b": {
     "__comp": "17896441",
-    "content": "44de503e"
+    "content": "1a32f30e"
   },
-  "/docs/Subscribers/ManageStorage/FileStorage-a2a": {
+  "/docs/Subscribers/ManagedStorage/FileStorage-6f1": {
     "__comp": "17896441",
-    "content": "ff933e08"
+    "content": "d2980126"
   },
   "/docs/Subscribers/MDbaaS/-563": {
     "__comp": "17896441",
