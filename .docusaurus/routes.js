@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4a1'),
+    component: ComponentCreator('/docs', 'c42'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'add'),
+        component: ComponentCreator('/docs', 'f02'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '1fb'),
+            component: ComponentCreator('/docs', '7ad'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -142,8 +142,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/advance-service',
-                component: ComponentCreator('/docs/category/advance-service', 'c97'),
+                path: '/docs/category/advance-services',
+                component: ComponentCreator('/docs/category/advance-services', 'd40'),
                 exact: true,
                 sidebar: "sidebar1"
               },
