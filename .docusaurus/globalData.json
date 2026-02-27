@@ -21,6 +21,21 @@
               "sidebar": "sidebar2"
             },
             {
+              "id": "FAQs/CloudAssure/MigrationAssist",
+              "path": "/docs/FAQs/CloudAssure/MigrationAssist",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "FAQs/CloudAssure/ProfessionalService",
+              "path": "/docs/FAQs/CloudAssure/ProfessionalService",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "FAQs/CloudAssure/ResiliencyAssuranceService",
+              "path": "/docs/FAQs/CloudAssure/ResiliencyAssuranceService",
+              "sidebar": "sidebar2"
+            },
+            {
               "id": "FAQs/FAQs",
               "path": "/docs/FAQs/",
               "sidebar": "sidebar2"

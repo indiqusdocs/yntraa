@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Frequently Asked Question
+# Virtual Desktop
 
 
 <details><summary>**What is Virtual Desktop-as-a-Service (vDaaS)?**</summary>vDaaS is a cloud-based service that delivers secure, fully functional Windows or Linux desktops to users over the internet, supporting flexible, remote, and hybrid work across all devices. Unlike traditional PCs, these desktops are hosted in secure data centers, eliminating on-site hardware and enabling quick, scalable desktop infrastructure management.</details>

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Frequently Asked Question
+# Assesment and Advisory
 
 
 <details><summary>**What are Cloud Assessment Services?**</summary>Cloud Assessment and Advisory is a structured engagement that thoroughly evaluates an organization’s IT infrastructure, applications, and processes to determine cloud readiness. The outcome is a tailored roadmap for migration and modernization aligned with business objectives, operational needs, and future scalability.</details>
@@ -23,10 +23,7 @@ exploring cloud migration, optimization, digital transformation, or regulatory c
 minimum required scope. All access is governed by secure methods and strict data privacy, security, and confidentiality protocols throughout the assessment engagement.</details>
 
 <details><summary>**What does the customer receive at the end of the assessment?**</summary>Customers receive a detailed report covering:
-• Current state analysis: A detailed view of the existing IT and cloud landscape, covering infrastructure, applications, workloads, dependencies, performance baselines, cost posture, and operational practices. This establishes a clear and documented baseline of the environment as it exists today.
-• Cloud readiness score: A structured readiness scoring that evaluates the customer’s preparedness for cloud adoption or optimization across key dimensions such as architecture, operations, governance, cost management, and skills. This score helps prioritize next steps objectively.
-• Risk and compliance gaps: Identification of operational and compliance risks, including gaps against industry standards and regulatory requirements. This section highlights areas that may impact stability, data protection, or compliance if not addressed.
-• Strategic recommendations: Actionable recommendations aligned to business goals, including target-state architecture guidance, migration or optimisation approaches, governance improvements, and a phased roadmap. These recommendations are designed to be practical, prioritized, and execution-ready.</details>
+<br/>• **Current state analysis**: A detailed view of the existing IT and cloud landscape, covering infrastructure, applications, workloads, dependencies, performance baselines, cost posture, and operational practices. This establishes a clear and documented baseline of the environment as it exists today.<br/><br/>• **Cloud readiness score**: A structured readiness scoring that evaluates the customer’s preparedness for cloud adoption or optimization across key dimensions such as architecture, operations, governance, cost management, and skills. This score helps prioritize next steps objectively.<br/><br/>• **Risk and compliance gaps**: Identification of operational and compliance risks, including gaps against industry standards and regulatory requirements. This section highlights areas that may impact stability, data protection, or compliance if not addressed.<br/><br/>• **Strategic recommendations**: Actionable recommendations aligned to business goals, including target-state architecture guidance, migration or optimisation approaches, governance improvements, and a phased roadmap. These recommendations are designed to be practical, prioritized, and execution-ready.<br/></details>
 
 <details><summary>**How does the advisory help post-assessment?**</summary>Advisory helps turn assessment insights into action. We help you define a roadmap, choose the right cloud platforms, set up governance, design cloud architecture, and guide implementation phases.</details>
 
