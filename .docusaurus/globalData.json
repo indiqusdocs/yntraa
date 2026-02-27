@@ -11,20 +11,23 @@
           "mainDocId": "Subscribers/intro",
           "docs": [
             {
-              "id": "FAQ/CloudAssure/AssesmentandAdvisory",
-              "path": "/docs/FAQ/CloudAssure/AssesmentandAdvisory"
+              "id": "FAQs/CloudAssure/AssesmentandAdvisory",
+              "path": "/docs/FAQs/CloudAssure/AssesmentandAdvisory",
+              "sidebar": "sidebar2"
             },
             {
-              "id": "FAQ/CloudAssure/CloudAssure",
-              "path": "/docs/FAQ/CloudAssure/"
+              "id": "FAQs/CloudAssure/CloudAssure",
+              "path": "/docs/FAQs/CloudAssure/",
+              "sidebar": "sidebar2"
             },
             {
-              "id": "FAQ/ManagedCompute/VirtualDesktop",
-              "path": "/docs/FAQ/ManagedCompute/VirtualDesktop"
+              "id": "FAQs/FAQs",
+              "path": "/docs/FAQs/",
+              "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs",
-              "path": "/docs/FAQs",
+              "id": "FAQs/ManagedCompute/VirtualDesktop",
+              "path": "/docs/FAQs/ManagedCompute/VirtualDesktop",
               "sidebar": "sidebar2"
             },
             {
@@ -75,6 +78,11 @@
             {
               "id": "Subscribers/AccountCentre/Payments",
               "path": "/docs/Subscribers/AccountCentre/Payments",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/ResettingPassword",
+              "path": "/docs/Subscribers/AccountCentre/ResettingPassword",
               "sidebar": "sidebar1"
             },
             {
@@ -398,8 +406,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Gettingstartedonyntraacloud",
-              "path": "/docs/Subscribers/Gettingstartedonyntraacloud",
+              "id": "Subscribers/GettingStarted",
+              "path": "/docs/Subscribers/GettingStarted",
               "sidebar": "sidebar1"
             },
             {
@@ -773,11 +781,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ResettingPassword",
-              "path": "/docs/Subscribers/ResettingPassword",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/SigningUp",
               "path": "/docs/Subscribers/SigningUp",
               "sidebar": "sidebar1"
@@ -1026,6 +1029,16 @@
               "id": "/category/account-centre",
               "path": "/docs/category/account-centre",
               "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/cloud-assure-1",
+              "path": "/docs/category/cloud-assure-1",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "/category/managed-compute-1",
+              "path": "/docs/category/managed-compute-1",
+              "sidebar": "sidebar2"
             }
           ],
           "draftIds": [],
@@ -1038,8 +1051,8 @@
             },
             "sidebar2": {
               "link": {
-                "path": "/docs/FAQs",
-                "label": "FAQs"
+                "path": "/docs/FAQs/",
+                "label": "FAQs/FAQs"
               }
             },
             "sidebar3": {

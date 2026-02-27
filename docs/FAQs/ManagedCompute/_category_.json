@@ -1,6 +1,6 @@
 {
-  "label": "Virtual Desktop",
-  "position": 1,
+  "label": "Managed Compute",
+  "position": 2,
   "link": {
     "type": "generated-index",
     "description": "Read about all the releases."

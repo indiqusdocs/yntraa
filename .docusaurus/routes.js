@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -84,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '5d0'),
+    component: ComponentCreator('/docs', 'b4f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '9ee'),
+        component: ComponentCreator('/docs', '281'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '348'),
+            component: ComponentCreator('/docs', 'b72'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -135,6 +170,12 @@ export default [
                 component: ComponentCreator('/docs/category/cloud-assure', '330'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/cloud-assure-1',
+                component: ComponentCreator('/docs/category/cloud-assure-1', 'c6b'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/compute',
@@ -201,6 +242,12 @@ export default [
                 component: ComponentCreator('/docs/category/managed-compute', 'a17'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/managed-compute-1',
+                component: ComponentCreator('/docs/category/managed-compute-1', '94c'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/managed-network',
@@ -287,23 +334,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/FAQ/CloudAssure/',
-                component: ComponentCreator('/docs/FAQ/CloudAssure/', '8c4'),
-                exact: true
+                path: '/docs/FAQs/',
+                component: ComponentCreator('/docs/FAQs/', '44a'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
-                path: '/docs/FAQ/CloudAssure/AssesmentandAdvisory',
-                component: ComponentCreator('/docs/FAQ/CloudAssure/AssesmentandAdvisory', 'c76'),
-                exact: true
+                path: '/docs/FAQs/CloudAssure/',
+                component: ComponentCreator('/docs/FAQs/CloudAssure/', 'ae2'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
-                path: '/docs/FAQ/ManagedCompute/VirtualDesktop',
-                component: ComponentCreator('/docs/FAQ/ManagedCompute/VirtualDesktop', '562'),
-                exact: true
+                path: '/docs/FAQs/CloudAssure/AssesmentandAdvisory',
+                component: ComponentCreator('/docs/FAQs/CloudAssure/AssesmentandAdvisory', '101'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
-                path: '/docs/FAQs',
-                component: ComponentCreator('/docs/FAQs', 'ad9'),
+                path: '/docs/FAQs/ManagedCompute/VirtualDesktop',
+                component: ComponentCreator('/docs/FAQs/ManagedCompute/VirtualDesktop', '145'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -364,6 +414,12 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/Payments',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/Payments', '1a1'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/ResettingPassword',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/ResettingPassword', 'a27'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -752,8 +808,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Gettingstartedonyntraacloud',
-                component: ComponentCreator('/docs/Subscribers/Gettingstartedonyntraacloud', '900'),
+                path: '/docs/Subscribers/GettingStarted',
+                component: ComponentCreator('/docs/Subscribers/GettingStarted', '1e5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1198,12 +1254,6 @@ export default [
               {
                 path: '/docs/Subscribers/OtherServices/WAFasaService',
                 component: ComponentCreator('/docs/Subscribers/OtherServices/WAFasaService', '3cd'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/ResettingPassword',
-                component: ComponentCreator('/docs/Subscribers/ResettingPassword', '7ed'),
                 exact: true,
                 sidebar: "sidebar1"
               },

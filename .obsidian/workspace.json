@@ -13,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FAQ/CloudAssure/AssesmentandAdvisory.md",
+                "file": "docs/FAQs/ManagedCompute/VirtualDesktop.md",
                 "mode": "source",
-                "source": true,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "AssesmentandAdvisory"
+              "title": "VirtualDesktop"
             }
           }
         ]
@@ -172,6 +171,22 @@
   },
   "active": "281de4fc2b8426b4",
   "lastOpenFiles": [
+    "docs/FAQs/CloudAssure/AssesmentandAdvisory.md",
+    "docs/FAQs/CloudAssure/CloudAssure.md",
+    "docs/Subscribers/GettingStarted.md",
+    "docs/Subscribers/LoggingIn.md",
+    "docs/Subscribers/SigningUp.md",
+    "docs/Subscribers/intro.md",
+    "docs/Subscribers/AccountCentre/StandardAgreements.md",
+    "docs/Subscribers/AccountCentre/img/forgotpassword4.png",
+    "docs/Subscribers/AccountCentre/img/forgotpassword2.png",
+    "docs/Subscribers/AccountCentre/img/forgotpassword.png",
+    "docs/Subscribers/AccountCentre/img/resettpassword.png",
+    "docs/Subscribers/AccountCentre/img/login.png",
+    "docs/Subscribers/AccountCentre/ResettingPassword.md",
+    "docs/Subscribers/AccountCentre/AboutYntraaAccountCentre.md",
+    "docs/Subscribers/AccountCentre/New Text Document.txt",
+    "build/docs/Subscribers/ResettingPassword.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/search-index.json",
@@ -181,22 +196,14 @@
     "build/docs/Subscribers/ToolsandUtilities/VPNGateways/index.html",
     "build/docs/Subscribers/ToolsandUtilities/MyImages/index.html",
     "build/docs/Subscribers/ToolsandUtilities/SSHKeypairs/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/RestorePoints/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/VPNGateways",
     "build/img/sps.svg",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
     "build/img/sps.png",
-    "build/img/social-card.png",
-    "build/img/sbs.svg",
-    "build/img/sbs.png",
-    "build/img/logo.svg",
-    "build/img/logo-01.png",
     "docs/FAQ/CloudAssure/CloudAssure.md",
     "docs/FAQ/CloudAssure/AssesmentandAdvisory.md",
     "docs/FAQ/CloudAssure/CloudAssure - Copy.md",
-    "docs/Subscribers/Gettingstartedonyntraacloud.md",
     "docs/FAQ/CloudAssure/VirtualDesktop.md",
     "docs/FAQ/ManagedCompute - Copy/VirtualDesktop.md",
     "docs/FAQs/ManagedCompute/VirtualDesktop.md",
@@ -208,15 +215,7 @@
     "docs/Knowledgebase - Copy/WhatisaVirtualFirewallintheCloud.md",
     "docs/VirtualDesktop.md",
     "docs/FAQs/ManagedCompute/ContainerRegistry.md",
-    "docs/Subscribers/intro.md",
     "docs/Subscribers/CloudAssure/ProfessionalServices.md",
-    "docs/Subscribers/OtherServices/WAFasaService.md",
-    "docs/Subscribers/OtherServices/HostedInternetBandwidth.md",
-    "docs/Subscribers/OtherServices/DDosProtection.md",
-    "docs/Subscribers/OtherServices/LoadTestingasaService.md",
-    "docs/Subscribers/OtherServices/MultiTenantBraaS.md",
-    "docs/Subscribers/OtherServices/SIEM.md",
-    "docs/Subscribers/OtherServices/UTMasaService.md",
-    "docs/Subscribers/OtherServices/MangedDatabases.md"
+    "docs/Subscribers/OtherServices/WAFasaService.md"
   ]
 }
