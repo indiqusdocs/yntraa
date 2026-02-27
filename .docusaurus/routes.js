@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '58b'),
+    component: ComponentCreator('/docs', '6e0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd96'),
+        component: ComponentCreator('/docs', '928'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '09d'),
+            component: ComponentCreator('/docs', '081'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -215,6 +215,12 @@ export default [
                 sidebar: "sidebar2"
               },
               {
+                path: '/docs/category/managed-databases',
+                component: ComponentCreator('/docs/category/managed-databases', '91c'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
                 path: '/docs/category/managed-network',
                 component: ComponentCreator('/docs/category/managed-network', 'bbe'),
                 exact: true,
@@ -231,6 +237,12 @@ export default [
                 component: ComponentCreator('/docs/category/managed-storage', '019'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/managed-storage-1',
+                component: ComponentCreator('/docs/category/managed-storage-1', '550'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/managing-nat-gateways',
@@ -337,6 +349,18 @@ export default [
               {
                 path: '/docs/FAQs/ManagedCompute/VirtualDesktop',
                 component: ComponentCreator('/docs/FAQs/ManagedCompute/VirtualDesktop', '145'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/ManagedStorage/File Storage',
+                component: ComponentCreator('/docs/FAQs/ManagedStorage/File Storage', '836'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/OtherServices/ManagedDatabases',
+                component: ComponentCreator('/docs/FAQs/OtherServices/ManagedDatabases', '67e'),
                 exact: true,
                 sidebar: "sidebar2"
               },

@@ -12,6 +12,19 @@ To activate the desired Hosted Internet Bandwidth service, perform the following
 2. Click the **ACTIVATE** button. ![internetactivation.png](img/internetactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
-For more information about the Hosted Internet Bandwidth service, 
+## Required Details
+content Required
+## Accessing Hosted Internet Bandwidth Service Details
+content Required
+## Endpoints and Connectivity  
+content Required
+## Log Access and Usage
+content Required
+## Alert and Notifications
+content Required
+## Incident Management
+content Required
+## Service Levels and Support
+content Required
 
 

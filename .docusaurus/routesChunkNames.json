@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-58b": {
+  "/docs-6e0": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-d96": {
+  "/docs-928": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-09d": {
+  "/docs-081": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -305,6 +305,10 @@
     "__comp": "14eb3368",
     "__props": "5686c317"
   },
+  "/docs/category/managed-databases-91c": {
+    "__comp": "14eb3368",
+    "__props": "802af4f0"
+  },
   "/docs/category/managed-network-bbe": {
     "__comp": "14eb3368",
     "__props": "03a22633"
@@ -316,6 +320,10 @@
   "/docs/category/managed-storage-019": {
     "__comp": "14eb3368",
     "__props": "900b4cb2"
+  },
+  "/docs/category/managed-storage-1-550": {
+    "__comp": "14eb3368",
+    "__props": "41ca7b38"
   },
   "/docs/category/managing-nat-gateways-0d2": {
     "__comp": "14eb3368",
@@ -388,6 +396,14 @@
   "/docs/FAQs/ManagedCompute/VirtualDesktop-145": {
     "__comp": "17896441",
     "content": "30f76886"
+  },
+  "/docs/FAQs/ManagedStorage/File Storage-836": {
+    "__comp": "17896441",
+    "content": "5c20bd5d"
+  },
+  "/docs/FAQs/OtherServices/ManagedDatabases-67e": {
+    "__comp": "17896441",
+    "content": "4a91a151"
   },
   "/docs/Knowledgebase/IPv4Networking-f85": {
     "__comp": "17896441",

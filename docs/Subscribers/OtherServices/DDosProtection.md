@@ -12,5 +12,17 @@ To activate the desired DDoS Protection service, perform the following steps:
 2. Click the **ACTIVATE** button. ![ddosactivation.png](img/ddosactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
-   For more information about the DDoS Protection service, 
-
+## Required Details
+content Required
+## Accessing DDoS Details
+content Required
+## Endpoints and Connectivity  
+content Required
+## Log Access and Usage
+content Required
+## Alert and Notifications
+content Required
+## Incident Management
+content Required
+## Service Levels and Support
+content Required

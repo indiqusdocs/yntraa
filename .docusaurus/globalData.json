@@ -46,6 +46,16 @@
               "sidebar": "sidebar2"
             },
             {
+              "id": "FAQs/ManagedStorage/File Storage",
+              "path": "/docs/FAQs/ManagedStorage/File Storage",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "FAQs/OtherServices/ManagedDatabases",
+              "path": "/docs/FAQs/OtherServices/ManagedDatabases",
+              "sidebar": "sidebar2"
+            },
+            {
               "id": "Knowledgebase/IPv4Networking",
               "path": "/docs/Knowledgebase/IPv4Networking",
               "sidebar": "sidebar3"
@@ -1053,6 +1063,16 @@
             {
               "id": "/category/managed-compute-1",
               "path": "/docs/category/managed-compute-1",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "/category/managed-databases",
+              "path": "/docs/category/managed-databases",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "/category/managed-storage-1",
+              "path": "/docs/category/managed-storage-1",
               "sidebar": "sidebar2"
             }
           ],
