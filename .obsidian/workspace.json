@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "ResiliencyAssuranceService"
             }
+          },
+          {
+            "id": "a458f4167fb17c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Subscribers/AccountCentre/TeamMemberManagement.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TeamMemberManagement"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,19 +184,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "281de4fc2b8426b4",
+  "active": "a458f4167fb17c76",
   "lastOpenFiles": [
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/VPNGateways/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/RestorePoints/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/SSHKeypairs/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/MyImages/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/VPNGateways",
-    "build/docs/Subscribers/ToolsandUtilities/RestorePoints",
-    "build/docs/Subscribers/ToolsandUtilities/SSHKeypairs",
-    "build/docs/Subscribers/ToolsandUtilities/MyImages",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts/index.html",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances/index.html",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/sps.png",
+    "build/img/sps.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sbs.svg",
+    "build/img/social-card.png",
+    "build/img/sbs.png",
+    "build/img/rn.svg",
+    "build/img/rn.png",
+    "docs/FAQs/FAQs.md",
+    "docs/FAQs/Miscellaneous/FAQs.md",
+    "docs/Subscribers/AccountCentre/TeamMemberManagement.md",
     "docs/Subscribers/CloudAssure/MigrationAssist.md",
     "docs/Subscribers/CloudAssure/AssessmentandAdvisory.md",
     "docs/FAQs/CloudAssure/ResiliencyAssuranceService.md",
@@ -191,16 +219,6 @@
     "docs/Subscribers/OtherServices/WAFasaService.md",
     "docs/FAQs/ManagedStorage/VirtualDesktop.md",
     "docs/FAQs/ManagedCompute - Copy/VirtualDesktop.md",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sps.svg",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/social-card.png",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/rn.png",
     "docs/Subscribers/OtherServices/UTMasaService.md",
     "docs/Subscribers/OtherServices/SIEM.md",
     "docs/Subscribers/OtherServices/MultiTenantBraaS.md",
@@ -213,9 +231,6 @@
     "docs/FAQs/ManagedDatabase/ManagedDatabases.md",
     "docs/FAQs/ManagedDatabase/ResiliencyAssuranceService.md",
     "docs/FAQs/ManagedDatabase/ProfessionalService.md",
-    "docs/FAQs/ManagedDatabase/MigrationAssist.md",
-    "docs/FAQs/ManagedDatabase/CloudAssure.md",
-    "docs/FAQs/ManagedDatabase/AssesmentandAdvisory.md",
-    "docs/FAQs/CloudAssure - Copy/ResiliencyAssuranceService.md"
+    "docs/FAQs/ManagedDatabase/MigrationAssist.md"
   ]
 }

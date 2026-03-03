@@ -36,11 +36,6 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/FAQs",
-              "path": "/docs/FAQs/",
-              "sidebar": "sidebar2"
-            },
-            {
               "id": "FAQs/ManagedCompute/VirtualDesktop",
               "path": "/docs/FAQs/ManagedCompute/VirtualDesktop",
               "sidebar": "sidebar2"
@@ -48,6 +43,11 @@
             {
               "id": "FAQs/ManagedStorage/File Storage",
               "path": "/docs/FAQs/ManagedStorage/File Storage",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "FAQs/Miscellaneous/FAQs",
+              "path": "/docs/FAQs/Miscellaneous/FAQs",
               "sidebar": "sidebar2"
             },
             {
@@ -126,8 +126,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/TeamandChildUserManagement",
-              "path": "/docs/Subscribers/AccountCentre/TeamandChildUserManagement",
+              "id": "Subscribers/AccountCentre/TeamMemberManagement",
+              "path": "/docs/Subscribers/AccountCentre/TeamMemberManagement",
               "sidebar": "sidebar1"
             },
             {
@@ -1074,6 +1074,11 @@
               "id": "/category/managed-storage-1",
               "path": "/docs/category/managed-storage-1",
               "sidebar": "sidebar2"
+            },
+            {
+              "id": "/category/miscellaneous",
+              "path": "/docs/category/miscellaneous",
+              "sidebar": "sidebar2"
             }
           ],
           "draftIds": [],
@@ -1086,8 +1091,8 @@
             },
             "sidebar2": {
               "link": {
-                "path": "/docs/FAQs/",
-                "label": "FAQs/FAQs"
+                "path": "/docs/category/cloud-assure-1",
+                "label": "Cloud Assure"
               }
             },
             "sidebar3": {
