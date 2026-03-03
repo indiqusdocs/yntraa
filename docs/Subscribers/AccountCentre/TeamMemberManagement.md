@@ -13,7 +13,7 @@ To add a team member, click the **+INVITE TEAM MEMBERS** button in the top-right
 
 **Add User -** name, email, phone number, etc., for the team member.
   :::note
-   The child user can reset the password from the Yntraa Cloud.
+  The team member/user can reset the password from the Yntraa Cloud.
   :::
 **User Type -** the role of the team member. These can be:
     - **Admin -** gets access to all functionalities.
