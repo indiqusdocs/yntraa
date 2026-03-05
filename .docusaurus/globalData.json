@@ -471,11 +471,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManagedDatabase/MangedDatabases",
-              "path": "/docs/Subscribers/ManagedDatabase/MangedDatabases",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/ManagedDatabase/MDBaas",
               "path": "/docs/Subscribers/ManagedDatabase/MDBaas",
               "sidebar": "sidebar1"

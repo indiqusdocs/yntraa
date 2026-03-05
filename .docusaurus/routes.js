@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e46'),
+    component: ComponentCreator('/docs', 'c58'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '9a4'),
+        component: ComponentCreator('/docs', 'b1d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ca1'),
+            component: ComponentCreator('/docs', '09d'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -865,12 +865,6 @@ export default [
               {
                 path: '/docs/Subscribers/ManagedDatabase/introduction',
                 component: ComponentCreator('/docs/Subscribers/ManagedDatabase/introduction', '653'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/ManagedDatabase/MangedDatabases',
-                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/MangedDatabases', 'ba6'),
                 exact: true,
                 sidebar: "sidebar1"
               },

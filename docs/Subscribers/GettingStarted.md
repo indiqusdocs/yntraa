@@ -18,7 +18,7 @@ The service provider provisions a Virtual Private Cloud (VPC) and configures the
 
 The Service Provider creates and configures the following components:
 - Firewall Management Network Tier 
-- WAN Network Tier Firewall HA1(Config Sync), HA 2 (Heartbeat), HA3 (Additional Heartbeat/Session Sync) Network Tier
+- WAN Network Tier Firewall HA1(Config Sync), HA2 (Heartbeat), HA3 (Additional Heartbeat/Session Sync) Network Tier
 - Monitoring Agents 
 - Management Tools 
 - Customer LAN Network Tiers 
