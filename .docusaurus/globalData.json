@@ -461,6 +461,56 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster",
+              "path": "/docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/introduction",
+              "path": "/docs/Subscribers/ManagedDatabase/introduction",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/MangedDatabases",
+              "path": "/docs/Subscribers/ManagedDatabase/MangedDatabases",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/MDBaas",
+              "path": "/docs/Subscribers/ManagedDatabase/MDBaas",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/Postprovisioning",
+              "path": "/docs/Subscribers/ManagedDatabase/Postprovisioning",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/PreRequisites",
+              "path": "/docs/Subscribers/ManagedDatabase/PreRequisites",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/Scalingandconfigurationmanagement",
+              "path": "/docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/servicedeprovisioning",
+              "path": "/docs/Subscribers/ManagedDatabase/servicedeprovisioning",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/Serviceoverviewandarchitecture",
+              "path": "/docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedDatabase/Serviceprovisioning",
+              "path": "/docs/Subscribers/ManagedDatabase/Serviceprovisioning",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/ManagedNetwork/LoadBalancer",
               "path": "/docs/Subscribers/ManagedNetwork/LoadBalancer",
               "sidebar": "sidebar1"
@@ -478,51 +528,6 @@
             {
               "id": "Subscribers/ManagedStorage/FileStorage",
               "path": "/docs/Subscribers/ManagedStorage/FileStorage",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/Backuphighavailabilityanddisaster",
-              "path": "/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/introduction",
-              "path": "/docs/Subscribers/MDbaaS/introduction",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/MDBaas",
-              "path": "/docs/Subscribers/MDbaaS/",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/Postprovisioning",
-              "path": "/docs/Subscribers/MDbaaS/Postprovisioning",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/PreRequisites",
-              "path": "/docs/Subscribers/MDbaaS/PreRequisites",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/Scalingandconfigurationmanagement",
-              "path": "/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/servicedeprovisioning",
-              "path": "/docs/Subscribers/MDbaaS/servicedeprovisioning",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/Serviceoverviewandarchitecture",
-              "path": "/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/MDbaaS/Serviceprovisioning",
-              "path": "/docs/Subscribers/MDbaaS/Serviceprovisioning",
               "sidebar": "sidebar1"
             },
             {
@@ -781,11 +786,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/OtherServices/MangedDatabases",
-              "path": "/docs/Subscribers/OtherServices/MangedDatabases",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/OtherServices/MultiTenantBraaS",
               "path": "/docs/Subscribers/OtherServices/MultiTenantBraaS",
               "sidebar": "sidebar1"
@@ -1011,8 +1011,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/databases",
-              "path": "/docs/category/databases",
+              "id": "/category/managed-database",
+              "path": "/docs/category/managed-database",
               "sidebar": "sidebar1"
             },
             {

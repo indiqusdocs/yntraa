@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c7d'),
+    component: ComponentCreator('/docs', 'e46'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd93'),
+        component: ComponentCreator('/docs', '9a4'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'a00'),
+            component: ComponentCreator('/docs', 'ca1'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -145,12 +145,6 @@ export default [
               {
                 path: '/docs/category/compute',
                 component: ComponentCreator('/docs/category/compute', 'a28'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/databases',
-                component: ComponentCreator('/docs/category/databases', '08b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -213,6 +207,12 @@ export default [
                 component: ComponentCreator('/docs/category/managed-compute-1', '94c'),
                 exact: true,
                 sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/category/managed-database',
+                component: ComponentCreator('/docs/category/managed-database', 'c15'),
+                exact: true,
+                sidebar: "sidebar1"
               },
               {
                 path: '/docs/category/managed-databases',
@@ -857,6 +857,66 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster', '562'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/introduction',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/introduction', '653'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/MangedDatabases',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/MangedDatabases', 'ba6'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/MDBaas',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/MDBaas', '50f'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/Postprovisioning',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Postprovisioning', 'ba8'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/PreRequisites',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/PreRequisites', '0e3'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement', 'e48'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/servicedeprovisioning',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/servicedeprovisioning', 'c47'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture', '2e7'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/Serviceprovisioning',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Serviceprovisioning', '791'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/ManagedNetwork/LoadBalancer',
                 component: ComponentCreator('/docs/Subscribers/ManagedNetwork/LoadBalancer', '01c'),
                 exact: true,
@@ -877,60 +937,6 @@ export default [
               {
                 path: '/docs/Subscribers/ManagedStorage/FileStorage',
                 component: ComponentCreator('/docs/Subscribers/ManagedStorage/FileStorage', '6f1'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/', '563'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster', '6c5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/introduction',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/introduction', 'e4f'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/Postprovisioning',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Postprovisioning', '1fc'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/PreRequisites',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/PreRequisites', '004'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement', 'e88'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/servicedeprovisioning',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/servicedeprovisioning', '1ef'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture', 'd76'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/MDbaaS/Serviceprovisioning',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Serviceprovisioning', '303'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1237,12 +1243,6 @@ export default [
               {
                 path: '/docs/Subscribers/OtherServices/LoadTestingasaService',
                 component: ComponentCreator('/docs/Subscribers/OtherServices/LoadTestingasaService', '79c'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/OtherServices/MangedDatabases',
-                component: ComponentCreator('/docs/Subscribers/OtherServices/MangedDatabases', '06a'),
                 exact: true,
                 sidebar: "sidebar1"
               },

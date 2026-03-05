@@ -9,6 +9,8 @@ To activate the desired Hardware Security Module (HSM) and Key Management Servic
 1. Navigate to **OTHER SERVICES** > **HSM and KMS**. ![hsmandkms](img/hsmandkms.png)
 2. Click the **ACTIVATE** button. ![hsmandkmsactivation.png](img/hsmandkmsactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
+   
+   Once submitted, a support ticket will be automatically generated for the operations team for further processing.
 
 ## Required Details
 You need to provide the following details while requesting for the service:

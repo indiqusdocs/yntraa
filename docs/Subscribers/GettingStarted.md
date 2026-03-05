@@ -7,7 +7,7 @@ After completing the sign-up process, the user receives an email with the detail
 
 ## Accessing the Console
 
-To access the Yntraa Cloud Console, open the [Sign in to Yntraa](https://uatidpcloud.yotta.com/realms/myaccount/protocol/openid-connect/auth?client_id=yntraa-prod-fe&redirect_uri=https%3A%2F%2Fportal.yntraacloud.ai%2Fauth-callback&response_type=code&scope=openid+profile+email&state=9162e42096eb43a797f32187cd0938b0&code_challenge=80No21C3czvOokBCVScmul7oDSwY8puFo2wZkbybRNg&code_challenge_method=S256) URL and log in using your registered email address and password.
+To access the Yntraa Cloud Console, open the [Sign In](https://uatidpcloud.yotta.com/realms/myaccount/protocol/openid-connect/auth?client_id=yntraa-prod-fe&redirect_uri=https%3A%2F%2Fportal.yntraacloud.ai%2Fauth-callback&response_type=code&scope=openid+profile+email&state=9162e42096eb43a797f32187cd0938b0&code_challenge=80No21C3czvOokBCVScmul7oDSwY8puFo2wZkbybRNg&code_challenge_method=S256) URL using your registered email address and password.
 
 ![login](img/login.png)
 ## Deploying Virtual Private Cloud

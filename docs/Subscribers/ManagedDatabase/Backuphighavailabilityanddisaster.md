@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 # Backup, High Availability and Disaster Recovery
 ## Backup Management 
-As part of MDBaaS, Yntraa Cloud performs **managed backups** for supported databases, subject to the selected service plan.
+As part of MDBaaS, Yntraa Cloud performs managed backups for supported databases, subject to the selected service plan.
 
 Backups typically include:
 - Database-level backups
@@ -50,7 +50,7 @@ You must provide, the following details:
 	- Automatic failover within a defined scope
 
 :::note 
-Certain databases mandate a **minimum node count** (e.g., 3 nodes) to enable HA.
+Certain databases mandate a minimum node count (for example, 3 nodes) to enable HA.
 :::
 - HA Behavior and Failover
 	- Failover mechanisms are managed by Yntraa.

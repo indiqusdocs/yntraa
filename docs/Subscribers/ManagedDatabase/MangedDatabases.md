@@ -10,7 +10,9 @@ To activate the desired Managed Database service, perform the following steps:
 2. Click the **ACTIVATE** button. ![databaseactivation.png](img/databaseactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
-   For more information about the Managed Database service, [click here](downloads/YntraaCloudMDBaaS.pdf).
+   Once submitted, a support ticket will be automatically generated for the operations team for further processing.
+   
+
    
 ## Required Details
 content Required

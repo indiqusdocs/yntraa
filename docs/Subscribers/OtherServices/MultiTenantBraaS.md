@@ -10,6 +10,8 @@ To activate the desired Multi-Tenant Backup, Recovery, and Archival service, per
 2. Click the **ACTIVATE** button. ![braasactivation.png](img/braasactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
+   Once submitted, a support ticket will be automatically generated for the operations team for further processing.
+   
 For more information about the Multi-Tenant Backup, Recovery, and Archival service, [click here](downloads/BRaaS.pdf).
 
 ## Required Details

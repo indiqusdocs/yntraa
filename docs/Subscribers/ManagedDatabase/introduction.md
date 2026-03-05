@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 # Introduction
-Yntraa Cloud Managed Database as a Service (MDBaaS) is a fully managed database offering that enables you to **deploy, operate, and scale databases on Yntraa Cloud without managing the underlying infrastructure or database operations**.
+Yntraa Cloud Managed Database as a Service (MDBaaS) is a fully managed database offering that enables you to deploy, operate, and scale databases on Yntraa Cloud without managing the underlying infrastructure or database operations.
 
 With MDBaaS, Yntraa assumes responsibility for:
 - Database provisioning and deployment
@@ -10,7 +10,7 @@ With MDBaaS, Yntraa assumes responsibility for:
 - Day-to-day operational management
 - Patching, monitoring, and incident handling as per the subscribed plan
 
-You interact with the service through a **simplified QuickPlan-based provisioning workflow**, allowing rapid activation of databases while maintaining enterprise-grade governance and control.
+You interact with the service through a simplified QuickPlan-based provisioning workflow, allowing rapid activation of databases while maintaining enterprise-grade governance and control.
 
 MDBaaS is designed for:
 - Application teams that want faster time to market

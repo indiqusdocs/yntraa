@@ -10,6 +10,8 @@ To activate the desired Security Information and Event Management (SIEM) service
 2. Click the **ACTIVATE** button. ![siemactivation.png](img/siemactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
+   Once submitted, a support ticket will be automatically generated for the operations team for further processing.
+   
 ### Required Details 
 You need to provide the following details while requesting for the service:
 - **Throughput/Licensing**: Based on the volume of log data (EPS – Events Per Second) and customer retention requirements from the customer, the appropriate sizing and compute resources will be selected and deployed within the private cloud infrastructure.

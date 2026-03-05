@@ -10,6 +10,8 @@ To activate the desired Unified Threat Management (UTM) service, perform the f
 2. Click the **ACTIVATE** button. ![utmactivation.png](img/utmactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
+   Once submitted, a support ticket will be automatically generated for the operations team for further processing.
+   
 ## Required Details
 content Required
 ## Accessing UTM Service Details

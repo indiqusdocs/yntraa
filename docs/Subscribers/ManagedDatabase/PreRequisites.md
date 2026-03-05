@@ -4,8 +4,8 @@ sidebar_position: 4
 # Pre-Requisites
 Before initiating a Managed Database as a Service (MDBaaS) request on Yntraa Cloud, you must ensure that the following prerequisites are met.
 ## Yntraa Cloud Account and Project Access
-- A valid **Yntraa Cloud account** is required.
-- The user must have access to an **active Yntraa project** where the database service will be deployed.
+- A valid Yntraa Cloud account is required.
+- The user must have access to an active Yntraa project where the database service will be deployed.
 - The user must be assigned appropriate permissions to:
 	- Access QuickPlan services
 	- Submit Managed Database service requests
@@ -17,11 +17,11 @@ Insufficient permissions may prevent service activation or delay deployment.
 MDBaaS deployments are performed within customer-selected network environments.
 
 You must ensure:
-- An existing **Virtual Private Cloud (VPC)** is available
-- Appropriate **subnets** are configured within the VPC
-- Required **network policies and firewall rules** allow application-to-database connectivity
+- An existing Virtual Private Cloud (VPC) is available
+- Appropriate subnets are configured within the VPC
+- Required network policies and firewall rules allow application-to-database connectivity
 
-During provisioning, you will be required to select the **target VPC** where the database nodes will be deployed.
+During provisioning, you will be required to select the **Target VPC** where the database nodes will be deployed.
 :::note 
 Public internet exposure of database services is not enabled by default and may be restricted based on security policies.
 :::
@@ -46,7 +46,7 @@ You should size conservatively for production workloads and consult Yntraa suppo
 For databases offered under **Enterprise Support or BYOL plans**, you must ensure:
 
 - Valid licenses are available for the selected database
-- License quantities are calculated correctly using: **Total vCPU × Number of Nodes**
+- License quantities are calculated correctly using: Total vCPU × Number of Nodes.
 - License terms are compliant with the respective database vendor policies
 
 You will be required to acknowledge licensing responsibility during provisioning.

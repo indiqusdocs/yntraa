@@ -3,11 +3,11 @@ sidebar_position: 3
 ---
 # Team Member Management
 
-Team members can be onboarded using the **TEAM** section from the Account Centre, allows you to add billing, technical, or other admin users who can log in to your account and perform operations.
+Team members can be onboarded using the **Team** section from the Account Centre, allows you to add billing, technical, or other admin users who can log in to your account and perform operations.
 
 ![team](img/team.png)
 
-To add a team member, click the **+INVITE TEAM MEMBERS** button in the top-right corner, which opens the **OneYotta** interface and allows you to enter the required information.
+To add a team member, click the **+ INVITE TEAM MEMBERS** button in the top-right corner, which opens the **OneYotta** interface and allows you to enter the required information.
 
 ![teammemberaddoneyotta](img/teammemberaddoneyotta.png)
 

@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 # Post-Provisioning Access and Visibility
-After a Managed Database as a Service (MDBaaS) instance is successfully provisioned, customers are provided with **database-level access and connection details** required for application integration.
+After a Managed Database as a Service (MDBaaS) instance is successfully provisioned, customers are provided with database-level access and connection details required for application integration.
 ## Database Access Details Provided
 Upon completion of provisioning, you receive the following information (subject to the selected database and plan):
 - Database endpoint/hostname
@@ -34,7 +34,7 @@ Credential delivery follows Yntraa Cloud security policies and may be shared via
 	- Control over underlying infrastructure components
 This abstraction is fundamental to the managed service model.
 ## Visibility and Monitoring 
-- **What You Can View** is Depending on the service plan and platform capabilities, you may have visibility into:
+- **What You Can View**: Depending on the service plan and platform capabilities, you may have visibility into:
 	- Database service status (running, maintenance, issue)
 	- Basic performance indicators
 	- Provisioning and change request status
@@ -45,7 +45,7 @@ This abstraction is fundamental to the managed service model.
 Detailed low-level metrics may not be exposed directly to you at this stage.
 :::
 ## Security and Access Control
-- Database services are deployed within **private VPC networks**.
+- Database services are deployed within private VPC networks.
 - Network access is controlled via:
 	- VPC routing
 	- Firewall and security group policies
@@ -56,7 +56,7 @@ Detailed low-level metrics may not be exposed directly to you at this stage.
 Public exposure of database endpoints is restricted and may require additional approvals.
 :::
 ## Change Management and Configuration Restrictions
-You **cannot** directly:
+You cannot directly:
 - Modify database engine configuration files
 - Install third-party plugins or extensions without approval
 - Change system-level parameters

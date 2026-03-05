@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-c7d": {
+  "/docs-e46": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-d93": {
+  "/docs-9a4": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-a00": {
+  "/docs-ca1": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -260,10 +260,6 @@
   "/docs/category/compute-a28": {
     "__comp": "14eb3368",
     "__props": "b375baea"
-  },
-  "/docs/category/databases-08b": {
-    "__comp": "14eb3368",
-    "__props": "cf1b7aff"
   },
   "/docs/category/details-of-block-volume-644": {
     "__comp": "14eb3368",
@@ -304,6 +300,10 @@
   "/docs/category/managed-compute-1-94c": {
     "__comp": "14eb3368",
     "__props": "5686c317"
+  },
+  "/docs/category/managed-database-c15": {
+    "__comp": "14eb3368",
+    "__props": "a59da98c"
   },
   "/docs/category/managed-databases-91c": {
     "__comp": "14eb3368",
@@ -733,6 +733,46 @@
     "__comp": "17896441",
     "content": "b5ccca01"
   },
+  "/docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster-562": {
+    "__comp": "17896441",
+    "content": "bb5b8690"
+  },
+  "/docs/Subscribers/ManagedDatabase/introduction-653": {
+    "__comp": "17896441",
+    "content": "0bfd9a36"
+  },
+  "/docs/Subscribers/ManagedDatabase/MangedDatabases-ba6": {
+    "__comp": "17896441",
+    "content": "e1847cb8"
+  },
+  "/docs/Subscribers/ManagedDatabase/MDBaas-50f": {
+    "__comp": "17896441",
+    "content": "b26e6ebc"
+  },
+  "/docs/Subscribers/ManagedDatabase/Postprovisioning-ba8": {
+    "__comp": "17896441",
+    "content": "3878aeea"
+  },
+  "/docs/Subscribers/ManagedDatabase/PreRequisites-0e3": {
+    "__comp": "17896441",
+    "content": "37cb1bef"
+  },
+  "/docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement-e48": {
+    "__comp": "17896441",
+    "content": "a47ae580"
+  },
+  "/docs/Subscribers/ManagedDatabase/servicedeprovisioning-c47": {
+    "__comp": "17896441",
+    "content": "ffb903f7"
+  },
+  "/docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture-2e7": {
+    "__comp": "17896441",
+    "content": "18a7a2ba"
+  },
+  "/docs/Subscribers/ManagedDatabase/Serviceprovisioning-791": {
+    "__comp": "17896441",
+    "content": "cec99b58"
+  },
   "/docs/Subscribers/ManagedNetwork/LoadBalancer-01c": {
     "__comp": "17896441",
     "content": "8c19a72a"
@@ -748,42 +788,6 @@
   "/docs/Subscribers/ManagedStorage/FileStorage-6f1": {
     "__comp": "17896441",
     "content": "d2980126"
-  },
-  "/docs/Subscribers/MDbaaS/-563": {
-    "__comp": "17896441",
-    "content": "070362fc"
-  },
-  "/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster-6c5": {
-    "__comp": "17896441",
-    "content": "5521fa53"
-  },
-  "/docs/Subscribers/MDbaaS/introduction-e4f": {
-    "__comp": "17896441",
-    "content": "aae12253"
-  },
-  "/docs/Subscribers/MDbaaS/Postprovisioning-1fc": {
-    "__comp": "17896441",
-    "content": "f120c6eb"
-  },
-  "/docs/Subscribers/MDbaaS/PreRequisites-004": {
-    "__comp": "17896441",
-    "content": "41aa7f66"
-  },
-  "/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement-e88": {
-    "__comp": "17896441",
-    "content": "510912f1"
-  },
-  "/docs/Subscribers/MDbaaS/servicedeprovisioning-1ef": {
-    "__comp": "17896441",
-    "content": "d8162e0c"
-  },
-  "/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture-d76": {
-    "__comp": "17896441",
-    "content": "5d62db6d"
-  },
-  "/docs/Subscribers/MDbaaS/Serviceprovisioning-303": {
-    "__comp": "17896441",
-    "content": "d79161bc"
   },
   "/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement-bfe": {
     "__comp": "17896441",
@@ -988,10 +992,6 @@
   "/docs/Subscribers/OtherServices/LoadTestingasaService-79c": {
     "__comp": "17896441",
     "content": "1e7608ab"
-  },
-  "/docs/Subscribers/OtherServices/MangedDatabases-06a": {
-    "__comp": "17896441",
-    "content": "7c088319"
   },
   "/docs/Subscribers/OtherServices/MultiTenantBraaS-ea4": {
     "__comp": "17896441",

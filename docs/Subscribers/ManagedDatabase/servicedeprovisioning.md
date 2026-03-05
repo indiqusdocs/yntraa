@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 # Service Deprovisioning 
-Service de-provisioning refers to the **permanent termination of a Managed Database as a Service (MDBaaS) instance** on Yntraa Cloud.
+Service de-provisioning refers to the permanent termination of a Managed Database as a Service (MDBaaS) instance on Yntraa Cloud.
 ## De-Provisioning Scenarios
 De-provisioning may occur under the following scenarios:
 - Customer-initiated service termination
@@ -26,8 +26,8 @@ De-provisioning is not instantaneous and may follow defined timelines.
 **Data Deletion**: Upon de-provisioning the following changes will occur:
 - Database instances are permanently deleted
 - Associated data disks and backups are removed
-- All database data becomes **irrecoverable**
-You must ensure that all required data backups or exports are completed **before** requesting de-provisioning.
+- All database data becomes irrecoverable
+You must ensure that all required data backups or exports are completed before requesting de-provisioning.
 ## Backup Retention Post De-Provisioning
 - Backups are retained only as per:
 	- Contractual obligations

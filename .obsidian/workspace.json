@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "281de4fc2b8426b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/CloudAssure/ResiliencyAssuranceService.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ResiliencyAssuranceService"
-            }
-          },
-          {
             "id": "a458f4167fb17c76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/TeamMemberManagement.md",
-                "mode": "preview",
+                "file": "docs/Subscribers/LoggingIn.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TeamMemberManagement"
+              "title": "LoggingIn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,40 +171,40 @@
   },
   "active": "a458f4167fb17c76",
   "lastOpenFiles": [
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
+    "docs/Subscribers/SigningUp.md",
+    "build/docs/category/managed-database/index.html",
+    "build/docs/category/managed-database",
+    "build/assets/js/main.06ae55a5.js",
+    "build/assets/js/main.06ae55a5.js.LICENSE.txt",
+    "build/assets/js/ffb903f7.eec1d550.js",
+    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways/index.html",
     "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts/index.html",
-    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances/index.html",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/sps.png",
-    "build/img/sps.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sbs.svg",
-    "build/img/social-card.png",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
-    "build/img/rn.png",
-    "docs/FAQs/FAQs.md",
-    "docs/FAQs/Miscellaneous/FAQs.md",
-    "docs/Subscribers/AccountCentre/TeamMemberManagement.md",
-    "docs/Subscribers/CloudAssure/MigrationAssist.md",
-    "docs/Subscribers/CloudAssure/AssessmentandAdvisory.md",
-    "docs/FAQs/CloudAssure/ResiliencyAssuranceService.md",
-    "docs/FAQs/CloudAssure/AssesmentandAdvisory.md",
-    "docs/FAQs/ManagedCompute/VirtualDesktop.md",
-    "docs/FAQs/ManagedStorage/File Storage.md",
-    "docs/Subscribers/OtherServices/WAFasaService.md",
-    "docs/FAQs/ManagedStorage/VirtualDesktop.md",
-    "docs/FAQs/ManagedCompute - Copy/VirtualDesktop.md",
+    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview/index.html",
+    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Operations/index.html",
+    "build/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Instances/index.html",
+    "docs/Subscribers/ManagedDatabase/Serviceprovisioning.md",
+    "docs/Subscribers/ManagedDatabase/img/form3.png",
+    "docs/Subscribers/ManagedDatabase/img/form2.png",
+    "docs/Subscribers/ManagedDatabase/img/form1.png",
+    "docs/Subscribers/ManagedDatabase/MangedDatabases.md",
+    "docs/Subscribers/ManagedDatabase/MDBaas.md",
+    "docs/Subscribers/ManagedDatabase/Postprovisioning.md",
+    "docs/Subscribers/ManagedDatabase/PreRequisites.md",
+    "docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement.md",
+    "docs/Subscribers/ManagedDatabase/servicedeprovisioning.md",
+    "docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture.md",
+    "docs/Subscribers/ManagedDatabase/introduction.md",
+    "docs/Subscribers/ManagedDatabase/img/database.png",
+    "docs/Subscribers/ManagedDatabase/img/databaseactivation.png",
     "docs/Subscribers/OtherServices/UTMasaService.md",
+    "docs/Subscribers/OtherServices/WAFasaService.md",
+    "docs/Subscribers/ManagedDatabase/img/Quik.png",
+    "docs/Subscribers/ManagedDatabase/img/ZabbixDashboardandNMS.png",
+    "docs/Subscribers/ManagedDatabase/img/VPCIpv4.png",
+    "docs/Subscribers/ManagedDatabase/img/val.png",
+    "docs/Subscribers/ManagedDatabase/img/pik.png",
+    "docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster.md",
+    "docs/Subscribers/MDbaaS/MangedDatabases.md",
     "docs/Subscribers/OtherServices/SIEM.md",
     "docs/Subscribers/OtherServices/MultiTenantBraaS.md",
     "docs/Subscribers/OtherServices/MangedDatabases.md",
@@ -227,10 +212,10 @@
     "docs/Subscribers/OtherServices/HSMandKMS.md",
     "docs/Subscribers/OtherServices/HostedInternetBandwidth.md",
     "docs/Subscribers/OtherServices/DDosProtection.md",
-    "docs/FAQs/OtherServices/ManagedDatabases.md",
-    "docs/FAQs/ManagedDatabase/ManagedDatabases.md",
-    "docs/FAQs/ManagedDatabase/ResiliencyAssuranceService.md",
-    "docs/FAQs/ManagedDatabase/ProfessionalService.md",
-    "docs/FAQs/ManagedDatabase/MigrationAssist.md"
+    "docs/Subscribers/ManagedStorage/FileStorage.md",
+    "docs/Subscribers/ManagedSecurity/YottaSmartCSOC.md",
+    "docs/Subscribers/ManagedSecurity/EndPointSecurity.md",
+    "docs/Subscribers/ManagedNetwork/LoadBalancer.md",
+    "docs/Subscribers/ManagedCompute/VirtualDesktops.md"
   ]
 }

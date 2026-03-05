@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 # Service Overview and Architecture
-Yntraa Cloud Managed Database as a Service (MDBaaS) provides a standardized, managed deployment of databases on Yntraa Cloud infrastructure using a **QuickPlan-based provisioning model**, **where:**
+Yntraa Cloud Managed Database as a Service (MDBaaS) provides a standardized, managed deployment of databases on Yntraa Cloud infrastructure using a QuickPlan-based provisioning model, where:
 - You initiate service requests via the Yntraa Cloud Console
 - Database provisioning is triggered through a standardized request form
 - Actual database deployment is performed by Yntraa Cloud backend automation and operations teams
@@ -36,10 +36,10 @@ Direct customer-managed installation of database software on VMs is not part of 
 - Database type
 - Selected plan
 - Operational feasibility
-- Scaling requests may require a **support request or change request** and are not fully self-service at this stage.
+- Scaling requests may require a support request or change request and are not fully self-service at this stage.
 
 **Horizontal Scaling**
-- Horizontal scaling is supported **only for databases that natively support clustering or sharding** (e.g., Cassandra, MongoDB, Elasticsearch).
+- Horizontal scaling is supported only for databases that natively support clustering or sharding (for example, Cassandra, MongoDB, Elasticsearch).
 - Node count changes are performed by Yntraa operations teams post validation.
 :::note 
 Real-time or automatic elastic scaling is not currently available via the console.

@@ -4,7 +4,7 @@ sidebar_position: 7
 # Scaling and Configuration Management 
 Yntraa Cloud Managed Database as a Service (MDBaaS) supports controlled scaling and configuration changes to ensure platform stability and predictable performance.
 
-While the service abstracts infrastructure and database operations, **not all scaling and configuration changes are self-service** at this stage. This section explains what changes are supported, how they are performed, and the associated limitations.
+While the service abstracts infrastructure and database operations, not all scaling and configuration changes are self-service at this stage. This section explains what changes are supported, how they are performed, and the associated limitations.
 
 The Scaling models supported are:
 ## Vertical Scaling (Scale Up)
@@ -40,7 +40,7 @@ Horizontal scaling is not available for all relational databases.
 ## Store Scaling 
 - Data disk expansion is supported for most database engines
 - Storage size can be increased post-deployment
-- Storage reduction is generally **not supported**
+- Storage reduction is generally not supported
 
 You should plan storage sizing carefully during initial provisioning.
 ## Configuration Management 
