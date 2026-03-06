@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c58'),
+    component: ComponentCreator('/docs', '4ee'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b1d'),
+        component: ComponentCreator('/docs', 'dd6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '09d'),
+            component: ComponentCreator('/docs', '8e8'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -833,12 +833,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/LoggingIn',
-                component: ComponentCreator('/docs/Subscribers/LoggingIn', '3a5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/ManagedCompute/BareMetal',
                 component: ComponentCreator('/docs/Subscribers/ManagedCompute/BareMetal', 'b1b'),
                 exact: true,
@@ -1261,6 +1255,12 @@ export default [
               {
                 path: '/docs/Subscribers/OtherServices/WAFasaService',
                 component: ComponentCreator('/docs/Subscribers/OtherServices/WAFasaService', '3cd'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/SigningIn',
+                component: ComponentCreator('/docs/Subscribers/SigningIn', '122'),
                 exact: true,
                 sidebar: "sidebar1"
               },

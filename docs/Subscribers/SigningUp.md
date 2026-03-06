@@ -11,7 +11,7 @@ To get started with the Yntraa Cloud, you must create an account on the One Yott
 2. Click on the **Sign Up**. The following screen appears:
    ![signup2](img/signup2.png)
 
-3. On the signup screen, provide the following details:
+3. On the **Sign Up** screen, provide the following details:
    
     - **First Name** and **Last Name**.
     - **Email Address**.

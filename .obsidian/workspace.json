@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/ManagedDatabase/Serviceprovisioning.md",
-                "mode": "source",
+                "file": "docs/ReleaseNotes/Ver1000.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Serviceprovisioning"
+              "title": "Ver1000"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 273.5
   },
   "right": {
     "id": "8aedbb1b11c967fb",
@@ -171,17 +171,30 @@
   },
   "active": "a458f4167fb17c76",
   "lastOpenFiles": [
+    "build/docs/Subscribers/OtherServices/WAFasaService/index.html",
+    "build/docs/Subscribers/OtherServices/SIEM/index.html",
+    "build/docs/Subscribers/OtherServices/UTMasaService/index.html",
+    "build/docs/Subscribers/OtherServices/MultiTenantBraaS/index.html",
+    "build/docs/Subscribers/OtherServices/HostedInternetBandwidth/index.html",
+    "build/docs/Subscribers/OtherServices/HSMandKMS/index.html",
     "build/docs/Subscribers/OtherServices/LoadTestingasaService/index.html",
-    "build/docs/Subscribers/OtherServices/LoadTestingasaService",
-    "build/docs/Subscribers/ToolsandUtilities/VPNGateways/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/RestorePoints/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/SSHKeypairs/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/MyImages/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/RestorePoints",
-    "build/docs/Subscribers/ToolsandUtilities/SSHKeypairs",
-    "build/docs/Subscribers/ToolsandUtilities/VPNGateways",
-    "build/docs/Subscribers/ToolsandUtilities/MyImages",
-    "build/docs/Subscribers/ToolsandUtilities",
+    "build/docs/Subscribers/OtherServices/DDosProtection/index.html",
+    "build/docs/Subscribers/OtherServices/WAFasaService",
+    "build/docs/Subscribers/OtherServices/SIEM",
+    "build/docs/Subscribers/OtherServices/UTMasaService",
+    "build/icons/home.svg",
+    "docs/Subscribers/OtherServices/HostedInternetBandwidth.md",
+    "docs/ReleaseNotes/Ver1001.md",
+    "docs/ReleaseNotes/Ver1000 - Copy.md",
+    "docs/Subscribers/ToolsandUtilities/RestorePoints.md",
+    "docs/Subscribers/ToolsandUtilities/MyImages.md",
+    "docs/Subscribers/ToolsandUtilities/SSHKeypairs.md",
+    "docs/Subscribers/GettingStarted.md",
+    "docs/Subscribers/AdminVerification.png",
+    "docs/Subscribers/intro.md",
+    "docs/Subscribers/SigningIn.md",
+    "docs/Subscribers/SigningUp.md",
+    "docs/Subscribers/ManagedDatabase/Serviceprovisioning.md",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/sps.svg",
@@ -190,16 +203,10 @@
     "build/img/sps.png",
     "build/img/rn.svg",
     "build/img/social-card.png",
-    "build/img/sbs.png",
-    "build/img/rn.png",
     "docs/Subscribers/ManagedDatabase/MangedDatabases.md",
-    "docs/Subscribers/ManagedDatabase/Serviceprovisioning.md",
     "docs/Subscribers/AccountCentre/TeamMemberManagement.md",
-    "docs/Subscribers/GettingStarted.md",
     "docs/Subscribers/OtherServices/DDosProtection.md",
     "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
-    "docs/Subscribers/LoggingIn.md",
-    "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/ManagedDatabase/MDBaas.md",
     "docs/Subscribers/ManagedDatabase/Postprovisioning.md",
     "docs/Subscribers/ManagedDatabase/PreRequisites.md",
@@ -209,13 +216,6 @@
     "docs/Subscribers/ManagedDatabase/introduction.md",
     "docs/Subscribers/OtherServices/UTMasaService.md",
     "docs/Subscribers/OtherServices/WAFasaService.md",
-    "docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster.md",
-    "docs/Subscribers/MDbaaS/MangedDatabases.md",
-    "docs/Subscribers/OtherServices/SIEM.md",
-    "docs/Subscribers/OtherServices/MultiTenantBraaS.md",
-    "docs/Subscribers/OtherServices/MangedDatabases.md",
-    "docs/Subscribers/OtherServices/LoadTestingasaService.md",
-    "docs/Subscribers/OtherServices/HSMandKMS.md",
-    "docs/Subscribers/OtherServices/HostedInternetBandwidth.md"
+    "docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster.md"
   ]
 }

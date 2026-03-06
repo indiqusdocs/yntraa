@@ -441,11 +441,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/LoggingIn",
-              "path": "/docs/Subscribers/LoggingIn",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/ManagedCompute/BareMetal",
               "path": "/docs/Subscribers/ManagedCompute/BareMetal",
               "sidebar": "sidebar1"
@@ -798,6 +793,11 @@
             {
               "id": "Subscribers/OtherServices/WAFasaService",
               "path": "/docs/Subscribers/OtherServices/WAFasaService",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/SigningIn",
+              "path": "/docs/Subscribers/SigningIn",
               "sidebar": "sidebar1"
             },
             {
