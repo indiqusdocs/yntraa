@@ -11,6 +11,14 @@
           "mainDocId": "Subscribers/intro",
           "docs": [
             {
+              "id": "category/compute",
+              "path": "/docs/category/compute"
+            },
+            {
+              "id": "category/virtual-private-clouds",
+              "path": "/docs/category/virtual-private-clouds"
+            },
+            {
               "id": "FAQs/CloudAssure/AssesmentandAdvisory",
               "path": "/docs/FAQs/CloudAssure/AssesmentandAdvisory",
               "sidebar": "sidebar2"
@@ -431,8 +439,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/GettingStarted",
-              "path": "/docs/Subscribers/GettingStarted",
+              "id": "Subscribers/GettingStartedonYntraaCloud",
+              "path": "/docs/Subscribers/GettingStartedonYntraaCloud",
               "sidebar": "sidebar1"
             },
             {

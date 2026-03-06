@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-4ee": {
+  "/docs-de2": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-dd6": {
+  "/docs-36c": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-8e8": {
+  "/docs-f62": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -256,6 +256,10 @@
   "/docs/category/cloud-assure-1-c6b": {
     "__comp": "14eb3368",
     "__props": "a9e007c4"
+  },
+  "/docs/category/compute-4bf": {
+    "__comp": "17896441",
+    "content": "41b80fe0"
   },
   "/docs/category/compute-a28": {
     "__comp": "14eb3368",
@@ -364,6 +368,10 @@
   "/docs/category/virtual-firewalls-453": {
     "__comp": "14eb3368",
     "__props": "4807b5b0"
+  },
+  "/docs/category/virtual-private-clouds-3cd": {
+    "__comp": "17896441",
+    "content": "04e294ad"
   },
   "/docs/category/virtual-private-clouds-733": {
     "__comp": "14eb3368",
@@ -709,9 +717,9 @@
     "__comp": "17896441",
     "content": "3fe0ac93"
   },
-  "/docs/Subscribers/GettingStarted-1e5": {
+  "/docs/Subscribers/GettingStartedonYntraaCloud-4a5": {
     "__comp": "17896441",
-    "content": "c1d7fd80"
+    "content": "7e02d29e"
   },
   "/docs/Subscribers/intro-b36": {
     "__comp": "17896441",
