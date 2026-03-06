@@ -11,33 +11,16 @@ To access the Yntraa Cloud Console, open the [Sign In](https://uatidpcloud.yotta
 
 ![login](img/login.png)
 ## 2. Deploying Virtual Private Cloud
+The user creates a **Virtual Private Cloud** to set up a secure and isolated network environment for cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing users to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on VPC, [click here](/docs/category/about-vpc-instances).
 
-The service provider provisions a Virtual Private Cloud (VPC) and configures the firewall as the initial step in resource provisioning. This setup enables network tier configuration, configuring security rules, and establishment of secure network connectivity before deploying any applications. For more information on VPC. [Click here](/docs/category/about-vpc-instances)
-
-## 3. Creating Network Tiers for Management Components
-
-The Service Provider creates and configures the following components:
-- Firewall Management Network Tier 
-- WAN Network Tier Firewall HA1(Config Sync), HA2 (Heartbeat), HA3 (Additional Heartbeat/Session Sync) Network Tier
-- Monitoring Agents 
-- Management Tools 
-- Customer LAN Network Tiers 
-- Network Policies for the Tiers  
+## 3. Creating Subnets and Tiers 
+The user creates **Subnets and Tiers** within a Virtual Private Cloud (VPC) to organise the network into logical segments for different application layers such as web, application, and database. Subnets define the IP-based network segments, while tiers help structure the application architecture and manage network traffic effectively within the VPC. For more information on Subnets and Tiers, [click here](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers).
   
-  For more information on network tiers
-## 4. Adding IPs 
-  
-After creating a network tier, the service provider assigns IP addresses to it. These IP addresses are used to access and manage various components within the VPC. It is recommended to allocate a minimum of six IP addresses to the account for the following purposes:
+## 4. Adding IPv4 Addresses
+The user adds **IPv4 addresses** within a Virtual Private Cloud (VPC) to enable communication between network components and external systems. By default, a public IPv4 address is assigned to the Virtual Router (VR), allowing it to send and receive traffic over the internet. These IP addresses can also be used to configure secure connections such as remote access (L2TP) and site-to-site (IPSec) VPN. For more information on IPv4 Addresses, [click here](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC).
 
-- Firewall HA management
-- WAF management (optional)
-- Application publishing
-## 5. Deploying Virtual Firewall in Respective Tiers 
-
-The service provider then performs the following tasks:
-
-- Deploys firewall virtual appliances across the Management, WAN, and HA1/HA2/HA3 network tiers.
-- Deploys the operational bastion host within the appropriate network tier.
+## 5. Selecting a Compute Package 
+The user selects a compute package to define the processing resources required for running applications or workloads. Compute instances are virtual machines that provide CPU, memory, and other resources to support application performance. These instances can run various Linux operating systems such as Ubuntu, CentOS, Rocky Linux, Oracle Linux, and Debian.
   
 ## 6. Validation and Verification
  

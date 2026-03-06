@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/Subscribers/GettingStartedonYntraaCloud.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "GettingStartedonYntraaCloud"
@@ -171,17 +171,17 @@
   },
   "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/sps.svg",
     "build/img/undraw_docusaurus_react.svg",
