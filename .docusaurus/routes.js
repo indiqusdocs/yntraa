@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c27'),
+    component: ComponentCreator('/docs', 'efb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b86'),
+        component: ComponentCreator('/docs', '9bc'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f1e'),
+            component: ComponentCreator('/docs', '207'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -1385,6 +1385,12 @@ export default [
               {
                 path: '/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions',
                 component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions', '01c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities', 'f81'),
                 exact: true,
                 sidebar: "sidebar1"
               },
