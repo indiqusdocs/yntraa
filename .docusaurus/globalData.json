@@ -764,8 +764,18 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/OtherServices/CyberSecurityProfessionalServices",
+              "path": "/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/OtherServices/DDosProtection",
               "path": "/docs/Subscribers/OtherServices/DDosProtection",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/GlobalCloudKonnect",
+              "path": "/docs/Subscribers/OtherServices/GlobalCloudKonnect",
               "sidebar": "sidebar1"
             },
             {
@@ -784,8 +794,23 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/OtherServices/MessagingServices",
+              "path": "/docs/Subscribers/OtherServices/MessagingServices",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/OtherServices/MultiTenantBraaS",
               "path": "/docs/Subscribers/OtherServices/MultiTenantBraaS",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/PrivilegedAccessManagement",
+              "path": "/docs/Subscribers/OtherServices/PrivilegedAccessManagement",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/OtherServices/SecurityTesting",
+              "path": "/docs/Subscribers/OtherServices/SecurityTesting",
               "sidebar": "sidebar1"
             },
             {

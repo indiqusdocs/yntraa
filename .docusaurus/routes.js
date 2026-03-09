@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'de2'),
+    component: ComponentCreator('/docs', 'c27'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '36c'),
+        component: ComponentCreator('/docs', 'b86'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f62'),
+            component: ComponentCreator('/docs', 'f1e'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -1221,8 +1221,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices', '9f1'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/OtherServices/DDosProtection',
                 component: ComponentCreator('/docs/Subscribers/OtherServices/DDosProtection', '4a5'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/GlobalCloudKonnect',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/GlobalCloudKonnect', 'c54'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1245,8 +1257,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/OtherServices/MessagingServices',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/MessagingServices', 'a1b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/OtherServices/MultiTenantBraaS',
                 component: ComponentCreator('/docs/Subscribers/OtherServices/MultiTenantBraaS', 'ea4'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/PrivilegedAccessManagement',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/PrivilegedAccessManagement', 'daf'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/SecurityTesting',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/SecurityTesting', 'b4a'),
                 exact: true,
                 sidebar: "sidebar1"
               },

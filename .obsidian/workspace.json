@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/GettingStartedonYntraaCloud.md",
+                "file": "docs/Subscribers/OtherServices/CyberSecurityProfessionalServices.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GettingStartedonYntraaCloud"
+              "title": "CyberSecurityProfessionalServices"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 266.5
   },
   "right": {
     "id": "8aedbb1b11c967fb",
@@ -171,27 +171,44 @@
   },
   "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
+    "build/docs/Subscribers/ToolsandUtilities/VPNGateways/index.html",
     "build/docs/Subscribers/ToolsandUtilities/SSHKeypairs/index.html",
     "build/docs/Subscribers/ToolsandUtilities/RestorePoints/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/VPNGateways/index.html",
     "build/docs/Subscribers/ToolsandUtilities/MyImages/index.html",
     "build/docs/Subscribers/ToolsandUtilities/SSHKeypairs",
     "build/docs/Subscribers/ToolsandUtilities/VPNGateways",
     "build/docs/Subscribers/ToolsandUtilities/RestorePoints",
     "build/docs/Subscribers/ToolsandUtilities/MyImages",
     "build/docs/Subscribers/ToolsandUtilities",
-    "build/docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance/index.html",
-    "build/docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking/index.html",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/sps.svg",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/social-card.png",
-    "build/img/sbs.png",
-    "build/img/rn.png",
-    "build/img/rn.svg",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/icons/home.svg",
+    "docs/Subscribers/OtherServices/LoadTestingasaService.md",
+    "docs/Subscribers/OtherServices/GlobalCloudKonnect.md",
+    "docs/Subscribers/OtherServices/HostedInternetBandwidth.md",
+    "docs/Subscribers/OtherServices/MessagingServices.md",
+    "docs/Subscribers/OtherServices/HSMandKMS.md",
+    "docs/Subscribers/OtherServices/DDosProtection.md",
+    "Pasted image 20260309105643.png",
+    "docs/Subscribers/OtherServices/img/messagingserviceactivation.png",
+    "docs/Subscribers/OtherServices/img/messagingservice.png",
+    "docs/Subscribers/OtherServices/GlobalCloudKonnect - Copy.md",
+    "docs/Subscribers/OtherServices/img/cloudkonnectactivation.png",
+    "docs/Subscribers/OtherServices/img/cloudkonnect.png",
+    "docs/Subscribers/OtherServices/CyberSecurityProfessionalServices.md",
+    "docs/Subscribers/OtherServices/PrivilegedAccessManagement.md",
+    "docs/Subscribers/OtherServices/SecurityTesting.md",
+    "docs/Subscribers/OtherServices/img/cybersecurityactivation.png",
+    "docs/Subscribers/OtherServices/img/cybersecurity.png",
+    "docs/Subscribers/OtherServices/SecurityTesting - Copy.md",
+    "docs/Subscribers/OtherServices/img/securitytestingactivation.png",
+    "docs/Subscribers/OtherServices/img/securitytesting.png",
+    "docs/Subscribers/OtherServices/PrivilegedAccessManagement - Copy.md",
+    "docs/Subscribers/OtherServices/PrivilededAccessManagement.md",
+    "docs/Subscribers/OtherServices/HSMandKMS - Copy.md",
+    "docs/Subscribers/CloudAssure/AssessmentandAdvisory.md",
+    "docs/Subscribers/OtherServices/SIEM.md",
+    "docs/Subscribers/GettingStartedonYntraaCloud.md",
     "docs/Subscribers/Networking/DNSManagement/AboutDNSManagement.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
@@ -199,23 +216,6 @@
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
-    "docs/Subscribers/Networking/L2 Networks/AboutL2Networks.md",
-    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
-    "docs/category/compute.md",
-    "docs/Subscribers/GettingStartedonYntraaCloud.md",
-    "docs/category/virtual-private-clouds.md",
-    "docs/Subscribers/GettingStarted.md",
-    "docs/Subscribers/Compute/LinuxInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance.md",
-    "docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts.md",
-    "docs/ReleaseNotes/Ver1000.md",
-    "docs/Subscribers/OtherServices/HostedInternetBandwidth.md"
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md"
   ]
 }
