@@ -11,7 +11,7 @@ SSH keys can be managed from the **Tools and Utilities > SSH Key Pairs** secti
 - Generate a new key pair
 - Upload a public key
   
-  ![sshkeypair](img/sshkeypair.png)
+ ![sshkeypair](img/sshkeypair.png)
   
 ## Cloud SSH Key
 

@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '236'),
+    component: ComponentCreator('/docs', '7d2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'dd6'),
+        component: ComponentCreator('/docs', '8b3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f7c'),
+            component: ComponentCreator('/docs', '078'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -1221,8 +1221,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/OtherServices/GlobalCloudKonnect',
-                component: ComponentCreator('/docs/Subscribers/OtherServices/GlobalCloudKonnect', 'c54'),
+                path: '/docs/Subscribers/OtherServices/GlobalCloudConnect',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/GlobalCloudConnect', 'f8c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
