@@ -11,5 +11,7 @@ To activate the desired resiliency assurance service, perform the following step
 1. Navigate to **CLOUD ASSURE** > **Resiliency Assurance Service**. ![resilience](img/resilience.png)
 2. Click the **ACTIVATE** button. ![resilienceactivation.png](img/resilienceactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
-   
-   For more information about the resiliency assurance service, [click here](downloads/ResiliencyAssuranceService.pdf).
+
+Once submitted, a support ticket will be automatically generated for the operations team for further processing.
+
+For more information about the resiliency assurance service, [click here](downloads/ResiliencyAssuranceService.pdf).

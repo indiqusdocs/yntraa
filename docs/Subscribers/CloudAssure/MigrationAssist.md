@@ -9,5 +9,7 @@ To activate the desired migration assist service, perform the following steps:
 1. Navigate to **CLOUD ASSURE** > **Migration Assist**.![migrationassist](img/migrationassist.png)
 2. Click the **ACTIVATE** button.![migrationassistactivation](img/migrationassistactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
-   
+
+Once submitted, a support ticket will be automatically generated for the operations team for further processing.
+
 For more information about the cloud migration assist service, [Click here](downloads/CloudMigrationAssistService.pdf).

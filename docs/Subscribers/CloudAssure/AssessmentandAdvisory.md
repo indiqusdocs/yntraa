@@ -10,4 +10,6 @@ To activate the desired assessment and advisory service, perform the following s
 2. Click the **ACTIVATE** button.![assesmentandadvisoryactivation](img/assesmentandadvisoryactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
-   For more information about the assessment and advisory service, [click here](downloads/CloudAssessmentandAdvisoryService.pdf).
+Once submitted, a support ticket will be automatically generated for the operations team for further processing.
+   
+For more information about the assessment and advisory service, [click here](downloads/CloudAssessmentandAdvisoryService.pdf).

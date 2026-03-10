@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7d2'),
+    component: ComponentCreator('/docs', 'a7d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '8b3'),
+        component: ComponentCreator('/docs', '49e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '078'),
+            component: ComponentCreator('/docs', '7f4'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -135,11 +135,6 @@ export default [
                 component: ComponentCreator('/docs/category/cloud-assure-1', 'c6b'),
                 exact: true,
                 sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/category/compute',
-                component: ComponentCreator('/docs/category/compute', '4bf'),
-                exact: true
               },
               {
                 path: '/docs/category/compute',
@@ -302,11 +297,6 @@ export default [
                 component: ComponentCreator('/docs/category/virtual-firewalls', '453'),
                 exact: true,
                 sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/virtual-private-clouds',
-                component: ComponentCreator('/docs/category/virtual-private-clouds', '3cd'),
-                exact: true
               },
               {
                 path: '/docs/category/virtual-private-clouds',

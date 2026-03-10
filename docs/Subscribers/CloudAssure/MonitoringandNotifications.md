@@ -11,6 +11,7 @@ To activate the desired monitoring and notifications service, perform the follow
 2. Click the **ACTIVATE** button. ![serviceactivation](img/serviceactivation.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
 
+Once submitted, a support ticket will be automatically generated for the operations team for further processing.
 
 For more information about the cloud monitoring and notification service, [click here](downloads/CloudMonitoringandNotificationService.pdf).
 
