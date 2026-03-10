@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# Managing Instance and Volume Snapshots
+# Managing Instance and Disk Restore Points
 
 Restore points use the [Yntraa Block Volumes](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) service and occupy billable storage space.
 
@@ -9,7 +9,7 @@ You can view and manage all your instance restore points and disk restores point
 
 ## Instance Restore Point
 
-The instance snapshots tab lists the following details:
+The Instance Restore Point lists the following details:
 
 - RESTORE POINT
 - INTERNAL NAME
@@ -25,7 +25,7 @@ The instance snapshots tab lists the following details:
    
 ## Disk Restore Point
 
-The volume snapshots section shows the following details:
+The Disk Restore Point section shows the following details:
 
 - RESTORE POINT
 - VOLUME

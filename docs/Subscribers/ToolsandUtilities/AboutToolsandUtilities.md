@@ -7,13 +7,10 @@ The **Tools and Utilities** sections in the Yntraa Cloud Console keep a record
 
 Currently, the following utility actions are supported:
 
-[SSH Keypairs](SSHKeypairs)
-
-[My Images](MyImages)
-
-[Restore Points](RestorePoints)
-
-[VPN Gateways](VPNGateways)
+- [SSH Keypairs](ManagingSSHKeysandKeyPairsforLinuxInstances.md)
+- [My Images](ManagingCustomTemplatesandImages.md)
+- [Restore Points](ManagingInstanceandDiskRestorePoints.md)
+- [VPN Gateways](AddingVPNGateways.md)
   
 
 

@@ -11,4 +11,3 @@ To activate the desired Container Registry service, perform the following steps:
    
    Once submitted, a support ticket will be automatically generated for the operations team for further processing.
    
-   For more information about the Container Registry service,

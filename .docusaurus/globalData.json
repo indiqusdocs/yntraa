@@ -154,11 +154,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/BRbaaS/BRaaS",
-              "path": "/docs/Subscribers/BRbaaS/BRaaS",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/CloudAssure/AssessmentandAdvisory",
               "path": "/docs/Subscribers/CloudAssure/AssessmentandAdvisory",
               "sidebar": "sidebar1"
@@ -909,23 +904,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ToolsandUtilities/MyImages",
-              "path": "/docs/Subscribers/ToolsandUtilities/MyImages",
+              "id": "Subscribers/ToolsandUtilities/AddingVPNGateways",
+              "path": "/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ToolsandUtilities/RestorePoints",
-              "path": "/docs/Subscribers/ToolsandUtilities/RestorePoints",
+              "id": "Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
+              "path": "/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ToolsandUtilities/SSHKeypairs",
-              "path": "/docs/Subscribers/ToolsandUtilities/SSHKeypairs",
+              "id": "Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
+              "path": "/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ToolsandUtilities/VPNGateways",
-              "path": "/docs/Subscribers/ToolsandUtilities/VPNGateways",
+              "id": "Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
+              "path": "/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
               "sidebar": "sidebar1"
             },
             {
@@ -1051,11 +1046,6 @@
             {
               "id": "/category/managed-storage",
               "path": "/docs/category/managed-storage",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/backup-recovery",
-              "path": "/docs/category/backup-recovery",
               "sidebar": "sidebar1"
             },
             {

@@ -9,20 +9,3 @@ To activate the desired Cyber Security Professional Services, perform the follow
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
    
    Once submitted, a support ticket will be automatically generated for the operations team for further processing.
-
-## Required Details
-You need to provide the following details while requesting for the service:
-  
-## Accessing Cyber Security Professional Service Details
-
-## Endpoints and Connectivity  
-The following table lists the service endpoints:
-
-## Log Access and Usage
-
-## Alert and Notifications
-
-## Incident Management
- 
-## Service Levels and Support
-

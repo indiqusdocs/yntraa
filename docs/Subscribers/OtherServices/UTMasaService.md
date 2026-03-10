@@ -12,20 +12,6 @@ To activate the desired Unified Threat Management (UTM) service, perform the f
    
    Once submitted, a support ticket will be automatically generated for the operations team for further processing.
    
-## Required Details
-content Required
-## Accessing UTM Service Details
-content Required
-## Endpoints and Connectivity  
-content Required
-## Log Access and Usage
-content Required
-## Alert and Notifications
-content Required
-## Incident Management
-content Required
-## Service Levels and Support
-content Required
 
 
 

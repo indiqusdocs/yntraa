@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'efb'),
+    component: ComponentCreator('/docs', '236'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '9bc'),
+        component: ComponentCreator('/docs', 'dd6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '207'),
+            component: ComponentCreator('/docs', 'f7c'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -115,12 +115,6 @@ export default [
               {
                 path: '/docs/category/autoscale',
                 component: ComponentCreator('/docs/category/autoscale', '8f1'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/backup-recovery',
-                component: ComponentCreator('/docs/category/backup-recovery', 'e01'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -485,12 +479,6 @@ export default [
               {
                 path: '/docs/Subscribers/AdvanceServices/DevOpsasaService',
                 component: ComponentCreator('/docs/Subscribers/AdvanceServices/DevOpsasaService', '203'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/BRbaaS/BRaaS',
-                component: ComponentCreator('/docs/Subscribers/BRbaaS/BRaaS', '134'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1395,26 +1383,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ToolsandUtilities/MyImages',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/MyImages', 'f31'),
+                path: '/docs/Subscribers/ToolsandUtilities/AddingVPNGateways',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/AddingVPNGateways', '549'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ToolsandUtilities/RestorePoints',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/RestorePoints', '90e'),
+                path: '/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages', 'c14'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ToolsandUtilities/SSHKeypairs',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/SSHKeypairs', '549'),
+                path: '/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints', '188'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ToolsandUtilities/VPNGateways',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/VPNGateways', '0e8'),
+                path: '/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances', '7bc'),
                 exact: true,
                 sidebar: "sidebar1"
               }

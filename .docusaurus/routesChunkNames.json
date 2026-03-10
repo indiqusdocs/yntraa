@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-efb": {
+  "/docs-236": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-9bc": {
+  "/docs-dd6": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-207": {
+  "/docs-f7c": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -240,10 +240,6 @@
   "/docs/category/autoscale-8f1": {
     "__comp": "14eb3368",
     "__props": "89f5c0e8"
-  },
-  "/docs/category/backup-recovery-e01": {
-    "__comp": "14eb3368",
-    "__props": "81a65ad2"
   },
   "/docs/category/block-volumes-5ee": {
     "__comp": "14eb3368",
@@ -488,10 +484,6 @@
   "/docs/Subscribers/AdvanceServices/DevOpsasaService-203": {
     "__comp": "17896441",
     "content": "d8e2f9bc"
-  },
-  "/docs/Subscribers/BRbaaS/BRaaS-134": {
-    "__comp": "17896441",
-    "content": "16171859"
   },
   "/docs/Subscribers/CloudAssure/AssessmentandAdvisory-af4": {
     "__comp": "17896441",
@@ -1093,21 +1085,21 @@
     "__comp": "17896441",
     "content": "0f8ca11d"
   },
-  "/docs/Subscribers/ToolsandUtilities/MyImages-f31": {
+  "/docs/Subscribers/ToolsandUtilities/AddingVPNGateways-549": {
     "__comp": "17896441",
-    "content": "7f43cbec"
+    "content": "e06d7888"
   },
-  "/docs/Subscribers/ToolsandUtilities/RestorePoints-90e": {
+  "/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages-c14": {
     "__comp": "17896441",
-    "content": "7b1463c3"
+    "content": "bf4d67b8"
   },
-  "/docs/Subscribers/ToolsandUtilities/SSHKeypairs-549": {
+  "/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints-188": {
     "__comp": "17896441",
-    "content": "1ebd6f53"
+    "content": "ad747af9"
   },
-  "/docs/Subscribers/ToolsandUtilities/VPNGateways-0e8": {
+  "/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances-7bc": {
     "__comp": "17896441",
-    "content": "50711339"
+    "content": "8c7eabf8"
   },
   "/-2e1": {
     "__comp": "c4f5d8e4",

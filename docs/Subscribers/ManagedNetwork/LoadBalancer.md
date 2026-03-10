@@ -12,4 +12,4 @@ To activate the desired Load Balancer service, perform the following steps:
    
    Once submitted, a support ticket will be automatically generated for the operations team for further processing.
 
-For more information about the Load Balancer service, 
+

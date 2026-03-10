@@ -10,19 +10,3 @@ To activate the desired Security Testing Service, perform the following steps:
    
    Once submitted, a support ticket will be automatically generated for the operations team for further processing.
 
-## Required Details
-You need to provide the following details while requesting for the service:
-  
-## Accessing Security Testing Service Details
-
-## Endpoints and Connectivity  
-The following table lists the service endpoints:
-
-## Log Access and Usage
-
-## Alert and Notifications
-
-## Incident Management
- 
-## Service Levels and Support
-
