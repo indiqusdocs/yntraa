@@ -12,4 +12,4 @@ To activate the desired migration assist service, perform the following steps:
 
 Once submitted, a support ticket will be automatically generated for the operations team for further processing.
 
-For more information about the cloud migration assist service, [Click here](downloads/CloudMigrationAssistService.pdf).
+For more information about the cloud migration assist service, [click here](downloads/CloudMigrationAssistService.pdf).

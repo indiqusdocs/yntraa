@@ -29,7 +29,7 @@ The user selects an Operating System or My Image to define the software environm
 The user configures a Storage Volume to allocate disk space for the compute instance. The storage volume is used to store the operating system, applications, and data required for the instance to run. Users can select the required storage size and type based on their performance and capacity needs.
 
 ## 8. Configuring SSH Key or Login Credentials  
-The user configures an SSH Key or Login Credentials to securely access the compute instance after deployment. SSH keys provide a secure authentication method for connecting to the instance, while login credentials such as a username and password can also be used for access and management.
+The user configures an SSH Key or Login Credentials to securely access the compute instance after deployment. SSH keys provide a secure authentication method for connecting to the instance, while login credentials such as a username and password can also be used for access and management. For more information on SSH key, [click here](/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances).
 
 ## 9. Configuring Security Rules/Firewall 
 The user configures Security Rules or Firewall settings to control network traffic to and from the compute instance. These rules define which ports, protocols, and IP addresses are allowed or restricted, helping protect the instance from unauthorized access while ensuring secure communication.

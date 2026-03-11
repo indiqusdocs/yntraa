@@ -14,4 +14,4 @@ To activate the desired professional service, perform the following steps:
 
 Once submitted, a support ticket will be automatically generated for the operations team for further processing.
 
-For more information about the professional service, [click here](downloads/CloudProfessionalService.pdf)
+For more information about the professional service, [click here](downloads/CloudProfessionalService.pdf).
