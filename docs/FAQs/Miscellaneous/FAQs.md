@@ -29,8 +29,6 @@ Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTr
 
 <details><summary>**Can I use my S3 bucket with a Kubernetes cluster created on Yntraa Cloud?**</summary>Yes, if the S3 bucket has been created using the Yntraa S3 Service, you can use the CSI (container storage interface) plugin maintained by Cloudian. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Yntraa Cloud.</details>
 
-<details><summary>**Which Kubernetes versions are supported on Yntraa Cloud?**</summary>Yntraa supports Kubernetes versions 1.20.x and above.</details>
-
 <details><summary>**Can I modify my VPC's super CIDR after creation?**</summary>No, super CIDR modification is not currently allowed on Yntraa Cloud. If you wish to change the supernet, it is recommended that you create a new VPC, new subnets and migrate Instances to the new VPC.</details>
 
 <details><summary>**What traffic will I be charged for in a VPC?**</summary>In a VPC, any east-west traffic is free. This includes any traffic or communication between subnets, load balancing between Instances etc. <br />North-south traffic may be chargeable based on your country of usage and/or service provider's preferences. This includes any traffic moving in and out of the VPC through the VR. </details>

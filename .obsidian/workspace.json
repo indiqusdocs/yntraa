@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/GettingStartedonYntraaCloud.md",
+                "file": "docs/FAQs/Miscellaneous/FAQs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GettingStartedonYntraaCloud"
+              "title": "FAQs"
             }
           }
         ]
@@ -171,17 +171,28 @@
   },
   "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
-    "build/blog/rss.xml",
-    "build/search-index.json",
     "build/sitemap.xml",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
-    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
+    "build/img/sps.svg",
+    "build/img/sbs.svg",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/social-card.png",
+    "build/img/sps.png",
+    "build/img/sbs.png",
+    "build/img/rn.svg",
+    "build/img/rn.png",
+    "docs/Subscribers/GettingStartedonYntraaCloud.md",
     "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances.md",
     "docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints.md",
     "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
@@ -198,16 +209,6 @@
     "docs/Subscribers/CloudAssure/MigrationAssist.md",
     "docs/Subscribers/CloudAssure/AssessmentandAdvisory.md",
     "docs/ReleaseNotes/Ver1000.md",
-    "build/icons/home.svg",
-    "build/img/sbs.png",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sps.svg",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/social-card.png",
-    "build/img/rn.svg",
     "docs/Subscribers/OtherServices/WAFasaService.md",
     "docs/Subscribers/OtherServices/UTMasaService.md",
     "docs/Subscribers/OtherServices/SIEM.md",
@@ -215,7 +216,6 @@
     "docs/Subscribers/OtherServices/PrivilegedAccessManagement.md",
     "docs/Subscribers/OtherServices/MultiTenantBraaS.md",
     "docs/Subscribers/OtherServices/MessagingServices.md",
-    "docs/Subscribers/OtherServices/LoadTestingasaService.md",
-    "docs/Subscribers/OtherServices/HSMandKMS.md"
+    "docs/Subscribers/OtherServices/LoadTestingasaService.md"
   ]
 }
