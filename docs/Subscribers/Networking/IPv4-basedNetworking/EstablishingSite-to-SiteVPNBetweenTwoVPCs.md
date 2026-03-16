@@ -7,7 +7,7 @@ A Site-to-Site Virtual Private Network (VPN) provides a secure and encrypted con
 
 This section outlines all the steps required to establish a Site-to-Site VPN between two VPCs. The following are the high level steps to establish site-to-site VPN between two VPCs.
 
-1.  [Creating Two VPCs](#creating-two-vpcs)
+1. [Creating Two VPCs](#creating-two-vpcs)
 2. [Launching virtual machines](#launching-virtual-machines)
 3. [Configuring VPN Gateways](#configuring-vpn-gateways)
 4. [Creating Customer Gateways](#creating-customer-gateways)
@@ -34,7 +34,7 @@ These instances are used to validate VPN connectivity after the tunnel is establ
 ## Configuring VPN Gateways
 
 Set up VPN gateways in each VPC to serve as endpoints for the IPsec tunnel:
-1. Navigate to **Networking > VPN Gateways** from the main navigation panel and click **Add Gateway**
+1. Navigate to **Networking > VPN Gateways** from the main navigation panel and click **Add Gateway**.
 2. Provide required IPsec tunnel details such as: 
    - Gateway name
    - Tunnel IP settings
@@ -53,7 +53,7 @@ This setup allows each VPN Gateway to identify and establish a connection with i
 
 Establish the Site-to-Site VPN tunnel between the two VPCs:
 1. Within the VPC’s detail page, click on **Manage VPN access** under the **IPv4 Addresses** section.
-![publicipv4](img/publicipv4.png)
+![VPCIpv4Connection](img/VPCIpv4Connection.png)
 2. Click **Site-to-Site (IPSEC)**. From the list of available VPN connections, select the appropriate **VPN Connections** that corresponds to the remote VPC.
 3. Click on **Create Connection** to initiate the tunnel setup.
 ![ipseca](img/ipseca.png)

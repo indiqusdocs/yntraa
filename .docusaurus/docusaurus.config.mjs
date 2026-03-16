@@ -32,30 +32,20 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Ayushree\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Users\\prkumar\\yntraa\\sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "showReadingTime": true
         },
         "theme": {
-          "customCss": "./src/css/custom.css"
+          "customCss": "C:\\Users\\prkumar\\yntraa\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "plugins": [
     [
-      "C:\\Ayushree\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\prkumar\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
@@ -97,10 +87,20 @@ export default {
           "label": "Knowledge Base"
         },
         {
+          "type": "docSidebar",
+          "sidebarId": "sidebar4",
+          "position": "left",
+          "label": "Release Notes"
+        },
+        {
           "href": "https://yntraacloud.ai",
           "label": "Yntraa Cloud Platform",
           "position": "right",
           "className": "button button--primary"
+        },
+        {
+          "type": "search",
+          "position": "right"
         }
       ],
       "hideOnScroll": false

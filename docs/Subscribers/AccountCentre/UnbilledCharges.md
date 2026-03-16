@@ -7,7 +7,7 @@ All subscriptions incur prorated charges during an account’s billing cycle. Th
 - Unbilled charges for fixed subscriptions (recurring or non-recurring) are prorated daily by default.
 - Unbilled charges for **usage-based subscriptions** reflect the actual charges incurred up to the last hour.
 
-![unbilledcharges](img/unbilledcharges.png)
+![unbilled](img/unbilled.png)
 
 
 

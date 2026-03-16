@@ -17,11 +17,11 @@ The Alerts tab lists all the alerts already configured for that particular Linux
 - Trigger When
 - Value
 - Reading Duration
-  ![createalert](img/createalert.png)
+![alert](img/alert.png)
 ## Adding an Alert
 
 To create or add alerts, click the **Create Alert** button. The Create Alert window opens.
-![alertcreation](img/alertcreation.png)
+![alertwindow](img/alertwindow.png)
 
 The various fields of the Create Alert screen are as follows:
 

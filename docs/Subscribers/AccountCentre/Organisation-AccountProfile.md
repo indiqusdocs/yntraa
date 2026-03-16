@@ -6,9 +6,9 @@ sidebar_position: 2
 Using the **Profile** section, you can manage your organisation account profile on Yntraa Cloud. The profile management section can be accessed from the **Account Centre** in the top helper bar by clicking on the organisation. Account profiles include the following:
 
 1. **Basic Details -** These are the basic demographic details of your organisation. All editable fields can be updated at any time.
-	![organisationprofile](img/organisationprofile.png)
+	![basicdetail](img/basicdetail.png)
 2. **Billing Information -** These are the billing details of your organisation, such as billing address, taxation ID, etc.
-   ![billinginformation](img/billinginformation.png)
+   ![billing](img/billing.png)
 3. **Technical Contact -** These are the details for billing and technical contacts of your organisation. 
    ![Technical Contact](img/TechnicalContact.png)
 	:::note 

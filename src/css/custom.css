@@ -226,9 +226,7 @@ a:hover {
   border: none; /* Optional: remove border */
   border-radius: 20px; /* Optional: rounded corners */
   padding: 6px 10px; /* Optional: padding for better appearance */
-  
-}
-
+ }
 
 /* Colored Blocks */
 .custom-block-blue {
@@ -389,3 +387,7 @@ html .hero__title {
   width: 20px;     /* adjust as needed */
   flex-shrink: 0;  /* prevents icon from collapsing */
 }
+
+
+
+

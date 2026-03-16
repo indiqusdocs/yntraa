@@ -42,52 +42,22 @@ stylesheets: [
   ],
   
   presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+  [
+    'classic',
+    {
+      docs: {
+        sidebarPath: require.resolve('./sidebars.js'),
       },
-    ],
+      blog: {
+        showReadingTime: true,
+      },
+      theme: {
+        customCss: require.resolve('./src/css/custom.css'),
+      },
+    },
   ],
-  
-  presets: [
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-         sidebarPath: require.resolve('./sidebars.js'),
-		  // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-    //      editUrl:
-      //      'https://github.com/imyogeshs/yntraa',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-		  
-		
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-    //      editUrl:
-      //      'https://github.com/indiqus/docs',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
-        
-		theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
-    ],
-  ],
+],
+
   
 plugins: [
 [
@@ -121,38 +91,6 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 		  srcDark: 'img/logo.svg',
         },
         items: [
-          
-//		  {
-//            type: 'docSidebar',
-//            sidebarId: 'sidebar1',
-//            position: 'left',
-//            label: 'Service Providers',
-//			  },
-
-		  {
-            type: 'docSidebar',
-            sidebarId: 'sidebar1',
-            position: 'left',
-            label: 'User Manual',
-          },
-		  	{
-          type: 'docSidebar',
-          sidebarId: 'sidebar2',
-          position: 'left',
-          label: 'FAQs',
-			},
-		  {
-          type: 'docSidebar',
-          sidebarId: 'sidebar3',
-          position: 'left',
-          label: 'Knowledge Base',
-        },
-	    	//  {
-          //  type: 'docSidebar',
-          //  sidebarId: 'sidebar4',
-          //  position: 'left',
-          //  label: 'Release Notes',
-         // },
 		  
 	//	  {
     //      type: 'dropdown',
@@ -170,16 +108,43 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
     //      ],
     //    },
 		   
-		  
-		  {
-          href: 'https://yntraacloud.ai', // Change to the desired link
-          label: 'Yntraa Cloud Platform', // The label of your button
-          position: 'right',
-          className: 'button button--primary', // Add button classes here
-        },
-		  	  
-		  ],
-      },
+
+
+  // LEFT
+  {
+    type: 'docSidebar',
+    sidebarId: 'sidebar1',
+    position: 'left',
+    label: 'User Manual',
+  },
+  {
+    type: 'docSidebar',
+    sidebarId: 'sidebar2',
+    position: 'left',
+    label: 'FAQs',
+  },
+  {
+    type: 'docSidebar',
+    sidebarId: 'sidebar3',
+    position: 'left',
+    label: 'Knowledge Base',
+  },
+  {
+    type: 'docSidebar',
+    sidebarId: 'sidebar4',
+    position: 'left',
+    label: 'Release Notes',
+  },
+{
+    href: 'https://yntraacloud.ai',
+    label: 'Yntraa Cloud Platform',
+    position: 'right',
+    className: 'button button--primary',
+  },
+{ type: 'search', position: 'right' }, // KEEP RIGHT
+
+],
+},
     /*  footer: {
         style: 'dark',
         links: [

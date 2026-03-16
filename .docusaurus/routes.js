@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -119,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c4e'),
+    component: ComponentCreator('/docs', 'a7d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ec8'),
+        component: ComponentCreator('/docs', '49e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '538'),
+            component: ComponentCreator('/docs', '7f4'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -142,20 +107,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/category/advance-services',
+                component: ComponentCreator('/docs/category/advance-services', 'd40'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/category/autoscale',
                 component: ComponentCreator('/docs/category/autoscale', '8f1'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/backup-recovery-as-a-service',
-                component: ComponentCreator('/docs/category/backup-recovery-as-a-service', 'c9c'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/backup-recovery-as-a-service-1',
-                component: ComponentCreator('/docs/category/backup-recovery-as-a-service-1', '921'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -164,6 +123,18 @@ export default [
                 component: ComponentCreator('/docs/category/block-volumes', '5ee'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/cloud-assure',
+                component: ComponentCreator('/docs/category/cloud-assure', '330'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/cloud-assure-1',
+                component: ComponentCreator('/docs/category/cloud-assure-1', 'c6b'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/compute',
@@ -220,16 +191,64 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/managed-database-as-a-service',
-                component: ComponentCreator('/docs/category/managed-database-as-a-service', 'a11'),
+                path: '/docs/category/managed-compute',
+                component: ComponentCreator('/docs/category/managed-compute', 'a17'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/managed-compute-1',
+                component: ComponentCreator('/docs/category/managed-compute-1', '94c'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/category/managed-database',
+                component: ComponentCreator('/docs/category/managed-database', 'c15'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/managed-databases',
+                component: ComponentCreator('/docs/category/managed-databases', '91c'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/category/managed-network',
+                component: ComponentCreator('/docs/category/managed-network', 'bbe'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/managed-security',
+                component: ComponentCreator('/docs/category/managed-security', '2e6'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/managed-storage',
+                component: ComponentCreator('/docs/category/managed-storage', '019'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/managed-storage-1',
+                component: ComponentCreator('/docs/category/managed-storage-1', '550'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/managing-nat-gateways',
                 component: ComponentCreator('/docs/category/managing-nat-gateways', '0d2'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/miscellaneous',
+                component: ComponentCreator('/docs/category/miscellaneous', 'd7b'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/nat-gateways',
@@ -250,6 +269,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/category/other-services',
+                component: ComponentCreator('/docs/category/other-services', 'eb7'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/category/rhel-instances',
                 component: ComponentCreator('/docs/category/rhel-instances', '163'),
                 exact: true,
@@ -258,6 +283,12 @@ export default [
               {
                 path: '/docs/category/storage',
                 component: ComponentCreator('/docs/category/storage', '438'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/tools-and-utilities',
+                component: ComponentCreator('/docs/category/tools-and-utilities', '6e6'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -280,8 +311,56 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/FAQs',
-                component: ComponentCreator('/docs/FAQs', 'ad9'),
+                path: '/docs/FAQs/CloudAssure/',
+                component: ComponentCreator('/docs/FAQs/CloudAssure/', 'ae2'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/CloudAssure/AssesmentandAdvisory',
+                component: ComponentCreator('/docs/FAQs/CloudAssure/AssesmentandAdvisory', '101'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/CloudAssure/MigrationAssist',
+                component: ComponentCreator('/docs/FAQs/CloudAssure/MigrationAssist', '561'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/CloudAssure/ProfessionalService',
+                component: ComponentCreator('/docs/FAQs/CloudAssure/ProfessionalService', '4ba'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/CloudAssure/ResiliencyAssuranceService',
+                component: ComponentCreator('/docs/FAQs/CloudAssure/ResiliencyAssuranceService', 'a08'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/ManagedCompute/VirtualDesktop',
+                component: ComponentCreator('/docs/FAQs/ManagedCompute/VirtualDesktop', '145'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/ManagedStorage/File Storage',
+                component: ComponentCreator('/docs/FAQs/ManagedStorage/File Storage', '836'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/Miscellaneous/FAQs',
+                component: ComponentCreator('/docs/FAQs/Miscellaneous/FAQs', '9d3'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/OtherServices/ManagedDatabases',
+                component: ComponentCreator('/docs/FAQs/OtherServices/ManagedDatabases', '67e'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -316,6 +395,12 @@ export default [
                 sidebar: "sidebar3"
               },
               {
+                path: '/docs/ReleaseNotes/Ver1000',
+                component: ComponentCreator('/docs/ReleaseNotes/Ver1000', 'db9'),
+                exact: true,
+                sidebar: "sidebar4"
+              },
+              {
                 path: '/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre', '3c0'),
                 exact: true,
@@ -340,6 +425,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/AccountCentre/ResettingPassword',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/ResettingPassword', 'a27'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/AccountCentre/StandardAgreements',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/StandardAgreements', '53c'),
                 exact: true,
@@ -358,8 +449,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/TeamandChildUserManagement',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/TeamandChildUserManagement', '033'),
+                path: '/docs/Subscribers/AccountCentre/TeamMemberManagement',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/TeamMemberManagement', 'a69'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -376,8 +467,50 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/BRbaaS/BRaaS/',
-                component: ComponentCreator('/docs/Subscribers/BRbaaS/BRaaS/', 'b9d'),
+                path: '/docs/Subscribers/AdvanceServices/DevOpsasaService',
+                component: ComponentCreator('/docs/Subscribers/AdvanceServices/DevOpsasaService', '203'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/CloudAssure/AssessmentandAdvisory',
+                component: ComponentCreator('/docs/Subscribers/CloudAssure/AssessmentandAdvisory', 'af4'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/CloudAssure/MigrationAssist',
+                component: ComponentCreator('/docs/Subscribers/CloudAssure/MigrationAssist', 'f47'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/CloudAssure/MonitoringandNotifications',
+                component: ComponentCreator('/docs/Subscribers/CloudAssure/MonitoringandNotifications', '411'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/CloudAssure/OptimisationService',
+                component: ComponentCreator('/docs/Subscribers/CloudAssure/OptimisationService', '04b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/CloudAssure/ProfessionalServices',
+                component: ComponentCreator('/docs/Subscribers/CloudAssure/ProfessionalServices', 'aa5'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/CloudAssure/ResiliencyAssuranceService',
+                component: ComponentCreator('/docs/Subscribers/CloudAssure/ResiliencyAssuranceService', '99a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/CloudAssure/SecurityandCompliance',
+                component: ComponentCreator('/docs/Subscribers/CloudAssure/SecurityandCompliance', '98b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -532,8 +665,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots',
-                component: ComponentCreator('/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceSnapshots', '567'),
+                path: '/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints', '7be'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -670,8 +803,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceSnapshots', '17e'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints', 'd3a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/GettingStartedonYntraaCloud',
+                component: ComponentCreator('/docs/Subscribers/GettingStartedonYntraaCloud', '4a5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -682,62 +821,98 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/LoggingIn',
-                component: ComponentCreator('/docs/Subscribers/LoggingIn', '3a5'),
+                path: '/docs/Subscribers/ManagedCompute/BareMetal',
+                component: ComponentCreator('/docs/Subscribers/ManagedCompute/BareMetal', 'b1b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/', '563'),
+                path: '/docs/Subscribers/ManagedCompute/ContainerRegistry',
+                component: ComponentCreator('/docs/Subscribers/ManagedCompute/ContainerRegistry', 'c20'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Backuphighavailabilityanddisaster', '6c5'),
+                path: '/docs/Subscribers/ManagedCompute/VirtualDesktops',
+                component: ComponentCreator('/docs/Subscribers/ManagedCompute/VirtualDesktops', '05a'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/introduction',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/introduction', 'e4f'),
+                path: '/docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster', '562'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/Postprovisioning',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Postprovisioning', '1fc'),
+                path: '/docs/Subscribers/ManagedDatabase/introduction',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/introduction', '653'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/PreRequisites',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/PreRequisites', '004'),
+                path: '/docs/Subscribers/ManagedDatabase/MDBaas',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/MDBaas', '50f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Scalingandconfigurationmanagement', 'e88'),
+                path: '/docs/Subscribers/ManagedDatabase/Postprovisioning',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Postprovisioning', 'ba8'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/servicedeprovisioning',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/servicedeprovisioning', '1ef'),
+                path: '/docs/Subscribers/ManagedDatabase/PreRequisites',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/PreRequisites', '0e3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Serviceoverviewandarchitecture', 'd76'),
+                path: '/docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement', 'e48'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/MDbaaS/Serviceprovisioning',
-                component: ComponentCreator('/docs/Subscribers/MDbaaS/Serviceprovisioning', '303'),
+                path: '/docs/Subscribers/ManagedDatabase/servicedeprovisioning',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/servicedeprovisioning', 'c47'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture', '2e7'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedDatabase/Serviceprovisioning',
+                component: ComponentCreator('/docs/Subscribers/ManagedDatabase/Serviceprovisioning', '791'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedNetwork/LoadBalancer',
+                component: ComponentCreator('/docs/Subscribers/ManagedNetwork/LoadBalancer', '01c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedSecurity/EndPointSecurity',
+                component: ComponentCreator('/docs/Subscribers/ManagedSecurity/EndPointSecurity', '935'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedSecurity/YottaSmartCSOC',
+                component: ComponentCreator('/docs/Subscribers/ManagedSecurity/YottaSmartCSOC', '05b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedStorage/FileStorage',
+                component: ComponentCreator('/docs/Subscribers/ManagedStorage/FileStorage', '6f1'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -754,8 +929,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform',
-                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudPlatform', 'dc6'),
+                path: '/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud',
+                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud', '771'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1024,8 +1199,86 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ResettingPassword',
-                component: ComponentCreator('/docs/Subscribers/ResettingPassword', '7ed'),
+                path: '/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices', '9f1'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/DDosProtection',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/DDosProtection', '4a5'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/GlobalCloudConnect',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/GlobalCloudConnect', 'f8c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/HostedInternetBandwidth',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/HostedInternetBandwidth', '805'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/HSMandKMS',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/HSMandKMS', '7e4'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/LoadTestingasaService',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/LoadTestingasaService', '79c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/MessagingServices',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/MessagingServices', 'a1b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/MultiTenantBraaS',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/MultiTenantBraaS', 'ea4'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/PrivilegedAccessManagement',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/PrivilegedAccessManagement', 'daf'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/SecurityTesting',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/SecurityTesting', 'b4a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/SIEM',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/SIEM', '489'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/UTMasaService',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/UTMasaService', 'fb1'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/OtherServices/WAFasaService',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/WAFasaService', '3cd'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/SigningIn',
+                component: ComponentCreator('/docs/Subscribers/SigningIn', '122'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1110,6 +1363,36 @@ export default [
               {
                 path: '/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions',
                 component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions', '01c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities', 'f81'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ToolsandUtilities/AddingVPNGateways',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/AddingVPNGateways', '549'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages', 'c14'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints', '188'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances', '7bc'),
                 exact: true,
                 sidebar: "sidebar1"
               }

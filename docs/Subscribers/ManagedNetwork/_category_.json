@@ -1,0 +1,8 @@
+{
+  "label": "Managed Network",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "In this section, Managed network services are summarised."
+  }
+}
