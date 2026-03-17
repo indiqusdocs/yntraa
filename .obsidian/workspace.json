@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FAQs/Miscellaneous/FAQs.md",
-                "mode": "source",
+                "file": "docs/Subscribers/OtherServices/CyberSecurityProfessionalServices.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FAQs"
+              "title": "CyberSecurityProfessionalServices"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
+    "docs/FAQs/Miscellaneous/FAQs.md",
     "build/sitemap.xml",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
@@ -181,7 +182,6 @@
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
     "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
     "build/img/sps.svg",
     "build/img/sbs.svg",
     "build/img/undraw_docusaurus_tree.svg",
