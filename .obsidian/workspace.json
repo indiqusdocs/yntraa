@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/OtherServices/CyberSecurityProfessionalServices.md",
-                "mode": "source",
+                "file": "docs/Subscribers/ManagedStorage/FileStorage.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CyberSecurityProfessionalServices"
+              "title": "FileStorage"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5
   },
   "right": {
     "id": "8aedbb1b11c967fb",
@@ -171,34 +171,34 @@
   },
   "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
     "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
     "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
-    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
     "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
-    "build/icons/home.svg",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/sps.png",
+    "build/img/sps.svg",
+    "build/img/social-card.png",
+    "build/img/sbs.png",
+    "build/img/sbs.svg",
+    "build/img/rn.png",
+    "build/img/rn.svg",
+    "docs/Subscribers/OtherServices/CyberSecurityProfessionalServices.md",
     "docs/Subscribers/OtherServices/PrivilegedAccessManagement.md",
     "docs/Subscribers/OtherServices/MultiTenantBraaS.md",
     "docs/Subscribers/OtherServices/SecurityTesting.md",
     "docs/Subscribers/OtherServices/GlobalCloudConnect.md",
     "docs/Subscribers/OtherServices/DDosProtection.md",
-    "docs/Subscribers/OtherServices/CyberSecurityProfessionalServices.md",
     "docs/FAQs/Miscellaneous/FAQs.md",
-    "build/img/sps.svg",
-    "build/img/sbs.svg",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/social-card.png",
-    "build/img/sps.png",
-    "build/img/sbs.png",
-    "build/img/rn.svg",
     "docs/Subscribers/GettingStartedonYntraaCloud.md",
     "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances.md",
     "docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints.md",
