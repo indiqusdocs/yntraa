@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-a7d": {
+  "/docs-086": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-49e": {
+  "/docs-e55": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-7f4": {
+  "/docs-8ab": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -313,13 +313,9 @@
     "__comp": "14eb3368",
     "__props": "3406fb7c"
   },
-  "/docs/category/managed-storage-019": {
+  "/docs/category/managed-storage-b3f": {
     "__comp": "14eb3368",
     "__props": "900b4cb2"
-  },
-  "/docs/category/managed-storage-1-550": {
-    "__comp": "14eb3368",
-    "__props": "41ca7b38"
   },
   "/docs/category/managing-nat-gateways-0d2": {
     "__comp": "14eb3368",
@@ -768,10 +764,6 @@
   "/docs/Subscribers/ManagedSecurity/YottaSmartCSOC-05b": {
     "__comp": "17896441",
     "content": "1a32f30e"
-  },
-  "/docs/Subscribers/ManagedStorage/FileStorage-6f1": {
-    "__comp": "17896441",
-    "content": "d2980126"
   },
   "/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement-bfe": {
     "__comp": "17896441",

@@ -13,7 +13,7 @@ Primarily, IPv4 Addresses can be used for configuring access and NAT-ing via:
 - [Port Forwarding](#configuring-port-forwarding)
 - [Static NAT](#configuring-static-nat)
 
-![IPv4 Addresses and VPC](img/IPv4AddressesandVPC1.png)
+![ipv4adress](img/ipv4adress.png)
 
 As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **ADD PUBLIC IPv4 ADDRESS** button.
 

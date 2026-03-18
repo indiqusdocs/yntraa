@@ -511,11 +511,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManagedStorage/FileStorage",
-              "path": "/docs/Subscribers/ManagedStorage/FileStorage",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Networking/DNSManagement/AboutDNSManagement",
               "path": "/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement",
               "sidebar": "sidebar1"
@@ -1036,11 +1031,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/managed-storage",
-              "path": "/docs/category/managed-storage",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/managed-security",
               "path": "/docs/category/managed-security",
               "sidebar": "sidebar1"
@@ -1086,8 +1076,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/managed-storage-1",
-              "path": "/docs/category/managed-storage-1",
+              "id": "/category/managed-storage",
+              "path": "/docs/category/managed-storage",
               "sidebar": "sidebar2"
             },
             {

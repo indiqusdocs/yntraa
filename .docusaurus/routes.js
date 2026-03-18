@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a7d'),
+    component: ComponentCreator('/docs', '086'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '49e'),
+        component: ComponentCreator('/docs', 'e55'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7f4'),
+            component: ComponentCreator('/docs', '8ab'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -228,13 +228,7 @@ export default [
               },
               {
                 path: '/docs/category/managed-storage',
-                component: ComponentCreator('/docs/category/managed-storage', '019'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/managed-storage-1',
-                component: ComponentCreator('/docs/category/managed-storage-1', '550'),
+                component: ComponentCreator('/docs/category/managed-storage', 'b3f'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -907,12 +901,6 @@ export default [
               {
                 path: '/docs/Subscribers/ManagedSecurity/YottaSmartCSOC',
                 component: ComponentCreator('/docs/Subscribers/ManagedSecurity/YottaSmartCSOC', '05b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/ManagedStorage/FileStorage',
-                component: ComponentCreator('/docs/Subscribers/ManagedStorage/FileStorage', '6f1'),
                 exact: true,
                 sidebar: "sidebar1"
               },

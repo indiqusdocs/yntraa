@@ -11,7 +11,7 @@ Switching the VPC power state is possible using the **power status** button on t
 
 To restart the VPC, navigate to the  **Operations** tab and click the **RESTART VIRTUAL ROUTER** option. This performs quick reboot and no data is lost.
 
-![VPC Management and Basic Operations](img/VPCManagement2.png)
+![operation](img/operation.png)
 
 ## Deleting a VPC
 

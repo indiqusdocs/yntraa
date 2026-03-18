@@ -11,11 +11,13 @@ To create a VPC, follow the below steps:
 2. Click the **NEW VIRTUAL PRIVATE CLOUD** button.
    
  ![vpccreatenew](img/vpccreatenew.png)
+
 3. Choose an Availability Zone, which is the geographical region where your VPC will be configured.
 4. Specify network address base size and select size i.e. The **super CIDR** for the internal IP allocation in an x.x.x.x/x format.
 5. Choose a Networking pack from the available network collections. 
 6. Select the default IPv4 address for VPC Networking to create the VPC network with a new Public IP address.
    ![vpccreation](img/vpccreation.png)
+
 7. Verify the Estimated Cost of your VPC, based on the options that you have chosen from the Summary and Estimated Costs Section.
 8. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
 9. Clicking the **BUY HOURLY** or **BUY MONTHLY** button, a confirmation pop-over will open up, and the price summary will be displayed along with the discount codes, if you have any in your account. 

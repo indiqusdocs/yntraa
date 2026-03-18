@@ -22,7 +22,7 @@ Along with the summary, the following information is readily available under the
     - Virtual Router Internal Name
     - Created On
 
-![Create, List and View VPCs](img/CreateVPC3.png)
+![createvpc3](img/createvpc3.png)
 
 From here on, VPC operations, configurations and other available functions can be managed by navigating to the respective tabs/sections.
 
