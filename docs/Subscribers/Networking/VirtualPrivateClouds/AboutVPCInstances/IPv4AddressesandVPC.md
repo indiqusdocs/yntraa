@@ -13,7 +13,7 @@ Primarily, IPv4 Addresses can be used for configuring access and NAT-ing via:
 - [Port Forwarding](#configuring-port-forwarding)
 - [Static NAT](#configuring-static-nat)
 
-![ipv4adress](img/ipv4adress.png)
+![addipv4](img/addipv4.png)
 
 As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **ADD PUBLIC IPv4 ADDRESS** button.
 
@@ -25,9 +25,9 @@ Public IPv4 addresses may carry a price which may vary depending on availability
 To configure the Load Balancing Rule, follow these steps:
 1. To create Load Balancing Rule, click the ![Icon](img/LoadBalancingIcon.png)icon.
 2. The following window appears:
-	![Window](img/AddRule1.png)
+	![addrule](img/addrule.png)
 3. Click **Add Rule**. The following window appears:
-	![IPv4 Addresses and VPC](img/IPv4AddressesandVPC2.png)
+	![addloadbalance](img/addloadbalance.png)
 4. Specify the following details in the window:
 	- A **name** and **description** for the load balancer rule.
 	- **Protocol** to use for the load balancer.
@@ -40,9 +40,9 @@ Once the load balancer rule has been created, you can navigate to load balancer 
 
 1. Click the **Load Balancer Rule** icon.
 2. Select the **Load Balancing Rule**.
-  ![Window](img/AddRule1.png)
+  ![addrule](img/addrule.png)
 3. The following window appears:
-	  ![IPv4 Addresses and VPC](img/IPv4AddressesandVPC3.png)
+	  ![ruleadded](img/ruleadded.png)
 4. This window shows Instances that are part of this load balancer, and those available to be added. 
 5. Click the **+** icon to add an instance and the **X** icon to remove an instance.
 :::note
@@ -61,8 +61,8 @@ A Port Forwarding rule is required for accessing the virtual machines contained 
 
 To configure port forwarding, follow these steps:
 1. To configure Port Forwarding Rule, click the ![Icon](img/PortForwardingIcon.png)icon.
-2. The following window appears:  ![Add Port](img/AddPort1.png)
-3. Click **ADD RULE**. The following window appears: ![IPv4 Addresses and VPC](img/IPv4AddressesandVPC4.png)
+2. The following window appears:  ![pfaddrule](img/pfaddrule.png)
+3. Click **ADD RULE**. The following window appears: ![pfnowadded](img/pfnowadded.png)
 4. Specify the following details in the window:
 	- **Protocol** for port-forwarding.
 	- The **tier** and the Instance to port-forward to.
@@ -74,7 +74,7 @@ To configure port forwarding, follow these steps:
 
 Once the Port-Forwarding rule is created, you can view its details by following these steps:
 1. Click the **Port Forwarding Rule** icon.
-2. The following window appears:![Port Forwarding](img/PortForwardingWindow.png)
+2. The following window appears:![pf](img/pf.png)
 3. In this window, you can view the Instance where this rule is configured, along with the private and public port range mappings.
 
 To test if port-forwarding is configured correctly, use the public IP to SSH into the virtual machine the IP forwards to.
@@ -86,7 +86,7 @@ A Port-Forwarding IP address can be used to configure multiple Port-Forwarding a
 
 1. To use the public IP as a static translation, click the ![](img/StaticNATIcon.png)icon. 
 2. The following window appears: 
-	![IPv4 Addresses and VPC](img/IPv4AddressesandVPC5.png)
+	![addstaticnat](img/addstaticnat.png)
 3. Select the Instance you want to assign the public IP to, then click **Add Static NAT**.
 
 To test whether static NAT has been configured correctly, you can use the public IP to SSH into the virtual machine that the IP is NAT-ing to.

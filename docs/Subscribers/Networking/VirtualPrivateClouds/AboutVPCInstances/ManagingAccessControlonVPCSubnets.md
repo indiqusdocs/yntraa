@@ -16,7 +16,7 @@ To access the ACL navigate to **VPC details** and select the  **Access Control 
 - Assign the ACL to a tier
 - Delete the ACL
 
-![Managing Access Control on VPC Subnets](img/ManagingAccessControlonVPCSubnets1.png)
+![acmanage](img/acmanage.png)
 
 ## Creating Custom ACL and Adding Rules
 
@@ -24,7 +24,7 @@ You can create a custom ACL by clicking the **ADD ACCESS CONTROL LIST** button a
 
 Any available ACL (existing or new) can be viewed in detail by clicking its name in the list. This displays a list of rules that govern ingress (incoming) and egress (outgoing) traffic for the subnet. From this section, you can create new rules or delete existing ones.
 
-![Managing Access Control on VPC Subnets](img/ManagingAccessControlonVPCSubnets2.png)
+![ingegrule](img/ingegrule.png)
 
 
 
