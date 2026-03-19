@@ -12,11 +12,11 @@ Navigate to the **Overview** tab to view the following details:
 	- Template Name
 	- Virtual Gateway Internal Name
 	- Created On
-	![Overview](img/Overview.png)
+	![natoverview](img/natoverview.png)
 
-To power off the virtual router, click the **Powered On** button. The Stop Virtual Router window appears that lets you stop the virtual router. To power on a virtual router, click the **Powered Off** button.
+To power off the virtual router, click the **STOP NAT GATEWAY** button. The Stop Virtual Router window appears that lets you stop the virtual router. To power on a virtual router, click the **START NAT GATEWAY** button.
    
-   ![Manage NAT gateway](img/NAT3.png)
+   ![stoprouter](img/stoprouter.png)
 
 
 

@@ -26,8 +26,8 @@ This section outlines the steps to access and select a NAT Gateway within the Yn
 The following steps guide you through locating and selecting your NAT Gateway from the dashboard:
 
 1. Navigate to the **Networking > NAT Gateways** section from the  Cloud dashboard.
-2. Select the appropriate NAT Gateway (for example, ADC-R522-40-Test_ISOLATED_NETWORK) associated with your VNF.
-![gatewaynat](img/gatewaynat.png)
+2. Select the appropriate NAT Gateway associated with your VNF.
+![selectnat](img/selectnat.png)
 ## Reviewing Configuration
 
 This section offers a detailed review of the current NAT Gateway configuration within the  Cloud environment. It includes essential system specifications, deployment parameters, and operational status to ensure the gateway is correctly set up and functioning as expected. Verify these details before initiating any advanced networking configurations, such as port forwarding or scaling operations.
@@ -40,13 +40,13 @@ The following steps guide you through reviewing key configuration details, check
     - **PUBLIC IP**: The public-facing IP through which outbound traffic is routed.
 2. Check Operational Status: The NAT Gateway is in a **RUNNING** state, indicating it is active and fully operational.
 3. Confirm Network and Gateway Configuration: Review the virtual gateway pack and network size settings to ensure the correct configuration is applied before proceeding with port forwarding or deployment steps.
-     - **Virtual Gateway Pack**: Default NAT Gateway for Virtual Firewall.
-     - **Network Size**: 128 (Specifies the subnet size associated with the gateway).
+     - **Virtual Gateway Pack**
+     - **Network Size**
 4. Access Internal Information for System Reference: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the  Cloud environment.
-    - **TEMPLATE NAME**: systemvm-kvm-4.19.1 (Base image used to launch this NAT Gateway).
-    - **VIRTUAL GATEWAY INTERNAL NAME**: r-7165-VM (Used internally by  for VM/gateway tracking and routing).
-    - **CREATED ON**: 24th Jun 2025, 15:09:15 (Exact timestamp of NAT Gateway provisioning).
-![apiculusoverview](img/apiculusoverview.png)
+    - **TEMPLATE NAME**.
+    - **VIRTUAL GATEWAY INTERNAL NAME**
+    - **CREATED ON**
+![natoverviewnew](img/natoverviewnew.png)
 ## Accessing Port Forwarding Settings for NAT Gateway
 
 To enable external access to internal services hosted behind a NAT Gateway, you must configure port forwarding rules. This section explains how to access the port forwarding settings for a NAT Gateway within the  Cloud environment. Port forwarding allows specific inbound traffic to reach designated internal resources by mapping external ports to internal IPs and ports.
@@ -54,11 +54,11 @@ To enable external access to internal services hosted behind a NAT Gateway, you 
 The following steps outline the process to navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively:
 
 1. In the left-hand menu, click on **NAT Gateways** under the **Networking** section.
-2. Select your NAT Gateway from the list (for example, ADC-R522-40-Test_ISOLATED_NETWORK).
+2. Select your NAT Gateway from the list.
 3. In the gateway page, click on the **IPv4 Addresses** tab.
 4. Find your public IP address listed on this page.
 5. Click the **Port Forwarding Rule** icon (next to the IP address) to start adding a port forwarding rule.
-![addressapiculus](img/addressapiculus.png)
+![pf](img/pf.png)
 ## Adding a New Port Forwarding Rule
 
 To allow external access through a NAT Gateway in the  Cloud Portal, you can add a new port forwarding rule. This involves selecting the appropriate NAT Gateway and configuring the necessary forwarding details. 
@@ -67,17 +67,17 @@ The following steps guide you through logging into the Cloud Portal, navigating 
 
 1. Login to the Yntraa Cloud.
 2. From the left-hand side menu, under the **Networking** section, click on **NAT Gateways**.
-3. Choose the NAT Gateway for which you want to configure the port forwarding rule (for example ADC-R522-40-Test_ISOLATED_NETWORK).
+3. Choose the NAT Gateway for which you want to configure the port forwarding rule.
 4. Once inside the selected NAT Gateway, see a section titled **Port Forwarding** along with the public IP address.
 5. Click on the **+ ADD RULE** button located next to the Port Forwarding heading. This opens the interface to add a new port forwarding rule.
 6. Review Existing Rules (Optional): Below the **+ ADD RULE** button, you may see a list of existing rules including details like:
-    - **TIER** (for example, ADC-R522-40-Test_ISOLATED_NETWORK)
-    - **INSTANCE** (for example, ADC-R522-40-Test)
-    - **PRIVATE IPv4** (for example, 10.1.1.75)
-    - **PROTOCOL** (for example, TCP)
-    - **PUBLIC RANGE** (for example, 443 - 443)
-    - **PRIVATE RANGE** (for example, 443 - 443)
-![addingapiculuss](img/addingapiculuss.png)
+    - **TIER** 
+    - **INSTANCE**
+    - **PRIVATE IPv4** 
+    - **PROTOCOL** 
+    - **PUBLIC RANGE** 
+    - **PRIVATE RANGE** 
+![pfcreation](img/pfcreation.png)
 ## Adding Details and Creating Port Forwarding Rule
 
 Once you click on **+ ADD RULE**, a new form opens where you must enter the required information. These details define how incoming traffic on the public IP is routed to your internal instance. 
@@ -86,7 +86,7 @@ The following steps guide you through completing the port forwarding rule form b
 
 1. After clicking on **+ ADD RULE** a new form titled **Add Port Forwarding Rule** appears.
 2. Fill in all the required fields marked with a red asterisk (*):
-	- **Protocol**:  Select the desired protocol from the dropdown (for example, TCP or UDP).
+	- **Protocol**:  Select the desired protocol from the dropdown.
 	- **Tier**:  Choose the appropriate tier from the list that maps to your network environment.
 	- **Instance**:  Select the instance (virtual machine) that receives the forwarded traffic.
 	- **Public Start Port**:  Enter the starting port number from the public IP address range.
@@ -103,7 +103,7 @@ Same rule as above applies if forwarding a single port.
 :::
    
 3. Click on **ADD PORT FORWARDING RULE** to save and apply the new rule.
-![ruleapiculus](img/ruleapiculus.png)   
+![addportforward](img/addportforward.png)   
 ## Verifying the Added Port Forwarding Rule
 
 After creating the port forwarding rule, it is important to verify that it has been added correctly. This ensures that traffic is properly forwarded to the intended internal instance. Review the rule details listed under the **Port Forwarding** section to confirm everything matches your configuration.
@@ -112,14 +112,14 @@ The following steps guide you through locating the newly added rule in the **Por
 
 1. Once the rule is added, it appears in the list under the **Port Forwarding** section for the selected public IP.
 2. Review the displayed rule details, which include:
-    - **Tier** name (for example, ADC-R522-40-Test_ISOLATED_NETWORK)
-    - **Instance** name (for example, ADC-R522-40-Test)
-    - **Private IPv4 address** (for example, 10.1.1.75)
-    - **Protocol** (for example, TCP)
-    - **Public Range** (for example, 22 - 22 or 443 - 443)
-    - **Private Range** (for example, 22 - 22 or 443 - 443)
+    - **TIER**
+    - **INSTANCE** 
+    - **PRIVATE IPv4 ADDRESS** 
+    - **PROTOCOL** 
+    - **PUBLIC RANGE** 
+    - **PRIVATE RANGE** 
 3. Ensure the information is accurate and matches the values you entered during rule creation. 
-![tierapiculus](img/tierapiculus.png) 
+![pfoptions](img/pfoptions.png) 
 ## Configuring NAT Settings In pfsense Firewall
 
 To fully enable port forwarding, you must set up the necessary NAT (Network Address Translation) rules in the pfsense firewall. This step ensures that incoming traffic on specific ports is correctly directed to your internal server. 

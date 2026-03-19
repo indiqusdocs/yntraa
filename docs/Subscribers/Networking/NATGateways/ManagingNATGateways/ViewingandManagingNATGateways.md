@@ -6,9 +6,9 @@ sidebar_position: 1
 To manage a NAT gateway, follow these steps:
 
 1. Navigate to **Networking > NAT Gateways**.
-   ![Manage NAT gateway](img/NAT1.png)
+   ![nat](img/nat.png)
 2. Click gateway from the list. The following screen appears:
-   ![Manage NAT gateway](img/NAT2.png)
+   ![overviewnat](img/overviewnat.png)
 
 The gateway details are displayed under the following categories:
 

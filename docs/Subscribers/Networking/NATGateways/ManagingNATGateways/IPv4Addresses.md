@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # IPv4 Addresses
 Each virtual gateway comes with a default IPv4 address that belongs to the Virtual Gateway governing the network. The default (source - NAT) IPv4 address can be used to access the Virtual Gateway publicly or via Remote Access (RA) VPN.
-![Manage NAT gateway](img/NAT4.png)
+![natipv4](img/natipv4.png)
 
 ### Adding Public IPv4 Addresses
 You can add additional public IPv4 addresses to configure firewall rules, port forwarding rules and source NATs.
