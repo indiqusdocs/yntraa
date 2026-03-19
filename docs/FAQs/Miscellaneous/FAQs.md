@@ -31,8 +31,6 @@ Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTr
 
 <details><summary>**Can I modify my VPC's super CIDR after creation?**</summary>No, super CIDR modification is not currently allowed on Yntraa Cloud. If you wish to change the supernet, it is recommended that you create a new VPC, new subnets and migrate Instances to the new VPC.</details>
 
-<details><summary>**What traffic will I be charged for in a VPC?**</summary>In a VPC, any east-west traffic is free. This includes any traffic or communication between subnets, load balancing between Instances etc. <br />North-south traffic may be chargeable based on your country of usage and/or service provider's preferences. This includes any traffic moving in and out of the VPC through the VR. </details>
-
 <details><summary>**Can I use Terraform to provision my cloud resources?**</summary> Yes, Yntraa Cloud supports infrastructure as code (IaC) and cloud resource creation using Terraform and the Yntraa Gateway API.<br />Any resource created using IaC will be billed hourly.</details>
 
 <details><summary>**Can I upload my own ISO or VHD images?**</summary>No, custom Image uploads are currently not possible on Yntraa Cloud.</details>

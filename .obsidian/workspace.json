@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
+                "file": "docs/FAQs/Miscellaneous/FAQs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ManagingAccessControlonVPCSubnets"
+              "title": "FAQs"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
     "build/assets/js/3406fb7c.6da6fda4.js",
     "build/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale/index.html",
     "build/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances/index.html",
@@ -181,12 +182,10 @@
     "build/docs/Subscribers/Compute/Kubernetes/AboutKubernetes/index.html",
     "build/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations/index.html",
     "build/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances/index.html",
-    "build/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances/index.html",
     "docs/Subscribers/Networking/VirtualPrivateClouds/img/ingegrule.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/ingegrule.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/acmanage.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
