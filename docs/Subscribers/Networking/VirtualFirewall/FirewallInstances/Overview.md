@@ -9,7 +9,7 @@ To view the below details, navigate to the [Firewall Security](AboutFirewallIns
 - [Internal Information](#internal-information)
 - [Security and Access Control](#security-and-access-control)
 
-![Overview](img/Overview.png)
+![overview](img/overview.png)
 ---
 
 ## Configuration and Availability

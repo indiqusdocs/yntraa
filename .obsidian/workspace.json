@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FAQs/Miscellaneous/FAQs.md",
+                "file": "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FAQs"
+              "title": "ViewingVirtualFirewallDetails"
             }
           }
         ]
@@ -171,6 +171,28 @@
   },
   "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/volume.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/launchconsole.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/utilisation.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/graphtrend.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/restorepopup.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/restorecreate.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/restorepoint.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/overview.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/operations.png",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/img/networkmanage.png",
+    "docs/Subscribers/Networking/VirtualFirewall/AccessingtheVFIControlPanel.md",
+    "docs/FAQs/Miscellaneous/FAQs.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
     "build/assets/js/3406fb7c.6da6fda4.js",
     "build/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale/index.html",
@@ -182,20 +204,10 @@
     "build/docs/Subscribers/Compute/Kubernetes/AboutKubernetes/index.html",
     "build/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations/index.html",
     "build/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances/index.html",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/img/ingegrule.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/ingegrule.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/acmanage.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/addstaticnat.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/pfnowadded.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/pfaddrule.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/ruleadded.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/addloadbalance.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/addrule.png",
-    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/img/addipv4.png",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
@@ -204,17 +216,6 @@
     "docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
     "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
-    "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
-    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/StandardAgreements.md",
-    "docs/Subscribers/AccountCentre/WalletandTransactions.md",
-    "docs/Subscribers/AccountCentre/SupportandTickets.md",
-    "docs/Subscribers/AccountCentre/ResettingPassword.md",
-    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
-    "docs/Subscribers/AccountCentre/InvoicesandCreditNotes.md",
-    "docs/Subscribers/AccountCentre/AboutYntraaAccountCentre.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
-    "docs/Subscribers/GettingStartedonYntraaCloud.md"
+    "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md"
   ]
 }

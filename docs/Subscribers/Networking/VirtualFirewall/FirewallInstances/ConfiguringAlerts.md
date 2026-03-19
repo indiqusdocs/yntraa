@@ -4,7 +4,7 @@ sidebar_position: 8
 # Configuring Alerts
 
 To view the configured alerts or configure new ones, navigate to the Virtual Firewall and access the **Alerts** tab.
-![Creating Alert](img/Alert.png)
+![alertcreate](img/alertcreate.png)
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 
@@ -25,7 +25,7 @@ The Alerts tab lists all the alerts already configured for that particular Virtu
 
 To create or add alerts, click the **CREATE ALERT** button. The following window appears:
 
-![creatingalert](img/creatingalert.png)
+![alertcreationform](img/alertcreationform.png)
 
 The various fields of the Create Alert screen are as follows:
 - **Name** - You can define the name for your alert.
@@ -35,17 +35,16 @@ The various fields of the Create Alert screen are as follows:
 - **Reading duration** - This option lets you define the breach window, that is, the duration for which the breach must be consistent to trigger the alert email.
 - **Send email to** - Email IDs can be added here, or also you can add them by using the configure recipients.
 
-## Configuring Recipients
+## Managing Recipients
 
 This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
 
 1. Click the **Manage Recipients** button.
-2. Click **Add More Recipients**.
-3. Add the email IDs; You can add multiple IDs separated by comma.
-4. Click the **+** icon.
-5. Click the **Update** button, and update the recipient's list.
-
-![Configuring Alerts on Virtual Firewall](img/UpdateAlertRecipients.png)
+2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
+3. From the list view, select the email IDs based on their assigned roles.
+4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
+5. Click the **Update** button to save the changes to the recipients list.
+![managerecepient](img/managerecepient.png)
 
 :::note
 All configured recipients receive all setup alerts. If no email ID is configured or added, no email is sent for the already configured alerts.

@@ -16,5 +16,5 @@ The following are the important features:
 
 All virtual firewalls created in an account can be accessed from navigating to the **Networking > Virtual Firewalls** tab.
 
-![ViewingVFINetworkDetails1](img/ViewingVFINetworkDetails1.png)
+![virtualfirewall](img/virtualfirewall.png)
 

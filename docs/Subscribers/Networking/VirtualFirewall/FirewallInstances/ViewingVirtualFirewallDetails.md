@@ -10,7 +10,7 @@ As the virtual firewalls are created, Cloud Console users can view the enabled V
 3. Number of Instances associated with each Virtual Firewall
 4. Creation Date
 
-![Viewing VFI Network Details](img/ViewingVFINetworkDetails1.png)
+![virtualfirewall](img/virtualfirewall.png)
 
 To view a list of sections and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
 
@@ -21,7 +21,7 @@ To view a list of sections and the various operations or actions you can perform
 
 On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **POWER OFF/ON** the Instance.
 
-![Viewing VFI Network Details](img/ViewingVFINetworkDetails2.png)
+![launchconsole](img/launchconsole.png)
 
 Details about Virtual Firewall operations and actions can be found in their respective sections:
 
