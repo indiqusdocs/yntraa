@@ -7,7 +7,7 @@ To view the below details, navigate to the [Firewall Security](AboutFirewallIns
 
 -  [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)
-- [Security and Access Control](#security-and-access-control)
+- [NIC Information](#nic-information)
 
 ![overview](img/overview.png)
 ---
@@ -22,7 +22,7 @@ This section displays the information used for internal identification of this i
 - Template Name
 - Internal Name
 - Created On
-## Security and Access Control
+## NIC Information
 
 This section displays the following information:
 

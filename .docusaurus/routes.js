@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '086'),
+    component: ComponentCreator('/docs', 'd82'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e55'),
+        component: ComponentCreator('/docs', '337'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '8ab'),
+            component: ComponentCreator('/docs', '152'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -149,12 +149,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/dns-management',
-                component: ComponentCreator('/docs/category/dns-management', '98a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/category/firewall-instances',
                 component: ComponentCreator('/docs/category/firewall-instances', '8bc'),
                 exact: true,
@@ -181,12 +175,6 @@ export default [
               {
                 path: '/docs/category/linux-instances',
                 component: ComponentCreator('/docs/category/linux-instances', '251'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/load-balancer-instances',
-                component: ComponentCreator('/docs/category/load-balancer-instances', 'abc'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -905,36 +893,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement',
-                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement', 'bfe'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole',
-                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole', '49f'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud',
-                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud', '771'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Networking/DNSManagement/ManagingDNSRecords',
-                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/ManagingDNSRecords', 'a1b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider',
-                component: ComponentCreator('/docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider', 'a3e'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking',
                 component: ComponentCreator('/docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking', 'bdd'),
                 exact: true,
@@ -967,24 +925,6 @@ export default [
               {
                 path: '/docs/Subscribers/Networking/L2 Networks/AddNewL2Networks',
                 component: ComponentCreator('/docs/Subscribers/Networking/L2 Networks/AddNewL2Networks', '976'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances',
-                component: ComponentCreator('/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances', '05a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX',
-                component: ComponentCreator('/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX', '5c9'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance',
-                component: ComponentCreator('/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance', '428'),
                 exact: true,
                 sidebar: "sidebar1"
               },

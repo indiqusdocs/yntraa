@@ -4,7 +4,7 @@ sidebar_position: 2
 # Adding New L2 Network
 
 To add a new L2 network, click the **New Network** button. The following screen appears:
-![Manage NAT gateway](img/L22.png)
+![networkcreate](img/networkcreate.png)
    
 Enter the following details and then click **Confirm**:
 	- **Network Name**

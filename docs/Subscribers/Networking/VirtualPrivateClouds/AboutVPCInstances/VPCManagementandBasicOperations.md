@@ -7,7 +7,7 @@ VPC management offers the following operations. These are basic VPC management a
 
 ## Powering ON/OFF the Virtual Router
 
-Switching the VPC power state is possible using the **power status** button on top. This is usually <span class="green">**green**</span> if the VPC is powered ON, and <span style={{ color: 'grey' }}>greyed</span> out if powered OFF.
+The VPC power state can be managed using the **START ROUTER / STOP ROUTER** option at the top. The status is shown as **POWERED ON** in <span class="green">green</span> when the router is running and **POWERED OFF** in <span style={{ color: 'red' }}>red</span> when it is stopped.
 
 To restart the VPC, navigate to the  **Operations** tab and click the **RESTART VIRTUAL ROUTER** option. This performs quick reboot and no data is lost.
 

@@ -1,16 +1,16 @@
 ---
 sidebar_position: 12
 ---
-# Snapshots
+# Restore Points
 
-To view all the Snapshots taken for Instance, navigate to the **Networking**, select a **Virtual Firewall** and access the **Snapshots** tab.
+To view all the Snapshots taken for Instance, navigate to the **Networking**, select a **Virtual Firewall** and access the **Restore Points** tab.
 ![restorepoint](img/restorepoint.png)
 
-Instance Snapshots allow you to create point-in-time images of instances that preserve all their data volume as well as (optionally) their CPU/memory states. You can use Snapshots to quickly restore Instances.
+Instance Restore Point allow you to create point-in-time images of instances that preserve all their data volume as well as (optionally) their CPU/memory states. You can use Restore Point to quickly restore Instances.
 
-The Snapshots section shows all the Virtual Firewall Snapshots, which can be used to revert the Virtual Firewall to an earlier state.
+The Restore Point section shows all the Virtual Firewall Restore Point, which can be used to revert the Virtual Firewall to an earlier state.
 
-A Snapshot lists the following details:
+A Restore Point lists the following details:
 - RESTORE POINT NAME
 - INTERNAL NAME
 - DESCRIPTION
@@ -19,16 +19,16 @@ A Snapshot lists the following details:
 ![restorecreate](img/restorecreate.png)
 
 The following quick options are available:
-- Revert the Instance from the Snapshot
-- Delete the Snapshot
+- Revert the Instance from the Restore Point.
+- Delete the Restore Point.
 ## Creating a Restore Point
 
 To create a Restore Point, follow these steps:
 
-1. Click the **CREATE RESTORE POINT** button. The Take Restore Point window appears.
-2. Enter the name and description of the Restore Point.
+1. Click the **CREATE RESTORE POINT** button. The following window appears. ![restorepopup](img/restorepopup.png)
+2. Enter the **Name** and **Description** of the Restore Point.
 3. Click **Create**.
-   ![restorepopup](img/restorepopup.png)
+
 
 
 

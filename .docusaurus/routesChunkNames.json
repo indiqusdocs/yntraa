@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-086": {
+  "/docs-d82": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-e55": {
+  "/docs-337": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-8ab": {
+  "/docs-152": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -261,10 +261,6 @@
     "__comp": "14eb3368",
     "__props": "b17cee6c"
   },
-  "/docs/category/dns-management-98a": {
-    "__comp": "14eb3368",
-    "__props": "b9ab3f2e"
-  },
   "/docs/category/firewall-instances-8bc": {
     "__comp": "14eb3368",
     "__props": "5546eeef"
@@ -284,10 +280,6 @@
   "/docs/category/linux-instances-251": {
     "__comp": "14eb3368",
     "__props": "7d8f7c09"
-  },
-  "/docs/category/load-balancer-instances-abc": {
-    "__comp": "14eb3368",
-    "__props": "016802e9"
   },
   "/docs/category/managed-compute-a17": {
     "__comp": "14eb3368",
@@ -765,26 +757,6 @@
     "__comp": "17896441",
     "content": "1a32f30e"
   },
-  "/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement-bfe": {
-    "__comp": "17896441",
-    "content": "ed58440d"
-  },
-  "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole-49f": {
-    "__comp": "17896441",
-    "content": "2ca576ae"
-  },
-  "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud-771": {
-    "__comp": "17896441",
-    "content": "48febcc4"
-  },
-  "/docs/Subscribers/Networking/DNSManagement/ManagingDNSRecords-a1b": {
-    "__comp": "17896441",
-    "content": "3c20125b"
-  },
-  "/docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider-a3e": {
-    "__comp": "17896441",
-    "content": "d3d06795"
-  },
   "/docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking-bdd": {
     "__comp": "17896441",
     "content": "333f3347"
@@ -808,18 +780,6 @@
   "/docs/Subscribers/Networking/L2 Networks/AddNewL2Networks-976": {
     "__comp": "17896441",
     "content": "c6b4c787"
-  },
-  "/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances-05a": {
-    "__comp": "17896441",
-    "content": "cde4d268"
-  },
-  "/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX-5c9": {
-    "__comp": "17896441",
-    "content": "73b7ed32"
-  },
-  "/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance-428": {
-    "__comp": "17896441",
-    "content": "90206688"
   },
   "/docs/Subscribers/Networking/NATGateways/AboutNATGateways-fa1": {
     "__comp": "17896441",

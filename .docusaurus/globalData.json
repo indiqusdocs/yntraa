@@ -511,31 +511,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/DNSManagement/AboutDNSManagement",
-              "path": "/docs/Subscribers/Networking/DNSManagement/AboutDNSManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "path": "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud",
-              "path": "/docs/Subscribers/Networking/DNSManagement/LinkingDomainstoYntraaCloud",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Networking/DNSManagement/ManagingDNSRecords",
-              "path": "/docs/Subscribers/Networking/DNSManagement/ManagingDNSRecords",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "path": "/docs/Subscribers/Networking/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
               "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
               "sidebar": "sidebar1"
@@ -563,21 +538,6 @@
             {
               "id": "Subscribers/Networking/L2 Networks/AddNewL2Networks",
               "path": "/docs/Subscribers/Networking/L2 Networks/AddNewL2Networks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
-              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
               "sidebar": "sidebar1"
             },
             {
@@ -953,16 +913,6 @@
             {
               "id": "/category/ipv4-based-networking",
               "path": "/docs/category/ipv4-based-networking",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/dns-management",
-              "path": "/docs/category/dns-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/load-balancer-instances",
-              "path": "/docs/category/load-balancer-instances",
               "sidebar": "sidebar1"
             },
             {

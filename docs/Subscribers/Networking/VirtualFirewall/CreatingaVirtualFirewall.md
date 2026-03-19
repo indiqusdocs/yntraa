@@ -10,10 +10,10 @@ sidebar_position: 2
 	:::note
 	 Yntraa currently only supports one Virtual Firewall per Availability Zone.
 	 :::
-	![Creating a Virtual Firewall](img/CreatingaVirtualFirewall1.png)
+	![createnewvf](img/createnewvf.png)
 3. Select your Availability Zone.
 4. Select the Virtual Firewall provider from the dropdown menu.<br/>
-	![Creating a Virtual Firewall](img/CreatingaVirtualFirewall2.png)
+	![vfconfig](img/vfconfig.png)
 5. Choose the compute pack from the list.
 6. Select the Incoming Traffic Rule (Allow All, Deny All, Allow Custom) and give a name to your Virtual Firewall.
 	:::note
@@ -21,9 +21,9 @@ sidebar_position: 2
 		**Deny All-**  Restrict access to all protocols and services when selected.
 		**Allow Custom-** Enable the user to specify the Source from which traffic should be allowed.
 	:::
-	![Creating a Virtual Firewall](img/CreatingaVirtualFirewall3.png)
+	![vfdetails](img/vfdetails.png)
 7. Review the summary and estimated costs for both **Hourly** and **Monthly** options.
-   ![Creating a Virtual Firewall](img/CreatingaVirtualFirewall5.png)
+   ![cost](img/cost.png)
 8.  Choose **Buy Hourly** or **Buy Monthly** based on your requirement, and then click **Confirm** on the confirmation popover.
 
 The Virtual Firewall service can be configured for provisioning in a self-service or an approval-based manner.
