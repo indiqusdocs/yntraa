@@ -3,7 +3,7 @@ sidebar_position: 12
 ---
 # Restore Points
 
-To view all the Snapshots taken for Instance, navigate to the **Networking**, select a **Virtual Firewall** and access the **Restore Points** tab.
+To view all the restore points taken for Instance, navigate to the **Networking**, select a **Virtual Firewall** and access the **Restore Points** tab.
 ![restorepoint](img/restorepoint.png)
 
 Instance Restore Point allow you to create point-in-time images of instances that preserve all their data volume as well as (optionally) their CPU/memory states. You can use Restore Point to quickly restore Instances.
@@ -19,8 +19,9 @@ A Restore Point lists the following details:
 ![restorecreate](img/restorecreate.png)
 
 The following quick options are available:
-- Revert the Instance from the Restore Point.
-- Delete the Restore Point.
+- **Restore from Instance Restore Point**
+- **Delete Restore Point**
+  
 ## Creating a Restore Point
 
 To create a Restore Point, follow these steps:

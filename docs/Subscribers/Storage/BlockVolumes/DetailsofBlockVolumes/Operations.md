@@ -18,7 +18,7 @@ Yntraa Cloud provides the options to perform the following operations on Block V
 - **Download Volume** -
   Only Data Disks that are detached from their Instances can be downloaded.
 - **Delete Volume** -
-	This removes the Block Volume and all associated snapshots and snapshot schedules. This also stop the subscription for this Block Volume from the time of deletion.
+	This removes the Block Volume and all associated restore points and restore point schedules. This also stop the subscription for this Block Volume from the time of deletion.
 	![blockvolume2](img/blockvolume2.png)
 	:::note
 		This action is irreversible and you may not be able to recover any data on this Volume.

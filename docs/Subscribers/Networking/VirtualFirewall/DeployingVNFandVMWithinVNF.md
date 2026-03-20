@@ -93,10 +93,8 @@ The following steps guide you through accessing the Networking section and ident
 1. Open the Firewall Instance: Navigate to the **Virtual Firewalls** section and open the required firewall instance.
 2. Click on the **Networking** option: In the left-side menu, under the opened firewall instance, click on the **Networking** tab. This section displays all networks linked to the selected firewall.
 3. Identify the **WAN Tier**: Look for the network labeled as ISOLATED_NETWORK. This is the WAN Tier, typically connected to external/public networks.
-4. Identify the **LAN Tiers**: LAN tiers used for internal communications. For example:
-    - ADC-R522-40-Test_L2_LAN_TIER_1
-    - ADC-R522-40-Test_L2_LAN_TIER_2
-![networkapiculus](img/networkapiculus.png) 
+4. Identify the **LAN Tiers**: LAN tiers used for internal communications. 
+![tiers](img/tiers.png) 
 ### Accessing pfsense Firewall GUI
 
 To manage and configure the pfsense firewall, you can access its web-based Graphical User Interface (GUI). This interface allows you to perform tasks such as monitoring network traffic, updating firewall rules, and managing network settings. You can access the GUI securely using the public IP address assigned to the firewall. 
@@ -117,26 +115,24 @@ The following steps guide you through deploying the new Linux VM under the pfsen
 
 1. From the Yntraa Cloud, navigate to the left sidebar.
 2. Under the Compute section, click on Linux Instances.
-3. Choose Availability Zone: Select a zone for example, AZ1- India North 1 (or as per your requirement).
+3. Choose Availability Zone: Select a zone.
 4. Select Compute Configuration: Choose a VM configuration.
 5. Click **Select** to confirm the compute pack.
-6. Name Your Linux Instance: Provide a name (Test-VNF-Ubuntu)
+6. Name Your Linux Instance: Provide a name.
 7. After filling in all details, proceed with the deployment.
 
-![deployapiculus](img/deployapiculus.png)
+![deploylinux](img/deploylinux.png)
 ## Creating a New Linux Instance
 
 To create a new Linux instance in Yntraa Cloud, you must to configure parameters such as the zone, network, and operating system image. These options help ensure the VM is deployed in the correct environment and connected to the appropriate virtual network and firewall.
 
 The following steps guide you through the process of creating a new Linux instance based on your setup requirements:
 
-1. Select the Availability Zone nearest to your location, for example, AZ1 - India North 1.
+1. Select the Availability Zone nearest to your location.
 2. **Select Network Destination**: Pick a VPC network with a subnet or a VNF Appliance that has already been created in the chosen availability zone.
-    - **VPC:** ADC-R522-40-Test
-    - **VNF:** ACP-E244-1-Gaurav-Test_L2_LAN_TIER_1
-3. Choose an OS image, (for example, Ubuntu Server 22.04), or use a custom one if needed; note that some images may be chargeable.
-![zoneapiculus](img/zoneapiculus.png)
-![deployapiculus](img/deployapiculus.png)
+3. Choose an OS image or use a custom one if needed; note that some images may be chargeable.
+![deployfirewall](img/deployfirewall.png)
+
 ### Choosing a Root Disk
    
 When deploying a Linux VM in Yntraa Cloud, selecting the right root disk is a key step in defining your VM’s storage capacity and performance. The root disk serves as the primary storage where the operating system and essential files are installed. You can choose from predefined disk packs or specify a custom size based on your needs.

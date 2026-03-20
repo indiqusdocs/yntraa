@@ -23,17 +23,19 @@ Public IPv4 addresses may carry a price which may vary depending on availability
 
 ## Configuring Load Balancing 
 To configure the Load Balancing Rule, follow these steps:
+
 1. To create Load Balancing Rule, click the ![Icon](img/LoadBalancingIcon.png)icon.
 2. The following window appears:
 	![addrule](img/addrule.png)
 3. Click **Add Rule**. The following window appears:
 	![addloadbalance](img/addloadbalance.png)
 4. Specify the following details in the window:
-	- A **name** and **description** for the load balancer rule.
-	- **Protocol** to use for the load balancer.
-	- Select the **Tier**.
-	- The **load balancing algorithm** to use.
-	- **Public** and **private** port mapping.
+	- **Rule Name**
+	- **Description**
+	- **Protocol**
+	- **Tier**
+	- **Public Port**
+	- **Private Port**.
 5. Click the **ADD LOAD BALANCING RULE** button.
 
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:

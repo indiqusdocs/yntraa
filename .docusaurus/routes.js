@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd82'),
+    component: ComponentCreator('/docs', '442'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '337'),
+        component: ComponentCreator('/docs', '91b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '152'),
+            component: ComponentCreator('/docs', '160'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -1127,6 +1127,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/OtherServices/CDNasaService',
+                component: ComponentCreator('/docs/Subscribers/OtherServices/CDNasaService', '11b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices',
                 component: ComponentCreator('/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices', '9f1'),
                 exact: true,
@@ -1253,8 +1259,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots', 'f77'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints', '6b5'),
                 exact: true,
                 sidebar: "sidebar1"
               },

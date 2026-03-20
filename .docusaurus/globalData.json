@@ -706,6 +706,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/OtherServices/CDNasaService",
+              "path": "/docs/Subscribers/OtherServices/CDNasaService",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/OtherServices/CyberSecurityProfessionalServices",
               "path": "/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices",
               "sidebar": "sidebar1"
@@ -811,8 +816,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots",
+              "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints",
               "sidebar": "sidebar1"
             },
             {
