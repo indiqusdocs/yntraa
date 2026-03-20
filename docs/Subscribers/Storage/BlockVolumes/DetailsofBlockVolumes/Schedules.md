@@ -16,7 +16,7 @@ The following schedules are supported:
 
 You can create automatic snapshot policies as per defined schedules. 
 
-![Schedules](img/Schedules.png)
+![schedule](img/schedule.png)
 
 ## Set Snapshot Schedule
 
@@ -28,7 +28,7 @@ While configuring snapshot schedules, the following points should be considered:
   
 To create a Snapshot Schedule, click **Create Schedule**. The following dilog box appears.
 
-![Set Snapshot Schedule](img/Schedules1.png)
+![setschedule](img/setschedule.png)
 Select the below details in the form to set the Snapshot Schedule.
 - Frequency
 - TimeZone

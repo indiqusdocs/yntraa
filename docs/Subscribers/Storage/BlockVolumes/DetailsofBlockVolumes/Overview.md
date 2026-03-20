@@ -12,7 +12,7 @@ Navigate to the **Overview** tab to view the following details:
 	- Offering Name
 	- Instance State
 	- Created On
-	![Overview](img/Overview.png)
+	![blockvolume1](img/blockvolume1.png)
 
 
 

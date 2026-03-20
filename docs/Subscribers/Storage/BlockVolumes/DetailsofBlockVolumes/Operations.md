@@ -11,7 +11,7 @@ Yntraa Cloud provides the options to perform the following operations on Block V
 	Use this option to detach this Volume from its Instance.
 - **Attach To Instance** -
 	Use this option to attach this Volume to another Instance.
-	![Operations](img/Operations1.png)
+	![blockvolume1](img/blockvolume1.png)
 	:::note
 	Root Disks can not be detached from their Instances, and only attached Volumes can be detached from their Instances.
 	:::
@@ -19,7 +19,7 @@ Yntraa Cloud provides the options to perform the following operations on Block V
   Only Data Disks that are detached from their Instances can be downloaded.
 - **Delete Volume** -
 	This removes the Block Volume and all associated snapshots and snapshot schedules. This also stop the subscription for this Block Volume from the time of deletion.
-	![Operations](img/Operations2.png)
+	![blockvolume2](img/blockvolume2.png)
 	:::note
 		This action is irreversible and you may not be able to recover any data on this Volume.
 	:::	
