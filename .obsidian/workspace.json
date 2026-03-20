@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots.md",
-                "mode": "preview",
+                "file": "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WorkingwithVolumeSnapshots"
+              "title": "WorkingwithDiskRestorePoints"
             }
           }
         ]
@@ -197,7 +197,7 @@
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
     "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
     "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithVolumeSnapshots.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
     "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
     "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
     "docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage.md",

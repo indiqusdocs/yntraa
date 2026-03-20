@@ -8,7 +8,7 @@ Yntraa Block Volumes are the underlying software-defined volume management layer
 The following sections outline the capabilities of Block Volumes on Yntraa Cloud:
 
 - [Instance Block Volumes](WorkingwithInstanceVolumes)
-- [Working with Volume Snapshots](DetailsofBlockVolumes/WorkingwithVolumeSnapshots.md)
+- [Working with Volume Snapshots](WorkingwithDiskRestorePoints.md)
 - [Using Block Volumes with Kubernetes](UsingBlockVolumeswithKubernetes)
 
 
