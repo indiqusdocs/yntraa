@@ -31,7 +31,7 @@ To create a Restore Point Schedule, click **Create Schedule**. The following dil
 ![setschedule](img/setschedule.png)
 Select the below details in the form to set the Restore Point Schedule.
 - Frequency
-- TimeZone
+- Timezone
 - Restore Points to Keep
 :::note
 	There can only be one policy per schedule; the new restore point policy overrides the existing policy of the same frequency.

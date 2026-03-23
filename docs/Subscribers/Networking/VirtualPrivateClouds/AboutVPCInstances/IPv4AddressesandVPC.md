@@ -65,9 +65,11 @@ To configure port forwarding, follow these steps:
 1. To configure Port Forwarding Rule, click the ![Icon](img/PortForwardingIcon.png)icon. The following window appears:  ![pfaddrule](img/pfaddrule.png)
 2. Click **+ ADD RULE**. The following window appears: ![pfnowadded](img/pfnowadded.png)
 3. Specify the following details in the window:
-	- **Protocol** for port-forwarding.
-	- The **tier** and the Instance to port-forward to.
-	- Set the**Public** and **private port** range.
+	- **Protocol** 
+	- **Tier**
+	- **Instance**
+	- **Public Start Port** and **Public End Port** range.
+	- **Private Start Port** and **Private End Port** range.
 	  :::note
 	  The end ports should be equal to or greater than the start ports.
 	  :::
@@ -84,10 +86,9 @@ A Port-Forwarding IP address can be used to configure multiple Port-Forwarding a
 :::
 ## Configuring Static NAT
 
-1. To use the public IP as a static translation, click the ![](img/StaticNATIcon.png)icon. 
-2. The following window appears: 
-	![addstaticnat](img/addstaticnat.png)
-3. Select the Instance you want to assign the public IP to, then click **Add Static NAT**.
+1. To use the public IP as a static translation, click the ![](img/StaticNATIcon.png)icon. The following window appears: 
+   ![addstaticnat](img/addstaticnat.png)
+2. Select the Instance you want to assign the public IP to, then click **Add Static NAT**.
 
 To test whether static NAT has been configured correctly, you can use the public IP to SSH into the virtual machine that the IP is NAT-ing to.
 

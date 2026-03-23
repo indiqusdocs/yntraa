@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Working with Disk Restore Points
 
-**Yntraa Block Volumes** service provides extensive functionality for managing disk restore points. Restore points are point-in-time 'images' of a disk contents and can be used as a restoration point for the parent disk. The following sections outline all available restore points functions and capabilities in the Yntraa Cloud.
+Yntraa block volumes service provides extensive functionality for managing disk restore points. Restore points are point-in-time 'images' of a disk contents and can be used as a restoration point for the parent disk. The following sections outline all available restore points functions and capabilities in the Yntraa Cloud.
 
 ## Creating Disk Restore Point
 
