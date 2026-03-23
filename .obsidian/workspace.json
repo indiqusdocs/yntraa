@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
-                "mode": "source",
+                "file": "docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WorkingwithDiskRestorePoints"
+              "title": "FeatureListandIntegrationDetails"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 331.5
   },
   "right": {
     "id": "8aedbb1b11c967fb",
@@ -171,31 +171,38 @@
   },
   "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
-    "build/blog/rss.xml",
-    "build/blog/atom.xml",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
-    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
+    "build/blog/tags/hola/index.html",
+    "build/blog/tags/hello/index.html",
+    "build/blog/tags/facebook/index.html",
+    "build/blog/tags/docusaurus/index.html",
+    "build/blog/authors/all-sebastien-lorber-articles/index.html",
+    "build/blog/authors/yangshun/index.html",
+    "build/blog/welcome/index.html",
+    "build/blog/tags/hola",
+    "build/blog/tags/index.html",
+    "build/blog/tags/facebook",
+    "build/blog/tags/hello",
+    "docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
+    "docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage.md",
+    "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview.md",
-    "build/icons/home.svg",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/img/blockvolumeoverview.png",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
-    "build/assets/images/utilisation-8f8373f094b8d1d013eb12703df21b2f.png",
-    "build/assets/images/teammemberaddoneyotta-43d7052efd7b2e6526d7820baebf8778.png",
-    "build/assets/images/graphtrend-45796cdae5c3c77a3d29beb86733a9b3.png",
-    "build/assets/images/restorepointnew-8c867846a480ef6e911ff26c1e239ac4.png",
-    "build/assets/images/wininstancesecond-3336fde99953aeed9f9de435a9e4bc2d.png",
+    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
+    "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
+    "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
     "build/assets/images/yottasmartcsoc-e95969b59b7f712b46dd00a53c6c14ac.png",
-    "build/assets/images/scalecluster-b2ed790a9d4296acf6d5557281eb3054.png",
+    "build/assets/images/wininstancethird-2fd671ca009da085ffe989dd35efaa5e.png",
     "build/assets/images/yottasmartactivation-d540487bcbacec11459d6deefa1da711.png",
+    "build/assets/images/webssh-d28940353740dd7f36dbb836a852bce5.png",
+    "build/assets/images/wininstancesecond-3336fde99953aeed9f9de435a9e4bc2d.png",
+    "build/assets/images/windowsinstance-4ef755749badeffcba760ca875067c12.png",
+    "build/assets/images/wanapiculus-ab3ada376079387cf1da3f771fa603a4.png",
+    "build/assets/images/walletvoucher-60d789a6f4ce688a84025a80234e95ed.png",
+    "build/assets/images/waf-670313bfee50608cce38f816044ceddf.png",
+    "build/assets/images/vpngateways-5484eb0049f87bb8fd85f306288b88b2.png",
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
     "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
@@ -209,13 +216,6 @@
     "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
     "docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
     "docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
-    "docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking.md",
-    "docs/Subscribers/GettingStartedonYntraaCloud.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
-    "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
-    "docs/Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
-    "docs/Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall.md",
-    "docs/Subscribers/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork.md"
+    "docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md"
   ]
 }

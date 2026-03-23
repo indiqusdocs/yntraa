@@ -11,10 +11,10 @@ To create a Block Volume data disk, follow the below steps:
 4. Select an Instance from the dropdown list to attach the disk to. 
 5. Choose the disk configuration from the available Disk packs, or you can use the custom size option to specify the Disk configuration.
    ![datadisk1](img/datadisk1.png)
-6. Verify the **Estimated Cost** of your Data Disk based on the options that you have chosen from the **Summary and Estimated Costs** Section (Here, both the **Hourly** and **Monthly** Prices summary will be displayed).
+6. Verify the **Estimated Cost** of your Data Disk based on the options that you have chosen from the **Summary and Estimated Costs** Section.
 7. Click on the check box after going through the policies mentioned by your cloud service provider.
    ![datadisk2](img/datadisk2.png)
-8. Clicking the **Buy Hourly** or **Buy Monthly** button. A confirmation pop-over will appear, and the price summary along with any applicable discount codes.
+8. Clicking the **Buy Monthly** button. A confirmation pop-over will appear, and the price summary along with any applicable discount codes.
     1. Apply a discount code by clicking the **Apply** button or remove it using the **Remove** button.
     2. Clicking the **CANCEL** button, this action will be canceled.
 9. Click the **CONFIRM** to create the Data Disk.

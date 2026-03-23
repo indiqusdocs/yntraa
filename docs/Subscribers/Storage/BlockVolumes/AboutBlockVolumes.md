@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # About Block Volumes
 
-Yntraa Block Volumes are the underlying software-defined volume management layer that powers various storage-related or storage-driven cloud services. Block Volumes can be used with Linux and Windows instances as root and data disks, with Kubernetes as persistent storage, or simply as a storehouse for snapshots and images.
+Yntraa block volumes are the underlying software-defined volume management layer that powers various storage-related or storage-driven cloud services. Block Volumes can be used with Linux and Windows instances as root and data disks, with Kubernetes as persistent storage, or simply as a storehouse for snapshots and images.
 
 The following sections outline the capabilities of Block Volumes on Yntraa Cloud:
 
