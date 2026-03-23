@@ -13,7 +13,7 @@ Primarily, IPv4 Addresses can be used for configuring access and NAT-ing via:
 - [Port Forwarding](#configuring-port-forwarding)
 - [Static NAT](#configuring-static-nat)
 
-![addipv4](img/addipv4.png)
+![addrule0](img/addrule0.png)
 
 As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **ADD PUBLIC IPv4 ADDRESS** button.
 
@@ -24,29 +24,29 @@ Public IPv4 addresses may carry a price which may vary depending on availability
 ## Configuring Load Balancing 
 To configure the Load Balancing Rule, follow these steps:
 
-1. To create Load Balancing Rule, click the ![Icon](img/LoadBalancingIcon.png)icon.
-2. The following window appears:
-	![addrule](img/addrule.png)
-3. Click **Add Rule**. The following window appears:
-	![addloadbalance](img/addloadbalance.png)
-4. Specify the following details in the window:
+1. To create Load Balancing Rule, click the ![Icon](img/LoadBalancingIcon.png)icon. The following window appears:
+	![addrule0](img/addrule0.png)
+2. Click **+ Add Rule**. The following window appears:
+	![addrule1new](img/addrule1new.png)
+3. Specify the following details in the window:
 	- **Rule Name**
 	- **Description**
 	- **Protocol**
 	- **Tier**
 	- **Public Port**
 	- **Private Port**.
-5. Click the **ADD LOAD BALANCING RULE** button.
+4. Click the **ADD LOAD BALANCING RULE** button.
 
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
 
-1. Click the **Load Balancer Rule** icon.
-2. Select the **Load Balancing Rule**.
-  ![addrule](img/addrule.png)
-3. The following window appears:
-	  ![ruleadded](img/ruleadded.png)
-4. This window shows Instances that are part of this load balancer, and those available to be added. 
-5. Click the **+** icon to add an instance and the **X** icon to remove an instance.
+1. Click the **Load Balancer Rule** icon. The following window appears:
+   ![addrule0](img/addrule0.png)
+2. Click the dropdown arrow and select the appropriate **Load Balancing Rule**. The following window appears:
+   ![addrule2](img/addrule2.png)
+3. This window shows Instances that are part of this load balancer, and those available to be added. 
+4. Click the **+** icon to add an instance and the **X** icon to remove an instance.
+   ![addrule2](img/addrule2.png)
+   ![instanceaddremove](img/instanceaddremove.png)
 :::note
 To delete this Load Balancing Rule, click **DELETE THIS RULE**.
 :::
@@ -62,22 +62,20 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
-1. To configure Port Forwarding Rule, click the ![Icon](img/PortForwardingIcon.png)icon.
-2. The following window appears:  ![pfaddrule](img/pfaddrule.png)
-3. Click **ADD RULE**. The following window appears: ![pfnowadded](img/pfnowadded.png)
-4. Specify the following details in the window:
+1. To configure Port Forwarding Rule, click the ![Icon](img/PortForwardingIcon.png)icon. The following window appears:  ![pfaddrule](img/pfaddrule.png)
+2. Click **+ ADD RULE**. The following window appears: ![pfnowadded](img/pfnowadded.png)
+3. Specify the following details in the window:
 	- **Protocol** for port-forwarding.
 	- The **tier** and the Instance to port-forward to.
 	- Set the**Public** and **private port** range.
 	  :::note
 	  The end ports should be equal to or greater than the start ports.
 	  :::
-5. Click **ADD PORT FORWARDING RULE**.
+4. Click **ADD PORT FORWARDING RULE**.
 
 Once the Port-Forwarding rule is created, you can view its details by following these steps:
-1. Click the **Port Forwarding Rule** icon.
-2. The following window appears:![pf](img/pf.png)
-3. In this window, you can view the Instance where this rule is configured, along with the private and public port range mappings.
+1. Click the **Port Forwarding Rule** icon. The following window appears:![pf](img/pf.png)
+2. In this window, you can view the Instance where this rule is configured, along with the private and public port range mappings.
 
 To test if port-forwarding is configured correctly, use the public IP to SSH into the virtual machine the IP forwards to.
 

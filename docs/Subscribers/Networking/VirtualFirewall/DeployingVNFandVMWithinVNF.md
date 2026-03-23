@@ -139,13 +139,8 @@ When deploying a Linux VM in Yntraa Cloud, selecting the right root disk is a ke
    
 The following steps guide you through choosing a root disk option that best fits your storage needs and budget:
    
-1. Navigate to the **Root Disk** selection section: The following are the three available disk options under the SSD tab:
-    - **Freesize**: Custom size (default 25 GB)
-    - **RD 50**: 50 GB
-    - **RD 100**: 100 GB (Selected)
-2. Click on **Select Pack** for your desired option. For Example:
-     - **RD 100** (100 GB) is selected.
-![rootapiculus](img/rootapiculus.jpg)
+Navigate to the **Root Disk** section and select the **Custom Disk** option to configure the disk space as per specific requirements.
+![chooserootdisk](img/chooserootdisk.jpg)
 ### Authentication Method
 
 To ensure secure access to your Linux instance, selecting the right authentication method is crucial. The following options are available: 
@@ -168,10 +163,10 @@ If you choose root user password method, ensure that **Also email me the passwor
 3. **Summary and Estimated Costs**:
     - Before creating this Linux instance, you can review all the selected options and their corresponding prices. Once you are done reviewing, you can proceed with your choice. 
 4. **SELECTIONS**:
-    - Availability Zone: **AZ1- India North 1**
-    - HOURLY: **USD 200.00/Hr**
-    - MONTHLY: **USD 400.00/Mo**
-![authenticationapi](img/authenticationapi.png)
+    - Availability Zone
+    - HOURLY
+    - MONTHLY
+![authenticationnew](img/authenticationnew.png)
 ### Confirming Instance Purchase 
 
 Once you finalized all the configuration details for your Linux VM in Yntraa Cloud, the platform prompts you to confirm the instance purchase. This is your final opportunity to review costs and apply any available discount codes before deployment.
@@ -181,7 +176,7 @@ The following steps guide you through the confirmation process:
 1. After reviewing the instance details, a confirmation pop-up appears.
 2. The window displays the **Hourly** charge: for example, USD 200.40.
 3. Click the **CONFIRM** button to proceed with the instance purchase.
-![purchaseapi](img/purchaseapi.png)
+![confirminstance](img/confirminstance.png)
 ![vmapiculus](img/vmapiculus.png)
 ### Checking VM Console and Internet Connectivity
 

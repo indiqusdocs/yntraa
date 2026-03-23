@@ -16,7 +16,7 @@ To add a tier to your VPC, navigate to the VPC you wish to add the tier to, and 
 	 The gateway should be consistent with the subnet mask.
 	:::
 - **Access Control**
-- **Load Balancing Type** required on this tier. 
+- **Load Balancing Type** 
   :::note
 	 To set up a public load balancer, you need to select **Public LB** on this dropdown. There can only be 1 tier of type Public LB in a network.
   :::
