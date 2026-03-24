@@ -11,7 +11,7 @@ sidebar_position: 1
 **5.** You might lose access to your account and all your resources entirely (terminated state). While scenario 1 is the most ideal, realistically one of 2-5 will be configured as a policy. To avoid any likelihood of these events, it is best recommended to always pay your due invoices on time and never miss a due date.</details>
 
 <details><summary>**How is my wallet balance calculated?**</summary>
-Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTransactions) is a real-time 'ability to spend' on Yntraa Cloud. It is a net total of your credit limit, all charges incurred and all payments made for your account. <br />
+Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/Commercial) is a real-time 'ability to spend' on Yntraa Cloud. It is a net total of your credit limit, all charges incurred and all payments made for your account. <br />
 `Service Balance = Credit Limit - sum(Incurred Charges) + sum(Payments)`</details>
 
 <details><summary>**How can I deploy monitoring tools and other apps on my Kubernetes cluster?**</summary>Once a cluster is deployed, you can deploy pretty much any application using kubectl. Some examples:<br />

@@ -86,23 +86,18 @@
               "sidebar": "sidebar4"
             },
             {
-              "id": "Subscribers/AccountCentre/AboutYntraaAccountCentre",
-              "path": "/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre",
+              "id": "Subscribers/AccountCentre/Commercial",
+              "path": "/docs/Subscribers/AccountCentre/Commercial",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/InvoicesandCreditNotes",
-              "path": "/docs/Subscribers/AccountCentre/InvoicesandCreditNotes",
+              "id": "Subscribers/AccountCentre/Dashboard",
+              "path": "/docs/Subscribers/AccountCentre/Dashboard",
               "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/AccountCentre/Organisation-AccountProfile",
               "path": "/docs/Subscribers/AccountCentre/Organisation-AccountProfile",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Payments",
-              "path": "/docs/Subscribers/AccountCentre/Payments",
               "sidebar": "sidebar1"
             },
             {
@@ -121,23 +116,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/SupportandTickets",
-              "path": "/docs/Subscribers/AccountCentre/SupportandTickets",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/AccountCentre/TeamMemberManagement",
               "path": "/docs/Subscribers/AccountCentre/TeamMemberManagement",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/UnbilledCharges",
-              "path": "/docs/Subscribers/AccountCentre/UnbilledCharges",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/WalletandTransactions",
-              "path": "/docs/Subscribers/AccountCentre/WalletandTransactions",
+              "id": "Subscribers/AccountCentre/Tickets",
+              "path": "/docs/Subscribers/AccountCentre/Tickets",
               "sidebar": "sidebar1"
             },
             {

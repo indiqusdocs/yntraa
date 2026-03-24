@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '442'),
+    component: ComponentCreator('/docs', 'c95'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '91b'),
+        component: ComponentCreator('/docs', '99f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '160'),
+            component: ComponentCreator('/docs', '20e'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -383,26 +383,20 @@ export default [
                 sidebar: "sidebar4"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre', '3c0'),
+                path: '/docs/Subscribers/AccountCentre/Commercial',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/Commercial', 'ea3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/InvoicesandCreditNotes',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/InvoicesandCreditNotes', '10d'),
+                path: '/docs/Subscribers/AccountCentre/Dashboard',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/Dashboard', 'ce3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
                 path: '/docs/Subscribers/AccountCentre/Organisation-AccountProfile',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/Organisation-AccountProfile', 'f65'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Payments',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Payments', '1a1'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -425,26 +419,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/SupportandTickets',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/SupportandTickets', '875'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/AccountCentre/TeamMemberManagement',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/TeamMemberManagement', 'a69'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/UnbilledCharges',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/UnbilledCharges', 'aa3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/WalletandTransactions',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/WalletandTransactions', '30d'),
+                path: '/docs/Subscribers/AccountCentre/Tickets',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/Tickets', '9f0'),
                 exact: true,
                 sidebar: "sidebar1"
               },

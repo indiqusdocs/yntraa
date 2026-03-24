@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-442": {
+  "/docs-c95": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-91b": {
+  "/docs-99f": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-160": {
+  "/docs-20e": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -417,21 +417,17 @@
     "__comp": "17896441",
     "content": "2e75089c"
   },
-  "/docs/Subscribers/AccountCentre/AboutYntraaAccountCentre-3c0": {
+  "/docs/Subscribers/AccountCentre/Commercial-ea3": {
     "__comp": "17896441",
-    "content": "5c86019d"
+    "content": "113d993f"
   },
-  "/docs/Subscribers/AccountCentre/InvoicesandCreditNotes-10d": {
+  "/docs/Subscribers/AccountCentre/Dashboard-ce3": {
     "__comp": "17896441",
-    "content": "5b04911c"
+    "content": "b8ec49e4"
   },
   "/docs/Subscribers/AccountCentre/Organisation-AccountProfile-f65": {
     "__comp": "17896441",
     "content": "b918d90b"
-  },
-  "/docs/Subscribers/AccountCentre/Payments-1a1": {
-    "__comp": "17896441",
-    "content": "f761bb10"
   },
   "/docs/Subscribers/AccountCentre/ResettingPassword-a27": {
     "__comp": "17896441",
@@ -445,21 +441,13 @@
     "__comp": "17896441",
     "content": "f8da5119"
   },
-  "/docs/Subscribers/AccountCentre/SupportandTickets-875": {
-    "__comp": "17896441",
-    "content": "1d80efb0"
-  },
   "/docs/Subscribers/AccountCentre/TeamMemberManagement-a69": {
     "__comp": "17896441",
     "content": "da87b629"
   },
-  "/docs/Subscribers/AccountCentre/UnbilledCharges-aa3": {
+  "/docs/Subscribers/AccountCentre/Tickets-9f0": {
     "__comp": "17896441",
-    "content": "41ce00f5"
-  },
-  "/docs/Subscribers/AccountCentre/WalletandTransactions-30d": {
-    "__comp": "17896441",
-    "content": "f490e73d"
+    "content": "16ebf176"
   },
   "/docs/Subscribers/AdvanceServices/DevOpsasaService-203": {
     "__comp": "17896441",
