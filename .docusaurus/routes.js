@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c95'),
+    component: ComponentCreator('/docs', '0d6'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '99f'),
+        component: ComponentCreator('/docs', '72f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '20e'),
+            component: ComponentCreator('/docs', 'ce8'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -383,6 +383,12 @@ export default [
                 sidebar: "sidebar4"
               },
               {
+                path: '/docs/Subscribers/AccountCentre/Assets',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/Assets', '5c5'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/AccountCentre/Commercial',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/Commercial', 'ea3'),
                 exact: true,
@@ -403,6 +409,12 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/ResettingPassword',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/ResettingPassword', 'a27'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/Services',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/Services', 'ba2'),
                 exact: true,
                 sidebar: "sidebar1"
               },

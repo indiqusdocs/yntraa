@@ -86,6 +86,11 @@
               "sidebar": "sidebar4"
             },
             {
+              "id": "Subscribers/AccountCentre/Assets",
+              "path": "/docs/Subscribers/AccountCentre/Assets",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/AccountCentre/Commercial",
               "path": "/docs/Subscribers/AccountCentre/Commercial",
               "sidebar": "sidebar1"
@@ -103,6 +108,11 @@
             {
               "id": "Subscribers/AccountCentre/ResettingPassword",
               "path": "/docs/Subscribers/AccountCentre/ResettingPassword",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Services",
+              "path": "/docs/Subscribers/AccountCentre/Services",
               "sidebar": "sidebar1"
             },
             {

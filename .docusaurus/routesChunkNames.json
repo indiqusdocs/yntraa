@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-c95": {
+  "/docs-0d6": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-99f": {
+  "/docs-72f": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-20e": {
+  "/docs-ce8": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -417,6 +417,10 @@
     "__comp": "17896441",
     "content": "2e75089c"
   },
+  "/docs/Subscribers/AccountCentre/Assets-5c5": {
+    "__comp": "17896441",
+    "content": "ca2898d5"
+  },
   "/docs/Subscribers/AccountCentre/Commercial-ea3": {
     "__comp": "17896441",
     "content": "113d993f"
@@ -432,6 +436,10 @@
   "/docs/Subscribers/AccountCentre/ResettingPassword-a27": {
     "__comp": "17896441",
     "content": "5917a595"
+  },
+  "/docs/Subscribers/AccountCentre/Services-ba2": {
+    "__comp": "17896441",
+    "content": "057dd203"
   },
   "/docs/Subscribers/AccountCentre/StandardAgreements-53c": {
     "__comp": "17896441",

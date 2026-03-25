@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "FAQs"
             }
+          },
+          {
+            "id": "5e8b677d633e8dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Subscribers/AccountCentre/Services.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Services"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,30 +184,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "d341101c1e47ac2b",
+  "active": "5e8b677d633e8dce",
   "lastOpenFiles": [
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/OtherServices/UTMasaService/index.html",
-    "build/docs/Subscribers/OtherServices/SIEM/index.html",
-    "build/docs/Subscribers/OtherServices/WAFasaService/index.html",
-    "build/docs/Subscribers/OtherServices/SecurityTesting/index.html",
-    "build/docs/Subscribers/OtherServices/MultiTenantBraaS/index.html",
-    "build/docs/Subscribers/OtherServices/HSMandKMS/index.html",
-    "build/docs/Subscribers/OtherServices/GlobalCloudConnect/index.html",
-    "build/docs/Subscribers/OtherServices/HostedInternetBandwidth/index.html",
-    "build/docs/Subscribers/OtherServices/PrivilegedAccessManagement/index.html",
-    "build/icons/home.svg",
-    "build/assets/images/restorepoint-c7caa5f047cd81feb21615abe59e1f36.png",
-    "build/assets/images/wininstancesecond-3336fde99953aeed9f9de435a9e4bc2d.png",
-    "build/assets/images/wininstancethird-2fd671ca009da085ffe989dd35efaa5e.png",
-    "build/assets/images/windowsinstance-4ef755749badeffcba760ca875067c12.png",
-    "build/assets/images/Reconfiguration1-84d54b009c0b4008d10cb2cf26389144.png",
-    "build/assets/images/putty1-563aca64eaadb2648aa2f90d6742638a.png",
-    "build/assets/images/volume-eeab042381d57f2a6b47431f898d43b8.png",
-    "build/assets/images/putty2-f89b2af02184a7256537bd8e1e692a48.png",
-    "build/assets/images/security-f2d3accb924155957493a9dde794cb3d.png",
+    "build/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
+    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
+    "docs/Subscribers/AccountCentre/img/allservicebundle.PNG",
+    "docs/Subscribers/AccountCentre/img/allserviceexpired.PNG",
+    "docs/Subscribers/AccountCentre/img/allservicecancelled.PNG",
+    "docs/Subscribers/AccountCentre/img/servicedeactivate.PNG",
+    "docs/Subscribers/AccountCentre/img/allservicerenew.PNG",
+    "docs/Subscribers/AccountCentre/img/allserviceundercancell.PNG",
+    "docs/Subscribers/AccountCentre/img/allservicedeactivate.PNG",
+    "docs/Subscribers/AccountCentre/img/allervicedeactivation.PNG",
     "docs/Subscribers/AccountCentre/Commercial.md",
+    "docs/Subscribers/AccountCentre/Services.md",
+    "docs/Subscribers/AccountCentre/img/allservicetobedeliver.PNG",
+    "docs/Subscribers/AccountCentre/img/allerviceactivedeliver.PNG",
+    "docs/Subscribers/AccountCentre/Assets.md",
+    "docs/Subscribers/AccountCentre/Assets - Copy.md",
+    "docs/Subscribers/AccountCentre/Commercial - Copy.md",
     "docs/FAQs/Miscellaneous/FAQs.md",
     "docs/Subscribers/AccountCentre/ResettingPassword.md",
     "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md",
@@ -212,10 +231,6 @@
     "docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails.md",
     "docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
-    "docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage.md",
-    "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview.md",
-    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
-    "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md"
+    "docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage.md"
   ]
 }
