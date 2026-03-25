@@ -33,9 +33,9 @@ sidebar_position: 9
    - Amount Paid
    - Amount Due
    - Status
- 3. Use the **Search bar** to quickly find specific invoices.
+ 3. Use the **Search Bar** to quickly find specific invoices.
  4. Click on **Choose Columns** to customize the fields displayed in the table.
- 5. Use the **Excel icon** to download the invoice list.
+ 5. Click on **Excel** icon to download the invoice list.
  6. Click on **Pay Now** to proceed with invoice payment.
    
 ## Credit Notes

@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ea2'),
+    component: ComponentCreator('/docs', '774'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'bb8'),
+        component: ComponentCreator('/docs', 'db0'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '41d'),
+            component: ComponentCreator('/docs', 'e63'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -389,6 +389,12 @@ export default [
                 sidebar: "sidebar4"
               },
               {
+                path: '/docs/Subscribers/AccountCentre/Address',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/Address', 'cd2'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/AccountCentre/Assets',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/Assets', '5c5'),
                 exact: true,
@@ -397,6 +403,18 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/Commercial',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/Commercial', 'ea3'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/CompanyDetails',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/CompanyDetails', 'e77'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/Contacts',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/Contacts', '116'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -427,6 +445,12 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/Organisation-AccountProfile',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/Organisation-AccountProfile', 'f65'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/Profile',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/Profile', '399'),
                 exact: true,
                 sidebar: "sidebar1"
               },

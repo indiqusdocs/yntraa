@@ -86,6 +86,11 @@
               "sidebar": "sidebar4"
             },
             {
+              "id": "Subscribers/AccountCentre/Address",
+              "path": "/docs/Subscribers/AccountCentre/Address",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/AccountCentre/Assets",
               "path": "/docs/Subscribers/AccountCentre/Assets",
               "sidebar": "sidebar1"
@@ -93,6 +98,16 @@
             {
               "id": "Subscribers/AccountCentre/Commercial",
               "path": "/docs/Subscribers/AccountCentre/Commercial",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/CompanyDetails",
+              "path": "/docs/Subscribers/AccountCentre/CompanyDetails",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Contacts",
+              "path": "/docs/Subscribers/AccountCentre/Contacts",
               "sidebar": "sidebar1"
             },
             {
@@ -118,6 +133,11 @@
             {
               "id": "Subscribers/AccountCentre/Organisation-AccountProfile",
               "path": "/docs/Subscribers/AccountCentre/Organisation-AccountProfile",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Profile",
+              "path": "/docs/Subscribers/AccountCentre/Profile",
               "sidebar": "sidebar1"
             },
             {
