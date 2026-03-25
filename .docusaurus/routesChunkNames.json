@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-0d6": {
+  "/docs-ea2": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-72f": {
+  "/docs-bb8": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-ce8": {
+  "/docs-41d": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -316,6 +316,10 @@
   "/docs/category/miscellaneous-d7b": {
     "__comp": "14eb3368",
     "__props": "298defe3"
+  },
+  "/docs/category/monitoring-and-usage-227": {
+    "__comp": "14eb3368",
+    "__props": "812607c4"
   },
   "/docs/category/nat-gateways-049": {
     "__comp": "14eb3368",
@@ -428,6 +432,18 @@
   "/docs/Subscribers/AccountCentre/Dashboard-ce3": {
     "__comp": "17896441",
     "content": "b8ec49e4"
+  },
+  "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup-a77": {
+    "__comp": "17896441",
+    "content": "64600adb"
+  },
+  "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra-e55": {
+    "__comp": "17896441",
+    "content": "8d3bfc00"
+  },
+  "/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails-a22": {
+    "__comp": "17896441",
+    "content": "4981dd38"
   },
   "/docs/Subscribers/AccountCentre/Organisation-AccountProfile-f65": {
     "__comp": "17896441",

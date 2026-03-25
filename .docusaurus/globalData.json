@@ -101,6 +101,21 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup",
+              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra",
+              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/MonitoringandUsage/UsageDetails",
+              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/AccountCentre/Organisation-AccountProfile",
               "path": "/docs/Subscribers/AccountCentre/Organisation-AccountProfile",
               "sidebar": "sidebar1"
@@ -1008,6 +1023,11 @@
             {
               "id": "/category/account-centre",
               "path": "/docs/category/account-centre",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/monitoring-and-usage",
+              "path": "/docs/category/monitoring-and-usage",
               "sidebar": "sidebar1"
             },
             {

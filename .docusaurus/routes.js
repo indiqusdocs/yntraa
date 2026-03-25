@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '0d6'),
+    component: ComponentCreator('/docs', 'ea2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '72f'),
+        component: ComponentCreator('/docs', 'bb8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ce8'),
+            component: ComponentCreator('/docs', '41d'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -231,6 +231,12 @@ export default [
                 component: ComponentCreator('/docs/category/miscellaneous', 'd7b'),
                 exact: true,
                 sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/category/monitoring-and-usage',
+                component: ComponentCreator('/docs/category/monitoring-and-usage', '227'),
+                exact: true,
+                sidebar: "sidebar1"
               },
               {
                 path: '/docs/category/nat-gateways',
@@ -397,6 +403,24 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/Dashboard',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/Dashboard', 'ce3'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup', 'a77'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra', 'e55'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails', 'a22'),
                 exact: true,
                 sidebar: "sidebar1"
               },

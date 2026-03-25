@@ -8,7 +8,16 @@ sidebar_position: 9
 2. Enter your **Email ID** and **Password** in the required fields.
 3. Click on the **Sign In** button to access the dashboard. The following screen appears:
 ![oneyottadashboard](img/oneyottadashboard.png)
-4. From the dashboard, navigate to the **Commercial** tab to view and manage commercial details. The following screen appears with details:
+4. From the dashboard, navigate to the **Commercial** tab to view and manage commercial details:
+- Invoices
+- Credit Notes
+- Transactions
+- Wallet 
+- Credit Voucher
+- Discount Code
+- Online Payment History
+- Unbilled Charges
+- Service Balance
 
 ## Invoices
 ![invoices](img/invoices.png)
