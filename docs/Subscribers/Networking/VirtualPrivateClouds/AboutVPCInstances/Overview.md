@@ -18,11 +18,11 @@ Along with the summary, the following information is readily available under the
     - Information about the Network Size.
 - **Internal Information**- <br/>
 	This displays the information that is used for internal identification of this VPC router and communication with other internal services.
-    - Template Name
-    - Virtual Router Internal Name
-    - Created On
+    - TEMPLATE NAME
+    - VIRTUAL ROUTER INTERNAL NAME
+    - CREATED ON
 
-![createvpc3](img/createvpc3.png)
+![vpcoverviewnew](img/vpcoverviewnew.png)
 
 From here on, VPC operations, configurations and other available functions can be managed by navigating to the respective tabs/sections.
 

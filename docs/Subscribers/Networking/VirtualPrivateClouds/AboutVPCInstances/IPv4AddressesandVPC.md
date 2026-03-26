@@ -7,13 +7,13 @@ IPv4 Addresses are an integral part of using VPC networking, and need to be used
 
 ## Using Additional IPv4
 
-Primarily, IPv4 Addresses can be used for configuring access and NAT-ing via:
+Primarily, IPv4 Addresses can be used for configuring access and perform NAT via:
 
 - [Load balancing](#configuring-load-balancing)
 - [Port Forwarding](#configuring-port-forwarding)
 - [Static NAT](#configuring-static-nat)
 
-![addrule0](img/addrule0.png)
+![addrulenew](img/addrulenew.png)
 
 As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **ADD PUBLIC IPv4 ADDRESS** button.
 
@@ -25,7 +25,7 @@ Public IPv4 addresses may carry a price which may vary depending on availability
 To configure the Load Balancing Rule, follow these steps:
 
 1. To create Load Balancing Rule, click the ![Icon](img/LoadBalancingIcon.png)icon. The following window appears:
-	![addrule0](img/addrule0.png)
+	![addrulenew](img/addrulenew.png)
 2. Click **+ Add Rule**. The following window appears:
 	![addrule1new](img/addrule1new.png)
 3. Specify the following details in the window:
@@ -41,7 +41,7 @@ To configure the Load Balancing Rule, follow these steps:
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
 
 1. Click the **Load Balancer Rule** icon. The following window appears:
-   ![addrule0](img/addrule0.png)
+   ![addrulenew](img/addrulenew.png)
 2. Click the dropdown arrow and select the appropriate **Load Balancing Rule**. The following window appears:
    ![addrule2](img/addrule2.png)
 3. This window shows Instances that are part of this load balancer, and those available to be added. 
