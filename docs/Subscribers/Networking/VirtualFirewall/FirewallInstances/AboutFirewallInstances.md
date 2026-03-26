@@ -14,7 +14,7 @@ The following are the important features:
 - Subscribers can create, configure, and manage Virtual Firewalls with enhanced network interface controls, restore points, etc.
 - Limitations include predefined WAN-LAN configurations and one firewall per gateway.
 
-All virtual firewalls created in an account can be accessed from navigating to the **Networking > Virtual Firewalls** tab.
+All virtual firewalls created in an account can be accessed from navigating to the **NETWORK AND SECURITY > Virtual Firewalls** tab.
 
-![virtualfirewall](img/virtualfirewall.png)
+![virtualfirewallnew](img/virtualfirewallnew.png)
 

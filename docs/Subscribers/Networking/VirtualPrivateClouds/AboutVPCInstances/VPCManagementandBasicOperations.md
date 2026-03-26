@@ -11,7 +11,7 @@ The VPC power state can be managed using the **START ROUTER / STOP ROUTER** opti
 
 To restart the VPC, navigate to the  **Operations** tab and click the **RESTART VIRTUAL ROUTER** button. This performs quick reboot and no data is lost.
 
-![operation](img/operation.png)
+![operationnew](img/operationnew.png)
 
 ## Deleting a VPC
 

@@ -4,7 +4,7 @@ sidebar_position: 8
 # Configuring Alerts
 
 To view the configured alerts or configure new ones, navigate to the Virtual Firewall and access the **Alerts** tab.
-![alertcreate](img/alertcreate.png)
+![alertnew](img/alertnew.png)
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 
@@ -24,7 +24,7 @@ The Alerts tab lists all the alerts already configured for that particular Virtu
 
 To create or add alerts, click the **CREATE ALERT** button. The following window appears:
 
-![alertcreationform](img/alertcreationform.png)
+![createalertnew](img/createalertnew.png)
 
 The various fields of the Create Alert screen are as follows:
 - **Name** - You can define the name for your alert.
@@ -43,7 +43,7 @@ This section list and display all the email IDs already configured for the alert
 3. From the list view, select the email IDs based on their assigned roles.
 4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
 5. Click the **UPDATE** button to save the changes to the recipients list.
-![managerecepient](img/managerecepient.png)
+![managerecepientnew](img/managerecepientnew.png)
 
 :::note
 All configured recipients receive all setup alerts. If no email ID is configured or added, no email is sent for the already configured alerts.
