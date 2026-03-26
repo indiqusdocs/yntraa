@@ -4,7 +4,7 @@ sidebar_position: 1
 # About Virtual Private Clouds
 
 Details about Virtual Private Cloud operations and actions can be found in their respective sections.
-![vpcoverview](img/vpcoverview.png)
+![vpcoverviewnew](img/vpcoverviewnew.png)
 - [Create, List and View VPCs](CreateListandViewVPCs)
 - [Overview](docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview.md)
 - [Creating subnets and tiers](CreatingVPCSubnetsTiers)

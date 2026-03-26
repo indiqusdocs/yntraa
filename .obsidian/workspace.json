@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FAQs/Miscellaneous/FAQs.md",
+                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "FAQs"
-            }
-          },
-          {
-            "id": "5e8b677d633e8dce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Subscribers/AccountCentre/Contacts.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Contacts"
+              "title": "CreateListandViewVPCs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,53 +169,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e8b677d633e8dce",
+  "active": "d341101c1e47ac2b",
   "lastOpenFiles": [
-    "build/docs/Subscribers/SigningUp/index.html",
-    "build/docs/Subscribers/SigningUp",
-    "build/docs/Subscribers/SigningIn/index.html",
-    "build/docs/Subscribers/SigningIn",
-    "build/assets/images/address-072e0e66e691e99c8b8ccad3b0a6dfae.png",
-    "build/assets/images/contactsnew2-e932a38a81f0b962b9e9195f170cf43e.png",
-    "build/assets/images/contactsnew-06b6cc38359161ff5564d5d06277e04a.png",
-    "build/assets/images/companydetails2-3bfd1e1d1080125df6b267cb205ab89b.png",
-    "build/assets/images/companydetails-41323b646275c4e5bda6dc296c977cdb.png",
-    "build/assets/images/allservicebundle-0620d046d3826ceae697210c7800eab2.png",
-    "build/assets/images/dropdown-7ae0087a4bdece45c9aec3c661f9bf4a.png",
-    "build/assets/images/allserviceexpired-fa366519f3b3bb501d7f563cd336fa62.png",
-    "build/assets/images/allservicecancelled-7ad2207ced709cba1c4776f3a7323864.png",
-    "build/assets/images/address2-39a6dd6e0736ba5cf1759bf050023750.png",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
-    "build/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
-    "docs/Subscribers/AccountCentre/Address.md",
-    "docs/Subscribers/AccountCentre/Commercial.md",
-    "docs/Subscribers/AccountCentre/Contacts.md",
-    "docs/Subscribers/AccountCentre/CompanyDetails.md",
-    "docs/Subscribers/AccountCentre/Address - Copy.md",
-    "docs/Subscribers/AccountCentre/TeamMemberManagement.md",
-    "docs/Subscribers/AccountCentre/Profile - Copy.md",
-    "docs/Subscribers/AccountCentre/Profile.md",
-    "docs/Subscribers/AccountCentre/CompanyProfile.md",
-    "docs/Subscribers/AccountCentre/Tickets.md",
-    "docs/Subscribers/AccountCentre/Assets - Copy.md",
-    "docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra.md",
-    "docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails.md",
-    "docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup.md",
-    "docs/Subscribers/AccountCentre/MonitoringandUsage/BackupMonitoring - Copy.md",
-    "docs/Subscribers/AccountCentre/MonitoringandUsage/InfraMonitoring - Copy.md",
-    "docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringandUsage - Copy.md",
-    "docs/Subscribers/AccountCentre/MonitoringandUsage.md",
-    "docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringandUsage.md",
-    "docs/Subscribers/AccountCentre/Services.md",
-    "docs/Subscribers/AccountCentre/Commercial - Copy.md",
-    "docs/Subscribers/AccountCentre/Assets.md",
+    "build/assets/images/yottasmartactivation-d540487bcbacec11459d6deefa1da711.png",
+    "build/assets/images/yottasmartcsoc-e95969b59b7f712b46dd00a53c6c14ac.png",
+    "build/assets/images/wininstancethird-2fd671ca009da085ffe989dd35efaa5e.png",
+    "build/assets/images/wallet2-53d35a1fedf320375cabe5f5e86143df.png",
+    "build/assets/images/wininstancesecond-3336fde99953aeed9f9de435a9e4bc2d.png",
+    "build/assets/images/webssh-d28940353740dd7f36dbb836a852bce5.png",
+    "build/assets/images/windowsinstance-4ef755749badeffcba760ca875067c12.png",
+    "build/assets/images/wanapiculus-ab3ada376079387cf1da3f771fa603a4.png",
+    "build/assets/images/wallet1-00ee374f9bdb9d82406b495a7a9347ef.png",
+    "build/assets/images/wafactivation-b808f67f326a8a924686ebbdd3f28f71.png",
+    "build/assets/images/waf-670313bfee50608cce38f816044ceddf.png",
+    "build/assets/files/LoadTestingasaService-78be79ea92cefdc189010da7d3adc9a0.pdf",
+    "build/assets/files/CloudProfessionalService-c84c2f839435431ce9b71fed34af15d8.pdf",
+    "build/assets/files/CloudOptimisationService-91f5cffe4bf9409eacff80a2c4faf69a.pdf",
+    "build/assets/files/CloudAssessmentandAdvisoryService-440f456575c1249c63a2d1b6ee10c1c0.pdf",
+    "build/assets/files/BRaaS-ad3a5a307ac1a91bbb89704cb2e6914d.pdf",
+    "build/assets/files/BaremetalService-1ad8b6d73f7dd3c377c9ad798c1992c1.pdf",
+    "build/assets/images",
+    "build/assets/files",
+    "build/assets",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "build/blog/tags/hola/index.html",
+    "docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
+    "docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
     "docs/FAQs/Miscellaneous/FAQs.md",
-    "docs/Subscribers/AccountCentre/ResettingPassword.md",
-    "docs/Subscribers/AccountCentre/Organisation-AccountProfile.md"
+    "docs/Subscribers/Networking/_LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
+    "docs/Subscribers/Networking/_LoadBalancerInstances/AboutLoadBalancerInstances.md",
+    "docs/Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview.md",
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
+    "Sample.md",
+    "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md"
   ]
 }

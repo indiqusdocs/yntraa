@@ -14,12 +14,12 @@ As the virtual firewalls are created, Cloud Console users can view the enabled V
 
 To view a list of sections and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
 
-- Configuration
-- Availability Zone
-- Public IPV4 (L2 WAN)
-- Created 
+- CONFIGURATION
+- AVAILABILITY ZONE
+- PUBLIC IPV4 (L2 WAN)
+- CREATED
 
-On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **STOP INSTANCE/START INSTANCE** the Instance.
+On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **STOP INSTANCE/START INSTANCE**.
 
 ![launchconsole](img/launchconsole.png)
 

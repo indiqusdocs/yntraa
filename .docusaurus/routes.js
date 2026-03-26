@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -84,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '774'),
+    component: ComponentCreator('/docs', '2ee'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'db0'),
+        component: ComponentCreator('/docs', '970'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e63'),
+            component: ComponentCreator('/docs', 'a0a'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -175,6 +210,12 @@ export default [
               {
                 path: '/docs/category/linux-instances',
                 component: ComponentCreator('/docs/category/linux-instances', '251'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/load-balancer-instances',
+                component: ComponentCreator('/docs/category/load-balancer-instances', 'abc'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -967,6 +1008,24 @@ export default [
               {
                 path: '/docs/Subscribers/Networking/L2 Networks/AddNewL2Networks',
                 component: ComponentCreator('/docs/Subscribers/Networking/L2 Networks/AddNewL2Networks', '976'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances',
+                component: ComponentCreator('/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances', '05a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX',
+                component: ComponentCreator('/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX', '5c9'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance',
+                component: ComponentCreator('/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance', '428'),
                 exact: true,
                 sidebar: "sidebar1"
               },

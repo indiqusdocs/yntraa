@@ -9,7 +9,7 @@ Access control policies can be created using Access Control Lists (ACL) and conf
 Each VPC comes with **default_allow** and **default_deny** ACL, which can be edited but not deleted.
 :::
 
-To access the ACL navigate to **VPC details** and select the  **Access Control Lists** tab. You can perform the following actions on any available ACL:
+To access the ACL navigating to the **Networking > **Virtual Private Cloud** tab and select the **Access Control Lists**. You can perform the following actions on any available ACL: 
 
 - Edit the ACL name
 - Add an ACL rule

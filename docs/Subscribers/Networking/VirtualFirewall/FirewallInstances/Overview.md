@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Overview
 
-To view the below details, navigate to the [Firewall Security](AboutFirewallInstances.md), select the Virtual Firewall and access the **Overview** tab.
+To view the below details, navigate to the [Firewall Instance](AboutFirewallInstances.md), select the Virtual Firewall and access the **Overview** tab.
 
 -  [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)
@@ -14,23 +14,23 @@ To view the below details, navigate to the [Firewall Security](AboutFirewallIns
 
 ## Configuration and Availability
 
-This section displays the instance's status, **RUNNING**, is displayed in  <span class="green">**green**</span>, whereas STOPPED is displayed in <span style={{ color: 'grey' }}>greyed</span> out and the information about the networking zone.
+This section displays the instance's status, **RUNNING**, is displayed in  <span class="green">**green**</span>, whereas STOPPED is displayed in <span style={{ color: 'red' }}>red</span> out and the information about the networking zone.
 ## Internal Information
 
 This section displays the information used for internal identification of this instance and communication with other internal services.
 
-- Template Name
-- Internal Name
-- Created On
+- TEMPLATE NAME
+- INTERNAL NAME
+- CREATED ON
 ## NIC Information
 
 This section displays the following information:
 
-- Network Name
-- MAC Address
-- IP Address
-- Netmask
-- Gateway
+- NETWORK NAME
+- MAC ADDRESS
+- IP ADDRESS
+- NETMASK
+- GATEWAY
 
 
 

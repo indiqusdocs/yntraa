@@ -571,6 +571,21 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
+              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
+              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
+              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Networking/NATGateways/AboutNATGateways",
               "path": "/docs/Subscribers/Networking/NATGateways/AboutNATGateways",
               "sidebar": "sidebar1"
@@ -948,6 +963,11 @@
             {
               "id": "/category/ipv4-based-networking",
               "path": "/docs/category/ipv4-based-networking",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/load-balancer-instances",
+              "path": "/docs/category/load-balancer-instances",
               "sidebar": "sidebar1"
             },
             {

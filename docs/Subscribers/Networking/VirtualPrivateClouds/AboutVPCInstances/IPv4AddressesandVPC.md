@@ -35,6 +35,7 @@ To configure the Load Balancing Rule, follow these steps:
 	- **Tier**
 	- **Public Port**
 	- **Private Port**.
+	- **Algorithm**
 4. Click the **ADD LOAD BALANCING RULE** button.
 
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
@@ -48,7 +49,7 @@ Once the load balancer rule has been created, you can navigate to load balancer 
    ![addrule2](img/addrule2.png)
    ![instanceaddremove](img/instanceaddremove.png)
 :::note
-To delete this Load Balancing Rule, click **DELETE THIS RULE**.
+To delete this Load Balancing Rule, click **DELETE THIS RULE** button.
 :::
 
 To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
@@ -68,12 +69,12 @@ To configure port forwarding, follow these steps:
 	- **Protocol** 
 	- **Tier**
 	- **Instance**
-	- **Public Start Port** and **Public End Port** range.
-	- **Private Start Port** and **Private End Port** range.
+	- **Public Start Port** and **Public End Port**
+	- **Private Start Port** and **Private End Port** 
 	  :::note
 	  The end ports should be equal to or greater than the start ports.
 	  :::
-4. Click **ADD PORT FORWARDING RULE**.
+4. Click **ADD PORT FORWARDING RULE** button.
 
 Once the Port-Forwarding rule is created, you can view its details by following these steps:
 1. Click the **Port Forwarding Rule** icon. The following window appears:![pf](img/pf.png)
@@ -88,7 +89,7 @@ A Port-Forwarding IP address can be used to configure multiple Port-Forwarding a
 
 1. To use the public IP as a static translation, click the ![](img/StaticNATIcon.png)icon. The following window appears: 
    ![addstaticnat](img/addstaticnat.png)
-2. Select the Instance you want to assign the public IP to, then click **Add Static NAT**.
+2. Select the Instance you want to assign the public IP to, then click **Add Static NAT** button.
 
 To test whether static NAT has been configured correctly, you can use the public IP to SSH into the virtual machine that the IP is NAT-ing to.
 

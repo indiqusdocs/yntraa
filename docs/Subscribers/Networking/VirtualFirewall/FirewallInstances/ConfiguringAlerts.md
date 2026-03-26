@@ -14,12 +14,11 @@ You can configure alerts for instances running on the Yntraa. You can define ale
 
 The Alerts tab lists all the alerts already configured for that particular Virtual Firewall. In addition, it shows the following details:
 
-- ID
-- Name for the alert
-- Parameter
-- Trigger When
-- Value
-- Reading Duration
+- ALERT NAME
+- PARAMETER
+- TRIGGER
+- VALUE
+- READING DURATION
 
 ## Adding an Alert
 
@@ -43,7 +42,7 @@ This section list and display all the email IDs already configured for the alert
 2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
 3. From the list view, select the email IDs based on their assigned roles.
 4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
-5. Click the **Update** button to save the changes to the recipients list.
+5. Click the **UPDATE** button to save the changes to the recipients list.
 ![managerecepient](img/managerecepient.png)
 
 :::note

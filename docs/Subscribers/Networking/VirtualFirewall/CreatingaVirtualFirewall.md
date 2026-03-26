@@ -6,7 +6,7 @@ sidebar_position: 2
  To create a Virtual Firewall, follow these steps:
  
  1. In the main menu, navigate to the **Networking > Virtual Firewalls** tab. 
- 2. To activate the service, click the **NEW VIRTUAL FIREWALL** button.
+ 2. To activate the service, click the **+ NEW VIRTUAL FIREWALL** button.
 	:::note
 	 Yntraa currently only supports one Virtual Firewall per Availability Zone.
 	 :::
@@ -14,7 +14,7 @@ sidebar_position: 2
 3. Select your Availability Zone.
 4. Select the Virtual Firewall provider from the dropdown menu.<br/>
 	![vfconfig](img/vfconfig.png)
-5. Choose the compute pack from the list.
+5. Choose the virtual firewall configuration from the list.
 6. Select the Incoming Traffic Rule (Allow All, Deny All, Allow Custom) and give a name to your Virtual Firewall.
 	:::note
 		**Allow All-** Grants access to all protocols and services without restriction when selected.
