@@ -541,213 +541,213 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/AboutIPv4-basedNetworking",
+              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking",
+              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
+              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
+              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
+              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
+              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "path": "/docs/Subscribers/Networking/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
+              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
+              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/L2 Networks/AboutL2Networks",
-              "path": "/docs/Subscribers/Networking/L2 Networks/AboutL2Networks",
+              "id": "Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
+              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/L2 Networks/AddNewL2Networks",
-              "path": "/docs/Subscribers/Networking/L2 Networks/AddNewL2Networks",
+              "id": "Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks",
+              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/AboutLoadBalancerInstances",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/ActivatingtheNetScalerVPX",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
-              "path": "/docs/Subscribers/Networking/LoadBalancerInstances/CreatingaLoadBalancerInstance",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/NATGateways/AboutNATGateways",
-              "path": "/docs/Subscribers/Networking/NATGateways/AboutNATGateways",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/Instances",
-              "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Instances",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/IPv4Addresses",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/Operations",
-              "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Operations",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/Overview",
-              "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/Overview",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
-              "path": "/docs/Subscribers/Networking/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF",
-              "path": "/docs/Subscribers/Networking/NATGateways/PortForwardingforVMviaVNF",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/NATGateways/PortForwardingwithPublicIP",
-              "path": "/docs/Subscribers/Networking/NATGateways/PortForwardingwithPublicIP",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/AccessingtheVFIControlPanel",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/CreatingaVirtualFirewall",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/DeployingVNFandVMWithinVNF",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/NetworkingManagement",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Overview",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Snapshots",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilization",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "path": "/docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/VolumeManagement",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Overview",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-              "path": "/docs/Subscribers/Networking/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
               "sidebar": "sidebar1"
             },
             {
@@ -921,8 +921,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/networking",
-              "path": "/docs/category/networking",
+              "id": "/category/network-and-security",
+              "path": "/docs/category/network-and-security",
               "sidebar": "sidebar1"
             },
             {
