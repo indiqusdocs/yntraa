@@ -24,7 +24,7 @@ To enhance your network security within the Yntraa Cloud, you can deploy a virtu
 
 The following steps guide you through the process of navigating to the correct section, initiating the firewall creation, and completing its configuration:
 
-1. In the left-hand menu, go to **Virtual Firewalls** under the **NETWORK AND SECURITY** section.
+1. In the left-hand menu, go to **Virtual Firewalls** under the **Network and Security** section.
 2. On the Virtual Firewalls page, click the **NEW VIRTUAL FIREWALL** button.
 3. Follow the prompts to configure and create the virtual firewall.
 ![newvfnew](img/newvfnew.png)
@@ -35,12 +35,12 @@ To configure the new virtual firewall in the Yntraa Cloud, you must define a few
 
 The following steps guide you through selecting configuration options like availability zone, compute configuration, firewall provider, and traffic rules before finalizing the setup:
 
-1. **Choose Availability Zone**: Select your preferred availability zone based on your location and network needs.
-2. **Choose Compute Configuration**: Pick a compute option that matches your performance requirements.
-3. **Select Firewall Provider**: Choose a firewall provider from the dropdown (for example, **pfsense Plan**)    
-4. **Set Incoming Traffic Rule**: Select the desired ACL rule, such as **Allow All**, from the dropdown menu.
+1. **Choose Your Availability Zone**: Select your preferred availability zone based on your location and network needs.
+2. **Select Firewall Provider**: Choose a firewall provider from the dropdown.  
+3. **Choose a Virtual Firewall Configuration**: Pick a collection option that matches your performance requirements.
+4. **Set Incoming Traffic Rule**: Select the desired ACL rule from the dropdown menu.
 5. **Name Your Virtual Firewall**: Enter a name for your virtual firewall. Use only letters, numbers, hyphens, or dots.
-6. **Review Estimated Costs**: Check the summary and pricing before proceeding.
+6. **Summary and Estimated Costs**: Check the summary and pricing before proceeding.
 ![newvf1](img/newvf1.png)
 ![newvfdefault](img/newvfdefault.png)
 ![estimatedcost](img/estimatedcost.png)
@@ -79,7 +79,7 @@ The following steps guide you through viewing the full details of your virtual f
 ![virtualfirewallconfignew](img/virtualfirewallconfignew.png)
 ### Viewing LAN and WAN Tiers
 
-To understand the network configuration, navigate to the **NETWORK AND SECURITY** section where you can view both **LAN** and **WAN** tiers. This helps identify how instances are connected and how traffic flows between internal and external networks.
+To understand the network configuration, navigate to the **Network and Security** section where you can view both **LAN** and **WAN** tiers. This helps identify how instances are connected and how traffic flows between internal and external networks.
 
 The following steps guide you through accessing the Networking section and identifying the WAN and LAN tiers connected to your firewall:
 

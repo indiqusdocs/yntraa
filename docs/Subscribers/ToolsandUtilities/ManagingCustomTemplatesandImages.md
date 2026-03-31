@@ -12,10 +12,10 @@ Custom OS templates can be created from a Restore Point. To view custom template
 - FORMAT
 - CREATED ON
   
-  ![myimage](img/myimage.png)
-  ![myimage1](img/myimage1.png)
+  ![myimagenew](img/myimagenew.png)
+  ![imagedetailsnew](img/imagedetailsnew.png)
   
-  You can delete an image by clicking the delete icon. You can also check the status by clicking the image name.![deletemyimage](img/deletemyimage.png)
+  You can delete an image by clicking the delete icon. You can also check the status by clicking the image name.![deletemyimagenew](img/deletemyimagenew.png)
   
   These Images can be used while creating new Linux or Windows Instances.  To view the images navigate to the **Tools and Utilities** section and select the **MY IMAGES** tab.
 

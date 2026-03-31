@@ -171,11 +171,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AdvanceServices/DevOpsasaService",
-              "path": "/docs/Subscribers/AdvanceServices/DevOpsasaService",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/CloudAssure/AssessmentandAdvisory",
               "path": "/docs/Subscribers/CloudAssure/AssessmentandAdvisory",
               "sidebar": "sidebar1"
@@ -466,11 +461,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManagedCompute/BareMetal",
-              "path": "/docs/Subscribers/ManagedCompute/BareMetal",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/ManagedCompute/ContainerRegistry",
               "path": "/docs/Subscribers/ManagedCompute/ContainerRegistry",
               "sidebar": "sidebar1"
@@ -538,6 +528,16 @@
             {
               "id": "Subscribers/ManagedSecurity/YottaSmartCSOC",
               "path": "/docs/Subscribers/ManagedSecurity/YottaSmartCSOC",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedSolutions/BareMetal",
+              "path": "/docs/Subscribers/ManagedSolutions/BareMetal",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedSolutions/DevOpsasaService",
+              "path": "/docs/Subscribers/ManagedSolutions/DevOpsasaService",
               "sidebar": "sidebar1"
             },
             {
@@ -1041,13 +1041,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/cloud-assure",
-              "path": "/docs/category/cloud-assure",
+              "id": "/category/managed-solutions",
+              "path": "/docs/category/managed-solutions",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/advance-services",
-              "path": "/docs/category/advance-services",
+              "id": "/category/cloud-assure",
+              "path": "/docs/category/cloud-assure",
               "sidebar": "sidebar1"
             },
             {

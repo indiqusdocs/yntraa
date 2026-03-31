@@ -16,7 +16,7 @@ The following schedules are supported:
 
 You can create automatic restore point policies as per defined schedules. 
 
-![schedule](img/schedule.png)
+![schedulenew](img/schedulenew.png)
 
 ## Set Restore Point Schedule
 
@@ -28,7 +28,7 @@ While configuring restore point schedules, the following points should be consid
   
 To create a Restore Point Schedule, click **Create Schedule**. The following dilog box appears.
 
-![setschedule](img/setschedule.png)
+![setschedulenew](img/setschedulenew.png)
 Select the below details in the form to set the Restore Point Schedule.
 - Frequency
 - Timezone

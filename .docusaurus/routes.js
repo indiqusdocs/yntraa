@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '269'),
+    component: ComponentCreator('/docs', '6fb'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '113'),
+        component: ComponentCreator('/docs', '0a3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '6ae'),
+            component: ComponentCreator('/docs', 'a41'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -138,12 +138,6 @@ export default [
               {
                 path: '/docs/category/account-centre',
                 component: ComponentCreator('/docs/category/account-centre', '23a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/advance-services',
-                component: ComponentCreator('/docs/category/advance-services', 'd40'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -252,6 +246,12 @@ export default [
               {
                 path: '/docs/category/managed-security',
                 component: ComponentCreator('/docs/category/managed-security', '2e6'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/managed-solutions',
+                component: ComponentCreator('/docs/category/managed-solutions', 'd2e'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -528,12 +528,6 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/Tickets',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/Tickets', '9f0'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AdvanceServices/DevOpsasaService',
-                component: ComponentCreator('/docs/Subscribers/AdvanceServices/DevOpsasaService', '203'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -886,12 +880,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ManagedCompute/BareMetal',
-                component: ComponentCreator('/docs/Subscribers/ManagedCompute/BareMetal', 'b1b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/ManagedCompute/ContainerRegistry',
                 component: ComponentCreator('/docs/Subscribers/ManagedCompute/ContainerRegistry', 'c20'),
                 exact: true,
@@ -972,6 +960,18 @@ export default [
               {
                 path: '/docs/Subscribers/ManagedSecurity/YottaSmartCSOC',
                 component: ComponentCreator('/docs/Subscribers/ManagedSecurity/YottaSmartCSOC', '05b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedSolutions/BareMetal',
+                component: ComponentCreator('/docs/Subscribers/ManagedSolutions/BareMetal', '4ec'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/ManagedSolutions/DevOpsasaService',
+                component: ComponentCreator('/docs/Subscribers/ManagedSolutions/DevOpsasaService', 'ceb'),
                 exact: true,
                 sidebar: "sidebar1"
               },

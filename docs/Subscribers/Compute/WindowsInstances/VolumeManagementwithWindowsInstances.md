@@ -5,7 +5,7 @@ sidebar_position: 7
 
 To view the disks attached to this instance, navigate to [Windows Instances Screen](AboutWindowsInstances), select a Windows Instance, and access the **Volumes** tab.
 Windows Instances on Yntraa cloud console work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
-![volumemanagement](img/volumemanagement.png)
+![volumedefault](img/volumedefault.png)
 
 The following quick actions are available:
 

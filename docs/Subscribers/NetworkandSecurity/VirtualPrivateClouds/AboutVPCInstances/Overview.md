@@ -5,10 +5,10 @@ sidebar_position: 3
 
 To view a list of sections and the various operations or actions you can perform by going inside the particular section, click on the VPC name. Below the VPC name is an informational view where you can find the details below.
 
-- CONFIGURATION
-- AVAILABILITY ZONE
-- PUBLIC IP
-- CREATED
+- Configuration
+- Availability Zone
+- Public IP
+- Created
 
 Along with the summary, the following information is readily available under the **Overview** tab:
 
@@ -18,9 +18,9 @@ Along with the summary, the following information is readily available under the
     - Information about the Network Size.
 - **Internal Information**- <br/>
 	This displays the information that is used for internal identification of this VPC router and communication with other internal services.
-    - TEMPLATE NAME
-    - VIRTUAL ROUTER INTERNAL NAME
-    - CREATED ON
+    - Template Name
+    - Virtual Router Internal Name
+    - Created On
 
 ![vpcoverviewnew](img/vpcoverviewnew.png)
 

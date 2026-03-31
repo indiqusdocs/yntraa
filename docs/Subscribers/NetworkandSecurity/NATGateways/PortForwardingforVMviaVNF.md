@@ -53,7 +53,7 @@ To enable external access to internal services hosted behind a NAT Gateway, you 
 
 The following steps outline the process to navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively:
 
-1. In the left-hand menu, click on **NAT Gateways** under the **NETWORK AND SECURITY** section.
+1. In the left-hand menu, click on **NAT Gateways** under the **Network and Security** section.
 2. Select your NAT Gateway from the list.
 3. In the gateway page, click on the **IPv4 Addresses** tab.
 4. Find your public IP address listed on this page.
@@ -66,7 +66,7 @@ To allow external access through a NAT Gateway in the  Cloud Portal, you can add
 The following steps guide you through logging into the Cloud Portal, navigating to the NAT Gateways section, selecting the relevant gateway, and initiating the process of creating a new port forwarding rule by accessing the Port Forwarding interface and reviewing any existing rules: 
 
 1. Login to the Yntraa Cloud.
-2. From the left-hand side menu, under the **NETWORK AND SECURITY** section, click on **NAT Gateways**.
+2. From the left-hand side menu, under the **Network and Security** section, click on **NAT Gateways**.
 3. Choose the NAT Gateway for which you want to configure the port forwarding rule.
 4. Once inside the selected NAT Gateway, see a section titled **Port Forwarding** along with the public IP address.
 5. Click on the **+ ADD RULE** button located next to the Port Forwarding heading. This opens the interface to add a new port forwarding rule.

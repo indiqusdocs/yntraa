@@ -5,7 +5,7 @@ sidebar_position: 3
 
 The following steps can be used for activating the NetScaler VPX control panel and accessing it after activation:
 
-1. Navigate to **NETWORK AND SECURITY > Load Balancers** and click the LBI whose control panel needs to be activated.
+1. Navigate to **Network and Security > Load Balancers** and click the LBI whose control panel needs to be activated.
    ![loadbalanceinstance1](img/loadbalanceinstance1.png)
 2. In the LBI details, click the **Console** button to access the Instance's console interface. One-by-one, use the following commands:
 

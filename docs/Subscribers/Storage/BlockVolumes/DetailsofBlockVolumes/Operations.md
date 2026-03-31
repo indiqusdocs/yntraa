@@ -4,7 +4,7 @@ sidebar_position: 4
 # Operations
 
 To view all available Block Volume operations, navigate to the **Storage**, select the **Block Volumes** and access the **Operations** tab. The following window appears:
-![blockvolume1](img/blockvolume1.png)
+![blockvolumenew](img/blockvolumenew.png)
 
 Yntraa Cloud provides the options to perform the following operations on Block Volumes:
 

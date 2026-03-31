@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances.md",
-                "mode": "source",
+                "file": "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Instances"
+              "title": "VPCManagementandBasicOperations"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
+                "file": "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CreatingVPCSubnetsTiers"
+              "title": "Backlinks for VPCManagementandBasicOperations"
             }
           },
           {
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,6 +171,14 @@
   },
   "active": "1bd8ee1be3881827",
   "lastOpenFiles": [
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork.md",
@@ -185,37 +193,29 @@
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/search-index.json",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
-    "build/assets/images/datadisk1-f5ccf28563054025eb09fd5563986651.png",
-    "build/assets/images/datadisk2-98a6117754e1247859965b37ed08c23a.png",
-    "build/assets/images/datadisk3-cc52ede5fec229dfcaed9e86c54d2a88.png",
-    "build/assets/images/deletemyimage-4922c0d632dc9c8aa5efa7cec1656020.png",
-    "build/assets/images/staticpass2-87fe2bb56157d470451abbc4827133e1.png",
-    "build/assets/images/staticpass3-be9a6c3b694087a796df39c0027a1a24.png",
-    "build/assets/images/staticpass4-d9cd243754e3c5319d231b1c0b081ada.png",
-    "build/assets/images/staticpass5-b8a6713685edbc01cce031d90694e8f7.png",
-    "build/assets/images/staticpass6-8370fada9a1c6f50b5450427c4e72c19.png",
-    "build/assets/images/TechnicalContact-6eea6a57ac6ab6f7e2f2ca79f4fa79af.png",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations.md"
+    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP.md",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/img/pfrdetails.png",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/img/addportforwardingnew.png",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/img/addipv4new.png",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF.md",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/Compute/RHELInstances/img/costrhelnew.png",
+    "docs/Subscribers/Compute/RHELInstances/img/rootdiskrhelnew.png",
+    "docs/Subscribers/Compute/RHELInstances/img/computepacknew.png",
+    "docs/Subscribers/Compute/RHELInstances/img/rhelzonenew.png",
+    "docs/Subscribers/Compute/RHELInstances/img/rhelinstancenew.png",
+    "docs/Subscribers/Compute/RHELInstances/img/recepientrhelnew.png",
+    "docs/Subscribers/Compute/RHELInstances/img/alertrhelnew.png",
+    "docs/Subscribers/Compute/_Autoscale/_category_.json",
+    "docs/Subscribers/Compute/_Autoscale/img",
+    "docs/Subscribers/Compute/_Autoscale",
+    "docs/Subscribers/Compute/ManagedKubernetes/_category_.json",
+    "docs/Subscribers/Compute/ManagedKubernetes/img",
+    "docs/Subscribers/Compute/ManagedKubernetes",
+    "docs/Subscribers/Compute/OtherLinuxInstances/_category_.json",
+    "docs/Subscribers/Compute/OtherLinuxInstances/img",
+    "docs/Subscribers/Compute/OtherLinuxInstances",
+    "docs/Subscribers/Storage/ObjectStorageBuckets/_category_.json"
   ]
 }

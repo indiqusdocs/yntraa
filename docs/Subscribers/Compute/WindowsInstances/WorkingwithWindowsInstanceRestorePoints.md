@@ -8,21 +8,21 @@ To view all the Restore Points taken for the Instance, navigate to [Windows Inst
 Instance Restore Points allow you to create point-in-time images of Instances that preserve all their data volume and (optionally) CPU/memory states. You can use Restore Points to restore Instances quickly.
 
 The Restore Points section shows all Windows Instances Restore Points, which can be used to revert the Windows Instances to an earlier state.
-![restorepoint](img/restorepoint.png)
+![restorepointcreatenew](img/restorepointcreatenew.png)
 
-Snapshot shows the following details:
+Restore point shows the following details:
 - Restore Point Name
 - Description
 - Internal Name
 - Type
 - Created On
  
-Two quick options are available, one is to revert the Instance from the snapshot, and the other is to delete the particular snapshot.
+Two quick options are available, one is to revert the Instance from the restore point, and the other is to delete the particular restore point.
 
 - Click the **CREATE INSTANCE RESTORE POINT** button.
-- Specify the name and the description of the snapshot.
-- To create a Restore Point, click **Create**. .
-![restorepointwindow](img/restorepointwindow.png)
+- Specify the name and the description of the restore point.
+- To create a Restore Point, click **Create** button.
+![restorepointwindownew](img/restorepointwindownew.png)
 
 
 

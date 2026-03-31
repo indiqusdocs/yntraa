@@ -5,7 +5,7 @@ sidebar_position: 5
 
 To view the below details, navigate to the [Firewall Instance](AboutFirewallInstances.md), select the Virtual Firewall and access the **Overview** tab.
 
--  [Configuration and Availability](#configuration-and-availability)
+- [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)
 - [NIC Information](#nic-information)
 
@@ -19,18 +19,18 @@ This section displays the instance's status, **RUNNING**, is displayed in  <sp
 
 This section displays the information used for internal identification of this instance and communication with other internal services.
 
-- TEMPLATE NAME
-- INTERNAL NAME
-- CREATED ON
+- Template Name
+- Internal Name
+- Created On
 ## NIC Information
 
 This section displays the following information:
 
-- NETWORK NAME
-- MAC ADDRESS
-- IP ADDRESS
-- NETMASK
-- GATEWAY
+- Network Name
+- MAC Address
+- IP Address
+- Netmask
+- Gateway
 
 
 

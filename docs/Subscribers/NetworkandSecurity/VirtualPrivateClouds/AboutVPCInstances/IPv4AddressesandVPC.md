@@ -24,7 +24,7 @@ Public IPv4 addresses may carry a price which may vary depending on availability
 ## Configuring Load Balancing 
 To configure the Load Balancing Rule, follow these steps:
 
-1. To create Load Balancing Rule, click the ![Icon](img/LoadBalancingIcon.png)icon. The following window appears:
+1. To create Load Balancing Rule, click the Load Balancing icon. The following window appears:
 	![addrulenew](img/addrulenew.png)
 2. Click **+ Add Rule**. The following window appears:
 	![addrule1new](img/addrule1new.png)
@@ -87,7 +87,7 @@ A Port-Forwarding IP address can be used to configure multiple Port-Forwarding a
 :::
 ## Configuring Static NAT
 
-1. To use the public IP as a static translation, click the ![](img/StaticNATIcon.png)icon. The following window appears: 
+1. To use the public IP as a static translation, click the Static NAT icon. The following window appears: 
    ![addstaticnat](img/addstaticnat.png)
 2. Select the Instance you want to assign the public IP to, then click **Add Static NAT** button.
 

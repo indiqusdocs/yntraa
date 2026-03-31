@@ -3,7 +3,7 @@ sidebar_position: 13
 ---
 # Reconfiguring Virtual Firewall
 
-To reconfigure the existing virtual firewall pack, navigate to the **NETWORK AND SECURITY** section and select a **Virtual Firewall** and access the **Reconfigure** tab.
+To reconfigure the existing virtual firewall pack, navigate to the **Network and Security** section and select a **Virtual Firewall** and access the **Reconfigure** tab.
 
 Select the **FIREWALL APPLIANCES**, then click the **RECONFIGURE VIRTUAL FIREWALL PACK** button.
 

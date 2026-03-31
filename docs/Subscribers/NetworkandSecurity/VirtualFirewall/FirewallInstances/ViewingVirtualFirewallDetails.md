@@ -3,21 +3,21 @@ sidebar_position: 2
 ---
 # Viewing Virtual Firewall Details
 
-As the virtual firewalls are created, Cloud Console users can view the enabled Virtual Firewalls in the **NETWORK AND SECURITY> Virtual Firewalls** section. The following details are shown:
+As the virtual firewalls are created, Cloud Console users can view the enabled Virtual Firewalls in the **Network and Security > Virtual Firewalls** section. The following details are shown:
 
-1. VIRTUAL FIREWALL NAME
-2. PUBLIC IPv4
-3. INSTANCES
-4. CREATED
+1. Virtual Firewall Name
+2. Public IPv4
+3. Instances
+4. Created
 
 ![virtualfirewallnew](img/virtualfirewallnew.png)
 
 To view a list of sections and the various operations or actions you can perform by going inside the particular section, click on the instance name. Below the Instance name, there is an informational view where you can find the following details:
 
-- CONFIGURATION
-- AVAILABILITY ZONE
-- PUBLIC IPV4 (L2 WAN)
-- CREATED
+- Configuration
+- Availability Zone
+- Public IPV4 (L2 WAN)
+- Created
 
 On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **STOP INSTANCE/START INSTANCE**.
 

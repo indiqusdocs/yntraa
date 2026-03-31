@@ -5,7 +5,7 @@ sidebar_position: 1
 
 L2 networks, often called data link layer networks, play a crucial role in computer networking by establishing direct connections between devices in a local network and ensuring data packets are delivered accurately to their intended destination.
 
-To manage an L2 network, navigate to **NETWORK AND SECURITY> L2 Networks**. 
+To manage an L2 network, navigate to **Network and Security > L2 Networks**. 
 
 The following screen appears where all the L2 networks are listed.
    ![l2networknew](img/l2networknew.png)

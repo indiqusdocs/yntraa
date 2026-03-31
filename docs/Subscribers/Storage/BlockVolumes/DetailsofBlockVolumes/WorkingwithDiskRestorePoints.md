@@ -9,7 +9,7 @@ Yntraa block volumes service provides extensive functionality for managing disk 
 
 Disk restore point can be created manually with the current timestamp by clicking the **CREATE DISK RESTORE POINT** button under the **Restore Points** tab/section of any disk. This will generate a restore point that can be used to create an **Image (template)** or restore an existing disk.
 
-![restorepointnew](img/restorepointnew.png)
+![restorepointdefault](img/restorepointdefault.png)
 
 ## Creating a Disk from a Restore Point
 

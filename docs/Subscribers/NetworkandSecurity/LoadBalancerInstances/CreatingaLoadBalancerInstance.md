@@ -8,7 +8,7 @@ Load Balancer Instances can be created inside a VPC by following these simple st
 1. Navigate to **NETWORK AND SECURITY> Virtual Private Clouds** and select a VPC in where LBI needs to be placed. If unavailable, [create a new VPC](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs).
 2. In the VPC, [create a subnet tier](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers) with any desired configuration(s).
 3. Add an additional [IPv4 Address](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC) to the VPC and keep it 'unused'.
-4. Navigate to **NETWORK AND SECURITY > Load Balancers** and click the **+ NEW LOAD BALANCER INSTANCE** button to access the LBI creation options.
+4. Navigate to **Network and Security > Load Balancers** and click the **+ NEW LOAD BALANCER INSTANCE** button to access the LBI creation options.
    ![newlbinstance](img/newlbinstance.png)
 5. Choose an **Availability Zone**, which is the geographical region where your Instance will be deployed.
 6. In the **Select VPC and Tier** section, specify the VPC and subnet as created in steps 1 and 2 above. 
