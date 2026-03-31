@@ -3,7 +3,7 @@ sidebar_position: 15
 ---
 # Operations
 
-To view all available Instance operations, navigate to the **NETWORK AND SECURITY, select a Virtual Firewall and access the **Operations** tab.
+To view all available Instance operations, navigate to the **NETWORK AND SECURITY**, select a Virtual Firewall and access the **Operations** tab.
 
 Yntraa Cloud provides the options to perform the following operations on Virtual Firewall:
 	![operationnew](img/operationnew.png)

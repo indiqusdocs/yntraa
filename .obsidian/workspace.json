@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
+                "file": "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DeployingVNFandVMWithinVNF"
+              "title": "Instances"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 329.5
   },
   "right": {
     "id": "8aedbb1b11c967fb",
@@ -171,6 +171,31 @@
   },
   "active": "1bd8ee1be3881827",
   "lastOpenFiles": [
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/search-index.json",
@@ -181,8 +206,6 @@
     "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots/index.html",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails.md",
     "build/assets/images/datadisk1-f5ccf28563054025eb09fd5563986651.png",
     "build/assets/images/datadisk2-98a6117754e1247859965b37ed08c23a.png",
     "build/assets/images/datadisk3-cc52ede5fec229dfcaed9e86c54d2a88.png",
@@ -193,29 +216,6 @@
     "build/assets/images/staticpass5-b8a6713685edbc01cce031d90694e8f7.png",
     "build/assets/images/staticpass6-8370fada9a1c6f50b5450427c4e72c19.png",
     "build/assets/images/TechnicalContact-6eea6a57ac6ab6f7e2f2ca79f4fa79af.png",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
-    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations.md"
+    "docs/Subscribers/Networking/VirtualFirewall/FirewallInstances/Operations.md"
   ]
 }

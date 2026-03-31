@@ -17,7 +17,7 @@ To create a VPC, follow the below steps:
    ![vpccreationnew](img/vpccreationnew.png)
 7. Verify the Estimated Cost of your VPC, based on the options that you have chosen from the Summary and Estimated Costs Section.
 8. Select the I have read and agreed to the **End User License Agreement and Privacy Policy** option.
-9. Clicking the **BUY HOURLY** or **BUY MONTHLY** button, a confirmation pop-over will open up, and the price summary will be displayed along with the discount codes, if you have any in your account. 
+9. Clicking the **BUY MONTHLY** button, a confirmation pop-over will open up, and the price summary will be displayed along with the discount codes, if you have any in your account. 
     1. You can apply any of the discount codes listed by clicking on the **APPLY** button. 
     2. You can also remove the applied discount code by clicking the **REMOVE** button. 
     3. Clicking on the **CANCEL** button, this action will be canceled.
@@ -32,7 +32,7 @@ This might take up to 5-8 minutes. You may use the Cloud Console during this tim
 
 ## Viewing Available VPC
 
-All VPC created in a user account can be accessed from **Networking >** **Virtual Private Clouds** on the main navigation panel. The listing will have the following details.
+All VPC created in a user account can be accessed from **NETWORK AND SECURITY >** **Virtual Private Clouds** on the main navigation panel. The listing will have the following details.
 
 - VPC NAME
 - PUBLIC IP
