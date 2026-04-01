@@ -255,30 +255,22 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-6fb": {
+  "/docs-9ee": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-0a3": {
+  "/docs-ae9": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-a41": {
+  "/docs-54a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/about-vpc-instances-210": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-about-vpc-instances-6-fa-ec2"
-  },
-  "/docs/category/account-centre-23a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-account-centre-91-d-65b"
-  },
-  "/docs/category/autoscale-8f1": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-autoscale-89-f-000"
   },
   "/docs/category/block-volumes-5ee": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -308,37 +300,25 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-ipv-4-based-networkinge-96-716"
   },
-  "/docs/category/kubernetes-d1a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-kubernetes-60-a-67e"
-  },
   "/docs/category/l2-networks-f07": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-l-2-networks-5-bc-11c"
-  },
-  "/docs/category/linux-instances-251": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-linux-instances-7-d-8-536"
   },
   "/docs/category/load-balancer-instances-abc": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-load-balancer-instances-016-f8b"
   },
-  "/docs/category/managed-compute-a17": {
+  "/docs/category/managed-compute-044": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-managed-computeb-1-e-21d"
-  },
-  "/docs/category/managed-compute-1-94c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-compute-1568-634"
-  },
-  "/docs/category/managed-database-c15": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-databasea-59-b7a"
   },
   "/docs/category/managed-databases-91c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-managed-databases-802-2e0"
+  },
+  "/docs/category/managed-kubernetes-905": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-managed-kubernetes-8-e-5-f21"
   },
   "/docs/category/managed-network-bbe": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -364,10 +344,6 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-miscellaneous-298-c31"
   },
-  "/docs/category/monitoring-and-usage-227": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-monitoring-and-usage-812-2d0"
-  },
   "/docs/category/nat-gateways-049": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-nat-gateways-7-f-4-bf6"
@@ -376,9 +352,13 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-network-and-security-3-a-5-9db"
   },
-  "/docs/category/object-storage-7c0": {
+  "/docs/category/object-storage-buckets-425": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-object-storage-3-ca-b7d"
+    "__props": "__props---docs-category-object-storage-buckets-213-4ca"
+  },
+  "/docs/category/other-linux-instances-0c0": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-other-linux-instances-2-b-3-78e"
   },
   "/docs/category/other-services-eb7": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -468,74 +448,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-release-notes-ver-10002-e-7-2c8"
   },
-  "/docs/Subscribers/AccountCentre/Address-cd2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-address-8-b-8-f0a"
-  },
-  "/docs/Subscribers/AccountCentre/Assets-5c5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-assetsca-2-45e"
-  },
-  "/docs/Subscribers/AccountCentre/Commercial-ea3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-commercial-113-2ee"
-  },
-  "/docs/Subscribers/AccountCentre/CompanyDetails-e77": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-company-details-45-c-fd7"
-  },
-  "/docs/Subscribers/AccountCentre/Contacts-116": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-contactsf-79-d14"
-  },
-  "/docs/Subscribers/AccountCentre/Dashboard-ce3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-dashboardb-8-e-84f"
-  },
-  "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup-a77": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-monitoringand-usage-monitoring-backup-646-ac8"
-  },
-  "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra-e55": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-monitoringand-usage-monitoring-infra-8-d-3-31e"
-  },
-  "/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails-a22": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-monitoringand-usage-usage-details-498-525"
-  },
-  "/docs/Subscribers/AccountCentre/Organisation-AccountProfile-f65": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-organisation-account-profileb-91-1fc"
-  },
-  "/docs/Subscribers/AccountCentre/Profile-399": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-profilecc-8-298"
-  },
-  "/docs/Subscribers/AccountCentre/ResettingPassword-a27": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-resetting-password-591-520"
-  },
-  "/docs/Subscribers/AccountCentre/Services-ba2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-services-057-d02"
-  },
-  "/docs/Subscribers/AccountCentre/StandardAgreements-53c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-standard-agreements-4-e-7-309"
-  },
-  "/docs/Subscribers/AccountCentre/SubscriptionsandServices-4c9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-subscriptionsand-servicesf-8-d-9bf"
-  },
-  "/docs/Subscribers/AccountCentre/TeamMemberManagement-a69": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-team-member-managementda-8-ec1"
-  },
-  "/docs/Subscribers/AccountCentre/Tickets-9f0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-account-centre-tickets-16-e-ecb"
-  },
   "/docs/Subscribers/CloudAssure/AssessmentandAdvisory-af4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-cloud-assure-assessmentand-advisory-2-a-1-7b0"
@@ -548,125 +460,105 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-cloud-assure-monitoringand-notificationsf-3-d-16f"
   },
-  "/docs/Subscribers/CloudAssure/OptimisationService-04b": {
+  "/docs/Subscribers/CloudAssure/OptimizationService-2a9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-cloud-assure-optimisation-service-54-f-884"
+    "content": "content---docs-subscribers-cloud-assure-optimization-service-275-635"
   },
   "/docs/Subscribers/CloudAssure/ProfessionalServices-aa5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-cloud-assure-professional-services-11-f-cfd"
   },
-  "/docs/Subscribers/CloudAssure/ResiliencyAssuranceService-99a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-cloud-assure-resiliency-assurance-service-8-d-1-8b4"
-  },
   "/docs/Subscribers/CloudAssure/SecurityandCompliance-98b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-cloud-assure-securityand-compliance-6-a-5-207"
   },
-  "/docs/Subscribers/Compute/Autoscale/AboutAutoscale-784": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes-83a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-autoscale-about-autoscale-081-d48"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-about-kubernetesd-55-6d1"
   },
-  "/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups-98d": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard-53d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-autoscale-creating-autoscale-groups-78-c-754"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-about-kubernetes-dashboard-33-f-4af"
   },
-  "/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale-ce7": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine-29d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-autoscale-requirementsfor-autoscaled-37-738"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-accessinga-clusterusingthe-command-lineffd-7ac"
   },
-  "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances-3fd": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard-5d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-autoscale-using-static-passwordin-auto-scale-group-instances-222-428"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-accessingthekubernetesdashboard-7-f-2-b80"
   },
-  "/docs/Subscribers/Compute/Kubernetes/AboutKubernetes-0bc": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations-d88": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-about-kubernetesc-6-b-075"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-cluster-operationsc-25-ab0"
   },
-  "/docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard-de9": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster-dbf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-about-kubernetes-dashboard-0-bd-79e"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-creatinga-kubernetes-cluster-68-e-649"
   },
-  "/docs/Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine-09b": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters-767": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-accessinga-clusterusingthe-command-line-2-ca-f56"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-ingress-networkingon-kubernetes-clusters-177-0cc"
   },
-  "/docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard-982": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/Overview-a2b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-accessingthekubernetesdashboard-1-bf-511"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-overview-4-bf-757"
   },
-  "/docs/Subscribers/Compute/Kubernetes/ClusterOperations-eb8": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters-318": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-cluster-operations-272-0f9"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-scaling-kubernetes-clusters-2-a-3-f5c"
   },
-  "/docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster-a9b": {
+  "/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails-489": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-creatinga-kubernetes-cluster-5-c-0-193"
+    "content": "content---docs-subscribers-compute-managed-kubernetes-viewing-kubernetes-cluster-details-80-b-742"
   },
-  "/docs/Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters-de9": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances-a58": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-ingress-networkingon-kubernetes-clusters-15-c-8c1"
+    "content": "content---docs-subscribers-compute-other-linux-instances-about-linux-instancesca-7-7f3"
   },
-  "/docs/Subscribers/Compute/Kubernetes/Overview-2c3": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/AppOverlays-77b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-overview-0-d-8-898"
+    "content": "content---docs-subscribers-compute-other-linux-instances-app-overlaysa-1-d-811"
   },
-  "/docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters-026": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts-75c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-scaling-kubernetes-clusters-9-d-2-ab1"
+    "content": "content---docs-subscribers-compute-other-linux-instances-configuring-alerts-57-a-983"
   },
-  "/docs/Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails-2f5": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance-b0b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-kubernetes-viewing-kubernetes-cluster-detailsc-12-d56"
+    "content": "content---docs-subscribers-compute-other-linux-instances-connectingtoa-linux-instanced-74-16a"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances-909": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances-261": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-about-linux-instances-05-b-8a2"
+    "content": "content---docs-subscribers-compute-other-linux-instances-creating-linux-instances-73-b-1fe"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/AppOverlays-8c7": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement-49e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-app-overlaysfa-1-62d"
+    "content": "content---docs-subscribers-compute-other-linux-instances-networking-management-705-f80"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts-5e4": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/Operations-c32": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-configuring-alertsf-89-ed7"
+    "content": "content---docs-subscribers-compute-other-linux-instances-operations-1-f-4-b2d"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance-d01": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/Overview-ec3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-connectingtoa-linux-instance-410-f68"
+    "content": "content---docs-subscribers-compute-other-linux-instances-overview-839-48a"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances-7d2": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances-953": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-creating-linux-instancesfa-0-550"
+    "content": "content---docs-subscribers-compute-other-linux-instances-reconfiguring-linux-instances-79-c-d7b"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/NetworkingManagement-1c4": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances-914": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-networking-management-6-b-7-7cb"
+    "content": "content---docs-subscribers-compute-other-linux-instances-viewing-graphsand-utilizationof-linux-instances-190-f21"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/Operations-c65": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement-f77": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-operations-1-ae-af3"
+    "content": "content---docs-subscribers-compute-other-linux-instances-volume-management-0-c-5-faf"
   },
-  "/docs/Subscribers/Compute/LinuxInstances/Overview-90a": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints-edc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-overview-4-fa-a1f"
-  },
-  "/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances-f93": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-reconfiguring-linux-instances-800-df0"
-  },
-  "/docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances-593": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-viewing-graphsand-utilizationof-linux-instances-9-b-2-1d1"
-  },
-  "/docs/Subscribers/Compute/LinuxInstances/VolumeManagement-14a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-volume-management-40-c-af4"
-  },
-  "/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints-7be": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-linux-instances-workingwith-linux-instance-restore-points-65-f-92e"
+    "content": "content---docs-subscribers-compute-other-linux-instances-workingwith-linux-instance-restore-points-7-fd-ee8"
   },
   "/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances-02c": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -768,61 +660,25 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-intro-705-f27"
   },
-  "/docs/Subscribers/ManagedCompute/ContainerRegistry-c20": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-compute-container-registryb-21-30b"
-  },
-  "/docs/Subscribers/ManagedCompute/VirtualDesktops-05a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-compute-virtual-desktopsb-5-c-6a4"
-  },
-  "/docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster-562": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-backuphighavailabilityanddisasterbb-5-da4"
-  },
-  "/docs/Subscribers/ManagedDatabase/introduction-653": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-introduction-0-bf-bb7"
-  },
-  "/docs/Subscribers/ManagedDatabase/MDBaas-50f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-md-baasb-26-9ea"
-  },
-  "/docs/Subscribers/ManagedDatabase/Postprovisioning-ba8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-postprovisioning-387-beb"
-  },
-  "/docs/Subscribers/ManagedDatabase/PreRequisites-0e3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-pre-requisites-37-c-ee9"
-  },
-  "/docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement-e48": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-scalingandconfigurationmanagementa-47-19a"
-  },
-  "/docs/Subscribers/ManagedDatabase/servicedeprovisioning-c47": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-servicedeprovisioningffb-f29"
-  },
-  "/docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture-2e7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-serviceoverviewandarchitecture-18-a-e58"
-  },
-  "/docs/Subscribers/ManagedDatabase/Serviceprovisioning-791": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-database-serviceprovisioningcec-ce0"
-  },
   "/docs/Subscribers/ManagedNetwork/LoadBalancer-01c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-managed-network-load-balancer-8-c-1-0ec"
   },
-  "/docs/Subscribers/ManagedSecurity/EndPointSecurity-935": {
+  "/docs/Subscribers/ManagedSecurity/DDosProtection-99a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-security-end-point-securityec-7-f9d"
+    "content": "content---docs-subscribers-managed-security-d-dos-protection-6-a-4-83e"
+  },
+  "/docs/Subscribers/ManagedSecurity/PrivilegedAccessManagement-803": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-managed-security-privileged-access-management-424-72c"
   },
   "/docs/Subscribers/ManagedSecurity/YottaSmartCSOC-05b": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-managed-security-yotta-smart-csoc-1-a-3-89a"
+  },
+  "/docs/Subscribers/ManagedSolutions/BackupandRecovery-730": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-managed-solutions-backupand-recovery-12-e-7d6"
   },
   "/docs/Subscribers/ManagedSolutions/BareMetal-4ec": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -831,6 +687,22 @@
   "/docs/Subscribers/ManagedSolutions/DevOpsasaService-ceb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-managed-solutions-dev-opsasa-service-842-42c"
+  },
+  "/docs/Subscribers/ManagedSolutions/LoadTestingasaService-171": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-managed-solutions-load-testingasa-service-443-d50"
+  },
+  "/docs/Subscribers/ManagedSolutions/ManagedDatabaseServices-31c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-managed-solutions-managed-database-services-5-f-3-4a5"
+  },
+  "/docs/Subscribers/ManagedSolutions/MessagingServices-50a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-managed-solutions-messaging-servicesc-47-c73"
+  },
+  "/docs/Subscribers/ManagedSolutions/ResiliencyAssuranceService-3d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-subscribers-managed-solutions-resiliency-assurance-service-77-b-14d"
   },
   "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking-c99": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1000,61 +872,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-workingwith-vpn-connectionsina-vpc-8-f-1-d98"
   },
-  "/docs/Subscribers/OtherServices/CDNasaService-11b": {
+  "/docs/Subscribers/OtherServices/Containers-c1c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-cd-nasa-service-41-b-b5d"
+    "content": "content---docs-subscribers-other-services-containers-34-a-dce"
   },
-  "/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices-9f1": {
+  "/docs/Subscribers/OtherServices/FileStorage-df8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-cyber-security-professional-servicesc-23-14e"
-  },
-  "/docs/Subscribers/OtherServices/DDosProtection-4a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-d-dos-protectioncca-d3d"
-  },
-  "/docs/Subscribers/OtherServices/GlobalCloudConnect-f8c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-global-cloud-connect-701-97b"
-  },
-  "/docs/Subscribers/OtherServices/HostedInternetBandwidth-805": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-hosted-internet-bandwidtha-3-a-da7"
-  },
-  "/docs/Subscribers/OtherServices/HSMandKMS-7e4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-hs-mand-kms-0-be-4a2"
-  },
-  "/docs/Subscribers/OtherServices/LoadTestingasaService-79c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-load-testingasa-service-1-e-7-e6e"
-  },
-  "/docs/Subscribers/OtherServices/MessagingServices-a1b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-messaging-services-9-eb-5d4"
-  },
-  "/docs/Subscribers/OtherServices/MultiTenantBraaS-ea4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-multi-tenant-braa-s-391-eee"
-  },
-  "/docs/Subscribers/OtherServices/PrivilegedAccessManagement-daf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-privileged-access-management-1-cb-e46"
-  },
-  "/docs/Subscribers/OtherServices/SecurityTesting-b4a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-security-testing-439-d5f"
-  },
-  "/docs/Subscribers/OtherServices/SIEM-489": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-sie-mb-7-d-d80"
-  },
-  "/docs/Subscribers/OtherServices/UTMasaService-fb1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-ut-masa-service-520-6d0"
-  },
-  "/docs/Subscribers/OtherServices/WAFasaService-3cd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-wa-fasa-serviceca-9-b24"
+    "content": "content---docs-subscribers-other-services-file-storage-263-a9e"
   },
   "/docs/Subscribers/SigningIn-122": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1100,21 +924,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-subscribers-storage-block-volumes-workingwith-instance-volumese-5-a-02d"
   },
-  "/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage-30b": {
+  "/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage-e12": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-about-yntraa-object-storage-98-a-382"
+    "content": "content---docs-subscribers-storage-object-storage-buckets-about-yntraa-object-storagee-89-2a1"
   },
-  "/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage-afc": {
+  "/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage-a37": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-creating-object-storagedce-16f"
+    "content": "content---docs-subscribers-storage-object-storage-buckets-creating-object-storage-1-c-1-e60"
   },
-  "/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails-e67": {
+  "/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails-f60": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-feature-listand-integration-details-0-bb-422"
+    "content": "content---docs-subscribers-storage-object-storage-buckets-feature-listand-integration-detailsbad-665"
   },
-  "/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions-01c": {
+  "/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions-187": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-frequently-asked-questionscf-1-30d"
+    "content": "content---docs-subscribers-storage-object-storage-buckets-frequently-asked-questionseac-00c"
   },
   "/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities-f81": {
     "__comp": "__comp---theme-doc-item-178-a40",

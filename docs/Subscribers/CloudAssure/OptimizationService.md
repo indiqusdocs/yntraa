@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Optimisation Service
+# Optimization Service
 
 Cloud Optimisation Service enhances cost and performance efficiency across hybrid and multi-cloud environments through a structured, FinOps-aligned approach. It identifies optimisation opportunities, strengthens cost governance, and enables organisations to reduce waste while maximizing the value of their cloud investments. 
 
