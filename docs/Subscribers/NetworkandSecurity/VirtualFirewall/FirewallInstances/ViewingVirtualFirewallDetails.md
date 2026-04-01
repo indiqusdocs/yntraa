@@ -26,7 +26,7 @@ On the top right corner, two quick options are available, one to **LAUNCH CONSO
 Details about Virtual Firewall operations and actions can be found in their respective sections:
 
 - [Overview](docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview.md)
-- [Viewing Graphs and Utilisation](ViewingGraphsandUtilisation.md)
+- [Viewing Graphs and Utilisation](docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation.md)
 - [Configuring Alerts](docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts.md)
 - [Volume Management](docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement.md)
 - [Networking Management](docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement.md)

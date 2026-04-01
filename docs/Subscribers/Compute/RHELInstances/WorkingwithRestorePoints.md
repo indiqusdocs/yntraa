@@ -22,7 +22,7 @@ Two quick options are available, one is to revert the Instance from the snapshot
 To create a snapshot: 
 1. Click the **CREATE INSTANCE RESTORE POINT** button. 
 2. Enter the name and the description of the restore point.
-3. Click **Create**.
+3. Click the**Create** button.
 ![takerestorenew](img/takerestorenew.png)
 
 

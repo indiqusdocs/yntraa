@@ -9,7 +9,7 @@ sidebar_position: 7
 The following actions are available:
 
 - If the Instance is inside a VPC, you can associate the Instance to multiple tiers within the VPC or share the Instance with other VPC networks in the same Availability Zone by using the **ADD NETWORK** option.
-- Network/tier associations can be removed from this section by using the **Unlink** action.
+- Network/tier associations can be removed from this section by using the **Delete** action.
 
 :::note
 Advanced networking configurations can be done using the Virtual Private Cloud service.

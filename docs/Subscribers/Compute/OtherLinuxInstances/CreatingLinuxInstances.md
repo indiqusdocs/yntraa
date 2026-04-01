@@ -8,7 +8,7 @@ Before creating a Linux instance, it is important to plan the architecture, netw
 To create a Linux instance, follow these steps:
 
 1. Navigate to **Compute > Linux Instances**.
-2. Click on **NEW LINUX INSTANCE** button.
+2. Click on **+ NEW LINUX INSTANCE** button.
    ![linuxinstance](img/linuxinstance.png)
 3. Choose an **Availability Zone**, which is the geographical region where your Instance will be deployed. 
    ![creatinglinux](img/creatinglinux.png)
@@ -20,20 +20,20 @@ To create a Linux instance, follow these steps:
 6. Select the **Compute Pack** from the available compute collections.
    ![computepack](img/computepack.png)
 7. Select the  **Root Disk** from the available options.
-8. Select the option to **Protect this Instance**.
-9. **Choose an Authentication Method**:
-    - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** or upload the key pair by clicking the **Upload a key pair** option.
-    - **Use root user password**: On selecting Use root user password, the **Also email me the password** option is displayed. If you select this option, the password, along with the details, for instance, will be emailed to your registered email ID.
-10. In the **Name Your Linux Instance** field, enter the desired name for your Linux Instance. The Instance name contains alphanumeric characters, underscore, dots and hyphens only. 
-11. Verify the Estimated Cost of your Linux Instance based on the chosen specifications from the Summary and Estimated Costs Section (Here, both Hourly and Monthly Prices summary are displayed).
+8. **Choose an Authentication Method**:
+    - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** or upload the key pair by clicking the **Upload a key pair** option. 
+    - **Use Default Password**: On selecting Use Default Password, the system automatically generates a password for the instance. You can view or copy this password from the instance details page after creation and use it to log in.
+    - **Use Custom Password**: On selecting Use Custom Password, you are required to enter and confirm your own password. This password will be used to access the instance after it is created. Ensure the password meets the required security criteria.
+9. In the **Name Your Linux Instance** field, enter the desired name for your Linux Instance. The Instance name contains alphanumeric characters, underscore, dots and hyphens only. 
+10. Verify the Estimated Cost of your Linux Instance based on the chosen specifications from the Summary and Estimated Costs Section (Here, both Hourly and Monthly Prices summary are displayed).
     ![costsummary](img/costsummary.png)
-12. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
-13. Choose the **BUY HOURLY** or **BUY MONTHLY** option. A confirmation window appears and the price summary will be displayed along with the discount codes if you have any in your account. 
+11. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
+12. Choose the **BUY HOURLY** or **BUY MONTHLY** option. A confirmation window appears and the price summary will be displayed along with the discount codes if you have any in your account. 
     - You can apply any of the discount codes listed by clicking on the **APPLY** button. 
     - You can also remove the applied discount code by clicking on the **REMOVE** button. 
     - You can cancel this action by clicking on the **CANCEL** button.
     ![confirmpurchase](img/confirmpurchase.png)
-14. Click **CONFIRM** to create the Linux Instance.
+13. Click the **CONFIRM** button to create the Linux Instance.
 
 :::note
 It might take up to 5-8 minutes for the Linux instance to get created. You may use the cloud console during this time, but it is advised that you do not refresh the browser window.

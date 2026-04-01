@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '592'),
+    component: ComponentCreator('/docs', '4cc'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'bce'),
+        component: ComponentCreator('/docs', '422'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c1e'),
+            component: ComponentCreator('/docs', '2c5'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -683,8 +683,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization', 'b53'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation', 'cd3'),
                 exact: true,
                 sidebar: "sidebar1"
               },

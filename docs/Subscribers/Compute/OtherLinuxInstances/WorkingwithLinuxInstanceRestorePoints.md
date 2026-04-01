@@ -19,8 +19,9 @@ A Restore Point lists the following details:
 - Created On
 
 The following quick options are available:
-- Revert the Instance from the Restore Point
-- Delete the Restore Point
+- **Revert the Instance from the Restore Point**
+- **Delete the Restore Point**
+  
 ## Creating a Restore Point
 To create a Snapshot, the following steps are :
 1. Click the **CREATE INSTANCE RESTORE POINT** button. The CREATE RESTORE POINT window appears.

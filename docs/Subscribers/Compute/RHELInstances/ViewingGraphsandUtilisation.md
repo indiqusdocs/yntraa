@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# Viewing Graphs and Utilization
+# Viewing Graphs and Utilisation
 
 To view the available graphs and monitor this instance in real-time, navigate to [RHEL Instance](AboutRHELInstances.md) and access the **Graphs** tab.
 ## Graphs

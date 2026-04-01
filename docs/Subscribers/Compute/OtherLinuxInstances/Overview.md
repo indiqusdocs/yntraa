@@ -10,7 +10,7 @@ To view the below details, navigate to [Operating Linux Instances](AboutLinuxIns
 - [Security and Access Control](#security-and-access-control)
 ## Configuration and Availability
 
-This section displays the instance's status, **RUNNING** in <span class="green">green</span>, and other information related to the networking zone in <span style={{ color: 'grey' }}>grey</span>.
+This section displays the instance's status, **RUNNING** in <span class="green">green</span>, and other information related to the networking zone in <span style={{ color: 'red' }}>red</span>.
 ![overview](img/overview.png)
 ## Internal Information
 This section displays the information used for internal identification of this instance and communication with other internal services:

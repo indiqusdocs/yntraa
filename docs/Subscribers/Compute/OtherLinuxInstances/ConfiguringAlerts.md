@@ -11,10 +11,9 @@ You can configure alerts for instances running on the Yntraa Cloud. You can defi
 ## Instance Alerts
 
 The Alerts tab lists all the alerts already configured for that particular Linux Instance. In addition, it will show the following details:
-- ID
-- Name for the alert
+- Alert Name
 - Parameter
-- Trigger When
+- Trigger
 - Value
 - Reading Duration
 ![alert](img/alert.png)
@@ -30,8 +29,8 @@ The various fields of the Create Alert screen are as follows:
 - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 - **Value** - You can define the trigger value/threshold.
 - **Reading duration** - This option lets you define the breach window, that is, the duration for which the breach must be consistent to trigger the alert email.
-- **Send email to** - Email IDs can be added here, or also you can add them by using the configure recipients.
-## Configuring Recipients
+- **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
+## Managing Recipients
 
 This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by the following steps :
 
