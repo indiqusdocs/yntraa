@@ -251,11 +251,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/AppOverlays",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/AppOverlays",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts",
               "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts",
               "sidebar": "sidebar1"

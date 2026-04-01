@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-748": {
+  "/docs-592": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-15f": {
+  "/docs-bce": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-02d": {
+  "/docs-c1e": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -544,10 +544,6 @@
   "/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances-a58": {
     "__comp": "17896441",
     "content": "ca73b099"
-  },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/AppOverlays-77b": {
-    "__comp": "17896441",
-    "content": "a1d4fc4f"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts-75c": {
     "__comp": "17896441",

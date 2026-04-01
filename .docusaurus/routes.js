@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '748'),
+    component: ComponentCreator('/docs', '592'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '15f'),
+        component: ComponentCreator('/docs', 'bce'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '02d'),
+            component: ComponentCreator('/docs', 'c1e'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -571,12 +571,6 @@ export default [
               {
                 path: '/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances',
                 component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances', 'a58'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/AppOverlays',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/AppOverlays', '77b'),
                 exact: true,
                 sidebar: "sidebar1"
               },

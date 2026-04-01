@@ -22,7 +22,7 @@ To create a VPC, follow the below steps:
     2. You can also remove the applied discount code by clicking the **REMOVE** button. 
     3. Clicking on the **CANCEL** button, this action will be canceled.
   ![costsummarynew](img/costsummarynew.png)
-10. Click on the **CONFIRM** to create the VPC. ![confirmvpcnew](img/confirmvpcnew.png)
+10. Click on the **CONFIRM** button to create the VPC. ![confirmvpcnew](img/confirmvpcnew.png)
 
 Once ready, you’ll be notified of this purchase on your email address on record. 
 
