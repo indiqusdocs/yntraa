@@ -7,16 +7,16 @@ Before creating a RHEL instance, it is important to plan the architecture, netwo
 To create a RHEL instance, the following steps are :
 
 1. Navigate to **Compute > RHEL Instances**.
-![rhelinstance](img/rhelinstance.png)
-2. Click the **NEW RHEL INSTANCE** button. 
+![rhelinstancenew](img/rhelinstancenew.png)
+2. Click the **+ NEW RHEL INSTANCE** button. 
 3. Choose an **Availability Zone**, which is the geographical region where your Instance will be deployed. 
-![rhelzone](img/rhelzone.png)
+![rhelzonenew](img/rhelzonenew.png)
 4. Select the **Destination** and then the **Network** from the drop-downs.
 5. Select the **OS Image** to run on your Instance.
 6. Select the **Compute Pack** from the available compute collections.
-![computerhel](img/computerhel.png)
-7. Select the **Disk Configuration** from the available **SSD**/**HDD** disk packs. You can use the free size option to specify the Root Disk size.
-![rootdiskrhel](img/rootdiskrhel.png)
+![computepacknew](img/computepacknew.png)
+7. Select the **Disk Configuration** from the available **ROOT DISK** packs. You can use the free size option to specify the Root Disk size.
+![rootdiskrhelnew](img/rootdiskrhelnew.png)
 8. Select the option to **Protect this Instance**.
 9. **Choose an Authentication Method**: 
     - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** or upload the key pair by clicking the **Upload a key pair** option. 
@@ -28,7 +28,7 @@ To create a RHEL instance, the following steps are :
     - You can apply any of the discount codes listed by clicking on the **APPLY** button. 
     - You can also remove the applied discount code by clicking on the **REMOVE** button. 
     - You can cancel this action by clicking on the **CANCEL** button.
-    ![costrhel](img/costrhel.png)
+    ![costrhelnew](img/costrhelnew.png)
 14. Click **CONFIRM** to create the RHEL Instance.
 
 :::note

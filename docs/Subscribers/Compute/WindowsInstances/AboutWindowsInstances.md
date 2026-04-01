@@ -12,6 +12,7 @@ Yntraa Cloud offers a highly usable and visual way of working with and operating
     - Instance Name (Along with the configuration details)
     - OS- Icon 
     - Default IP Address
+    - IPv6 Address
     - Created
 
  To view a list of sections and the various operations or actions, click **Instance name**. Below the Instance name, there is an informational view where you can find the below details:
@@ -20,7 +21,7 @@ Yntraa Cloud offers a highly usable and visual way of working with and operating
 - Default IP
 - Created 
 
-On the top right corner, two quick options are available, one for accessing the Instance console Instance and the other to **POWER OFF/ON** the instance.
+In the top-right corner, two quick-access options are available **LAUNCH CONSOLE** for accessing the instance, and **START INSTANCE/STOP INSTANCE** for controlling its state
 
 Details on available Windows Instance operations and actions can be found in their respective sections:
 - [Overview](ViewingDetailsofWindowsInstances)

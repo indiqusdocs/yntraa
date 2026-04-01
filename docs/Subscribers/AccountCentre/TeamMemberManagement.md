@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Team Member Management
 
-Team members can be onboarded using the **Team** section from the Account Centre, allows you to add billing, technical, or other admin users who can log in to your account and perform operations.
+Team members can be onboarded using the **Team** section from the Account Centre, allows you to add commercial, technology or other admin users who can log in to your account and perform operations.
 
 ![team](img/team.png)
 
@@ -11,22 +11,33 @@ To add a team member, click the **+ INVITE TEAM MEMBERS** button in the top-righ
 
 ![teammemberaddoneyotta](img/teammemberaddoneyotta.png)
 
-**Add User -** name, email, phone number, etc., for the team member.
+**Add User -** Name, Email, Mobile Number, etc., for the team member.
   :::note
   The team member/user can reset the password from the Yntraa Cloud.
   :::
-**User Type -** the role of the team member. These can be:
-    - **Admin -** gets access to all functionalities.
-    - **Billing -** gets permissions to perform billing actions and read-only for other actions.
-    - **Technical -** gets permissions to perform technical actions and read-only for other actions.
+**User Type -** The role of the team member. These can be:
+    - **Admin -** Gets access to all functionalities.
+    - **Commercial -** Gets permissions to perform billing actions and read-only for other actions.
+    - **Technology -** Gets permissions to perform technical actions and read-only for other actions.
       
-Click **Submit** button. 
+Click the **Submit** button. The team member is added and appears under the Team section.
+![invitememberadd](img/invitememberadd.png)
 
-Once the account is created, the user receives an email notification and can log in to **OneYotta** to access Yntraa Cloud based on their assigned role.
+Once the account is created, the team member receives an email notification.
+![mail](img/mail.png)
 
-:::note
-The first/default user will supersede all other admin users, which means that while admin users can edit or remove other users, only the default user can delete other admin users.
-:::
+The team member sets the password by clicking the **START NOW** button. The following window appears:
+![setpassword](img/setpassword.png)
+
+ Click the **Save** button to create the account successfully. The following window appears:
+ 
+ ![oneyottalogin](img/oneyottalogin.png)
+ 
+Click the **Click to Login** button to sign in to **OneYotta**.
+
+
+
+
 
 
 

@@ -1,0 +1,8 @@
+{
+  "label": "Monitoring and Usage",
+  "position": 17,
+  "link": {
+    "type": "generated-index",
+    "description": "The Monitoring & Usage section gives you a simple way to track the health and performance of your infrastructure. It shows the status of servers, networks, firewalls, storage, and URLs, along with alerts, uptime, and utilization details."
+  }
+}

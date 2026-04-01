@@ -11,7 +11,7 @@ sidebar_position: 1
 **5.** You might lose access to your account and all your resources entirely (terminated state). While scenario 1 is the most ideal, realistically one of 2-5 will be configured as a policy. To avoid any likelihood of these events, it is best recommended to always pay your due invoices on time and never miss a due date.</details>
 
 <details><summary>**How is my wallet balance calculated?**</summary>
-Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTransactions) is a real-time 'ability to spend' on Yntraa Cloud. It is a net total of your credit limit, all charges incurred and all payments made for your account. <br />
+Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/Commercial) is a real-time 'ability to spend' on Yntraa Cloud. It is a net total of your credit limit, all charges incurred and all payments made for your account. <br />
 `Service Balance = Credit Limit - sum(Incurred Charges) + sum(Payments)`</details>
 
 <details><summary>**How can I deploy monitoring tools and other apps on my Kubernetes cluster?**</summary>Once a cluster is deployed, you can deploy pretty much any application using kubectl. Some examples:<br />
@@ -30,8 +30,6 @@ Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/WalletandTr
 <details><summary>**Can I use my S3 bucket with a Kubernetes cluster created on Yntraa Cloud?**</summary>Yes, if the S3 bucket has been created using the Yntraa S3 Service, you can use the CSI (container storage interface) plugin maintained by Cloudian. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Yntraa Cloud.</details>
 
 <details><summary>**Can I modify my VPC's super CIDR after creation?**</summary>No, super CIDR modification is not currently allowed on Yntraa Cloud. If you wish to change the supernet, it is recommended that you create a new VPC, new subnets and migrate Instances to the new VPC.</details>
-
-<details><summary>**What traffic will I be charged for in a VPC?**</summary>In a VPC, any east-west traffic is free. This includes any traffic or communication between subnets, load balancing between Instances etc. <br />North-south traffic may be chargeable based on your country of usage and/or service provider's preferences. This includes any traffic moving in and out of the VPC through the VR. </details>
 
 <details><summary>**Can I use Terraform to provision my cloud resources?**</summary> Yes, Yntraa Cloud supports infrastructure as code (IaC) and cloud resource creation using Terraform and the Yntraa Gateway API.<br />Any resource created using IaC will be billed hourly.</details>
 

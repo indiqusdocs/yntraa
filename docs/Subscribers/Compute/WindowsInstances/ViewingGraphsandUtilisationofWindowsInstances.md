@@ -11,13 +11,15 @@ You can use these graphs to understand Instance utilisation patterns and create 
 
 The following graphs are available on a 24-hour time-scale graph with a 30-day trend line for the following parameters:
 
-- CPU Utilisation
-- RAM Utilisation
-- Disk Utilisation
-- 1-min load average
-- 5-min load average
-- 15-min load average
-![graphs](img/graphs.png)
+- CPU 
+- RAM 
+- Network Input
+- Network Output
+- Disk Read Bytes
+- Disk Write Bytes
+- Disk Read IOPS
+- Disk Write IOPS
+![graphsnew](img/graphsnew.png)
 ## Utilisation (Historical)
 
  To view historical usage across supported parameters, navigate to [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Utilisation** tab.

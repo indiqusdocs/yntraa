@@ -11,13 +11,13 @@ The user accesses the Yntraa Cloud console by opening the [URL](https://uatidpcl
 
 ![login](img/login.png)
 ## 2. Creating Virtual Private Cloud
-The user creates a Virtual Private Cloud to set up a secure and isolated network environment for cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing users to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on VPC, [click here](/docs/category/about-vpc-instances).
+The user creates a Virtual Private Cloud to set up a secure and isolated network environment for cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing users to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on VPC, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds).
 
 ## 3. Creating Subnets and Tiers 
-The user creates Subnets and Tiers within a Virtual Private Cloud (VPC) to organise the network into logical segments for different application layers such as web, application, and database. For more information on Subnets and Tiers, [click here](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers).
+The user creates Subnets and Tiers within a Virtual Private Cloud (VPC) to organise the network into logical segments for different application layers such as web, application, and database. For more information on Subnets and Tiers, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers).
   
 ## 4. Adding IPv4 Addresses
-The user adds IPv4 addresses within a VPC to enable communication between network components and external systems. By default, a public IPv4 address is assigned to the Virtual Router (VR), allowing it to send and receive traffic over the internet. These IP addresses can also be used to configure secure connections such as remote access (L2TP) and site-to-site (IPSec) VPN. For more information on IPv4 Addresses, [click here](/docs/Subscribers/Networking/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC).
+The user adds IPv4 addresses within a VPC to enable communication between network components and external systems. By default, a public IPv4 address is assigned to the Virtual Router (VR), allowing it to send and receive traffic over the internet. These IP addresses can also be used to configure secure connections such as remote access (L2TP) and site-to-site (IPSec) VPN. For more information on IPv4 Addresses, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC).
 
 ## 5. Selecting a Compute Package 
 The user selects a compute package to define the processing resources required for running applications or workloads. Compute instances are virtual machines that provide CPU, memory, and other resources to support application performance. These instances can run various Linux operating systems such as Ubuntu, CentOS, Rocky Linux, Oracle Linux, and Debian.

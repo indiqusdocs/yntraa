@@ -26,6 +26,9 @@ Subscriptions can be accessed by navigating to the **Billing  > Subscriptions 
 2. **Inactive Subscriptions -** a tabulated list of all subscriptions that were active in the past. This includes all removed subscriptions.
 3. **Scheduled for Deletion -** a tabulated list of all subscriptions that are set not to renew automatically.
    ![subscriptions](img/subscriptions.png)
+4. **Enable Services -** a tabulated list of all services that are currently enabled in your account. 
+5. **Open Requests -** a tabulated list of all service requests that are currently in progress or awaiting completion.
+6. **Completed Requests -** a tabulated list of all service requests that have been successfully processed, approved, or withdrawn, along with their final status and details.
 
 
 

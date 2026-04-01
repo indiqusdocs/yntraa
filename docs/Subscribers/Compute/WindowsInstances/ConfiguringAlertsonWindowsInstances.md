@@ -20,32 +20,30 @@ The Alerts tab can be accessed from the instances details. It shows the alerts a
 - Reading Duration
 # Adding an Alert
 
-Subscribers can create or add alerts simply by clicking on the **Add Alert** button. The following screen will open up, and the subscriber must describe the details of the alert.
+Subscribers can create or add alerts simply by clicking on the **Create Alert** button. The following screen will open up, and the subscriber must describe the details of the alert.
 
-![createalert](img/createalert.png)
+![createalertnew](img/createalertnew.png)
 
 The various fields of the add alert page are described below:
 
 - **Name** - You can define the name for your alert.
 - **Choose parameter** - This option allows you to define what parameter must be monitored to trigger the alert email. Yntraa cloud supports CPU, RAM, Disk, 1-min Load Average, 5-min Load Average, 15-min Load Average parameters.
 - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
-- **Value** - You can define the Value. 
+- **Value in Percentage** - You can define the Value. 
 - **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
-- **Send email to** - Email ids can be added here, or also you can add them by using the configure recipients.
-- **1-min Load Average** - How many processes were active, executed, or awaiting execution at the last minute.
-- **5-min Load Average** - How many processes were active, executed, or awaiting execution in the last five minutes.
-- **15-min Load Average** - How many processes were active, executed, or awaiting execution in the last fifteen minutes.
-# Configuring Recipients
+- **Add Recipients** - Email IDs can be added here, or also you can add them by using the configure recipients
 
-This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by the following steps :
+# Managing Recipients
 
-1. Click on the **Configure Recipients** button.
-2. Click on **+ Add More Recipients** button.
-3. Add the email ids; multiple ids can be added and separated by (,).
-4. Click the **+** icon.
-5. Then click **Update**, and update the recipient's list.
+This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
+
+1. Click the **Manage Recipients** button.
+2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
+3. From the list view, select the email IDs based on their assigned roles.
+4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
+5. Click the **UPDATE** button to save the changes to the recipients list.
    
-![receipient](img/receipient.png)
+![managerecepientsnew](img/managerecepientsnew.png)
 
 :::note
 	All the recipients configured will receive all the setup alerts. If no email ID is configured or added, then no email will be sent for the already configured alerts.
