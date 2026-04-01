@@ -10,7 +10,8 @@ A RHEL Instance on Yntraa Cloud can be reconfigured in the following ways:
 - Billing interval changed between monthly and hourly.
 - Choosing and applying a new Compute pack.
 - Choosing and applying a new Root Disk pack.
-![reconfiguring1](img/reconfiguring1.png)
+![reconfiguring1new](img/reconfiguring1new.png)
+![reconfiguring2new](img/reconfiguring2new.png)
 
 :::note
 You can only reconfigure with the same billing interval. To change the billing interval, use the **Switch Plan** button. It is recommended to switch the plan before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. You will be charged as per the pack you have reconfigured, not based on the older pack.

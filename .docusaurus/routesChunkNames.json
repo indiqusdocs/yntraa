@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-081": {
+  "/docs-748": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-123": {
+  "/docs-15f": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-9de": {
+  "/docs-02d": {
     "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
@@ -284,10 +284,6 @@
   "/docs/category/managed-kubernetes-905": {
     "__comp": "14eb3368",
     "__props": "8e56d901"
-  },
-  "/docs/category/managed-network-bbe": {
-    "__comp": "14eb3368",
-    "__props": "03a22633"
   },
   "/docs/category/managed-security-2e6": {
     "__comp": "14eb3368",
@@ -497,10 +493,6 @@
     "__comp": "17896441",
     "content": "f3d99ac7"
   },
-  "/docs/Subscribers/CloudAssure/OptimizationService-2a9": {
-    "__comp": "17896441",
-    "content": "27531527"
-  },
   "/docs/Subscribers/CloudAssure/ProfessionalServices-aa5": {
     "__comp": "17896441",
     "content": "11fdf74e"
@@ -641,9 +633,9 @@
     "__comp": "17896441",
     "content": "da8e3f18"
   },
-  "/docs/Subscribers/Compute/RHELInstances/WorkingwithSnapshots-35d": {
+  "/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints-784": {
     "__comp": "17896441",
-    "content": "fc396ee1"
+    "content": "d8708725"
   },
   "/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances-ff7": {
     "__comp": "17896441",
@@ -696,10 +688,6 @@
   "/docs/Subscribers/intro-b36": {
     "__comp": "17896441",
     "content": "7053e341"
-  },
-  "/docs/Subscribers/ManagedNetwork/LoadBalancer-01c": {
-    "__comp": "17896441",
-    "content": "8c19a72a"
   },
   "/docs/Subscribers/ManagedSecurity/DDosProtection-99a": {
     "__comp": "17896441",

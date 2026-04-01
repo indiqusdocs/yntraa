@@ -6,7 +6,7 @@ sidebar_position: 4
 To view the details of Windows Instances, navigate to [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Overview** tab.
 
 1. Configuration and Availability
-    1. The instance's status, **RUNNING**, is displayed in <span class="green">Green </span>, whereas **STOPPED** is displayed in <span style={{ color: 'grey' }}>greyed</span> out.
+    1. The instance's status, **RUNNING**, is displayed in <span class="green">Green </span>, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red</span> out.
     2. Information about the networking zone.
 ![windetails1new](img/windetails1new.png)
 2. Internal Information - This displays the information that is used for internal identification of this instance and communication with other internal services.

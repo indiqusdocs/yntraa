@@ -7,7 +7,7 @@ Cloud Monitoring and Notification Service ensures continuous visibility into the
 optimize performance, and reduce manual oversight. 
 
 To activate the desired monitoring and notifications service, perform the following steps:
-1. Navigate to **MANAGED COMPUTE** > **Monitoring and Notifications**. ![monitornew](img/monitornew.png)
+1. Navigate to **CLOUD ASSURE** > **Monitoring and Notifications**. ![monitornew](img/monitornew.png)
 2. Click the **ACTIVATE** button. ![monitoractivationnew](img/monitoractivationnew.png)
 3. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option, and click **CONFIRM ACTIVATION** button.
 

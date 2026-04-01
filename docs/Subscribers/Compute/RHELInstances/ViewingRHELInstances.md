@@ -12,9 +12,9 @@ Yntraa Cloud offers a highly usable and visual way of working with and operating
 	- Default IP Address
 	- IPv6 Address
 	- Created
-![rhelcreation](img/rhelcreation.png)
+![rhelcreationnew](img/rhelcreationnew.png)
 3. To view a list of sections and the various operations or actions, click **instance name**.
-![rheloverview](img/rheloverview.png)
+![rheloverviewnew](img/rheloverviewnew.png)
 
 Below the Instance name, there is an informational view where you can find the following details:
 - Configuration
@@ -32,7 +32,7 @@ Details on available RHEL Instance operations and actions can be found in their 
 - [Utilisation](/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization#utilisation-historical)
 - [Volumes](docs/Subscribers/Compute/RHELInstances/VolumeManagement.md)
 - [Networking](docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md)
-- [Snapshots](WorkingwithSnapshots.md)
+- [Snapshots](WorkingwithRestorePoints.md)
 - [Reconfigure](ReconfiguringRHELInstances.md)
 - [Operations](RHELInstanceOperations.md)
 

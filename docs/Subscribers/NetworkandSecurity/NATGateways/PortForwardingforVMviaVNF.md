@@ -107,12 +107,12 @@ The following steps guide you through locating the newly added rule in the **Por
 
 1. Once the rule is added, it appears in the list under the **Port Forwarding** section for the selected public IP.
 2. Review the displayed rule details, which include:
-    - **TIER**
-    - **INSTANCE** 
-    - **PRIVATE IPv4 ADDRESS** 
-    - **PROTOCOL** 
-    - **PUBLIC RANGE** 
-    - **PRIVATE RANGE** 
+    - Tier
+    - Instance 
+    - Private IPv4 address
+    - Protocol 
+    - Public range
+    - Private range
 3. Ensure the information is accurate and matches the values you entered during rule creation. 
 ![pfoptionsnew](img/pfoptionsnew.png) 
 

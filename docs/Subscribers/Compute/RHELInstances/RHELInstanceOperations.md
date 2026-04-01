@@ -9,8 +9,8 @@ Yntraa Cloud provides the options to perform common operations on RHEL Instances
 - **Restart Instance** - Perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
 - **Force Stop Instance** - Force stop a running or a hung RHEL Instance.
 - **Reset Password**- Reset the RHEL Instances root user password. This requires the RHEL Instance to be powered off.
-  ![operations1](img/operations1.png)
-  ![operations2](img/operations2.png)
+  ![operation1new](img/operation1new.png)
+  ![operation2new](img/operation2new.png)
 - **Reset SSH Key** - Reset the RHEL Instances SSH key association. This requires the RHEL Instance to be powered off.
 - **Rename Instance** - Rename the RHEL Instance.
 - **Migrate Network** - Migrate RHEL Instance between VPC networks within the same Availability Zone.

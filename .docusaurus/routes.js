@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '081'),
+    component: ComponentCreator('/docs', '748'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '123'),
+        component: ComponentCreator('/docs', '15f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '9de'),
+            component: ComponentCreator('/docs', '02d'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -181,12 +181,6 @@ export default [
               {
                 path: '/docs/category/managed-kubernetes',
                 component: ComponentCreator('/docs/category/managed-kubernetes', '905'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/managed-network',
-                component: ComponentCreator('/docs/category/managed-network', 'bbe'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -503,12 +497,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/CloudAssure/OptimizationService',
-                component: ComponentCreator('/docs/Subscribers/CloudAssure/OptimizationService', '2a9'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/CloudAssure/ProfessionalServices',
                 component: ComponentCreator('/docs/Subscribers/CloudAssure/ProfessionalServices', 'aa5'),
                 exact: true,
@@ -719,8 +707,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/WorkingwithSnapshots',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/WorkingwithSnapshots', '35d'),
+                path: '/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints', '784'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -799,12 +787,6 @@ export default [
               {
                 path: '/docs/Subscribers/intro',
                 component: ComponentCreator('/docs/Subscribers/intro', 'b36'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/ManagedNetwork/LoadBalancer',
-                component: ComponentCreator('/docs/Subscribers/ManagedNetwork/LoadBalancer', '01c'),
                 exact: true,
                 sidebar: "sidebar1"
               },

@@ -12,8 +12,8 @@ The Restore Points section shows all Windows Instances Restore Points, which can
 
 Restore point shows the following details:
 - Restore Point Name
-- Description
 - Internal Name
+- Description
 - Type
 - Created On
  

@@ -29,7 +29,7 @@ To create a RHEL instance, the following steps are :
     - You can also remove the applied discount code by clicking on the **REMOVE** button. 
     - You can cancel this action by clicking on the **CANCEL** button.
     ![costrhelnew](img/costrhelnew.png)
-14. Click **CONFIRM** to create the RHEL Instance.
+14. Click **CONFIRM** button to create the RHEL Instance.
 
 :::note
 It might take up to 5-8 minutes for the instance to create. You may use the cloud console during this time, but it is advised that you do not refresh the browser window.

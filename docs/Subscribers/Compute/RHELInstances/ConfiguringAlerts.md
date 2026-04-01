@@ -30,7 +30,7 @@ The various fields of the add alert page are described below:
 2. **Choose Parameter** - This option will allow you to define what parameter must be monitored to trigger the alert email. Yntraa cloud supports CPU, RAM, Disk, 1-min Load Average, 5- min Load Average, 15- min Load Average parameters.
 3. **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 4. **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
-5. **Add Recipients** - Email IDs (comma-separated) can be added here, or also you can add them by using the configure recipients.
+5. **Add Recipients** - Email IDs (comma-separated) can be added here, or also you can add them by using the manage recipients.
 
 ## Managing Recipients
 

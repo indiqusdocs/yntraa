@@ -63,7 +63,7 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
-1. To configure Port Forwarding Rule, click the ![Icon](img/PortForwardingIcon.png)icon. The following window appears:  ![pfaddrule](img/pfaddrule.png)
+1. To configure Port Forwarding Rule, click the Port Forwarding icon. The following window appears:  ![pfaddrule](img/pfaddrule.png)
 2. Click **+ ADD RULE**. The following window appears: ![pfnowadded](img/pfnowadded.png)
 3. Specify the following details in the window:
 	- **Protocol** 
