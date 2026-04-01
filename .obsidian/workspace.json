@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
+                "file": "docs/Subscribers/SigningUp.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CreatingWindowsInstances"
+              "title": "SigningUp"
             }
           }
         ]
@@ -171,30 +171,34 @@
   },
   "active": "1bd8ee1be3881827",
   "lastOpenFiles": [
+    "build/blog/atom.xml",
     "build/blog/rss.xml",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
+    "build/assets/images/signup4-32cb925011d9d047783e294206af05f8.png",
+    "build/assets/images/subscriptions-3dd88b8fe39e28450288a18aab680f29.png",
+    "build/assets/images/acesskube-6aed6f36f7d75281100e1fc267a16aaa.png",
+    "build/assets/images/networkingnew-1342ce3a24c5d6449d591808dfb50af2.png",
+    "build/assets/images/virtualfirewallconfignew-ac0269da5baeb89d41fc711b391eca4f.png",
+    "build/assets/images/signup3-8838ce0a773b82acaaab3f8561a9f572.png",
+    "build/assets/images/signuppage-3a29667c27089e8b6836667affed964b.png",
+    "docs/Subscribers/img/signuppage.PNG",
+    "build/assets/images/companydetails2-3bfd1e1d1080125df6b267cb205ab89b.png",
+    "build/assets/images/servicedeactivate-e8ffb6fa7b5232dba8fab2f42e7be1ec.png",
+    "docs/Subscribers/GettingStartedonYntraaCloud.md",
+    "docs/Subscribers/SigningIn.md",
+    "docs/Subscribers/SigningUp.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
     "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
-    "build/img/sps.svg",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sps.png",
-    "build/img/sbs.svg",
-    "build/img/social-card.png",
-    "build/img/sbs.png",
-    "build/img/logo.svg",
-    "build/img/rn.svg",
     "docs/Subscribers/Compute/OtherLinuxInstances/AppOverlays.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances.md",
@@ -212,10 +216,6 @@
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP.md"
+    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations.md"
   ]
 }
