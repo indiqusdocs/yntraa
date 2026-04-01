@@ -34,7 +34,7 @@ This requires you to already have a key pair on your system, and you simply need
 
 To use an Linux Instance with an SSH key, it needs to be associated with a key first. This can be done in two ways:
 
-1. While creating a [new Linux Instance](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances), in the provisioning details form, choose any of the SSH options from the **Use SSH key pair** option under **Choose an Authentication method**. This will let you:
+1. While creating a [new Linux Instance](/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances), in the provisioning details form, choose any of the SSH options from the **Use SSH key pair** option under **Choose an Authentication method**. This will let you:
     1. Generate a new key pair.
     2. Upload a public key from your system.
     3. Select an existing SSH key from your Yntraa Cloud Console account. ![authenticationnewnew](img/authenticationnew.png)

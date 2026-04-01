@@ -1,970 +1,1027 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/blog-b2f": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---blogc-15-573"
+    "__props": "c15d9823"
   },
   "/blog/archive-182": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "__props": "__props---blog-archivef-81-229"
+    "__props": "f81c1134"
   },
   "/blog/authors-0b7": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authorsef-8-44f"
+    "sidebar": "814f3328",
+    "__props": "ef8b811a"
   },
   "/blog/authors/all-sebastien-lorber-articles-4a1": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-all-sebastien-lorber-articlesc-9-c-639"
+    "sidebar": "814f3328",
+    "__props": "c9c9bef8"
   },
   "/blog/authors/yangshun-a68": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__comp": "33fc5bb8",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-authors-yangshun-1-de-d0c"
+    "sidebar": "814f3328",
+    "__props": "1dea6ca3"
   },
   "/blog/first-blog-post-89a": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/blog/long-blog-post-9ad": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/blog/mdx-blog-post-e9f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/blog/tags-287": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "__props": "__props---blog-tags-3-a-2-fa2"
+    "sidebar": "814f3328",
+    "__props": "3a2db09e"
   },
   "/blog/tags/docusaurus-704": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---blog-tags-docusaurus-321-832"
+    "__props": "3217192f"
   },
   "/blog/tags/facebook-858": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       }
     ],
-    "__props": "__props---blog-tags-facebooke-5-a-514"
+    "__props": "e5aefb32"
   },
   "/blog/tags/hello-299": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "7661071f"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "8717b14a"
       }
     ],
-    "__props": "__props---blog-tags-hellof-82-2fd"
+    "__props": "f82cd581"
   },
   "/blog/tags/hola-00d": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "925b3f96"
       }
     ],
-    "__props": "__props---blog-tags-hola-5-e-9-9a3"
+    "__props": "5e90a9b3"
   },
   "/blog/welcome-d2b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/search-822": {
-    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__comp": "1a4e3797",
     "__context": {
-      "plugin": "plugin---search-138-688"
+      "plugin": "138e0e15"
     }
   },
-  "/docs-9ee": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/docs-081": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs-ae9": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+  "/docs-123": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
-  "/docs-54a": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs-9de": {
+    "__comp": "a94703ab"
   },
   "/docs/category/about-vpc-instances-210": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-about-vpc-instances-6-fa-ec2"
+    "__comp": "14eb3368",
+    "__props": "6fa09a07"
+  },
+  "/docs/category/account-centre-23a": {
+    "__comp": "14eb3368",
+    "__props": "91db3fd1"
   },
   "/docs/category/block-volumes-5ee": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-block-volumes-229-aed"
+    "__comp": "14eb3368",
+    "__props": "229d6296"
   },
   "/docs/category/cloud-assure-330": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-cloud-assure-377-aec"
+    "__comp": "14eb3368",
+    "__props": "377c03ef"
   },
   "/docs/category/cloud-assure-1-c6b": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-cloud-assure-1-a-9-e-c97"
+    "__comp": "14eb3368",
+    "__props": "a9e007c4"
   },
   "/docs/category/compute-a28": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-computeb-37-2a8"
+    "__comp": "14eb3368",
+    "__props": "b375baea"
   },
   "/docs/category/details-of-block-volume-644": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-details-of-block-volumeb-17-a5f"
+    "__comp": "14eb3368",
+    "__props": "b17cee6c"
+  },
+  "/docs/category/dns-management-98a": {
+    "__comp": "14eb3368",
+    "__props": "b9ab3f2e"
   },
   "/docs/category/firewall-instances-8bc": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-firewall-instances-554-639"
+    "__comp": "14eb3368",
+    "__props": "5546eeef"
   },
   "/docs/category/ipv4-based-networking-25a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-ipv-4-based-networkinge-96-716"
+    "__comp": "14eb3368",
+    "__props": "e960addf"
   },
   "/docs/category/l2-networks-f07": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-l-2-networks-5-bc-11c"
+    "__comp": "14eb3368",
+    "__props": "5bcff099"
   },
   "/docs/category/load-balancer-instances-abc": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-load-balancer-instances-016-f8b"
+    "__comp": "14eb3368",
+    "__props": "016802e9"
   },
   "/docs/category/managed-compute-044": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-computeb-1-e-21d"
+    "__comp": "14eb3368",
+    "__props": "b1eb3c7c"
   },
   "/docs/category/managed-databases-91c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-databases-802-2e0"
+    "__comp": "14eb3368",
+    "__props": "802af4f0"
   },
   "/docs/category/managed-kubernetes-905": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-kubernetes-8-e-5-f21"
+    "__comp": "14eb3368",
+    "__props": "8e56d901"
   },
   "/docs/category/managed-network-bbe": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-network-03-a-81c"
+    "__comp": "14eb3368",
+    "__props": "03a22633"
   },
   "/docs/category/managed-security-2e6": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-security-340-14c"
+    "__comp": "14eb3368",
+    "__props": "3406fb7c"
   },
   "/docs/category/managed-solutions-d2e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-solutionsd-54-53f"
+    "__comp": "14eb3368",
+    "__props": "d548d368"
   },
   "/docs/category/managed-storage-b3f": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managed-storage-900-38b"
+    "__comp": "14eb3368",
+    "__props": "900b4cb2"
   },
   "/docs/category/managing-nat-gateways-0d2": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-managing-nat-gateways-3-d-2-2e6"
+    "__comp": "14eb3368",
+    "__props": "3d2ca6c0"
   },
   "/docs/category/miscellaneous-d7b": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-miscellaneous-298-c31"
+    "__comp": "14eb3368",
+    "__props": "298defe3"
+  },
+  "/docs/category/monitoring-and-usage-227": {
+    "__comp": "14eb3368",
+    "__props": "812607c4"
   },
   "/docs/category/nat-gateways-049": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-nat-gateways-7-f-4-bf6"
+    "__comp": "14eb3368",
+    "__props": "7f43c30d"
   },
   "/docs/category/network-and-security-4e1": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-network-and-security-3-a-5-9db"
+    "__comp": "14eb3368",
+    "__props": "3a5d4f3d"
   },
   "/docs/category/object-storage-buckets-425": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-object-storage-buckets-213-4ca"
+    "__comp": "14eb3368",
+    "__props": "213a3acc"
   },
   "/docs/category/other-linux-instances-0c0": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-other-linux-instances-2-b-3-78e"
+    "__comp": "14eb3368",
+    "__props": "2b39c28b"
   },
   "/docs/category/other-services-eb7": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-other-services-258-6b9"
+    "__comp": "14eb3368",
+    "__props": "2582b400"
   },
   "/docs/category/rhel-instances-163": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-rhel-instances-46-a-7c2"
+    "__comp": "14eb3368",
+    "__props": "46a524fe"
   },
   "/docs/category/storage-438": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-storage-898-b24"
+    "__comp": "14eb3368",
+    "__props": "898cedfe"
   },
   "/docs/category/tools-and-utilities-6e6": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tools-and-utilitiesae-2-63c"
+    "__comp": "14eb3368",
+    "__props": "ae274a7f"
   },
   "/docs/category/virtual-firewalls-453": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-virtual-firewalls-480-c1a"
+    "__comp": "14eb3368",
+    "__props": "4807b5b0"
   },
   "/docs/category/virtual-private-clouds-733": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-virtual-private-cloudsc-60-f59"
+    "__comp": "14eb3368",
+    "__props": "c60d192a"
   },
   "/docs/category/windows-instances-a38": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-windows-instances-329-d24"
+    "__comp": "14eb3368",
+    "__props": "3291a1bf"
   },
   "/docs/FAQs/CloudAssure/-ae2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-cloud-assure-28-f-006"
+    "__comp": "17896441",
+    "content": "28f25c58"
   },
   "/docs/FAQs/CloudAssure/AssesmentandAdvisory-101": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-cloud-assure-assesmentand-advisory-2-c-8-cd1"
+    "__comp": "17896441",
+    "content": "2c86a5d4"
   },
   "/docs/FAQs/CloudAssure/MigrationAssist-561": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-cloud-assure-migration-assistc-74-872"
+    "__comp": "17896441",
+    "content": "c74e4c45"
   },
   "/docs/FAQs/CloudAssure/ProfessionalService-4ba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-cloud-assure-professional-servicecdd-510"
+    "__comp": "17896441",
+    "content": "cdd4ab26"
   },
   "/docs/FAQs/CloudAssure/ResiliencyAssuranceService-a08": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-cloud-assure-resiliency-assurance-servicede-8-c37"
+    "__comp": "17896441",
+    "content": "de8baba3"
   },
   "/docs/FAQs/ManagedCompute/VirtualDesktop-145": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-managed-compute-virtual-desktop-30-f-18b"
+    "__comp": "17896441",
+    "content": "30f76886"
   },
   "/docs/FAQs/ManagedStorage/File Storage-836": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-managed-storage-file-storage-5-c-2-5d7"
+    "__comp": "17896441",
+    "content": "5c20bd5d"
   },
   "/docs/FAQs/Miscellaneous/FAQs-9d3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-miscellaneous-fa-qs-805-bb5"
+    "__comp": "17896441",
+    "content": "8055e0a8"
   },
   "/docs/FAQs/OtherServices/ManagedDatabases-67e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-fa-qs-other-services-managed-databases-4-a-9-fc5"
+    "__comp": "17896441",
+    "content": "4a91a151"
   },
   "/docs/Knowledgebase/IPv4Networking-f85": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledgebase-i-pv-4-networking-0-f-5-bbc"
+    "__comp": "17896441",
+    "content": "0f5a8847"
   },
   "/docs/Knowledgebase/WhatisaVirtualFirewallintheCloud-3e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledgebase-whatisa-virtual-firewallinthe-cloud-031-d7f"
+    "__comp": "17896441",
+    "content": "03119a2e"
   },
   "/docs/Knowledgebase/WhatisaVPC-467": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledgebase-whatisa-vpc-044-a01"
+    "__comp": "17896441",
+    "content": "044af35b"
   },
   "/docs/Knowledgebase/WhatisInstances-ed1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledgebase-whatis-instancesedb-cd8"
+    "__comp": "17896441",
+    "content": "edbc5732"
   },
   "/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR-182": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledgebase-whatis-ip-address-subnet-tierand-cid-rb-53-9d4"
+    "__comp": "17896441",
+    "content": "b53dca5b"
   },
   "/docs/ReleaseNotes/Ver1000-db9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-release-notes-ver-10002-e-7-2c8"
+    "__comp": "17896441",
+    "content": "2e75089c"
+  },
+  "/docs/Subscribers/AccountCentre/Address-cd2": {
+    "__comp": "17896441",
+    "content": "8b86edb8"
+  },
+  "/docs/Subscribers/AccountCentre/Assets-5c5": {
+    "__comp": "17896441",
+    "content": "ca2898d5"
+  },
+  "/docs/Subscribers/AccountCentre/Commercial-ea3": {
+    "__comp": "17896441",
+    "content": "113d993f"
+  },
+  "/docs/Subscribers/AccountCentre/CompanyDetails-e77": {
+    "__comp": "17896441",
+    "content": "45cd1837"
+  },
+  "/docs/Subscribers/AccountCentre/Contacts-116": {
+    "__comp": "17896441",
+    "content": "f7908d08"
+  },
+  "/docs/Subscribers/AccountCentre/Dashboard-ce3": {
+    "__comp": "17896441",
+    "content": "b8ec49e4"
+  },
+  "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup-a77": {
+    "__comp": "17896441",
+    "content": "64600adb"
+  },
+  "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra-e55": {
+    "__comp": "17896441",
+    "content": "8d3bfc00"
+  },
+  "/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails-a22": {
+    "__comp": "17896441",
+    "content": "4981dd38"
+  },
+  "/docs/Subscribers/AccountCentre/Organisation-AccountProfile-f65": {
+    "__comp": "17896441",
+    "content": "b918d90b"
+  },
+  "/docs/Subscribers/AccountCentre/Profile-399": {
+    "__comp": "17896441",
+    "content": "cc8de837"
+  },
+  "/docs/Subscribers/AccountCentre/ResettingPassword-a27": {
+    "__comp": "17896441",
+    "content": "5917a595"
+  },
+  "/docs/Subscribers/AccountCentre/Services-ba2": {
+    "__comp": "17896441",
+    "content": "057dd203"
+  },
+  "/docs/Subscribers/AccountCentre/StandardAgreements-53c": {
+    "__comp": "17896441",
+    "content": "4e768af3"
+  },
+  "/docs/Subscribers/AccountCentre/SubscriptionsandServices-4c9": {
+    "__comp": "17896441",
+    "content": "f8da5119"
+  },
+  "/docs/Subscribers/AccountCentre/TeamMemberManagement-a69": {
+    "__comp": "17896441",
+    "content": "da87b629"
+  },
+  "/docs/Subscribers/AccountCentre/Tickets-9f0": {
+    "__comp": "17896441",
+    "content": "16ebf176"
   },
   "/docs/Subscribers/CloudAssure/AssessmentandAdvisory-af4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-cloud-assure-assessmentand-advisory-2-a-1-7b0"
+    "__comp": "17896441",
+    "content": "2a1cb960"
   },
   "/docs/Subscribers/CloudAssure/MigrationAssist-f47": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-cloud-assure-migration-assist-9-d-3-b23"
+    "__comp": "17896441",
+    "content": "9d3a5cd8"
   },
   "/docs/Subscribers/CloudAssure/MonitoringandNotifications-411": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-cloud-assure-monitoringand-notificationsf-3-d-16f"
+    "__comp": "17896441",
+    "content": "f3d99ac7"
   },
   "/docs/Subscribers/CloudAssure/OptimizationService-2a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-cloud-assure-optimization-service-275-635"
+    "__comp": "17896441",
+    "content": "27531527"
   },
   "/docs/Subscribers/CloudAssure/ProfessionalServices-aa5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-cloud-assure-professional-services-11-f-cfd"
+    "__comp": "17896441",
+    "content": "11fdf74e"
   },
   "/docs/Subscribers/CloudAssure/SecurityandCompliance-98b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-cloud-assure-securityand-compliance-6-a-5-207"
+    "__comp": "17896441",
+    "content": "6a501b67"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes-83a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-about-kubernetesd-55-6d1"
+    "__comp": "17896441",
+    "content": "d55a53e7"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard-53d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-about-kubernetes-dashboard-33-f-4af"
+    "__comp": "17896441",
+    "content": "33f227bb"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine-29d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-accessinga-clusterusingthe-command-lineffd-7ac"
+    "__comp": "17896441",
+    "content": "ffdb24b7"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard-5d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-accessingthekubernetesdashboard-7-f-2-b80"
+    "__comp": "17896441",
+    "content": "7f21b44f"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations-d88": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-cluster-operationsc-25-ab0"
+    "__comp": "17896441",
+    "content": "c25b9b67"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster-dbf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-creatinga-kubernetes-cluster-68-e-649"
+    "__comp": "17896441",
+    "content": "68ec25e8"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters-767": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-ingress-networkingon-kubernetes-clusters-177-0cc"
+    "__comp": "17896441",
+    "content": "177fa1b0"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/Overview-a2b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-overview-4-bf-757"
+    "__comp": "17896441",
+    "content": "4bf7b8e3"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters-318": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-scaling-kubernetes-clusters-2-a-3-f5c"
+    "__comp": "17896441",
+    "content": "2a3ef4fa"
   },
   "/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails-489": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-managed-kubernetes-viewing-kubernetes-cluster-details-80-b-742"
+    "__comp": "17896441",
+    "content": "80b608e4"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances-a58": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-about-linux-instancesca-7-7f3"
+    "__comp": "17896441",
+    "content": "ca73b099"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/AppOverlays-77b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-app-overlaysa-1-d-811"
+    "__comp": "17896441",
+    "content": "a1d4fc4f"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts-75c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-configuring-alerts-57-a-983"
+    "__comp": "17896441",
+    "content": "57ac7173"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance-b0b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-connectingtoa-linux-instanced-74-16a"
+    "__comp": "17896441",
+    "content": "d74654ba"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances-261": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-creating-linux-instances-73-b-1fe"
+    "__comp": "17896441",
+    "content": "73b293ad"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement-49e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-networking-management-705-f80"
+    "__comp": "17896441",
+    "content": "705db28d"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/Operations-c32": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-operations-1-f-4-b2d"
+    "__comp": "17896441",
+    "content": "1f458edd"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/Overview-ec3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-overview-839-48a"
+    "__comp": "17896441",
+    "content": "83984c99"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances-953": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-reconfiguring-linux-instances-79-c-d7b"
+    "__comp": "17896441",
+    "content": "79cce89d"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances-914": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-viewing-graphsand-utilizationof-linux-instances-190-f21"
+    "__comp": "17896441",
+    "content": "190afc28"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement-f77": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-volume-management-0-c-5-faf"
+    "__comp": "17896441",
+    "content": "0c537fa4"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints-edc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-other-linux-instances-workingwith-linux-instance-restore-points-7-fd-ee8"
+    "__comp": "17896441",
+    "content": "7fd41d55"
   },
   "/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances-02c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-about-rhel-instances-2-ed-d69"
+    "__comp": "17896441",
+    "content": "2edf0e0f"
   },
   "/docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts-710": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-configuring-alertsb-60-7e9"
+    "__comp": "17896441",
+    "content": "b6008ac0"
   },
   "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance-363": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-connectingtoa-rhel-instancea-91-8ed"
+    "__comp": "17896441",
+    "content": "a913d927"
   },
   "/docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances-b48": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-creating-rhel-instancese-0-e-66c"
+    "__comp": "17896441",
+    "content": "e0e0de6b"
   },
   "/docs/Subscribers/Compute/RHELInstances/NetworkingManagement-eb7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-networking-managementcd-8-eb3"
+    "__comp": "17896441",
+    "content": "cd8e83e1"
   },
   "/docs/Subscribers/Compute/RHELInstances/Overview-398": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-overview-9-a-6-957"
+    "__comp": "17896441",
+    "content": "9a66e57a"
   },
   "/docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances-36f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-reconfiguring-rhel-instances-901-bb4"
+    "__comp": "17896441",
+    "content": "901f212d"
   },
   "/docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations-dfc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-rhel-instance-operations-8-aa-665"
+    "__comp": "17896441",
+    "content": "8aa91582"
   },
   "/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization-b53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-viewing-graphsand-utilization-3-c-7-910"
+    "__comp": "17896441",
+    "content": "3c782bc2"
   },
   "/docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances-ce6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-viewing-rhel-instanceseff-117"
+    "__comp": "17896441",
+    "content": "eff97054"
   },
   "/docs/Subscribers/Compute/RHELInstances/VolumeManagement-7c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-volume-managementda-8-5de"
+    "__comp": "17896441",
+    "content": "da8e3f18"
   },
   "/docs/Subscribers/Compute/RHELInstances/WorkingwithSnapshots-35d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-rhel-instances-workingwith-snapshotsfc-3-07c"
+    "__comp": "17896441",
+    "content": "fc396ee1"
   },
   "/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances-ff7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-about-windows-instances-1-fd-0c9"
+    "__comp": "17896441",
+    "content": "1fd86384"
   },
   "/docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances-b3d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-configuring-alertson-windows-instances-8-cb-7ea"
+    "__comp": "17896441",
+    "content": "8cbbd92e"
   },
   "/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance-5b0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-connectingtoa-windows-instance-8-d-7-f1b"
+    "__comp": "17896441",
+    "content": "8d7663e8"
   },
   "/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances-efe": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-creating-windows-instances-59-e-b16"
+    "__comp": "17896441",
+    "content": "59e716d6"
   },
   "/docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances-495": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-networking-managementon-windows-instancesd-68-42d"
+    "__comp": "17896441",
+    "content": "d68bad57"
   },
   "/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances-425": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-reconfiguring-windows-instances-999-1d8"
+    "__comp": "17896441",
+    "content": "99921081"
   },
   "/docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances-387": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-viewing-detailsof-windows-instancescb-4-88b"
+    "__comp": "17896441",
+    "content": "cb479427"
   },
   "/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances-104": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-viewing-graphsand-utilisationof-windows-instancesf-81-bc0"
+    "__comp": "17896441",
+    "content": "f815a548"
   },
   "/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances-b4d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-volume-managementwith-windows-instances-0-db-88f"
+    "__comp": "17896441",
+    "content": "0dbd1948"
   },
   "/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations-650": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-windows-instance-operationsbf-5-d6e"
+    "__comp": "17896441",
+    "content": "bf52a537"
   },
   "/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints-d3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-compute-windows-instances-workingwith-windows-instance-restore-points-3-fe-aef"
+    "__comp": "17896441",
+    "content": "3fe0ac93"
   },
   "/docs/Subscribers/GettingStartedonYntraaCloud-4a5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-getting-startedon-yntraa-cloud-7-e-0-bd7"
+    "__comp": "17896441",
+    "content": "7e02d29e"
   },
   "/docs/Subscribers/intro-b36": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-intro-705-f27"
+    "__comp": "17896441",
+    "content": "7053e341"
   },
   "/docs/Subscribers/ManagedNetwork/LoadBalancer-01c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-network-load-balancer-8-c-1-0ec"
+    "__comp": "17896441",
+    "content": "8c19a72a"
   },
   "/docs/Subscribers/ManagedSecurity/DDosProtection-99a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-security-d-dos-protection-6-a-4-83e"
+    "__comp": "17896441",
+    "content": "6a4cf887"
   },
   "/docs/Subscribers/ManagedSecurity/PrivilegedAccessManagement-803": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-security-privileged-access-management-424-72c"
+    "__comp": "17896441",
+    "content": "424b8562"
   },
   "/docs/Subscribers/ManagedSecurity/YottaSmartCSOC-05b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-security-yotta-smart-csoc-1-a-3-89a"
+    "__comp": "17896441",
+    "content": "1a32f30e"
   },
   "/docs/Subscribers/ManagedSolutions/BackupandRecovery-730": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-solutions-backupand-recovery-12-e-7d6"
+    "__comp": "17896441",
+    "content": "12e21dce"
   },
   "/docs/Subscribers/ManagedSolutions/BareMetal-4ec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-solutions-bare-metal-4-f-9-4f1"
+    "__comp": "17896441",
+    "content": "4f9a32c3"
   },
   "/docs/Subscribers/ManagedSolutions/DevOpsasaService-ceb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-solutions-dev-opsasa-service-842-42c"
+    "__comp": "17896441",
+    "content": "842ecb4e"
   },
   "/docs/Subscribers/ManagedSolutions/LoadTestingasaService-171": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-solutions-load-testingasa-service-443-d50"
+    "__comp": "17896441",
+    "content": "4435fb47"
   },
   "/docs/Subscribers/ManagedSolutions/ManagedDatabaseServices-31c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-solutions-managed-database-services-5-f-3-4a5"
+    "__comp": "17896441",
+    "content": "5f3693f9"
   },
   "/docs/Subscribers/ManagedSolutions/MessagingServices-50a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-solutions-messaging-servicesc-47-c73"
+    "__comp": "17896441",
+    "content": "c47df850"
   },
   "/docs/Subscribers/ManagedSolutions/ResiliencyAssuranceService-3d2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-managed-solutions-resiliency-assurance-service-77-b-14d"
+    "__comp": "17896441",
+    "content": "77bf4a73"
+  },
+  "/docs/Subscribers/NetworkandSecurity/DNSManagement/AboutDNSManagement-468": {
+    "__comp": "17896441",
+    "content": "7c5537f9"
+  },
+  "/docs/Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoApiculusCloudConsole-e4e": {
+    "__comp": "17896441",
+    "content": "2fd2a334"
+  },
+  "/docs/Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoYntraaCloud-fd8": {
+    "__comp": "17896441",
+    "content": "83b854b9"
+  },
+  "/docs/Subscribers/NetworkandSecurity/DNSManagement/ManagingDNSRecords-a50": {
+    "__comp": "17896441",
+    "content": "aa81ce5c"
+  },
+  "/docs/Subscribers/NetworkandSecurity/DNSManagement/SwitchingtoAnotherDNSProvider-e60": {
+    "__comp": "17896441",
+    "content": "5955705a"
   },
   "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking-c99": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-i-pv-4-based-networking-about-i-pv-4-based-networkingd-58-47f"
+    "__comp": "17896441",
+    "content": "d58f2a74"
   },
   "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs-d5e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-i-pv-4-based-networking-establishing-site-to-site-vpn-between-two-vp-cs-462-f68"
+    "__comp": "17896441",
+    "content": "46241ed9"
   },
   "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN-bed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-i-pv-4-based-networking-managing-vpn-gatewaysand-site-to-site-vpn-641-b67"
+    "__comp": "17896441",
+    "content": "6412b32b"
   },
   "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC-372": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-i-pv-4-based-networking-using-remote-access-vp-nwith-vp-cc-03-c4a"
+    "__comp": "17896441",
+    "content": "c037fd02"
   },
   "/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks-8ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-l-2-networks-about-l-2-networksc-27-980"
+    "__comp": "17896441",
+    "content": "c27b3285"
   },
   "/docs/Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks-f3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-l-2-networks-add-new-l-2-networks-5-df-c15"
+    "__comp": "17896441",
+    "content": "5dfc8601"
   },
   "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances-a56": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-load-balancer-instances-about-load-balancer-instancesdf-0-a64"
+    "__comp": "17896441",
+    "content": "df050423"
   },
   "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX-b70": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-load-balancer-instances-activatingthe-net-scaler-vpx-8-f-1-3dc"
+    "__comp": "17896441",
+    "content": "8f194911"
   },
   "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance-517": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-load-balancer-instances-creatinga-load-balancer-instancec-6-e-04a"
+    "__comp": "17896441",
+    "content": "c6e273dd"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways-fc5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-nat-gateways-about-nat-gateways-5-ef-90e"
+    "__comp": "17896441",
+    "content": "5ef74b2b"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances-ffa": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-nat-gateways-managing-nat-gateways-instances-1-de-024"
+    "__comp": "17896441",
+    "content": "1de52567"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses-217": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-nat-gateways-managing-nat-gateways-i-pv-4-addressesf-80-16e"
+    "__comp": "17896441",
+    "content": "f8001cbc"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations-aac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-nat-gateways-managing-nat-gateways-operationsf-38-7a9"
+    "__comp": "17896441",
+    "content": "f38bc62f"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview-46c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-nat-gateways-managing-nat-gateways-overview-97-a-b4f"
+    "__comp": "17896441",
+    "content": "97a930f3"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways-d53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-nat-gateways-managing-nat-gateways-viewingand-managing-nat-gateways-8-af-906"
+    "__comp": "17896441",
+    "content": "8af22663"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF-d08": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-nat-gateways-port-forwardingfor-v-mvia-vn-fa-6-b-721"
+    "__comp": "17896441",
+    "content": "a6bd292d"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP-e32": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-nat-gateways-port-forwardingwith-public-i-pb-03-c7c"
+    "__comp": "17896441",
+    "content": "b03c5a9b"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel-f76": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-accessingthe-vfi-control-panel-184-8fc"
+    "__comp": "17896441",
+    "content": "184f02b2"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork-220": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-adding-instancestoa-vfi-based-network-0-c-2-d6c"
+    "__comp": "17896441",
+    "content": "0c2dfbd9"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall-484": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-creatinga-virtual-firewallab-3-8a0"
+    "__comp": "17896441",
+    "content": "ab30061c"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF-368": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-deploying-vn-fand-vm-within-vn-ffda-749"
+    "__comp": "17896441",
+    "content": "fda11cd7"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances-b06": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-about-firewall-instances-384-9ae"
+    "__comp": "17896441",
+    "content": "38489323"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts-60e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-configuring-alertsd-54-988"
+    "__comp": "17896441",
+    "content": "d54df5a8"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement-409": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-networking-management-041-d87"
+    "__comp": "17896441",
+    "content": "0413d62c"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations-a02": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-operationsacf-834"
+    "__comp": "17896441",
+    "content": "acf13c2d"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview-02f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-overview-46-c-7f0"
+    "__comp": "17896441",
+    "content": "46c956c7"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall-138": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-reconfiguring-virtual-firewall-523-9bf"
+    "__comp": "17896441",
+    "content": "523c4570"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots-31a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-snapshots-36-a-81a"
+    "__comp": "17896441",
+    "content": "36a61d52"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation-844": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-viewing-graphsand-utilisation-047-ec5"
+    "__comp": "17896441",
+    "content": "0477a7bf"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails-543": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-viewing-virtual-firewall-details-6-e-2-549"
+    "__comp": "17896441",
+    "content": "6e2c372f"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement-1ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-firewall-firewall-instances-volume-managementac-2-4a3"
+    "__comp": "17896441",
+    "content": "ac2e9e09"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds-dcc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-about-virtual-private-cloudsaf-1-3d1"
+    "__comp": "17896441",
+    "content": "af1c74f9"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs-bdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-create-listand-view-vp-csc-24-242"
+    "__comp": "17896441",
+    "content": "c24b511f"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers-065": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-creating-vpc-subnets-tiersf-2-f-234"
+    "__comp": "17896441",
+    "content": "f2f3fbb7"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC-463": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-i-pv-4-addressesand-vpc-7-de-25a"
+    "__comp": "17896441",
+    "content": "7def56e5"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets-a1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-managing-access-controlon-vpc-subnets-56-e-15b"
+    "__comp": "17896441",
+    "content": "56e6650c"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances-571": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-managing-vpc-instances-2-c-9-e79"
+    "__comp": "17896441",
+    "content": "2c96ff23"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview-3b1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-overview-21-a-c02"
+    "__comp": "17896441",
+    "content": "21a15159"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring-a73": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-reconfiguring-15-e-28b"
+    "__comp": "17896441",
+    "content": "15edad7f"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations-00d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-about-vpc-instances-vpc-managementand-basic-operationse-66-a64"
+    "__comp": "17896441",
+    "content": "e666902d"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC-1c9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-difference-between-l-2-networksand-vp-cbf-7-311"
+    "__comp": "17896441",
+    "content": "bf72e5ec"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC-84a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-networkand-security-virtual-private-clouds-workingwith-vpn-connectionsina-vpc-8-f-1-d98"
+    "__comp": "17896441",
+    "content": "8f1cc45b"
   },
   "/docs/Subscribers/OtherServices/Containers-c1c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-containers-34-a-dce"
+    "__comp": "17896441",
+    "content": "34a355ce"
   },
   "/docs/Subscribers/OtherServices/FileStorage-df8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-other-services-file-storage-263-a9e"
+    "__comp": "17896441",
+    "content": "26357ca1"
   },
   "/docs/Subscribers/SigningIn-122": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-signing-in-5-fa-d28"
+    "__comp": "17896441",
+    "content": "5fa2b52a"
   },
   "/docs/Subscribers/SigningUp-cb7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-signing-up-2-f-3-c64"
+    "__comp": "17896441",
+    "content": "2f366b4f"
   },
   "/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes-b4d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-about-block-volumes-62-c-484"
+    "__comp": "17896441",
+    "content": "62c0ff90"
   },
   "/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk-64e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-creating-data-diskbaf-22d"
+    "__comp": "17896441",
+    "content": "baf359ea"
   },
   "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations-198": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-detailsof-block-volumes-operationsa-4-d-c75"
+    "__comp": "17896441",
+    "content": "a4dbadb2"
   },
   "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview-d3d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-detailsof-block-volumes-overview-57-a-d07"
+    "__comp": "17896441",
+    "content": "57af5500"
   },
   "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume-011": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-detailsof-block-volumes-resizethe-block-volume-405-c46"
+    "__comp": "17896441",
+    "content": "4051e0cb"
   },
   "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules-e0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-detailsof-block-volumes-schedules-0-bb-a93"
+    "__comp": "17896441",
+    "content": "0bb8b287"
   },
   "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints-6b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-detailsof-block-volumes-workingwith-disk-restore-pointsd-5-d-4c1"
+    "__comp": "17896441",
+    "content": "d5d18488"
   },
   "/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes-a37": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-using-block-volumeswith-kubernetes-2-df-7d1"
+    "__comp": "17896441",
+    "content": "2df0218f"
   },
   "/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes-7a2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-block-volumes-workingwith-instance-volumese-5-a-02d"
+    "__comp": "17896441",
+    "content": "e5a7aac8"
   },
   "/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage-e12": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-buckets-about-yntraa-object-storagee-89-2a1"
+    "__comp": "17896441",
+    "content": "e89126ff"
   },
   "/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage-a37": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-buckets-creating-object-storage-1-c-1-e60"
+    "__comp": "17896441",
+    "content": "1c1af8fe"
   },
   "/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails-f60": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-buckets-feature-listand-integration-detailsbad-665"
+    "__comp": "17896441",
+    "content": "bad16ecb"
   },
   "/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions-187": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-storage-object-storage-buckets-frequently-asked-questionseac-00c"
+    "__comp": "17896441",
+    "content": "eacd9827"
   },
   "/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities-f81": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-about-toolsand-utilities-0-f-8-b04"
+    "__comp": "17896441",
+    "content": "0f8ca11d"
   },
   "/docs/Subscribers/ToolsandUtilities/AddingVPNGateways-549": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-adding-vpn-gatewayse-06-cd1"
+    "__comp": "17896441",
+    "content": "e06d7888"
   },
   "/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages-c14": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-managing-custom-templatesand-imagesbf-4-e1e"
+    "__comp": "17896441",
+    "content": "bf4d67b8"
   },
   "/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints-188": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-managing-instanceand-disk-restore-pointsad-7-c0f"
+    "__comp": "17896441",
+    "content": "ad747af9"
   },
   "/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances-7bc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-subscribers-toolsand-utilities-managing-ssh-keysand-key-pairsfor-linux-instances-8-c-7-5d6"
+    "__comp": "17896441",
+    "content": "8c7eabf8"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

@@ -10,10 +10,7 @@ The following are the high level steps required to configure port forwarding wit
 1. [Adding Public IPv4 Address](#adding-public-ipv4-address)
 2. [Adding a Port Forwarding Rule](#adding-a-port-forwarding-rule)
 3. [Requiring Values in the Rule](#requiring-values-in-the-rule)
-4. [Configuring Port Forwarding in pfsense](#configuring-port-forwarding-in-pfsense)
-5. [Verifying the Functionality](#verifying-the-functionality)
-6. [ Web and SSH Port Forwarding in pfsense](#web-and-ssh-port-forwarding-in-pfsense)
-7. [WAN Rule at pfsense](#wan-rule-at-pfsense)
+   
 ## Adding Public IPv4 Address
 
 To enable external connectivity for your services through a NAT Gateway, you need to allocate a public IPv4 address. This address serves as the entry point for inbound traffic and is essential for setting up port forwarding or other external access configurations.

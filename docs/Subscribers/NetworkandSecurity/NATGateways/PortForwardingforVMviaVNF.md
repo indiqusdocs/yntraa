@@ -13,11 +13,6 @@ The following are the high-level tasks required to configure port forwarding for
 4. [Adding a New Port Forwarding Rule](#adding-a-new-port-forwarding-rule)
 5. [Adding Details and Creating Port Forwarding Rule](#adding-details-and-creating-port-forwarding-rule)
 6. [Verifying the Added Port Forwarding Rule](#verifying-the-added-port-forwarding-rule)
-7. [Configuring NAT Settings In pfsense Firewall](#configuring-nat-settings-in-pfsense-firewall)
-8. [Adding a New Port Forward Rule in pfsense Firewall](#adding-a-new-port-forward-rule-in-pfsense-firewall)
-9. [Adding a Rule with Value](#adding-a-rule-with-value)
-10. [Verifying SSH Access Using Public IP](#verifying-ssh-access-using-public-ip)
-11. [Verifying VM Information and IP Configuration](#verifying-vm-information-and-ip-configuration)
 
 ## Accessing and Selecting a NAT Gateway
 
@@ -25,7 +20,7 @@ This section outlines the steps to access and select a NAT Gateway within the Yn
 
 The following steps guide you through locating and selecting your NAT Gateway from the dashboard:
 
-1. Navigate to the **NETWORK AND SECURITY > NAT Gateways** section from the  Cloud dashboard.
+1. Navigate to the **Network and Security > NAT Gateways** section from the  Cloud dashboard.
 2. Select the appropriate NAT Gateway associated with your VNF.
 ![natgatewaynew](img/natgatewaynew.png)
 ## Reviewing Configuration
@@ -43,9 +38,9 @@ The following steps guide you through reviewing key configuration details, check
      - **Virtual Gateway Pack**
      - **Network Size**
 4. Access Internal Information for System Reference: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the  Cloud environment.
-    - **TEMPLATE NAME**.
-    - **VIRTUAL GATEWAY INTERNAL NAME**
-    - **CREATED ON**
+    - Template Name.
+    - Virtual Gateway Internal Name
+    - Created On
 ![natdetails](img/natdetails.png)
 ## Accessing Port Forwarding Settings for NAT Gateway
 
@@ -120,75 +115,4 @@ The following steps guide you through locating the newly added rule in the **Por
     - **PRIVATE RANGE** 
 3. Ensure the information is accurate and matches the values you entered during rule creation. 
 ![pfoptionsnew](img/pfoptionsnew.png) 
-## Configuring NAT Settings In pfsense Firewall
 
-To fully enable port forwarding, you must set up the necessary NAT (Network Address Translation) rules in the pfsense firewall. This step ensures that incoming traffic on specific ports is correctly directed to your internal server. 
-
-The Following steps to access and configure the NAT settings:
-
-1. Log in to the **pfSense Firewall** using the IP address shown in the browser.
-2. From the top menu bar, click on the **Firewall** .
-3. In the dropdown menu under **Firewall**, select **NAT** (as shown highlighted in the image).
-4. This takes you to the NAT settings page, where you can configure the required port forwarding rules for pfsense.
-![pfapiculus](img/pfapiculus.png)
-## Adding a New Port Forward Rule in pfsense Firewall
-
-To enable traffic redirection to an internal server, you must create a new Port Forward rule in the pfsense firewall. This rule helps map incoming traffic on a specific port to the desired internal IP and port within your network. 
-
-The following steps to add the rule and configure the necessary settings, including interface selection, protocol type, port range, and internal destination details, to ensure accurate traffic forwarding through the pfsense firewall:
- 
-1. Ensure you're in the **Port Forward** tab under the **Firewall > NAT** section.
-2. Click on the green **Add** button (with the upward arrow icon) on the right side of the page to create a new port forwarding rule.
-3. This opens the configuration form where you can define the interface, protocol, source and destination addresses, ports, and the internal (NAT) IP to forward the traffic to.   
-![forwardapiculus](img/forwardapiculus.png)   
-## Adding a Rule with Value
-
-To define specific port forwarding behavior, you can manually add a rule with precise values that match your network and access requirements. This allows you to control how incoming traffic on selected ports is redirected to internal resources within your environment.
-
-The following steps guide you through filling out each required field to ensure accurate and secure forwarding of incoming traffic to the intended internal server.
-   
-1. Click on the **Add** button to create a new port forwarding rule.
-2. Fill in the Rule Details as per requirement:
-    - **Interface**: Select WAN
-    - **Address Family**: Choose IPv4
-    - **Protocol**: Select TCP
-    - **Destination**: Choose WAN address
-3. **Destination port range**:
-    - From Port: 22
-    - To Port: 22
-4. **Redirect target IP**: Enter the internal IP address of the server (for example, 192.168.1.100)
-5. **Redirect target Port**: Enter the port number 22
-6. **Description**(Optional): Add a short note for reference.
-7. **NAT reflection**: Leave as Use system default.
-8. **Filter rule association**: Choose Add associated filter rule.
-9. Click on **Save** and then apply the changes to activate the rule.
-![requireapiculus1](img/requireapiculus1.png)
-![requireapiculus2](img/requireapiculus2.png)
-## Verifying SSH Access Using Public IP
-
-Once the port forwarding rule has been successfully created in pfsense, the next step is to verify that external SSH access to the internal virtual machine (VM) is functioning as expected. This involves using an SSH client, such as PuTTY, to connect to the VM via the firewall’s public IP address and the forwarded port. If the configuration is correct, the connection is established and the VM’s shell access becomes available remotely.
-
-The following steps guide you through initiating an SSH session using the public IP to confirm that the port forwarding rule is working correctly and external connectivity to the internal VM is operational:
-
-1. Open **PuTTY** or any **SSH** client on your local machine.
-2. Enter the **Public IP** of the pfsense WAN interface and **port 22** in **PuTTY**.
-3. On the first connection attempt, a security alert window pops up showing the host key is not cached.
-4. Click **Accept** to store the key and proceed with the connection.
-![puttyapiculus](img/puttyapiculus.png)
-## Verifying VM Information and IP Configuration
-
-This section helps you check the basic details of your virtual machine. After logging in, you can view the system status and find the IP address to make sure the VM is running and connected to the network.
-
-The following steps guide you through logging into the VM terminal, reviewing system and network information, identifying the correct network interface and IP address, and checking for any available software or OS updates:
-   
-1. Log in to the VM terminal.
-2. Check system status (CPU, memory, processes, IP) – shown on login.
-3. Note the IP address (for example, 192.168.1.100 on interface ens3).
-4. Check for updates by running: `sudo apt update`
-5. See upgradeable packages by running: `apt list --upgradable`
-6. Check for OS upgrade: New version `24.04.2 LTS` is available.
-7. Run the IP command using: `ip a`
-8. Confirm network interface IPs:
-    - `lo` = 127.0.0.1
-    - `ens3` = 192.168.1.100 (IPv4), fe80::... (IPv6)  
-![configapiculus](img/configapiculus.png)

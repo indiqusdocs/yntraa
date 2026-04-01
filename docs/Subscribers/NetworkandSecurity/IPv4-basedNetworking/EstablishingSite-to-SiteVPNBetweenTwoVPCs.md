@@ -25,7 +25,7 @@ This setup establishes the foundational network segmentation necessary to enable
 
 Deploy one Virtual Machine (VM) inside each VPC. Create Virtual Machine (for example, **ADC-R522-97-instance-A**) in Virtual Private Cloud **ADC-R522-VPC A** and (for example, **ADC-R522-98-instance-B**) in Virtual Private Cloud  **ADC-R522-VPC B**.
 
-Refer to the [Creating Linux Instances](/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances) note for detailed steps on creating Linux instances. 
+Refer to the [Creating Linux Instances](/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances) note for detailed steps on creating Linux instances. 
 ![overviewa](img/overviewa.png)
 ![overviewb](img/overviewb.png)
 ![instancelinux](img/instancelinux.png)

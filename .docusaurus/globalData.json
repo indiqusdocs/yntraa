@@ -86,6 +86,91 @@
               "sidebar": "sidebar4"
             },
             {
+              "id": "Subscribers/AccountCentre/Address",
+              "path": "/docs/Subscribers/AccountCentre/Address",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Assets",
+              "path": "/docs/Subscribers/AccountCentre/Assets",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Commercial",
+              "path": "/docs/Subscribers/AccountCentre/Commercial",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/CompanyDetails",
+              "path": "/docs/Subscribers/AccountCentre/CompanyDetails",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Contacts",
+              "path": "/docs/Subscribers/AccountCentre/Contacts",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Dashboard",
+              "path": "/docs/Subscribers/AccountCentre/Dashboard",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup",
+              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra",
+              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/MonitoringandUsage/UsageDetails",
+              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Organisation-AccountProfile",
+              "path": "/docs/Subscribers/AccountCentre/Organisation-AccountProfile",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Profile",
+              "path": "/docs/Subscribers/AccountCentre/Profile",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/ResettingPassword",
+              "path": "/docs/Subscribers/AccountCentre/ResettingPassword",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Services",
+              "path": "/docs/Subscribers/AccountCentre/Services",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/StandardAgreements",
+              "path": "/docs/Subscribers/AccountCentre/StandardAgreements",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/SubscriptionsandServices",
+              "path": "/docs/Subscribers/AccountCentre/SubscriptionsandServices",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/TeamMemberManagement",
+              "path": "/docs/Subscribers/AccountCentre/TeamMemberManagement",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/Tickets",
+              "path": "/docs/Subscribers/AccountCentre/Tickets",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/CloudAssure/AssessmentandAdvisory",
               "path": "/docs/Subscribers/CloudAssure/AssessmentandAdvisory",
               "sidebar": "sidebar1"
@@ -403,6 +488,31 @@
             {
               "id": "Subscribers/ManagedSolutions/ResiliencyAssuranceService",
               "path": "/docs/Subscribers/ManagedSolutions/ResiliencyAssuranceService",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/DNSManagement/AboutDNSManagement",
+              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/AboutDNSManagement",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoApiculusCloudConsole",
+              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoApiculusCloudConsole",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoYntraaCloud",
+              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoYntraaCloud",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/DNSManagement/ManagingDNSRecords",
+              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/ManagingDNSRecords",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/DNSManagement/SwitchingtoAnotherDNSProvider",
+              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/SwitchingtoAnotherDNSProvider",
               "sidebar": "sidebar1"
             },
             {
@@ -776,6 +886,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/dns-management",
+              "path": "/docs/category/dns-management",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "/category/compute",
               "path": "/docs/category/compute",
               "sidebar": "sidebar1"
@@ -848,6 +963,16 @@
             {
               "id": "/category/tools-and-utilities",
               "path": "/docs/category/tools-and-utilities",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/account-centre",
+              "path": "/docs/category/account-centre",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/monitoring-and-usage",
+              "path": "/docs/category/monitoring-and-usage",
               "sidebar": "sidebar1"
             },
             {

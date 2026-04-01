@@ -24,11 +24,11 @@ On the top right corner, two quick options are available, one to **LAUNCH CONSOL
 ![overview](img/overview.png)
 Details on available Linux Instance operations and actions can be found in their respective sections.
 
-- [Overview](docs/Subscribers/Compute/LinuxInstances/Overview.md)
+- [Overview](docs/Subscribers/Compute/OtherLinuxInstances/Overview.md)
 - [Graphs & Utilisation](ViewingGraphsandUtilizationofLinuxInstances.md)
 - [Snapshots](WorkingwithLinuxInstanceRestorePoints.md)
-- [Reconfigure](docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances.md)
-- [Operations](docs/Subscribers/Compute/LinuxInstances/Operations.md)
+- [Reconfigure](docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md)
+- [Operations](docs/Subscribers/Compute/OtherLinuxInstances/Operations.md)
 
 
 
