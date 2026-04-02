@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88cced8244b33f99",
+        "id": "f646ea1e6993a369",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd8ee1be3881827",
+            "id": "12b904c5ebf316b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
-                "mode": "preview",
+                "file": "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CreateListandViewVPCs"
+              "title": "WorkingwithVPNConnectionsinaVPC"
             }
           }
         ]
@@ -169,26 +169,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "1bd8ee1be3881827",
+  "active": "12b904c5ebf316b8",
   "lastOpenFiles": [
-    "build/blog/rss.xml",
-    "build/blog/atom.xml",
-    "build/assets/images/confirmrhel-5f7ba30161fe282841aab06f85739407.png",
-    "build/assets/images/restorerhelcreation-6f2716f9c0420f1c6b3d1857ccb3ce01.png",
-    "build/assets/images/confirmlinuxpurchase-4e276e944496df45b650a598dacc135f.png",
-    "build/assets/images/computepacknew-c90c95516da07a8ff10b10c80a0830d6.png",
-    "build/assets/images/reconfigurefirstnew-ce483bf1ca322c9f4c9ee126dfa17b98.png",
-    "build/assets/images/reconfiguresecondnew-0ed7d8172f939f97235fe9473ac94999.png",
-    "build/assets/images/creatinglinuxnew-6821f0e8c9d095949e6bdd80c46031b4.png",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
+    "build/sitemap.xml",
+    "build/search-index.json",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.svg",
+    "build/img/sps.png",
+    "build/img/sbs.png",
+    "build/img/social-card.png",
+    "build/img/sbs.svg",
+    "build/img/rn.svg",
+    "build/img/rn.png",
+    "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
+    "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
+    "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
+    "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking.md",
+    "docs/Subscribers/NetworkandSecurity/DNSManagement/SwitchingtoAnotherDNSProvider.md",
+    "docs/Subscribers/NetworkandSecurity/DNSManagement/ManagingDNSRecords.md",
+    "docs/Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoYntraaCloudConsole.md",
+    "docs/Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoYntraaCloud.md",
+    "docs/Subscribers/NetworkandSecurity/DNSManagement/AboutDNSManagement.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
     "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances.md",
     "docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints.md",
@@ -203,19 +216,6 @@
     "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
     "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
     "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/img/winconfirmpurchase.png",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/img/bvconfirm.png",
-    "docs/Subscribers/Storage/BlockVolumes/img/bvconfirm.png"
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md"
   ]
 }

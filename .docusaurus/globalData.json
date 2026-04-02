@@ -476,51 +476,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/DNSManagement/AboutDNSManagement",
-              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/AboutDNSManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoApiculusCloudConsole",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoYntraaCloud",
-              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/LinkingDomainstoYntraaCloud",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/DNSManagement/ManagingDNSRecords",
-              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/ManagingDNSRecords",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "path": "/docs/Subscribers/NetworkandSecurity/DNSManagement/SwitchingtoAnotherDNSProvider",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
               "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
               "sidebar": "sidebar1"
@@ -863,16 +818,6 @@
             {
               "id": "/category/load-balancer-instances",
               "path": "/docs/category/load-balancer-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/dns-management",
-              "path": "/docs/category/dns-management",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/ipv4-based-networking",
-              "path": "/docs/category/ipv4-based-networking",
               "sidebar": "sidebar1"
             },
             {
