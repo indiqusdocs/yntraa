@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/SystemRequirements.md",
+                "file": "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SystemRequirements"
+              "title": "AboutRHELInstances"
             }
           }
         ]
@@ -171,17 +171,22 @@
   },
   "active": "12b904c5ebf316b8",
   "lastOpenFiles": [
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
+    "docs/Subscribers/Compute/_Autoscale/UsingStaticPasswordinAutoScaleGroupInstances.md",
     "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints",
+    "docs/Subscribers/Compute/_Autoscale/RequirementsforAutoscale.md",
+    "docs/Subscribers/Compute/_Autoscale/CreatingAutoscaleGroups.md",
+    "docs/Subscribers/Compute/_Autoscale/AboutAutoscale.md",
+    "docs/Subscribers/SystemRequirements.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -192,7 +197,6 @@
     "build/img/sbs.svg",
     "build/img/sbs.png",
     "build/img/rn.svg",
-    "docs/Subscribers/SystemRequirements.md",
     "docs/Subscribers/SigningUp - Copy.md",
     "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
     "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
@@ -212,10 +216,6 @@
     "docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage.md",
-    "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
-    "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
-    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md"
+    "docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage.md"
   ]
 }
