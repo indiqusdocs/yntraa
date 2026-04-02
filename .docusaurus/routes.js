@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c25'),
+    component: ComponentCreator('/docs', '19f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd92'),
+        component: ComponentCreator('/docs', '886'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '679'),
+            component: ComponentCreator('/docs', 'ae9'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -1194,6 +1194,12 @@ export default [
               {
                 path: '/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions',
                 component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions', '187'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/SystemRequirements',
+                component: ComponentCreator('/docs/Subscribers/SystemRequirements', '4d4'),
                 exact: true,
                 sidebar: "sidebar1"
               },

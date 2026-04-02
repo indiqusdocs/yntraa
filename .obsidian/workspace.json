@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
+                "file": "docs/Subscribers/SystemRequirements.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WorkingwithVPNConnectionsinaVPC"
+              "title": "SystemRequirements"
             }
           }
         ]
@@ -171,27 +171,29 @@
   },
   "active": "12b904c5ebf316b8",
   "lastOpenFiles": [
-    "build/sitemap.xml",
-    "build/search-index.json",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/rn.png",
     "build/img/sps.svg",
     "build/img/sps.png",
-    "build/img/sbs.png",
     "build/img/social-card.png",
     "build/img/sbs.svg",
+    "build/img/sbs.png",
     "build/img/rn.svg",
-    "build/img/rn.png",
+    "docs/Subscribers/SystemRequirements.md",
+    "docs/Subscribers/SigningUp - Copy.md",
     "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC.md",
     "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN.md",
     "docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs.md",
@@ -214,8 +216,6 @@
     "docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage.md",
     "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
     "docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes.md",
-    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
-    "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md"
+    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md"
   ]
 }

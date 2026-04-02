@@ -751,6 +751,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/SystemRequirements",
+              "path": "/docs/Subscribers/SystemRequirements",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/ToolsandUtilities/AboutToolsandUtilities",
               "path": "/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities",
               "sidebar": "sidebar1"
