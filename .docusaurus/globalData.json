@@ -251,13 +251,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance",
+              "id": "Subscribers/Compute/OtherLinuxInstances/CreatingAlerts",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts",
               "sidebar": "sidebar1"
             },
             {
@@ -306,13 +306,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/ConfiguringAlerts",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts",
+              "id": "Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
+              "id": "Subscribers/Compute/RHELInstances/CreatingAlerts",
+              "path": "/docs/Subscribers/Compute/RHELInstances/CreatingAlerts",
               "sidebar": "sidebar1"
             },
             {
@@ -366,13 +366,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances",
+              "id": "Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
+              "id": "Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances",
               "sidebar": "sidebar1"
             },
             {

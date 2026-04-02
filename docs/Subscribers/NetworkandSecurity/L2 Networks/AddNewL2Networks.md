@@ -9,7 +9,7 @@ To add a new L2 network, click the **+ New Network** button. The following scree
 Enter the following details and then click **Confirm**:
 	- **Network Name**
 	- **Display Text** (Optional)
-	- **Select the Availability Zone** from the drop-down list.
+	- **Select Availability Zone** from the drop-down list.
    
 
 

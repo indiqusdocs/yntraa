@@ -24,7 +24,8 @@ sidebar_position: 2
 	![vfdetailsnewnew](img/vfdetailsnewnew.png)
 7. Review the summary and estimated costs for **Monthly**.
    ![costnew](img/costnew.png)
-8.  Choose **Buy Monthly** based on your requirement, and then click **Confirm** button on the confirmation popover.
+8.  Choose **BUY MONTHLY** based on your requirement, and then click the **Confirm** button.
+   ![confirmvfnew](img/confirmvfnew.png)
 
 
 

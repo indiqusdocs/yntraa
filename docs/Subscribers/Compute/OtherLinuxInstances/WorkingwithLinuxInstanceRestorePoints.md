@@ -8,7 +8,7 @@ sidebar_position: 8
 Instance Restore Points allow you to create point-in-time images of instances that preserve all their data volume as well as (optionally) their CPU/memory states. You can use Restore Points to quickly restore Instances.
 
 The Restore Points section shows all the Linux Instance Restore Points, which can be used to revert the Linux Instances to an earlier state.
-![restorepoint](img/restorepoint.png)
+![restorepointnew](img/restorepointnew.png)
 
 A Restore Point lists the following details:
 
@@ -24,9 +24,10 @@ The following quick options are available:
   
 ## Creating a Restore Point
 To create a Snapshot, the following steps are :
-1. Click the **CREATE INSTANCE RESTORE POINT** button. The CREATE RESTORE POINT window appears.
-2. Enter the name and description of the restore point.
-3. Click the **Create** button. The Restore point will be created.
+1. Click the **CREATE INSTANCE RESTORE POINT** button. The following screen appears.
+   ![linuxrestorepoint](img/linuxrestorepoint.png)
+2. Enter the **Name** and **Description** of the restore point.
+3. Click the **Create** button. 
 
 
 

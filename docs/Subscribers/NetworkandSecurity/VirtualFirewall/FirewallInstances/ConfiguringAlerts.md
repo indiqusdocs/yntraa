@@ -28,7 +28,7 @@ To create or add alerts, click the **CREATE ALERT** button. The following wind
 
 The various fields of the Create Alert screen are as follows:
 - **Name** - You can define the name for your alert.
-- **Choose Parameter** - This option will allow you to define what parameter needs to be monitored to trigger the alert email. Yntraa cloud supports CPU, RAM, Disk, 1-min Load Average, 5-min Load Average, 15-min Load Average parameters.
+- **Choose Parameter** - This option will allow you to define what parameter needs to be monitored to trigger the alert email. Yntraa cloud supports CPU, RAM, NETWORK INPUT, NETWORK OUTPUT parameters.
 - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 - **Reading duration** - This option lets you define the breach window, that is, the duration for which the breach must be consistent to trigger the alert email.
 - **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
@@ -37,11 +37,9 @@ The various fields of the Create Alert screen are as follows:
 
 This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
 
-1. Click the **Manage Recipients** button.
-2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
-3. From the list view, select the email IDs based on their assigned roles.
-4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
-5. Click the **UPDATE** button to save the changes to the recipients list.
+1. Click on the **MANAGE RECIPIENTS** button.
+2. Use the dropdown menu to select available recipients.
+3. Click the **UPDATE** button to save the recipient list.
 ![managerecepientnew](img/managerecepientnew.png)
 
 :::note

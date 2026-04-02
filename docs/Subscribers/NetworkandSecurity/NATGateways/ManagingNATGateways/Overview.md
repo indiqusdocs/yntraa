@@ -14,8 +14,7 @@ Navigate to the **Overview** tab to view the following details:
 	- Created On
 	![natdetails](img/natdetails.png)
 
-To power off the virtual router, click the **STOP NAT GATEWAY** button. The Stop Virtual Router window appears that lets you stop the virtual router. To power on a virtual router, click the **START NAT GATEWAY** button.
-   
+To **POWER ON/OFF** the virtual router, click the **STOP NAT GATEWAY/START NAT GATEWAY**.
    ![stoprouternew](img/stoprouternew.png)
 
 

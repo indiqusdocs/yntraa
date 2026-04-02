@@ -28,7 +28,7 @@ To create a Restore Point, follow these steps:
 
 1. Click the **CREATE RESTORE POINT** button. The following window appears. ![createrestorenew](img/createrestorenew.png)
 2. Enter the **Name** and **Description** of the Restore Point.
-3. Click **Create**.
+3. Click the **Create** button.
 
 
 

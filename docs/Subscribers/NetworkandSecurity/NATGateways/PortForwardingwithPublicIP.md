@@ -19,11 +19,10 @@ The following steps guide you through the process of navigating to your NAT Gate
 
 1. Navigate to the **NAT Gateways** section from the left-hand menu.
 2. Select the desired gateway.
-3. Click on the **IPv4 Addresses** tab from the option on the left.
-4. Click the **ADD PUBLIC IPv4 ADDRESS** button.
-5. A new public IP is generated and listed under the IPv4 ADDRESS section.
-6. A confirmation message **IPv4 Address purchase successful** appears at the top.
-7. The newly added IP shows the status as **Unused**.
+3. Click on the **IP Addresses** tab from the option on the left.
+4. Click the **ADD PUBLIC IPv4 Address** button. A new public IP is generated and listed under the IPv4 ADDRESS section.
+5. A confirmation message **IPv4 Address purchase successful** appears at the top.
+6. The newly added IP shows the status as **Unused**.
 ![addipv4new](img/addipv4new.png)
 ## Adding a Port Forwarding Rule
 

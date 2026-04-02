@@ -14,7 +14,7 @@ A RHEL Instance on Yntraa Cloud can be reconfigured in the following ways:
 ![reconfiguring2new](img/reconfiguring2new.png)
 
 :::note
-You can only reconfigure with the same billing interval. To change the billing interval, use the **Switch Plan** button. It is recommended to switch the plan before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. You will be charged as per the pack you have reconfigured, not based on the older pack.
+You can only reconfigure with the same billing interval. To change the billing interval, use the **Switch Plan** button. It is recommended to switch the plan before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. You are charged as per the pack you reconfigure, not based on the older pack.
 :::
 
 

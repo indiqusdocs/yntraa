@@ -5,13 +5,13 @@ sidebar_position: 0
 
 Yntraa Cloud offers a highly usable and visual way of working with and operating Linux Instances using the cloud console. You can access all the Linux Instances available in your account in the following way:
 
-1. Navigate to **Compute > Linux Instances**.
+1. Navigate to **Compute > Other Linux Instances**.
 2. All the Linux instances for your account are listed here with the following details:
-	- Instance Name and the configuration details
-	- OS Icon
+	- Instance Name
+	- OS 
 	- Default IP Address
 	- Created
-![linuxinstance](img/linuxinstance.png)
+![linuxinstancenew](img/linuxinstancenew.png)
 
 To view a list of sections where you can perform various operations or actions, click the **instance name**. Below the Instance name, there is an informational view where you can find the following details:
 
@@ -20,8 +20,8 @@ To view a list of sections where you can perform various operations or actions, 
 - Default IP
 - Created 
 
-On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **POWER OFF/ON** the Instance.
-![overview](img/overview.png)
+On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **START INSTANCE/STOP INSTANCE**.
+![overviewnew](img/overviewnew.png)
 Details on available Linux Instance operations and actions can be found in their respective sections.
 
 - [Overview](docs/Subscribers/Compute/OtherLinuxInstances/Overview.md)

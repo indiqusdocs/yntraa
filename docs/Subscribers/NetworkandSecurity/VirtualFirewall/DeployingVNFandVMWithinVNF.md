@@ -24,7 +24,7 @@ To enhance your network security within the Yntraa Cloud, you can deploy a virtu
 
 The following steps guide you through the process of navigating to the correct section, initiating the firewall creation, and completing its configuration:
 
-1. In the left-hand menu, go to **Virtual Firewalls** under the **Network and Security** section.
+1. In the left-hand menu, navigate to **Virtual Firewalls** under the **Network and Security** section.
 2. On the Virtual Firewalls page, click the **NEW VIRTUAL FIREWALL** button.
 3. Follow the prompts to configure and create the virtual firewall.
 ![newvfnew](img/newvfnew.png)
@@ -38,11 +38,11 @@ The following steps guide you through selecting configuration options like avail
 1. **Choose Your Availability Zone**: Select your preferred availability zone based on your location and network needs.
 2. **Select Firewall Provider**: Choose a firewall provider from the dropdown.  
 3. **Choose a Virtual Firewall Configuration**: Pick a collection option that matches your performance requirements.
+   ![newvf1](img/newvf1.png)
 4. **Set Incoming Traffic Rule**: Select the desired ACL rule from the dropdown menu.
 5. **Name Your Virtual Firewall**: Enter a name for your virtual firewall. Use only letters, numbers, hyphens, or dots.
+   ![newvfdefault](img/newvfdefault.png)
 6. **Summary and Estimated Costs**: Check the summary and pricing before proceeding.
-![newvf1](img/newvf1.png)
-![newvfdefault](img/newvfdefault.png)
 ![estimatedcost](img/estimatedcost.png)
 ### Deploying Virtual Firewall
 
@@ -59,6 +59,7 @@ The following steps guide you through accessing the Virtual Firewalls section an
     - Availability zone
     - Public IPv4 address
     - Creation time 
+
 A green **POWERED ON** icon confirms that the firewall is active and running.
 ![virtualfirewallconfignew](img/virtualfirewallconfignew.png)
 ### Viewing Firewall Details
@@ -71,11 +72,9 @@ The following steps guide you through viewing the full details of your virtual f
     - Navigate to the **Virtual Firewalls** section in the left-hand menu.
     - Locate and click on the firewall instance to open its configuration page.
 2. On the firewall **Overview** page, you can view the following key details:
-    - **Configuration**: vCPU, RAM, and OS details.
-    - **Availability Zone**
-    - **Firewall Provider**
-    - **Public IPv4 (L2-WAN)**: Note down the public IP which is used for SSH access.
-    - **Status**: Ensure the firewall is in **POWERED ON** state.
+    - Configuration and Availability
+    - Internal information
+    - NIC Information
 ![virtualfirewallconfignew](img/virtualfirewallconfignew.png)
 ### Viewing LAN and WAN Tiers
 

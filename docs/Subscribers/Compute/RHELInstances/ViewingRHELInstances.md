@@ -7,7 +7,7 @@ Yntraa Cloud offers a highly usable and visual way of working with and operating
 
 1. Navigate to **Compute > RHEL Instances**.
 2. All the RHEL instances for your account are listed here with the following details:
-	- Instance Name and the configuration details
+	- Instance Name
 	- OS Icon
 	- Default IP Address
 	- IPv6 Address
@@ -28,7 +28,7 @@ Details on available RHEL Instance operations and actions can be found in their 
 
 - [Overview](docs/Subscribers/Compute/RHELInstances/Overview.md)
 - [Graphs](docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation.md#graphs)
-- [Alerts](docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts.md)
+- [Alerts](docs/Subscribers/Compute/RHELInstances/CreatingAlerts.md)
 - [Utilisation](docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation.md#utilisation-historical)
 - [Volumes](docs/Subscribers/Compute/RHELInstances/VolumeManagement.md)
 - [Networking](docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md)

@@ -14,7 +14,7 @@ To view the below details, navigate to the [Firewall Instance](AboutFirewallIns
 
 ## Configuration and Availability
 
-This section displays the instance's status, **RUNNING**, is displayed in  <span class="green">**green**</span>, whereas STOPPED is displayed in <span style={{ color: 'red' }}>red</span> out and the information about the networking zone.
+This section displays the instance's status, **RUNNING**, is displayed in  <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red</span> out and the information about the networking zone.
 ## Internal Information
 
 This section displays the information used for internal identification of this instance and communication with other internal services.

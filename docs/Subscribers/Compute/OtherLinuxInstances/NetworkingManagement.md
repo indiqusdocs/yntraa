@@ -4,7 +4,7 @@ sidebar_position: 7
 # Networking Management
 
 To view the networks of particular Instance, navigate to [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Networking** tab.
-![networking](img/networking.png)
+![networkingnew](img/networkingnew.png)
 
 The following actions are available:
 

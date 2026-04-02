@@ -11,7 +11,6 @@ To view the details of Windows Instances, navigate to [Operating Windows Instanc
 ![windetails1new](img/windetails1new.png)
 2. Internal Information - This displays the information that is used for internal identification of this instance and communication with other internal services.
     - Template Name
-    - Internal Name
     - Created On
 3. Security and Access Control- Depending on the networking zone, the information and operations will be available here.
 -  If it's a VPC Networking zone, then you can view the below information:

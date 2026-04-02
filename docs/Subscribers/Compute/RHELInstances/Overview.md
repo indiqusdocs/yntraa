@@ -9,14 +9,13 @@ To view the below details, navigate to [RHEL Instance](AboutRHELInstances.md) an
 - [Security and Access Control](#security-and-access-control)
 ## Configuration and Availability
 The instance's status, **RUNNING**, is displayed in <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red </span>out.
-![powerrhelnew](img/powerrhelnew.png)
+![powerrhelnewnew](img/powerrhelnewnew.png)
 ## Internal Information
 This displays the information that is used for internal identification of this instance and communication with other internal services.
     - Template Name
-    -  Internal Name
-    -  Created On
+    - Created On
 ## Security and Access Control
-The following information is avaialble:
+The following information is available:
 	- Network Name
 	- VPC Name
 	- Access Control

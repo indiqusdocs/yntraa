@@ -30,8 +30,8 @@ This section offers a detailed review of the current NAT Gateway configuration w
 The following steps guide you through reviewing key configuration details, checking operational status, and accessing internal system information necessary for validation and troubleshooting within your cloud environment: 
 
 1. NAT Gateway Configuration Overview: The following details summarize the key configuration parameters of the selected NAT Gateway.
-    - **vCPU/RAM**: For example 2 vCPU Cores / 2048 MB RAM (Indicates the computational resources allocated for the NAT Gateway).
-    - **AVAILBILITY Zone**: For example AZ1-India North 1 (The region or zone where the gateway is deployed).
+    - **vCPU/RAM**: Indicates the computational resources allocated for the NAT Gateway.
+    - **AVAILBILITY Zone**: The region or zone where the gateway is deployed.
     - **PUBLIC IP**: The public-facing IP through which outbound traffic is routed.
 2. Check Operational Status: The NAT Gateway is in a **RUNNING** state, indicating it is active and fully operational.
 3. Confirm Network and Gateway Configuration: Review the virtual gateway pack and network size settings to ensure the correct configuration is applied before proceeding with port forwarding or deployment steps.
@@ -66,12 +66,12 @@ The following steps guide you through logging into the Cloud Portal, navigating 
 4. Once inside the selected NAT Gateway, see a section titled **Port Forwarding** along with the public IP address.
 5. Click on the **+ ADD RULE** button located next to the Port Forwarding heading. This opens the interface to add a new port forwarding rule.
 6. Review Existing Rules (Optional): Below the **+ ADD RULE** button, you may see a list of existing rules including details like:
-    - **TIER** 
-    - **INSTANCE**
-    - **PRIVATE IPv4** 
-    - **PROTOCOL** 
-    - **PUBLIC RANGE** 
-    - **PRIVATE RANGE** 
+    - **Tier** 
+    - **Instance**
+    - **Private IPv4** 
+    - **Protocol** 
+    - **Public Range** 
+    - **Private Range** 
 ![pfcreated](img/pfcreated.png)
 ## Adding Details and Creating Port Forwarding Rule
 
@@ -97,7 +97,7 @@ If you want to forward only one port, enter the same value for start and end por
 Same rule as above applies if forwarding a single port.
 :::
    
-3. Click on **ADD PORT FORWARDING RULE** to save and apply the new rule.
+1. Click on **ADD PORT FORWARDING RULE** button to save and apply the new rule.
 ![createpfrule](img/createpfrule.png)   
 ## Verifying the Added Port Forwarding Rule
 

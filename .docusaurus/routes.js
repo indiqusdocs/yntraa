@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4cc'),
+    component: ComponentCreator('/docs', '972'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '422'),
+        component: ComponentCreator('/docs', '19a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2c5'),
+            component: ComponentCreator('/docs', '60e'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -575,14 +575,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ConfiguringAlerts', '75c'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance', 'b0b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance', 'b0b'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts', 'c58'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -641,14 +641,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts', '710'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance', '363'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance', '363'),
+                path: '/docs/Subscribers/Compute/RHELInstances/CreatingAlerts',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/CreatingAlerts', 'ff9'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -713,14 +713,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances', 'b3d'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance', '5b0'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance', '5b0'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances', 'a87'),
                 exact: true,
                 sidebar: "sidebar1"
               },

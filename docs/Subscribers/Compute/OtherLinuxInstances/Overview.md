@@ -11,19 +11,18 @@ To view the below details, navigate to [Operating Linux Instances](AboutLinuxIns
 ## Configuration and Availability
 
 This section displays the instance's status, **RUNNING** in <span class="green">green</span>, and other information related to the networking zone in <span style={{ color: 'red' }}>red</span>.
-![overview](img/overview.png)
+![overviewdefault](img/overviewdefault.png)
 ## Internal Information
 This section displays the information used for internal identification of this instance and communication with other internal services:
 - Template Name
-- Internal Name
 - Created On
-![overview](img/overview.png)
+![overview2](img/overview2.png)
 ## Security and Access Control
 This section displays the following information:
 - Network Name
 - VPC Name
 - Access Control
-![security](img/security.png)
+![overview2](img/overview2.png)
 
 
 

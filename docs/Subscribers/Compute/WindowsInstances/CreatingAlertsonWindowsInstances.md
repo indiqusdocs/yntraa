@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 ---
-# Configuring Alerts on Windows Instances
+# Creating Alerts on Windows Instances
 
 To view the configured alerts or configure new ones, navigate to [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Alerts** tab .
 
@@ -26,7 +26,7 @@ Subscribers can create or add alerts simply by clicking on the **Create Alert**
 The various fields of the add alert page are described below:
 
 - **Name** - You can define the name for your alert.
-- **Choose parameter** - This option allows you to define what parameter must be monitored to trigger the alert email. Yntraa cloud supports CPU, RAM, Disk, 1-min Load Average, 5-min Load Average, 15-min Load Average parameters.
+- **Choose parameter** - This option allows you to define what parameter must be monitored to trigger the alert email. Yntraa cloud supports CPU, RAM, NETWORK INPUT, NETWORK OUTPUT parameters.
 - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 - **Value in Percentage** - You can define the Value. 
 - **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
@@ -36,16 +36,14 @@ The various fields of the add alert page are described below:
 
 This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
 
-1. Click the **Manage Recipients** button.
-2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
-3. From the list view, select the email IDs based on their assigned roles.
-4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
-5. Click the **UPDATE** button to save the changes to the recipients list.
+1. Click on the **MANAGE RECIPIENTS** button.
+2. Use the dropdown menu to select available recipients.
+3. Click the **UPDATE** button to save the recipient list.
    
 ![managerecepientsnew](img/managerecepientsnew.png)
 
 :::note
-	All the recipients configured will receive all the setup alerts. If no email ID is configured or added, then no email will be sent for the already configured alerts.
+	All the managed recipients receive all the setup alerts. If no email ID is configured or added, then no email is sent for the already configured alerts.
 :::
 
 

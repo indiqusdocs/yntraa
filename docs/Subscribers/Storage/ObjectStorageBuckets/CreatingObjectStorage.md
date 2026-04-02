@@ -1,3 +1,4 @@
+
 ---
 sidebar_position: 2
 ---
@@ -8,19 +9,14 @@ An Object Storage  is where you store your files in the cloud. Creating an Objec
 To create an Object Storage, follow these steps:
 
 1. Navigate to **Storage > Object Storage Bucket**.
-
-	![createbucketnew](img/createbucketnew.png)
-
+   ![createbucketnew](img/createbucketnew.png)
 2. Click the **+ CREATE BUCKET** button.
-
 3. **Choose Your Availability Zone** from the listed options.
-
-	![az](img/az.png)
-
+  ![az](img/az.png)
 	:::note 
 	Pricing may vary based on the selected availability zone.
 	:::
-
+	
 4. In the **Name Your Bucket** field, enter a valid bucket name.
 
 	:::note 

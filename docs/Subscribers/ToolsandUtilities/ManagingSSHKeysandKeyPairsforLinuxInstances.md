@@ -15,7 +15,8 @@ SSH keys can be managed from the **Tools and Utilities > SSH Key Pairs** secti
   
 ## Cloud SSH Key
 
-To generate new SSH key pairs, click the **Generate a new key pair** button. ![generatesshkeynew](img/generatesshkeynew.png)
+To generate new SSH key pairs, click the **Generate a new key pair**. 
+![generatesshkeynew](img/generatesshkeynew.png)
 
 :::note
 This creates a public-private key pair, downloading the private key to your system while storing the public key in your Yntraa Cloud Console account. You can then use the downloaded private key to connect to virtual machines associated with the corresponding public key.
@@ -38,7 +39,8 @@ To use an Linux Instance with an SSH key, it needs to be associated with a key f
     1. Generate a new key pair.
     2. Upload a public key from your system.
     3. Select an existing SSH key from your Yntraa Cloud Console account. ![authenticationnewnew](img/authenticationnew.png)
-       
+    4. **Use Default Password** to allow the system to automatically generate a password. You can view or copy this password from the instance details page after creation.
+    5. **Use Custom Password** to define your own password. Enter and confirm the password, ensuring it meets the required security criteria.
 2. For existing Instances, you can set or reset SSH key associations by navigating to the **Instances  Operations** section and using the **Reset SSH Key** option. To use this option, the instance needs to be stopped first. This option lets you choose an SSH key already added to your Apiculus Cloud account.
    
 ## Deleting a SSH Public key

@@ -19,7 +19,7 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 - Disk Write Bytes
 - Disk Read IOPS
 - Disk Write IOPS
-![utilisation](img/utilisation.png)
+![utilisationnew](img/utilisationnew.png)
 ## Utilisation (Historical)
 
 To view historical usage across supported parameters, navigate to [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Utilisation** tab.
