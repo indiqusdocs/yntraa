@@ -41,7 +41,7 @@ To use an Linux Instance with an SSH key, it needs to be associated with a key f
     3. Select an existing SSH key from your Yntraa Cloud account. ![authenticationnewnew](img/authenticationnew.png)
     4. **Use Default Password** to allow the system to automatically generate a password. You can view or copy this password from the instance details page after creation.
     5. **Use Custom Password** to define your own password. Enter and confirm the password, ensuring it meets the required security criteria.
-2. For existing Instances, you can set or reset SSH key associations by navigating to the **Instances  Operations** section and using the **Reset SSH Key** option. To use this option, the instance needs to be stopped first. This option lets you choose an SSH key already added to your Apiculus Cloud account.
+2. For existing Instances, you can set or reset SSH key associations by navigating to the **Instances  Operations** section and using the **Reset SSH Key** option. To use this option, the instance needs to be stopped first. This option lets you choose an SSH key already added to your Yntraa Cloud account.
    
 ## Deleting a SSH Public key
 

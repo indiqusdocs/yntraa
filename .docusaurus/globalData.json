@@ -31,18 +31,13 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/CloudAssure/ResiliencyAssuranceService",
-              "path": "/docs/FAQs/CloudAssure/ResiliencyAssuranceService",
+              "id": "FAQs/ManagedSolutions/ManagedDatabases",
+              "path": "/docs/FAQs/ManagedSolutions/ManagedDatabases",
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/ManagedCompute/VirtualDesktop",
-              "path": "/docs/FAQs/ManagedCompute/VirtualDesktop",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "FAQs/ManagedStorage/File Storage",
-              "path": "/docs/FAQs/ManagedStorage/File Storage",
+              "id": "FAQs/ManagedSolutions/ResiliencyAssuranceService",
+              "path": "/docs/FAQs/ManagedSolutions/ResiliencyAssuranceService",
               "sidebar": "sidebar2"
             },
             {
@@ -51,8 +46,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/OtherServices/ManagedDatabases",
-              "path": "/docs/FAQs/OtherServices/ManagedDatabases",
+              "id": "FAQs/Other Services/File Storage",
+              "path": "/docs/FAQs/Other Services/File Storage",
               "sidebar": "sidebar2"
             },
             {
@@ -906,23 +901,18 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/managed-solutions-1",
+              "path": "/docs/category/managed-solutions-1",
+              "sidebar": "sidebar2"
+            },
+            {
               "id": "/category/cloud-assure-1",
               "path": "/docs/category/cloud-assure-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/managed-compute",
-              "path": "/docs/category/managed-compute",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/managed-databases",
-              "path": "/docs/category/managed-databases",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/managed-storage",
-              "path": "/docs/category/managed-storage",
+              "id": "/category/other-services-1",
+              "path": "/docs/category/other-services-1",
               "sidebar": "sidebar2"
             },
             {
@@ -941,8 +931,8 @@
             },
             "sidebar2": {
               "link": {
-                "path": "/docs/category/cloud-assure-1",
-                "label": "Cloud Assure"
+                "path": "/docs/category/managed-solutions-1",
+                "label": "Managed Solutions"
               }
             },
             "sidebar3": {

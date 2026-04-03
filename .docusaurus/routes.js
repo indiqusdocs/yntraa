@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '19f'),
+    component: ComponentCreator('/docs', '3a2'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '886'),
+        component: ComponentCreator('/docs', '8a7'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ae9'),
+            component: ComponentCreator('/docs', 'da9'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -155,18 +155,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/managed-compute',
-                component: ComponentCreator('/docs/category/managed-compute', '044'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/category/managed-databases',
-                component: ComponentCreator('/docs/category/managed-databases', '91c'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
                 path: '/docs/category/managed-kubernetes',
                 component: ComponentCreator('/docs/category/managed-kubernetes', '905'),
                 exact: true,
@@ -185,8 +173,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/managed-storage',
-                component: ComponentCreator('/docs/category/managed-storage', 'b3f'),
+                path: '/docs/category/managed-solutions-1',
+                component: ComponentCreator('/docs/category/managed-solutions-1', 'bd0'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -237,6 +225,12 @@ export default [
                 component: ComponentCreator('/docs/category/other-services', 'eb7'),
                 exact: true,
                 sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/other-services-1',
+                component: ComponentCreator('/docs/category/other-services-1', '381'),
+                exact: true,
+                sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/rhel-instances',
@@ -299,20 +293,14 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/FAQs/CloudAssure/ResiliencyAssuranceService',
-                component: ComponentCreator('/docs/FAQs/CloudAssure/ResiliencyAssuranceService', 'a08'),
+                path: '/docs/FAQs/ManagedSolutions/ManagedDatabases',
+                component: ComponentCreator('/docs/FAQs/ManagedSolutions/ManagedDatabases', '1ec'),
                 exact: true,
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/FAQs/ManagedCompute/VirtualDesktop',
-                component: ComponentCreator('/docs/FAQs/ManagedCompute/VirtualDesktop', '145'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/FAQs/ManagedStorage/File Storage',
-                component: ComponentCreator('/docs/FAQs/ManagedStorage/File Storage', '836'),
+                path: '/docs/FAQs/ManagedSolutions/ResiliencyAssuranceService',
+                component: ComponentCreator('/docs/FAQs/ManagedSolutions/ResiliencyAssuranceService', 'c33'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -323,8 +311,8 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/FAQs/OtherServices/ManagedDatabases',
-                component: ComponentCreator('/docs/FAQs/OtherServices/ManagedDatabases', '67e'),
+                path: '/docs/FAQs/Other Services/File Storage',
+                component: ComponentCreator('/docs/FAQs/Other Services/File Storage', 'daf'),
                 exact: true,
                 sidebar: "sidebar2"
               },

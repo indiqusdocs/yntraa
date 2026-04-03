@@ -16,7 +16,7 @@ Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/Commercial)
 
 <details><summary>**How can I deploy monitoring tools and other apps on my Kubernetes cluster?**</summary>Once a cluster is deployed, you can deploy pretty much any application using kubectl. Some examples:<br />
 **Postgres DB service** : A PostgreSQL Instance can be deployed on a running Kubernetes cluster using the `kubeconfig` manifests. At this moment, we have not automated this. However, there are standard methods of deploying apps and packages (example) available online, all of which just require cluster access via `kubectl`. The same should be applicable to MongoDB and MySQL instances on clusters.<br />
-**Persistent storage** : CKS uses CloudStack’s block volumes for cluster storage. As of now, CKS does not support using NFS or S3 as persistent storage for Kubernetes clusters. However, once a cluster is created, its PersistentVolume can be pointed to a S3 bucket using the Cloudian S3 operator.<br /> 
+**Persistent storage** : CKS uses CloudStack’s block volumes for cluster storage. As of now, CKS does not support using NFS or S3 as persistent storage for Kubernetes clusters. However, once a cluster is created, its PersistentVolume can be pointed to a S3 bucket using the Object Stoarge Platform S3 operator.<br /> 
 **Monitoring of Kubernetes infrastructure** : Users can freely install their own monitoring apps (e.g., Prometheus+Grafana, Rancher etc.) using `kubectl` and Helm Charts.<br /> 
 **Gitlab, ArgoCD** : These apps can be installed using Helm.<br />
 **Advanced Load balancing and Certificate management** : Typically these are handled at the cloud provider level and not at the Kubernetes level.<br /></details>
@@ -27,7 +27,7 @@ Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/Commercial)
 
 <details><summary>**Can I deploy stateful applications using Yntraa Kubernetes?**</summary>Yes, Kubernetes supports stateful applications using features like StatefulSets and Persistent Volumes for data storage.</details>
 
-<details><summary>**Can I use my S3 bucket with a Kubernetes cluster created on Yntraa Cloud?**</summary>Yes, if the S3 bucket has been created using the Yntraa S3 Service, you can use the CSI (container storage interface) plugin maintained by Cloudian. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Yntraa Cloud.</details>
+<details><summary>**Can I use my S3 bucket with a Kubernetes cluster created on Yntraa Cloud?**</summary>Yes, if the S3 bucket has been created using the Yntraa S3 Service, you can use the CSI (container storage interface) plugin maintained by Object Storage Platform. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Yntraa Cloud.</details>
 
 <details><summary>**Can I modify my VPC's super CIDR after creation?**</summary>No, super CIDR modification is not currently allowed on Yntraa Cloud. If you wish to change the supernet, it is recommended that you create a new VPC, new subnets and migrate Instances to the new VPC.</details>
 

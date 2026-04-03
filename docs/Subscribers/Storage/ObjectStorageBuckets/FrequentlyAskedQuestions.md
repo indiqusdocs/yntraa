@@ -15,7 +15,7 @@ sidebar_position: 4
 
 <details><summary>**Are there features for versioning and data lifecycle management in object storage?**</summary>Yes, object storage provides versioning, data retention, and lifecycle policies for managing object data over time.</details>
 
-<details><summary>**What is the process for sharing objects stored in cloud object storage?**</summary>You can share objects by generating public URLs, setting appropriate permissions, or using signed URLs for temporary access. This can be done via the Cloudian HyperStore admin panel that you'll have access to once you create a bucket.</details>
+<details><summary>**What is the process for sharing objects stored in cloud object storage?**</summary>You can share objects by generating public URLs, setting appropriate permissions, or using signed URLs for temporary access. This can be done via the Object Storage Platform admin panel that you'll have access to once you create a bucket.</details>
 
 <details><summary>**How is data retrieval latency managed in cloud object storage?**</summary>Object storage is optimised for high throughput and is well-suited for large-scale data retrieval.</details>
 
