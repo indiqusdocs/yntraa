@@ -7,7 +7,7 @@ L2 networks, often called data link layer networks, play a crucial role in compu
 
 To manage an L2 network, navigate to **Network and Security > L2 Networks**. 
 
-The following screen appears where all the L2 networks are listed.
+The following screen appears where all the L2 networks are listed:
    ![l2networknew](img/l2networknew.png)
 
 Click the icons at the end of each network for the following operations:

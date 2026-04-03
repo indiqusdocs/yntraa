@@ -3,9 +3,9 @@ sidebar_position: 4
 ---
 # Deploying VNF and VM Within VNF
 
-This section provides a step-by-step guide for deploying a Virtual Network Function (VNF)—specifically a virtual firewall—and provisioning a Virtual Machine (VM) behind it using the Yntraa Cloud. This setup allows users to route VM traffic through the VNF, enabling secure and segmented network environments. 
+This section provides a step-by-step guide for deploying a Virtual Network Function (VNF)—specifically a virtual firewall and provisioning a Virtual Machine (VM) behind it using the Yntraa Cloud. This setup allows users to route VM traffic through the VNF, enabling secure and segmented network environments. 
 
-It is ideal for use cases requiring:
+It is ideal for use cases requirement:
 - Advanced traffic control
 - Isolation
 - Policy enforcement
@@ -24,14 +24,14 @@ To enhance your network security within the Yntraa Cloud, you can deploy a virtu
 
 The following steps guide you through the process of navigating to the correct section, initiating the firewall creation, and completing its configuration:
 
-1. In the left-hand menu, navigate to **Virtual Firewalls** under the **Network and Security** section.
+1. In the main navigation panel, navigate to the **Network and Security** > [Virtual Firewall](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall) section.
 2. On the Virtual Firewalls page, click the **NEW VIRTUAL FIREWALL** button.
 3. Follow the prompts to configure and create the virtual firewall.
 ![newvfnew](img/newvfnew.png)
 
 ### Configuration Options for Virtual Firewall
 
-To configure the new virtual firewall in the Yntraa Cloud, you must define a few key options such as the zone, compute size, firewall provider, and access rules. These settings ensure the firewall is tailored to your deployment needs.
+To configure the new virtual firewall in the Yntraa Cloud, you must define a few key options such as the zone, compute size, firewall provider, and access rules. These settings ensure the firewall is designed to your deployment needs.
 
 The following steps guide you through selecting configuration options like availability zone, compute configuration, firewall provider, and traffic rules before finalizing the setup:
 

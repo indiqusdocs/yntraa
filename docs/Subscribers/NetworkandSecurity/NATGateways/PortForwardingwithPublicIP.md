@@ -15,7 +15,7 @@ The following are the high level steps required to configure port forwarding wit
 
 To enable external connectivity for your services through a NAT Gateway, you need to allocate a public IPv4 address. This address serves as the entry point for inbound traffic and is essential for setting up port forwarding or other external access configurations.
 
-The following steps guide you through the process of navigating to your NAT Gateway, generating a new public IPv4 address, and verifying its successful addition and availability within the YYntraa Cloud:
+The following steps guide you through the process of navigating to your NAT Gateway, generating a new public IPv4 address, and verifying its successful addition and availability within the Yntraa Cloud:
 
 1. Navigate to the **NAT Gateways** section from the left-hand menu.
 2. Select the desired gateway.

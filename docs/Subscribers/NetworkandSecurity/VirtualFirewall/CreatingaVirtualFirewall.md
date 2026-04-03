@@ -22,9 +22,9 @@ sidebar_position: 2
 		**Allow Custom-** Enable the user to specify the Source from which traffic should be allowed.
 	:::
 	![vfdetailsnewnew](img/vfdetailsnewnew.png)
-7. Review the summary and estimated costs for **Monthly**.
+7. Review the summary and estimated costs for monthly.
    ![costnew](img/costnew.png)
-8.  Choose **BUY MONTHLY** based on your requirement, and then click the **Confirm** button.
+8.  Select **BUY MONTHLY** based on your requirement, and then click the **Confirm** button.
    ![confirmvfnew](img/confirmvfnew.png)
 
 

@@ -9,7 +9,7 @@ sidebar_position: 4
 
 <details><summary>**What are the typical use cases for object storage in the cloud?**</summary>Object storage is used for content distribution, backup and archiving, web applications, and more.</details>
 
-<details><summary>**How do I upload and manage objects in Yntraa object storage?**</summary>You can upload, manage, and organize objects using the object storage menu available in your Yntraa account.</details>
+<details><summary>**How do I upload and manage objects in Yntraa object storage?**</summary>You can upload, manage, and organize objects using the object storage menu available in your Yntraa Cloud account.</details>
 
 <details><summary>**How is data durability ensured in object storage?**</summary>Object storage employs data replication across multiple physical locations to ensure durability and availability.</details>
 

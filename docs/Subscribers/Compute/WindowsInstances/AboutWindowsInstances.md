@@ -9,7 +9,7 @@ Yntraa Cloud offers a highly usable and visual way of working with and operating
 
 1. Navigate to **Compute > Windows Instances**.
 2. All the Windows Instances for your account will be listed here with the following details:
-    - Instance Name (Along with the configuration details)
+    - Instance Name
     - OS
     - Default IP Address
     - IPv6 Address

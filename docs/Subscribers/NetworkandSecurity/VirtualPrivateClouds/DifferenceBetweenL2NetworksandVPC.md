@@ -17,7 +17,7 @@ User data and metadata can be passed to the instance using a config drive (which
 
 VPC is a higher-level abstraction that allows you to create isolated network environments with more advanced features. A VPC can include multiple tiers, such as public and private subnets, and it provides for the implementation of advanced networking features like VPNs (Virtual Private Networks) and ACLs.
 
-**The difference in Traffic Flow is simplified in the diagram below.**
+**The difference in Traffic Flow is simplified in the following diagram.**
 
 ![Difference Between L2 Networks and VPC](img/VPCDiagram.png)
 

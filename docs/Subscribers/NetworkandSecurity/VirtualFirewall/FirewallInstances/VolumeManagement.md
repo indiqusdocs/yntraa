@@ -5,7 +5,7 @@ sidebar_position: 9
 
 To view the disks attached to this Instance, navigate to the **Network and Security**, select a **Virtual Firewall** and access the **Volumes** tab.
 
-Virtual Firewall on Yntraa work with the [Block Volumes Service](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement) and let you carry out basic disk operations.
+Virtual Firewall on Yntraa Cloud work with the [Block Volumes Service](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement) and let you carry out basic disk operations.
 ![volumenew](img/volumenew.png)
 
 The following are the quick actions:

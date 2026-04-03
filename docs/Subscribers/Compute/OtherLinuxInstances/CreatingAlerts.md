@@ -25,7 +25,7 @@ To create or add alerts, click the **Create Alert** button. The Create Alert w
 The various fields of the Create Alert screen are as follows:
 
 - **Name** - You can define the name for your alert.
-- **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa cloud supports CPU, RAM, NETWORK INPUT and NETWORK OUTPUT parameters.
+- **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT and NETWORK OUTPUT parameters.
 - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 - **Reading duration** - This option lets you define the breach window, that is, the duration for which the breach must be consistent to trigger the alert email.
 - **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
