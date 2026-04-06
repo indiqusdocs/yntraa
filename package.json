@@ -1,5 +1,5 @@
 {
-  "name": "Apiculus",
+  "name": "Yntraa",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,9 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-heading-ids": "docusaurus write-heading-ids",
+	"start:clean": "npm run clean && npm run start",
+    "build:clean": "npm run clean && npm run build"
   },
   "dependencies": {
     "@docusaurus/core": "3.5.2",
