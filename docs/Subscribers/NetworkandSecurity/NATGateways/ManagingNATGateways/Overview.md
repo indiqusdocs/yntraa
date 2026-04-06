@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Overview
 
-Navigate to the **Overview** tab to view the following details:
+Navigate to **Nat Gateways** tab and access the **Overview** tab to view the following details:
 
 - **Configuration and Availability**<br/>
 	This section displays the instance's status, **RUNNING**, is displayed in  **<span class="green">**green**</span>**, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>**red**</span> out and the information about the networking zone.
@@ -16,6 +16,7 @@ Navigate to the **Overview** tab to view the following details:
 
 To **POWER ON/OFF** the virtual router, click the **STOP NAT GATEWAY/START NAT GATEWAY**.
    ![stoprouternew](img/stoprouternew.png)
+   ![stopnat](img/stopnat.png)
 
 
 

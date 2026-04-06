@@ -10,7 +10,7 @@ Select the **FIREWALL APPLIANCES**, then click the **RECONFIGURE VIRTUAL FIREWAL
 ![reconfig](img/reconfig.png)
 
 :::note
-Your Virtual Firewall needs to be powered OFF in order to be reconfigured.
+Your Virtual Firewall needs to be powered off in order to be reconfigured.
 :::
 The Virtual Firewall on Yntraa Cloud can be reconfigured in the following ways:
 

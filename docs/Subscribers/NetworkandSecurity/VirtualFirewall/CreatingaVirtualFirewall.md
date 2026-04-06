@@ -17,14 +17,14 @@ sidebar_position: 2
 5. Choose the virtual firewall configuration from the list.
 6. Select the Incoming Traffic Rule (Allow All, Deny All, Allow Custom) and give a name to your Virtual Firewall.
 	:::note
-		**Allow All-** Grants access to all protocols and services without restriction when selected.
-		**Deny All-**  Restrict access to all protocols and services when selected.
+		**Allow All-** Grants access to all protocols and services without restriction when selected. <br/>
+		**Deny All-**  Restrict access to all protocols and services when selected. <br/>
 		**Allow Custom-** Enable the user to specify the Source from which traffic should be allowed.
 	:::
 	![vfdetailsnewnew](img/vfdetailsnewnew.png)
 7. Review the summary and estimated costs for monthly.
    ![costnew](img/costnew.png)
-8.  Select **BUY MONTHLY** based on your requirement, and then click the **Confirm** button.
+8.  Select **BUY MONTHLY** based on your requirement. Click the **Confirm** button.
    ![confirmvfnew](img/confirmvfnew.png)
 
 

@@ -3,10 +3,10 @@ sidebar_position: 10
 ---
 # Networking Management
 
-To view the networks that of particular Instance, navigate to the Virtual Firewall and access the **Network and Security** tab.
+To view the networks that of particular Instance, navigate to the **Virtual Firewall** and access the **Network and Security** tab.
 ![networknew](img/networknew.png)
 
-The Networking and NICs section list all the networks that a Linux Instance is attached to.
+The Networking and NICs section list all the networks that a instance is attached to.
 
 The following actions are available:
 

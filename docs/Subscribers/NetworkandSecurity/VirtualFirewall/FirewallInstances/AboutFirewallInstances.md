@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # About Firewall Instances
 
-Virtual Firewalls enables you to use Virtual Firewalls in a Virtualized Network Function (VNF) style, which include support for multiple VLANs and Public IPv4 addresses and automated service activation. This allows for more robust firewall management capabilities.
+Firewall Instances provide the ability to implement firewall services using a Virtualized Network Function (VNF) framework within your network environment. These instances are designed to support multiple VLAN configurations, enable the use of public IPv4 addresses, and offer automated service deployment.
 
 The Service falls under the **Virtual Firewall** and is built using our integration framework using [FortiGate VM](https://www.fortinet.com/products/private-cloud-security/fortigate-virtual-appliances) for powering the appliance.
 
