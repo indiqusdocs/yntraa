@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP.md",
+                "file": "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PortForwardingwithPublicIP"
+              "title": "ViewingGraphsandUtilisationofWindowsInstances"
             }
           }
         ]
@@ -171,6 +171,12 @@
   },
   "active": "12b904c5ebf316b8",
   "lastOpenFiles": [
+    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF.md",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/img/natipaddress.png",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/img/natipaddress.png",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/img/networknat.png",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/img/networknat.png",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP.md",
     "build/search-index.json",
     "build/sitemap.xml",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
@@ -181,22 +187,16 @@
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes/index.html",
     "build/icons/home.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_mountain.svg",
     "build/img/sps.svg",
     "build/img/sps.png",
-    "build/img/rn.png",
-    "build/img/social-card.png",
-    "build/img/sbs.svg",
-    "build/img/sbs.png",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview.md",
     "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
@@ -215,7 +215,6 @@
     "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall.md"
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement.md"
   ]
 }

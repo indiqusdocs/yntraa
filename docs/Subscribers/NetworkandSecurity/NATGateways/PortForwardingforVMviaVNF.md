@@ -49,8 +49,10 @@ To enable external access to internal services hosted behind a NAT Gateway, you 
 The following steps outline the process to navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively:
 
 1. Navigate to the **Network and Security > NAT Gateways** section.
+   ![networknat](img/networknat.png)
 2. Select your NAT Gateway from the list.
 3. In the gateway page, click the **IPv4 Addresses** tab.
+   ![natipaddress](img/natipaddress.png)
 4. Find your public IP address listed on this page.
 5. Click the **Port Forwarding Rule** icon (next to the IP address) to start adding a port forwarding rule.
 ![portforwardingnew](img/portforwardingnew.png)
