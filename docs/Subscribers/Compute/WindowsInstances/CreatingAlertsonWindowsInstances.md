@@ -3,15 +3,15 @@ sidebar_position: 6
 ---
 # Creating Alerts on Windows Instances
 
-To view the configured alerts or configure new ones, navigate to [Operating Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Alerts** tab .
-
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage.
 
-Subscribers can configure alerts for instances running on the Yntraa cloud console. Subscribers can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
+You can configure alerts for instances running on the Yntraa Cloud console. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
+
+To view the configured alerts or configure new ones, navigate to **Compute** > [Windows Instances](/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances), select a Windows Instance, and access the **Alerts** tab.
 
 # Instance Alerts
 
-The Alerts tab can be accessed from the instances details. It shows the alerts already configured for that particular instance with following details:
+You can access the Alerts tab from the instances details. It shows the alerts already configured for that particular instance with following details:
 - Alert Name
 - Parameter
 - Trigger
@@ -19,7 +19,7 @@ The Alerts tab can be accessed from the instances details. It shows the alerts a
 - Reading Duration
 # Adding an Alert
 
-Subscribers can create or add alerts simply by clicking on the **Create Alert** button. The following screen will open up, and the subscriber must describe the details of the alert.
+You can create or add alerts simply by clicking on the **Create Alert** button. The following screen appears with the details:
 
 ![createalertnew](img/createalertnew.png)
 
@@ -36,14 +36,14 @@ The various fields of the add alert page are described below:
 
 This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
 
-1. Click on the **MANAGE RECIPIENTS** button.
+1. Click the **MANAGE RECIPIENTS** button.
 2. Use the dropdown menu to select available recipients.
-3. Click the **UPDATE** button to save the recipient list.
+3. Click the **UPDATE** button.
    
 ![managerecepientsnew](img/managerecepientsnew.png)
 
 :::note
-	All the managed recipients receive all the setup alerts. If no email ID is configured or added, then no email is sent for the already configured alerts.
+	All the managed recipients receive all the setup alerts. If no email ID is configured then no email is sent for the already configured alerts.
 :::
 
 

@@ -38,7 +38,7 @@ The following steps guide you through reviewing key configuration details, check
      - **Virtual Gateway Pack**
      - **Network Size**
 4. Access Internal Information for System Reference: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the  Cloud environment.
-    - Template Name.
+    - Template Name
     - Virtual Gateway Internal Name
     - Created On
 ![natdetails](img/natdetails.png)
@@ -48,9 +48,9 @@ To enable external access to internal services hosted behind a NAT Gateway, you 
 
 The following steps outline the process to navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively:
 
-1. In the left-hand menu, click on **NAT Gateways** under the **Network and Security** section.
+1. Navigate to the **Network and Security > NAT Gateways** section.
 2. Select your NAT Gateway from the list.
-3. In the gateway page, click on the **IPv4 Addresses** tab.
+3. In the gateway page, click the **IPv4 Addresses** tab.
 4. Find your public IP address listed on this page.
 5. Click the **Port Forwarding Rule** icon (next to the IP address) to start adding a port forwarding rule.
 ![portforwardingnew](img/portforwardingnew.png)
@@ -61,17 +61,17 @@ To allow external access through a NAT Gateway in the  Cloud Portal, you can add
 The following steps guide you through logging into the Cloud Portal, navigating to the NAT Gateways section, selecting the relevant gateway, and initiating the process of creating a new port forwarding rule by accessing the Port Forwarding interface and reviewing any existing rules: 
 
 1. Login to the Yntraa Cloud.
-2. From the left-hand side menu, under the **Network and Security** section, click on **NAT Gateways**.
+2. Navigate to the **Network and Security > NAT Gateways** section.
 3. Choose the NAT Gateway for which you want to configure the port forwarding rule.
 4. Once inside the selected NAT Gateway, see a section titled **Port Forwarding** along with the public IP address.
-5. Click on the **+ ADD RULE** button located next to the Port Forwarding heading. This opens the interface to add a new port forwarding rule.
-6. Review Existing Rules (Optional): Below the **+ ADD RULE** button, you may see a list of existing rules including details like:
-    - **Tier** 
-    - **Instance**
-    - **Private IPv4** 
-    - **Protocol** 
-    - **Public Range** 
-    - **Private Range** 
+5. Click the **+ ADD RULE** button located next to the Port Forwarding heading. This opens the interface to add a new port forwarding rule.
+6. Review Existing Rules (Optional): You can see a list of existing rules with the details : 
+    - Tier 
+    - Instance
+    - Private IPv4
+    - Protocol 
+    - Public Range
+    - Private Range
 ![pfcreated](img/pfcreated.png)
 ## Adding Details and Creating Port Forwarding Rule
 
@@ -79,7 +79,7 @@ Once you click on **+ ADD RULE**, a new form opens where you must enter the requ
 
 The following steps guide you through completing the port forwarding rule form by selecting the appropriate protocol, tier, and instance, and by specifying the public and private port ranges required to establish the forwarding rule:
 
-1. After clicking on **+ ADD RULE** a new form titled **Add Port Forwarding Rule** appears.
+1. Click the **+ ADD RULE** a new form titled **Add Port Forwarding Rule** appears.
 2. Fill in all the required fields marked with a red asterisk (*):
 	- **Protocol**:  Select the desired protocol from the dropdown.
 	- **Tier**:  Choose the appropriate tier from the list that maps to your network environment.
@@ -97,7 +97,7 @@ If you want to forward only one port, enter the same value for start and end por
 Same rule as above applies if forwarding a single port.
 :::
    
-1. Click on **ADD PORT FORWARDING RULE** button to save and apply the new rule.
+1. Click the **ADD PORT FORWARDING RULE** button to save and apply the new rule.
 ![createpfrule](img/createpfrule.png)   
 ## Verifying the Added Port Forwarding Rule
 

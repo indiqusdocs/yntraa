@@ -22,7 +22,7 @@ The following steps guide you through the process of navigating to your NAT Gate
 3. Click on the **IP Addresses** tab from the option on the left.
 4. Click the **ADD PUBLIC IPv4 Address** button. A new public IP is generated and listed under the IPv4 ADDRESS section.
 5. A confirmation message **IPv4 Address purchase successful** appears at the top.
-6. The newly added IP shows the status as **Unused**.
+6. The newly added IP shows the status as Unused.
 ![addipv4new](img/addipv4new.png)
 ## Adding a Port Forwarding Rule
 
@@ -30,7 +30,7 @@ Once a public IPv4 address has been successfully added to your NAT Gateway, the 
 
 The following steps guide you through locating the unused public IP, accessing the port forwarding interface, and initiating the configuration of a new port forwarding rule using the Yntraa Cloud:
 
-1. **Navigate to IPv4 Addresses**: In the left-hand menu under **Network and Security**, click on **IPv4 Addresses**
+1. Navigate to the **Network and Security > IPv4 Addresses**, click the **Add Public IPv4 Address** button.
 2. **Identify the Newly Acquired Public IP**: Look for the public IP address that is marked as **Unused** under the **USAGE** column.
 3. **Click on the Port Forwarding Icon**: 
     - In the row corresponding to the **Unused** public IP, locate and click on the **port forwarding icon**.
@@ -39,20 +39,18 @@ The following steps guide you through locating the unused public IP, accessing t
 ![addportforwardingnew](img/addportforwardingnew.png)
 ## Requiring Values in the Rule
 
-After accessing the port forwarding configuration interface, the next step is to specify the necessary rule parameters. These values determine how external traffic is routed through the public IP to the intended internal instance. Properly selecting these values ensures accurate traffic delivery and secure access.
+After accessing the port forwarding configuration interface, the next step is to specify the necessary rule parameters. The following details determine how external traffic is routed through the public IP to the intended internal instance:
 
-The following steps outline to define protocol type, select the appropriate network tier and instance, and configure both public and private port mappings to complete the rule setup:
+- **Protocol**
+- **Tier**
+- **Instance**
+- **Select IP Address**
+- **Public Start Port**
+- **Public End Port**
+- **Private Start Port** 
+- **Private End Port**
 
-1. Now select the required values in the rule as shown: Choose the appropriate protocol from the dropdown.
-2. Select the network tier (associated network) where the instance resides.
-3. Choose the specific instance to which you want to forward traffic.
-4. **Public Start Port and End Port**:
-    - Enter the port number(s) for incoming traffic on the public IP.
-    - For example, 80 for both start and end if using a single port.  
-5. **Private Start Port and End Port**:
-    - Enter the corresponding internal port(s) on the instance to forward traffic to.
-    - For example, 80 for both start and end.
-6. Click the **ADD PORT FORWARDING RULE** button to save and apply the rule.  
+Click the **ADD PORT FORWARDING RULE** button to save and apply the rule.  
 ![pfrdetails](img/pfrdetails.png)
 
 
