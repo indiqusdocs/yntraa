@@ -20,7 +20,7 @@ The following steps guide you through the process of navigating to your NAT Gate
 1. Navigate to the **NAT Gateways** section from the left-hand menu.
 2. Select the desired gateway.
 3. Click on the **IP Addresses** tab from the option on the left.
-4. Click the **ADD PUBLIC IPv4 Address** button. A new public IP is generated and listed under the IPv4 ADDRESS section.
+4. Click the **Add Public IPv4 Address** button. A new public IP is generated and listed under the IPv4 ADDRESS section.
 5. A confirmation message **IPv4 Address purchase successful** appears at the top.
 6. The newly added IP shows the status as Unused.
 ![addipv4new](img/addipv4new.png)
@@ -31,7 +31,7 @@ Once a public IPv4 address has been successfully added to your NAT Gateway, the 
 The following steps guide you through locating the unused public IP, accessing the port forwarding interface, and initiating the configuration of a new port forwarding rule using the Yntraa Cloud:
 
 1. Navigate to the **Network and Security > IPv4 Addresses**, click the **Add Public IPv4 Address** button.
-2. **Identify the Newly Acquired Public IP**: Look for the public IP address that is marked as **Unused** under the **USAGE** column.
+2. **Identify the Newly Acquired Public IP**: Look for the public IP address that is marked as **Unused** under the **usage** column.
 3. **Click on the Port Forwarding Icon**: 
     - In the row corresponding to the **Unused** public IP, locate and click on the **port forwarding icon**.
     - The icon is next to other icons like the delete (trash bin) and details icon, as shown in  the red box in the screenshot.
@@ -50,7 +50,7 @@ After accessing the port forwarding configuration interface, the next step is to
 - **Private Start Port** 
 - **Private End Port**
 
-Click the **ADD PORT FORWARDING RULE** button to save and apply the rule.  
+Click the **Add Port Forwarding Rule** button to save and apply the rule.  
 ![pfrdetails](img/pfrdetails.png)
 
 

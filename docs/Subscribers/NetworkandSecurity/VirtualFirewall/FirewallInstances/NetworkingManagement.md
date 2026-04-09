@@ -10,7 +10,7 @@ The Networking and NICs section list all the networks that a instance is attache
 
 The following actions are available:
 
-- If the Instance is inside a VPC, you can associate the Instance to multiple tiers within the VPC or share the Instance with other VPC networks in the same Availability Zone by using the **ADD NETWORK** option.
+- If the Instance is inside a VPC, you can associate the Instance to multiple tiers within the VPC or share the Instance with other VPC networks in the same Availability Zone by using the **Add Network** option.
 - Network/tier associations can be removed from this section by using the **Delete** action.
 
 :::note

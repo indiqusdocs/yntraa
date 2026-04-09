@@ -13,7 +13,7 @@ Yntraa Cloud offers a highly usable and visual way of working with and operating
     - IPv6 Address
     - Created
 
- To view a list of sections and the various operations or actions, click **Instance name**. Below the Instance name, there is an informational view where you can find the following details:
+ To view a list of sections and the various operations or actions, click **Instance Name**. Below the Instance name, there is an informational view where you can find the following details:
 - Configuration
 - Availability Zone
 - Default IP

@@ -16,16 +16,16 @@ The following are the high-level tasks required to configure port forwarding for
 
 ## Accessing and Selecting a NAT Gateway
 
-This section outlines the steps to access and select a NAT Gateway within the Yntraa Cloud. Before managing configuration or operational settings, users must navigate to the appropriate section of the dashboard and identify the NAT Gateway instance relevant to their network environment. This ensures that all subsequent actions are performed on the correct gateway associated with the intended Virtual Network Function (VNF). 
+This section outlines the steps to access and select a NAT Gateway within the Yntraa Cloud. Before managing configuration or operational settings, you must navigate to the appropriate section of the dashboard and identify the NAT Gateway instance relevant to their network environment. This ensures that all subsequent actions are performed on the correct gateway associated with the intended Virtual Network Function (VNF). 
 
 The following steps guide you through locating and selecting your NAT Gateway from the dashboard:
 
-1. Navigate to the **Network and Security > NAT Gateways** section from the  Cloud dashboard.
+1. Navigate to the **Network and Security > NAT Gateways** section from the  cloud dashboard.
 2. Select the appropriate NAT Gateway associated with your VNF.
 ![natgatewaynew](img/natgatewaynew.png)
 ## Reviewing Configuration
 
-This section offers a detailed review of the current NAT Gateway configuration within the  Cloud environment. It includes essential system specifications, deployment parameters, and operational status to ensure the gateway is correctly set up and functioning as expected. Verify these details before initiating any advanced networking configurations, such as port forwarding or scaling operations.
+This section offers a detailed review of the current NAT Gateway configuration within the cloud environment. It includes essential system specifications, deployment parameters, and operational status to ensure the gateway is correctly set up and functioning as expected. Verify these details before initiating any advanced networking configurations, such as port forwarding or scaling operations.
 
 The following steps guide you through reviewing key configuration details, checking operational status, and accessing internal system information necessary for validation and troubleshooting within your cloud environment: 
 
@@ -37,14 +37,14 @@ The following steps guide you through reviewing key configuration details, check
 3. Confirm Network and Gateway Configuration: Review the virtual gateway pack and network size settings to ensure the correct configuration is applied before proceeding with port forwarding or deployment steps.
      - **Virtual Gateway Pack**
      - **Network Size**
-4. Access Internal Information for System Reference: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the  Cloud environment.
+4. Access Internal Information for System Reference: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the cloud environment.
     - Template Name
     - Virtual Gateway Internal Name
     - Created On
 ![natdetails](img/natdetails.png)
 ## Accessing Port Forwarding Settings for NAT Gateway
 
-To enable external access to internal services hosted behind a NAT Gateway, you must configure port forwarding rules. This section explains how to access the port forwarding settings for a NAT Gateway within the  Cloud environment. Port forwarding allows specific inbound traffic to reach designated internal resources by mapping external ports to internal IPs and ports.
+To enable external access to internal services hosted behind a NAT Gateway, you must configure port forwarding rules. This section explains how to access the port forwarding settings for a NAT Gateway within the cloud environment. Port forwarding allows specific inbound traffic to reach designated internal resources by mapping external ports to internal IPs and ports.
 
 The following steps outline the process to navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively:
 
@@ -58,9 +58,9 @@ The following steps outline the process to navigate to the NAT Gateway, locate t
 ![portforwardingnew](img/portforwardingnew.png)
 ## Adding a New Port Forwarding Rule
 
-To allow external access through a NAT Gateway in the  Cloud Portal, you can add a new port forwarding rule. This involves selecting the appropriate NAT Gateway and configuring the necessary forwarding details. 
+To allow external access through a NAT Gateway in the cloud portal, you can add a new port forwarding rule. This involves selecting the appropriate NAT Gateway and configuring the necessary forwarding details. 
 
-The following steps guide you through logging into the Cloud Portal, navigating to the NAT Gateways section, selecting the relevant gateway, and initiating the process of creating a new port forwarding rule by accessing the Port Forwarding interface and reviewing any existing rules: 
+The following steps guide you through logging into the cloud portal, navigating to the NAT Gateways section, selecting the relevant gateway, and initiating the process of creating a new port forwarding rule by accessing the Port Forwarding interface and reviewing any existing rules: 
 
 1. Login to the Yntraa Cloud.
 2. Navigate to the **Network and Security > NAT Gateways** section.

@@ -13,7 +13,7 @@ Virtual Firewall on Yntraa Cloud work with the [Block Volumes Service](/docs/Su
 The following are the quick actions:
 
 - **Create Image** - Click on it, and enter the image name and description.
-- **CREATE RESTORE POINT** - Click on it, to create a Volume restore point.
+- **Create Restore Point** - Click on it, to create a Volume restore point.
 - **Detach/attach** - This will attach/detach the volume to/from the instance.
 
 :::note

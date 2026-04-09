@@ -15,7 +15,7 @@ Primarily, IPv4 Addresses can be used for configuring access and perform NAT via
 
 ![vpcaddip](img/vpcaddip.png)
 
-As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **ADD PUBLIC IPv4 ADDRESS** button.
+As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **Add Public IPv4 Address** button.
 
 :::note
 Public IPv4 addresses may carry a price which may vary depending on availability of IPv4 addresses in the country of operation, and/or how the service provider has priced them.

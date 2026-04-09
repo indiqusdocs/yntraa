@@ -7,7 +7,7 @@ VPCs follow the convention of 3-tiered architectures, with web, app, and DB tier
 
 ![tiernew](img/tiernew.png)
 
-To add a tier to your VPC, navigate to the VPC you wish to add the tier to, and click the **ADD TIER** button option present inside the **Subnets and Tiers** section of the VPC. This opens a dialog box that asks you to provide the following information:
+To add a tier to your VPC, navigate to the VPC you wish to add the tier to, and click the **Add Tier** button option present inside the **Subnets and Tiers** section of the VPC. This opens a dialog box that asks you to provide the following information:
 
 - Tier Name
 - Gateway 
@@ -23,7 +23,7 @@ To add a tier to your VPC, navigate to the VPC you wish to add the tier to, and 
 
 ![createtier](img/createtier.png)
 
-To create the tier or subnet to be used as part of the VPC, click the **ADD NETWORK TIER** button.
+To create the tier or subnet to be used as part of the VPC, click the **Add Network Tier** button.
 
 After the tier is created, three icons appear on the right side for quick actions:
 

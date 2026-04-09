@@ -19,7 +19,7 @@ To view a list of sections and the various operations or actions you can perform
 - Public IPV4 (L2-WAN)
 - Created
 
-On the top right corner, two quick options are available, one to **LAUNCH CONSOLE** and the other to **STOP INSTANCE/START INSTANCE**.
+On the top right corner, two quick options are available, one to **Launch Console** and the other to **Stop Instance/Start Instance**.
 
 ![launchconsolenew](img/launchconsolenew.png)
 
