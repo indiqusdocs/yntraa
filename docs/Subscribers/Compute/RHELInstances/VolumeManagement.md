@@ -4,9 +4,12 @@ sidebar_position: 6
 # Volume Management
 
 To view the disks attached to particular Instance, navigate to [RHEL Instances](AboutRHELInstances.md) and access the **Volumes** tab.
+![rhelvolumenew](img/rhelvolumenew.png)
+
+Click the **Add Volume** button to open the configuration panel, specify the required volume details, and submit the configuration. The system then creates and attaches the volume to the instance
 
 RHEL Instances on Yntraa Cloud work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
-![rhelvolumenew](img/rhelvolumenew.png)
+
 
 The following are the quick actions:
 

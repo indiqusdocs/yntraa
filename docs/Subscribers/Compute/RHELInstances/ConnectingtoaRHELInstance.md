@@ -11,21 +11,27 @@ To connect to your RHEL Instance from a Windows machine, you will must use an ap
 
 1. [Download and install PuTTy.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Launch PuTTy on your computer.
-3. Enter your Instance’s IP address in the Hostname field. Navigate to **Connection > SSH** > **Auth**.
-4. Click the **Browse** button and select the private key file you previously generated.
-5. Click **Open** at the bottom of the screen to open a connection to the Instance. PuttY prompts you to allow the connection to the host.
-6. Click **OK** to confirm and the terminal window will be displayed.
-7. Then enter the default root user name (**root**) and press **Enter** to authenticate against the server with your SSH key.
+3. Enter your Instance’s IP address in the Hostname field. 
+4. Navigate to **Connection > SSH** > **Auth**.
+5. Click the **Browse** button and select the private key file you previously generated.
+6. Click **Open** at the bottom of the screen to open a connection to the Instance. PuttY prompts you to allow the connection to the host.
+7. Click **OK** to confirm and the terminal window will be displayed.
+8. Enter the default root user name (**root**) and press **Enter** to authenticate against the server with your SSH key.
 
 You are now connected to your Instance.
 
 ## Connecting from a macOS or Linux Machine
 
 1. Open any terminal program.
-2. Enter the following command into the terminal. Make sure you replace `your_private_key` with the filename of your private key; `your_instance_ip` with the IP address of your Instance; and `username` with the default root user name (**root**).
+2. Enter the following command into the terminal. 
 	```
 	ssh -i ~/.ssh/<your_private_key> <username>@<your_instance_ip>
 	```
+
+:::note
+Make sure you replace `your_private_key` with the filename of your private key; `your_instance_ip` with the IP address of your Instance; and `username` with the default root user name (**root**).
+:::
+
 3. When prompted, allow connection to the host by typing **yes**, then press **Enter**.
 	```
 	The authenticity of host 'myhost.ext (212.47.206.34)' can't be established.  

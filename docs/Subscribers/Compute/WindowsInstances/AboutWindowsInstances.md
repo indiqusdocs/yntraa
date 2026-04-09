@@ -13,13 +13,13 @@ Yntraa Cloud offers a highly usable and visual way of working with and operating
     - IPv6 Address
     - Created
 
- To view a list of sections and the various operations or actions, click **Instance name**. Below the Instance name, there is an informational view where you can find the below details:
+ To view a list of sections and the various operations or actions, click **Instance name**. Below the Instance name, there is an informational view where you can find the following details:
 - Configuration
 - Availability Zone
 - Default IP
 - Created 
 
-In the top-right corner, two quick-access options are available:  **LAUNCH CONSOLE** for accessing the instance, and **START INSTANCE/STOP INSTANCE** for controlling its state.
+In the top-right corner, two quick-access options are available:  **Launch Console** for accessing the instance, and **Start Instance/Stop instance** for controlling its state.
 
 Details on available Windows Instance operations and actions can be found in their respective sections:
 - [Overview](ViewingDetailsofWindowsInstances)

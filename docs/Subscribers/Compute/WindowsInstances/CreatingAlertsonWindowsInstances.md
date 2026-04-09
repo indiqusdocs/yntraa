@@ -7,7 +7,7 @@ Alerts get triggered whenever a configured condition is met. You can create mult
 
 You can configure alerts for instances running on the Yntraa Cloud console. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
 
-To view the configured alerts or configure new ones, navigate to **Compute** > [Windows Instances](/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances), select a Windows Instance, and access the **Alerts** tab.
+To view the configured alerts or configure new ones, navigate to the **Compute** > [Windows Instances](/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances), select a Windows Instance, and access the **Alerts** tab.
 
 # Instance Alerts
 
@@ -18,6 +18,10 @@ You can access the Alerts tab from the instances details. It shows the alerts al
 - Value
 - Reading Duration
 # Adding an Alert
+
+Navigate to the **Window Instances > Alerts**. The following screen appears: 
+
+pic
 
 You can create or add alerts simply by clicking on the **Create Alert** button. The following screen appears with the details:
 
@@ -36,14 +40,15 @@ The various fields of the add alert page are described below:
 
 This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
 
-1. Click the **MANAGE RECIPIENTS** button.
+1. Click the **MANAGE RECIPIENTS** button. The following screen appears:
+   ![managerecepientsnew](img/managerecepientsnew.png)
 2. Use the dropdown menu to select available recipients.
 3. Click the **UPDATE** button.
    
-![managerecepientsnew](img/managerecepientsnew.png)
+
 
 :::note
-	All the managed recipients receive all the setup alerts. If no email ID is configured then no email is sent for the already configured alerts.
+	All the managed recipients receive all setup alerts. If no email ID is configured, no email is sent for the already configured alerts.
 :::
 
 

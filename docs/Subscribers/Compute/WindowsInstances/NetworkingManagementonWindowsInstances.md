@@ -7,7 +7,7 @@ To view the networks that a particular Instance is attached to, navigate to the 
 ![networkingnew](img/networkingnew.png)
 The following actions are available:
 
-- If the Instance is inside a VPC, you can associate it with multiple tiers within the VPC or share it with other VPC networks in the same Availability Zone by using the **ADD NETWORK** option.
+- If the Instance is inside a VPC, you can associate it with multiple tiers within the VPC or share it with other VPC networks in the same Availability Zone by using the **Add Network** option.
 - Network/tier associations can be removed from this section by using the **Delete** action.
 
 :::note

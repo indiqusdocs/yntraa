@@ -9,4 +9,4 @@ Navigate to **Virtual Firewalls** and access the **Overview** tab. The following
 
 ![vffirewallprovider](img/vffirewallprovider.png)
 
-Click the **LAUNCH CONSOLE** button to access the Virtual Firewall Control Panel.
+Click the **Launch Console** button to access the Virtual Firewall Control Panel.

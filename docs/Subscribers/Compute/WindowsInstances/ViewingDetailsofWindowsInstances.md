@@ -7,7 +7,7 @@ To view the details of Windows Instances, navigate to [Windows Instances](AboutW
 ![windetails1new](img/windetails1new.png)
 
 - Configuration and Availability
-    1. The instance's status, **RUNNING**, is displayed in <span class="green">Green </span>, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red</span> out.
+    1. The instance's status, **Running**, is displayed in <span class="green">Green </span>, whereas **Stopped** is displayed in <span style={{ color: 'red' }}>red</span> out.
     2. Information about the networking zone.
 
 - Internal Information - This displays the information that is used for internal identification of this instance and communication with other internal services.

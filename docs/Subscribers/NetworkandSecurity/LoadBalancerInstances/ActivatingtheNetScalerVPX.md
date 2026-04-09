@@ -23,7 +23,7 @@ reboot
 All the required details can be found in the parent VPC and/or on the LBI details sections of Yntraa Cloud.
 :::
 
-After completing the above steps, click the **LAUNCH LOAD BALANCER MANAGEMENT INTERFACE** button in the **Access** section of the LBI details to access the NetScaler VPX UI.
+After completing the above steps, click the **Launch Load Balancer Management Interface** button in the **Access** section of the LBI details to access the NetScaler VPX UI.
 
 ![lbmanagement](img/lbmanagement.png)
 
