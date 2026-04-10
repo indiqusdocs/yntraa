@@ -9,9 +9,12 @@ Yntraa Cloud offers a quick means to view Instances that are part of a VPC netwo
 
 ![vpcinstanceadd](img/vpcinstanceadd.png)
 
-## Adding (or Removing) Instances to VPC
+## Adding or Removing Instances to VPC
 
-To view all Instances that are available to be added to this VPC, click the **ADD INSTANCE** button. Since VPC allows adding multiple NICs to instances, instances can be shared between VPC networks (and across tiers within the same VPC), as long as the VPC networks are within the same Availability Zone.
+To add or remove instances to VPC, follow these steps:
+
+1. To view all Instances that are available to add to this VPC, click the **Add Instance** button.
+2. Select the Network Tier where you want to add the available instances
 ![addinginstances](img/addinginstances.png)
 
 :::note

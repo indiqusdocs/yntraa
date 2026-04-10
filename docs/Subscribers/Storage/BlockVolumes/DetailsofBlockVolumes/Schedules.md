@@ -26,13 +26,13 @@ While configuring restore point schedules, the following points should be consid
 - All schedule options support time specifications in custom time zones.
 - All schedule options include a **Restore Points to Keep** setting, which is a limit on how many restore point to keep (or rotate after) as per the retention policy.
   
-To create a Restore Point Schedule, click **Create Schedule**. The following dilog box appears.
+To create a Restore Point Schedule, click **Create Schedule** button. The following dialog box appears.
 
-![setschedulenew](img/setschedulenew.png)
+![setrestorenew](img/setrestorenew.png)
 Select the below details in the form to set the Restore Point Schedule.
-- Frequency
-- Timezone
-- Restore Points to Keep
+- **Frequency**
+- **Time zone**
+- **Restore Points to Keep**
 :::note
 	There can only be one policy per schedule; the new restore point policy overrides the existing policy of the same frequency.
 :::

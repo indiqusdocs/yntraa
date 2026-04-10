@@ -11,7 +11,7 @@ To view the below details, navigate to [Kubernetes](AboutKubernetes.md), select
 ![overviewkube](img/overviewkube.png)
 ## Configuration and Availability
 
-1. The cluster’s status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in <span style={{ color: 'grey' }}>grey</span>.
+1. The cluster’s status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red</span>.
 2. Information about the VPC networking zone
 ## Nodes Information 
 

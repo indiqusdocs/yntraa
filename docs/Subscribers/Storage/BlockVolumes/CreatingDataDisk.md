@@ -5,19 +5,22 @@ sidebar_position: 2
 To create a Block Volume data disk, follow the below steps:
 
 1. Navigate to **Storage > Block Volumes.**
-2. Click the **+ NEW BLOCK VOLUME**.
+2. Click the **+ New Block Volume**.
    ![datadisk3new](img/datadisk3new.png)
 3. Choose an **Availability Zone**.
 4. Select an Instance from the dropdown list to attach the disk to. 
-5. Choose the disk configuration from the available Disk packs, or you can use the custom size option to specify the Disk configuration.
+5. In the **Choose Disk Configuration** section, select the desired disk tier (**Tier1, Tier2, or Tier3**).
+6. Click on the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
+7. Click on **Select Pack** to choose the configured disk pack.
    ![datadisk1new](img/datadisk1new.png)
-6. Verify the **Estimated Cost** of your Data Disk based on the options that you have chosen from the **Summary and Estimated Costs** Section.
-7. Click on the check box after going through the policies mentioned by your cloud service provider.
+8. Verify the estimated cost of your data disk based on the options that you have chosen from the **Summary and Estimated Costs** Section.
+9. Click on the check box after going through the policies mentioned by your cloud service provider.
    ![datadisk2new](img/datadisk2new.png)
-8. Clicking the **Buy Monthly** button. A confirmation pop-over will appear, and the price summary along with any applicable discount codes.
+10. Clicking the **Buy Monthly** button. A confirmation pop-over will appear, and the price summary along with any applicable discount codes.
     1. Apply a discount code by clicking the **Apply** button or remove it using the **Remove** button.
-    2. Clicking the **CANCEL** button, this action will be canceled.
-9. Click the **CONFIRM** to create the Data Disk.
+    2. Clicking the **Cancel** button, this action will be canceled.
+11. Click the **Confirm** button to create the Data Disk.|
+   ![bvconfirm](img/bvconfirm.png)
 
 :::note
 This process may take 5-8 minutes. You can continue using the Cloud Console during this time, but it is advised that you do not refresh the browser window.

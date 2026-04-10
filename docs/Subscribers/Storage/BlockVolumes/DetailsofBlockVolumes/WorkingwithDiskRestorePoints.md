@@ -7,13 +7,13 @@ Yntraa block volumes service provides extensive functionality for managing disk 
 
 ## Creating Disk Restore Point
 
-Disk restore point can be created manually with the current timestamp by clicking the **CREATE DISK RESTORE POINT** button under the **Restore Points** tab/section of any disk. This will generate a restore point that can be used to create an **Image (template)** or restore an existing disk.
+Disk restore point can be created manually with the current timestamp by clicking the **Create Disk Restore Point** button under the **Restore Points** tab/section of any disk. This will generate a restore point that can be used to create an **Image (template)** or restore an existing disk.
 
 ![restorepointdefault](img/restorepointdefault.png)
 
 ## Creating a Disk from a Restore Point
 
-Disk restore point created manually or using a schedule lists under the **Restore Points** section of disk details. To create a new data disk using a restore point, the option to **CREATE DISK RESTORE POINT** can be used, which will initiate a purchase flow similar to [creating a data disk](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk).
+Disk restore point created manually or using a schedule lists under the **Restore Points** section of disk details. To create a new data disk using a restore point, the option to **Create Disk Restore Point** can be used, which will initiate a purchase flow similar to [creating a data disk](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk).
 
 :::note
 This operation may have associated billing impacts.
@@ -21,7 +21,7 @@ This operation may have associated billing impacts.
 
 ## Creating an Image from a Restore Point
 
-Disk restore point can be used to create OS Images which can be used at the time of Instance creation. This can be done by using the option to **create image** which makes the template available and listed under the **My Images** section.
+Disk restore point can be used to create OS Images which can be used at the time of Instance creation. This can be done by using the option to **Create Image** which makes the template available and listed under the **My Images** section.
 
 :::note
 Images occupy account-level storage space which may be billed on usage by the service provider.

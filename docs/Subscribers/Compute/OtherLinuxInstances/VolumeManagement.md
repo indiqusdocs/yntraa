@@ -6,7 +6,7 @@ sidebar_position: 6
 To view the disks attached to this Instance, navigate to [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Volumes** tab.
 
 Linux Instances on Yntraa Cloud work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
-![volume](img/volume.png)
+![volumenew](img/volumenew.png)
 
 The following are the quick actions:
 

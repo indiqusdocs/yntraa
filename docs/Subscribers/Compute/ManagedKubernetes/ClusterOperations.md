@@ -8,7 +8,7 @@ Kubernetes clusters created on Yntraa Cloud allow for a set of management operat
 ![operation2](img/operation2.png)
 ## Powering ON/OFF a Cluster
 
-Kubernetes clusters can be powered ON/OFF using the **power** button on top of the cluster details. This button will typically show in <span class="green">**green**</span> when a cluster is powered ON, and <span style={{ color: 'grey' }}>grey</span> when powered OFF.
+Kubernetes clusters can be powered ON/OFF using the **power** button on top of the cluster details. This button will typically show in <span class="green">**green**</span> when a cluster is powered ON, and <span style={{ color: 'red' }}>red</span> when powered OFF.
 ## Stopping and Restarting a Cluster
 
 Kubernetes clusters can be stopped or restarted from the **Operations** section of cluster details.

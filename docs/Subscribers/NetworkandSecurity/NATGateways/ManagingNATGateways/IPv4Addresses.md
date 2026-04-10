@@ -14,35 +14,31 @@ You can add additional public IPv4 addresses to configure firewall rules, port f
    ![confirmipv4](img/confirmipv4.png)
 3. Verify the details and click the **Confirm** button to create complete adding a public IPv4 address.
 ### Managing Firewall Rules
-1. Click the **Firewall Rules** icon.
+1. Click the **Firewall Rule** icon.
    ![firewallrulenew](img/firewallrulenew.png)
 2. Enter the details as shown to create a new firewall rule.
-	1. Select Traffic Rule from the drop-down list.
-	2. Select the Protocol from the drop-down list.
-	3. Enter the Start Port. 
-	4. Enter the End Port.
-	5. Click on **ADD RULE** button.
+    1. **Select Rule** from the drop-down. 
+	2. **Select Traffic Type** from the drop-down.
+	3. Select the **Protocol** from the drop-down list.
+	4. Enter the **Start Port** and **End Port**. 
+	5. Click on **Add Rule** button.
 ![frcreation](img/frcreation.png)
 
 ### Managing Port Forwarding Rules
-1. Click the **Port Forwarding Rule** icon.
+1. Click the **Port Forwarding Rule** icon. The following screen appears:
    ![firewallrulenew](img/firewallrulenew.png)
-	The following screen appears where you can view the already created port forwarding rules.
-	
-2. To add a new rule, click on **Add Rule**.
+2. To add a new rule, click on **+ Add Rule**.
    ![pfrulenewadd](img/pfrulenewadd.png)
-
 3. Enter the required details to add a rule.
    ![natpfrulenew](img/natpfrulenew.png)
-
-5. Click the **Add Port Forwarding Rule** button.
+4. Click the **Add Port Forwarding Rule** button.
    
 
 ### Changing Source NAT IPv4 Address
 1. Click the **Source NAT** icon.
   ![addipaddressnew](img/addipaddressnew.png)
 
-2. Click **OKAY**. <br />
+2. Click the **Okay** button.
    ![warning](img/warning.png)
    
 ### Deleting IP Address

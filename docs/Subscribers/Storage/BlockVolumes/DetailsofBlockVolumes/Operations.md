@@ -8,9 +8,9 @@ To view all available Block Volume operations, navigate to the **Storage**, sele
 
 Yntraa Cloud provides the options to perform the following operations on Block Volumes:
 
-- **Detach From Instance** -
+- **Detach from Instance** -
 	Use this option to detach this Volume from its Instance.
-- **Attach To Instance** -
+- **Attach to Instance** -
 	Use this option to attach this Volume to another Instance.
 	:::note
 	Root Disks can not be detached from their Instances, and only attached Volumes can be detached from their Instances.

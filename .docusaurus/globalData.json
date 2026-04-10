@@ -31,18 +31,13 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/CloudAssure/ResiliencyAssuranceService",
-              "path": "/docs/FAQs/CloudAssure/ResiliencyAssuranceService",
+              "id": "FAQs/ManagedSolutions/ManagedDatabases",
+              "path": "/docs/FAQs/ManagedSolutions/ManagedDatabases",
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/ManagedCompute/VirtualDesktop",
-              "path": "/docs/FAQs/ManagedCompute/VirtualDesktop",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "FAQs/ManagedStorage/File Storage",
-              "path": "/docs/FAQs/ManagedStorage/File Storage",
+              "id": "FAQs/ManagedSolutions/ResiliencyAssuranceService",
+              "path": "/docs/FAQs/ManagedSolutions/ResiliencyAssuranceService",
               "sidebar": "sidebar2"
             },
             {
@@ -51,8 +46,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/OtherServices/ManagedDatabases",
-              "path": "/docs/FAQs/OtherServices/ManagedDatabases",
+              "id": "FAQs/Other Services/File Storage",
+              "path": "/docs/FAQs/Other Services/File Storage",
               "sidebar": "sidebar2"
             },
             {
@@ -186,18 +181,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/CloudAssure/OptimisationService",
-              "path": "/docs/Subscribers/CloudAssure/OptimisationService",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/CloudAssure/ProfessionalServices",
               "path": "/docs/Subscribers/CloudAssure/ProfessionalServices",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/CloudAssure/ResiliencyAssuranceService",
-              "path": "/docs/Subscribers/CloudAssure/ResiliencyAssuranceService",
               "sidebar": "sidebar1"
             },
             {
@@ -206,133 +191,108 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
-              "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
+              "id": "Subscribers/Compute/ManagedKubernetes/AboutKubernetes",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
-              "path": "/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
+              "id": "Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/RequirementsforAutoscale",
-              "path": "/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale",
+              "id": "Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances",
-              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstances",
+              "id": "Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/AboutKubernetes",
-              "path": "/docs/Subscribers/Compute/Kubernetes/AboutKubernetes",
+              "id": "Subscribers/Compute/ManagedKubernetes/ClusterOperations",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/AboutKubernetesDashboard",
-              "path": "/docs/Subscribers/Compute/Kubernetes/AboutKubernetesDashboard",
+              "id": "Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine",
-              "path": "/docs/Subscribers/Compute/Kubernetes/AccessingaClusterusingtheCommandLine",
+              "id": "Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard",
-              "path": "/docs/Subscribers/Compute/Kubernetes/Accessingthekubernetesdashboard",
+              "id": "Subscribers/Compute/ManagedKubernetes/Overview",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/Overview",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/ClusterOperations",
-              "path": "/docs/Subscribers/Compute/Kubernetes/ClusterOperations",
+              "id": "Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster",
-              "path": "/docs/Subscribers/Compute/Kubernetes/CreatingaKubernetesCluster",
+              "id": "Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters",
-              "path": "/docs/Subscribers/Compute/Kubernetes/IngressNetworkingonKubernetesClusters",
+              "id": "Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/Overview",
-              "path": "/docs/Subscribers/Compute/Kubernetes/Overview",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/ScalingKubernetesClusters",
-              "path": "/docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters",
+              "id": "Subscribers/Compute/OtherLinuxInstances/CreatingAlerts",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails",
-              "path": "/docs/Subscribers/Compute/Kubernetes/ViewingKubernetesClusterDetails",
+              "id": "Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/AboutLinuxInstances",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/AboutLinuxInstances",
+              "id": "Subscribers/Compute/OtherLinuxInstances/NetworkingManagement",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/AppOverlays",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/AppOverlays",
+              "id": "Subscribers/Compute/OtherLinuxInstances/Operations",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/Operations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/ConfiguringAlerts",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/ConfiguringAlerts",
+              "id": "Subscribers/Compute/OtherLinuxInstances/Overview",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/Overview",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/ConnectingtoaLinuxInstance",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/CreatingLinuxInstances",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/CreatingLinuxInstances",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/NetworkingManagement",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/NetworkingManagement",
+              "id": "Subscribers/Compute/OtherLinuxInstances/VolumeManagement",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/LinuxInstances/Operations",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/LinuxInstances/Overview",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/ReconfiguringLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/LinuxInstances/VolumeManagement",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints",
-              "path": "/docs/Subscribers/Compute/LinuxInstances/WorkingwithLinuxInstanceRestorePoints",
+              "id": "Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints",
               "sidebar": "sidebar1"
             },
             {
@@ -341,13 +301,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/ConfiguringAlerts",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ConfiguringAlerts",
+              "id": "Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
+              "id": "Subscribers/Compute/RHELInstances/CreatingAlerts",
+              "path": "/docs/Subscribers/Compute/RHELInstances/CreatingAlerts",
               "sidebar": "sidebar1"
             },
             {
@@ -376,8 +336,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilization",
+              "id": "Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation",
               "sidebar": "sidebar1"
             },
             {
@@ -391,8 +351,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/WorkingwithSnapshots",
-              "path": "/docs/Subscribers/Compute/RHELInstances/WorkingwithSnapshots",
+              "id": "Subscribers/Compute/RHELInstances/WorkingwithRestorePoints",
+              "path": "/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints",
               "sidebar": "sidebar1"
             },
             {
@@ -401,13 +361,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/ConfiguringAlertsonWindowsInstances",
+              "id": "Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
+              "id": "Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances",
               "sidebar": "sidebar1"
             },
             {
@@ -461,73 +421,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManagedCompute/ContainerRegistry",
-              "path": "/docs/Subscribers/ManagedCompute/ContainerRegistry",
+              "id": "Subscribers/ManagedSecurity/DDosProtection",
+              "path": "/docs/Subscribers/ManagedSecurity/DDosProtection",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManagedCompute/VirtualDesktops",
-              "path": "/docs/Subscribers/ManagedCompute/VirtualDesktops",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster",
-              "path": "/docs/Subscribers/ManagedDatabase/Backuphighavailabilityanddisaster",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/introduction",
-              "path": "/docs/Subscribers/ManagedDatabase/introduction",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/MDBaas",
-              "path": "/docs/Subscribers/ManagedDatabase/MDBaas",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/Postprovisioning",
-              "path": "/docs/Subscribers/ManagedDatabase/Postprovisioning",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/PreRequisites",
-              "path": "/docs/Subscribers/ManagedDatabase/PreRequisites",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/Scalingandconfigurationmanagement",
-              "path": "/docs/Subscribers/ManagedDatabase/Scalingandconfigurationmanagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/servicedeprovisioning",
-              "path": "/docs/Subscribers/ManagedDatabase/servicedeprovisioning",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/Serviceoverviewandarchitecture",
-              "path": "/docs/Subscribers/ManagedDatabase/Serviceoverviewandarchitecture",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedDatabase/Serviceprovisioning",
-              "path": "/docs/Subscribers/ManagedDatabase/Serviceprovisioning",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedNetwork/LoadBalancer",
-              "path": "/docs/Subscribers/ManagedNetwork/LoadBalancer",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSecurity/EndPointSecurity",
-              "path": "/docs/Subscribers/ManagedSecurity/EndPointSecurity",
+              "id": "Subscribers/ManagedSecurity/PrivilegedAccessManagement",
+              "path": "/docs/Subscribers/ManagedSecurity/PrivilegedAccessManagement",
               "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/ManagedSecurity/YottaSmartCSOC",
               "path": "/docs/Subscribers/ManagedSecurity/YottaSmartCSOC",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/ManagedSolutions/BackupandRecovery",
+              "path": "/docs/Subscribers/ManagedSolutions/BackupandRecovery",
               "sidebar": "sidebar1"
             },
             {
@@ -541,23 +451,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking",
-              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/AboutIPv4-basedNetworking",
+              "id": "Subscribers/ManagedSolutions/LoadTestingasaService",
+              "path": "/docs/Subscribers/ManagedSolutions/LoadTestingasaService",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
-              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/EstablishingSite-to-SiteVPNBetweenTwoVPCs",
+              "id": "Subscribers/ManagedSolutions/ManagedDatabaseServices",
+              "path": "/docs/Subscribers/ManagedSolutions/ManagedDatabaseServices",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
-              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/ManagingVPNGatewaysandSite-to-SiteVPN",
+              "id": "Subscribers/ManagedSolutions/MessagingServices",
+              "path": "/docs/Subscribers/ManagedSolutions/MessagingServices",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
-              "path": "/docs/Subscribers/NetworkandSecurity/IPv4-basedNetworking/UsingRemoteAccessVPNwithVPC",
+              "id": "Subscribers/ManagedSolutions/ResiliencyAssuranceService",
+              "path": "/docs/Subscribers/ManagedSolutions/ResiliencyAssuranceService",
               "sidebar": "sidebar1"
             },
             {
@@ -751,73 +661,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/OtherServices/CDNasaService",
-              "path": "/docs/Subscribers/OtherServices/CDNasaService",
+              "id": "Subscribers/OtherServices/Containers",
+              "path": "/docs/Subscribers/OtherServices/Containers",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/OtherServices/CyberSecurityProfessionalServices",
-              "path": "/docs/Subscribers/OtherServices/CyberSecurityProfessionalServices",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/DDosProtection",
-              "path": "/docs/Subscribers/OtherServices/DDosProtection",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/GlobalCloudConnect",
-              "path": "/docs/Subscribers/OtherServices/GlobalCloudConnect",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/HostedInternetBandwidth",
-              "path": "/docs/Subscribers/OtherServices/HostedInternetBandwidth",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/HSMandKMS",
-              "path": "/docs/Subscribers/OtherServices/HSMandKMS",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/LoadTestingasaService",
-              "path": "/docs/Subscribers/OtherServices/LoadTestingasaService",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/MessagingServices",
-              "path": "/docs/Subscribers/OtherServices/MessagingServices",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/MultiTenantBraaS",
-              "path": "/docs/Subscribers/OtherServices/MultiTenantBraaS",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/PrivilegedAccessManagement",
-              "path": "/docs/Subscribers/OtherServices/PrivilegedAccessManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/SecurityTesting",
-              "path": "/docs/Subscribers/OtherServices/SecurityTesting",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/SIEM",
-              "path": "/docs/Subscribers/OtherServices/SIEM",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/UTMasaService",
-              "path": "/docs/Subscribers/OtherServices/UTMasaService",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/WAFasaService",
-              "path": "/docs/Subscribers/OtherServices/WAFasaService",
+              "id": "Subscribers/OtherServices/FileStorage",
+              "path": "/docs/Subscribers/OtherServices/FileStorage",
               "sidebar": "sidebar1"
             },
             {
@@ -876,23 +726,28 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage",
-              "path": "/docs/Subscribers/Storage/ObjectStorage/AboutYntraaObjectStorage",
+              "id": "Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage",
+              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorage/CreatingObjectStorage",
-              "path": "/docs/Subscribers/Storage/ObjectStorage/CreatingObjectStorage",
+              "id": "Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage",
+              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails",
-              "path": "/docs/Subscribers/Storage/ObjectStorage/FeatureListandIntegrationDetails",
+              "id": "Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails",
+              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
-              "path": "/docs/Subscribers/Storage/ObjectStorage/FrequentlyAskedQuestions",
+              "id": "Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions",
+              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/SystemRequirements",
+              "path": "/docs/Subscribers/SystemRequirements",
               "sidebar": "sidebar1"
             },
             {
@@ -936,16 +791,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/virtual-firewalls",
-              "path": "/docs/category/virtual-firewalls",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/firewall-instances",
-              "path": "/docs/category/firewall-instances",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/nat-gateways",
               "path": "/docs/category/nat-gateways",
               "sidebar": "sidebar1"
@@ -961,8 +806,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/ipv4-based-networking",
-              "path": "/docs/category/ipv4-based-networking",
+              "id": "/category/virtual-firewalls",
+              "path": "/docs/category/virtual-firewalls",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/firewall-instances",
+              "path": "/docs/category/firewall-instances",
               "sidebar": "sidebar1"
             },
             {
@@ -976,13 +826,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/linux-instances",
-              "path": "/docs/category/linux-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/kubernetes",
-              "path": "/docs/category/kubernetes",
+              "id": "/category/windows-instances",
+              "path": "/docs/category/windows-instances",
               "sidebar": "sidebar1"
             },
             {
@@ -991,13 +836,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/windows-instances",
-              "path": "/docs/category/windows-instances",
+              "id": "/category/other-linux-instances",
+              "path": "/docs/category/other-linux-instances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/autoscale",
-              "path": "/docs/category/autoscale",
+              "id": "/category/managed-kubernetes",
+              "path": "/docs/category/managed-kubernetes",
               "sidebar": "sidebar1"
             },
             {
@@ -1016,33 +861,18 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/object-storage",
-              "path": "/docs/category/object-storage",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managed-compute",
-              "path": "/docs/category/managed-compute",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managed-network",
-              "path": "/docs/category/managed-network",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managed-database",
-              "path": "/docs/category/managed-database",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managed-security",
-              "path": "/docs/category/managed-security",
+              "id": "/category/object-storage-buckets",
+              "path": "/docs/category/object-storage-buckets",
               "sidebar": "sidebar1"
             },
             {
               "id": "/category/managed-solutions",
               "path": "/docs/category/managed-solutions",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/managed-security",
+              "path": "/docs/category/managed-security",
               "sidebar": "sidebar1"
             },
             {
@@ -1071,23 +901,18 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/managed-solutions-1",
+              "path": "/docs/category/managed-solutions-1",
+              "sidebar": "sidebar2"
+            },
+            {
               "id": "/category/cloud-assure-1",
               "path": "/docs/category/cloud-assure-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/managed-compute-1",
-              "path": "/docs/category/managed-compute-1",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/managed-databases",
-              "path": "/docs/category/managed-databases",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/managed-storage",
-              "path": "/docs/category/managed-storage",
+              "id": "/category/other-services-1",
+              "path": "/docs/category/other-services-1",
               "sidebar": "sidebar2"
             },
             {
@@ -1106,8 +931,8 @@
             },
             "sidebar2": {
               "link": {
-                "path": "/docs/category/cloud-assure-1",
-                "label": "Cloud Assure"
+                "path": "/docs/category/managed-solutions-1",
+                "label": "Managed Solutions"
               }
             },
             "sidebar3": {

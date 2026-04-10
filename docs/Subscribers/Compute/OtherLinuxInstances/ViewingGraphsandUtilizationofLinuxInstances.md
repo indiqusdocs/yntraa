@@ -11,11 +11,15 @@ You can use these graphs to understand Instance utilisation patterns and create 
 
 The following graphs are available on a 24-hour time-scale graph with a 30-day trend line for the following parameters:
 
-- CPU Utilisation
-- RAM Utilisation
+- CPU 
+- RAM 
 - Network Input
 - Network Output
-![utilisation](img/utilisation.png)
+- Disk Read Bytes
+- Disk Write Bytes
+- Disk Read IOPS
+- Disk Write IOPS
+![utilisationnew](img/utilisationnew.png)
 ## Utilisation (Historical)
 
 To view historical usage across supported parameters, navigate to [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Utilisation** tab.

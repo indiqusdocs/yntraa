@@ -16,7 +16,7 @@ Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/Commercial)
 
 <details><summary>**How can I deploy monitoring tools and other apps on my Kubernetes cluster?**</summary>Once a cluster is deployed, you can deploy pretty much any application using kubectl. Some examples:<br />
 **Postgres DB service** : A PostgreSQL Instance can be deployed on a running Kubernetes cluster using the `kubeconfig` manifests. At this moment, we have not automated this. However, there are standard methods of deploying apps and packages (example) available online, all of which just require cluster access via `kubectl`. The same should be applicable to MongoDB and MySQL instances on clusters.<br />
-**Persistent storage** : CKS uses CloudStack’s block volumes for cluster storage. As of now, CKS does not support using NFS or S3 as persistent storage for Kubernetes clusters. However, once a cluster is created, its PersistentVolume can be pointed to a S3 bucket using the Cloudian S3 operator.<br /> 
+**Persistent storage** : CKS uses CloudStack’s block volumes for cluster storage. As of now, CKS does not support using NFS or S3 as persistent storage for Kubernetes clusters. However, once a cluster is created, its PersistentVolume can be pointed to a S3 bucket using the Object Stoarge Platform S3 operator.<br /> 
 **Monitoring of Kubernetes infrastructure** : Users can freely install their own monitoring apps (e.g., Prometheus+Grafana, Rancher etc.) using `kubectl` and Helm Charts.<br /> 
 **Gitlab, ArgoCD** : These apps can be installed using Helm.<br />
 **Advanced Load balancing and Certificate management** : Typically these are handled at the cloud provider level and not at the Kubernetes level.<br /></details>
@@ -27,7 +27,7 @@ Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/Commercial)
 
 <details><summary>**Can I deploy stateful applications using Yntraa Kubernetes?**</summary>Yes, Kubernetes supports stateful applications using features like StatefulSets and Persistent Volumes for data storage.</details>
 
-<details><summary>**Can I use my S3 bucket with a Kubernetes cluster created on Yntraa Cloud?**</summary>Yes, if the S3 bucket has been created using the Yntraa S3 Service, you can use the CSI (container storage interface) plugin maintained by Cloudian. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Yntraa Cloud.</details>
+<details><summary>**Can I use my S3 bucket with a Kubernetes cluster created on Yntraa Cloud?**</summary>Yes, if the S3 bucket has been created using the Yntraa S3 Service, you can use the CSI (container storage interface) plugin maintained by Object Storage Platform. If you're using a hyperscaler S3 service or a ceph cluster, you can use the CSI maintained by the hyperscaler (or ceph) with your Kubernetes cluster created on Yntraa Cloud.</details>
 
 <details><summary>**Can I modify my VPC's super CIDR after creation?**</summary>No, super CIDR modification is not currently allowed on Yntraa Cloud. If you wish to change the supernet, it is recommended that you create a new VPC, new subnets and migrate Instances to the new VPC.</details>
 
@@ -35,7 +35,7 @@ Wallet balance or [Service Balance](/docs/Subscribers/AccountCentre/Commercial)
 
 <details><summary>**Can I upload my own ISO or VHD images?**</summary>No, custom Image uploads are currently not possible on Yntraa Cloud.</details>
 
-<details><summary> **Can control and worker nodes be scaled individually in a Kubernetes cluster**</summary>No, when a Kubernetes cluster is scaled, the scaling configurations are applied to all the nodes alike.<br /> The following [scaling modes](/docs/Subscribers/Compute/Kubernetes/ScalingKubernetesClusters) are available:
+<details><summary> **Can control and worker nodes be scaled individually in a Kubernetes cluster**</summary>No, when a Kubernetes cluster is scaled, the scaling configurations are applied to all the nodes alike.<br /> The following [scaling modes](/docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters) are available:
 <br/>**Scaling the Control Node** - this can be done by enabling High Availability (HA) at the time of cluster creation;<br/>**Scaling the number of Worker Nodes** - this can be done by specifying minimum and maximum cluster size (Control Nodes are excluded from these limits);<br/>**Reconfiguring the Cluster** - this can be done by specifying a new number of Worker Nodes and changing their Compute configuration.<br/></details>
 
 <details><summary>**Is there a way to add or link multiple emails to an account?**</summary>Yes, multiple email IDs can be used to login to the same subscriber 'parent' account by creating [team members](/docs/Subscribers/AccountCentre/TeamMemberManagement). Team members/users are semi-isolated accounts, in the sense that they all have their own identities on Yntraa Cloud, but share all resources created in the parent subscriber account.</details>

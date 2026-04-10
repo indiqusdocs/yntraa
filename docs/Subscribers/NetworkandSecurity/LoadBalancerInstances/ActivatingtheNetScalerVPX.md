@@ -3,6 +3,8 @@ sidebar_position: 3
 ---
 # Activating the NetScaler VPX Control Panel
 
+Adding the NetScaler VPX is required to enable advanced load balancing, traffic management, and security features for your application environment. 
+
 The following steps can be used for activating the NetScaler VPX control panel and accessing it after activation:
 
 1. Navigate to **Network and Security > Load Balancers** and click the LBI whose control panel needs to be activated.
@@ -21,8 +23,9 @@ reboot
 All the required details can be found in the parent VPC and/or on the LBI details sections of Yntraa Cloud.
 :::
 
-Once the above steps are completed, the NetScaler VPX UI can be accessed by using the **LAUNCH LOAD BALANCER MANAGEMENT INTERFACE** button in the **Access** section of LBI details.
+After completing the above steps, click the **Launch Load Balancer Management Interface** button in the **Access** section of the LBI details to access the NetScaler VPX UI.
 
+![lbmanagement](img/lbmanagement.png)
 
 
 
