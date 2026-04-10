@@ -25,7 +25,7 @@ To get started with the Yntraa Cloud, you must create an account on the Yntraa C
 
 4. Select the I agree to the **Terms & Conditions** and **Privacy Policy** option.
 5. Click **Submit**. The following screen appears: ![signup3](img/signup3.png)
-6. You receive the following email at your registered email ID and click on the **START NOW** button to activate your account. ![signup4](img/signup4.png)
+6. You receive the following email at your registered email ID and click on the **Start Now** button to activate your account. ![signup4](img/signup4.png)
 
 
 

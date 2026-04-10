@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Getting Started
 
-After completing the sign-up process, you receive an email with the details to access the Cloud Console.
+After completing the sign-up process, you receive an email with the details to access the cloud console.
 
 ## 1. Accessing the Console
 

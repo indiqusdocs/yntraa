@@ -13,7 +13,7 @@ To add VPN Gateways, the following steps to configure and create a new VPN Gatew
   ![vpnnew1](img/vpnnew1.png)
   ![vpnnew2](img/vpnnew2.png)  
 3. Select the **Dead Peer Detection** option.
-4. Click the **CREATE** button to add a VPN Customer Gateway.
+4. Click the **Create** button to add a VPN Customer Gateway.
    ![gatewaycreationnew](img/gatewaycreationnew.png)
 
 

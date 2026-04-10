@@ -13,7 +13,7 @@ Yntraa Cloud offers a quick means to view Instances that are part of a VPC netwo
 
 To add or remove instances to VPC, follow these steps:
 
-1. To view all Instances that are available to add to this VPC, click the **ADD INSTANCE** button.
+1. To view all Instances that are available to add to this VPC, click the **Add Instance** button.
 2. Select the Network Tier where you want to add the available instances
 ![addinginstances](img/addinginstances.png)
 

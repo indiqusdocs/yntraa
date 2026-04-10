@@ -20,7 +20,7 @@ To access the ACL navigating to the **Network and Security > Virtual Private Cl
 
 ## Creating Custom ACL and Adding Rules
 
-You can create a custom ACL by clicking the **ADD ACCESS CONTROL LIST** button and assigning a name to the ACL. An ACL is a collection of individual traffic control rules that must be configured after the ACL is created.
+You can create a custom ACL by clicking the **Add Access Control List** button and assigning a name to the ACL. An ACL is a collection of individual traffic control rules that must be configured after the ACL is created.
 
 ![defacl](img/defacl.png)
 

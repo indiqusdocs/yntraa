@@ -36,7 +36,7 @@ To configure the Load Balancing Rule, follow these steps:
 	- **Public Port**
 	- **Private Port**
 	- **Algorithm**
-4. Click the **ADD LOAD BALANCING RULE** button.
+4. Click the **Add Load Balancing Rule** button.
 
 Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
 
@@ -48,7 +48,7 @@ Once the load balancer rule has been created, you can navigate to load balancer 
    ![addrule2](img/addrule2.png)
    ![instanceaddremove](img/instanceaddremove.png)
 :::note
-To delete this Load Balancing Rule, click **DELETE THIS RULE** button.
+To delete this Load Balancing Rule, click **Delete This Rule** button.
 :::
 
 To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
@@ -63,7 +63,7 @@ A Port Forwarding rule is required for accessing the virtual machines contained 
 
 To configure port forwarding, follow these steps:
 1. Click the **Port Forwarding** icon. The following window appears:  ![pfaddrule](img/pfaddrule.png)
-2. Click **+ ADD RULE**. The following window appears: ![pfnowadded](img/pfnowadded.png)
+2. Click **+ Add Rule**. The following window appears: ![pfnowadded](img/pfnowadded.png)
 3. Specify the following details in the window:
 	- **Protocol** 
 	- **Tier**
@@ -73,7 +73,7 @@ To configure port forwarding, follow these steps:
 	  :::note
 	  The end ports should be equal to or greater than the start ports.
 	  :::
-4. Click the **ADD PORT FORWARDING RULE** button.
+4. Click the **Add Port Forwarding Rule** button.
 
 Once the Port-Forwarding rule is created, you can view its details by following these steps:
 1. Click the **Port Forwarding Rule** icon. The following window appears:![pf](img/pf.png)

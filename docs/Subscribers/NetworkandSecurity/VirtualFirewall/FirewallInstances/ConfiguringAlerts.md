@@ -22,7 +22,7 @@ The Alerts tab lists all the alerts already configured for that particular Virtu
 
 ## Adding an Alert
 
-To create or add alerts, click the **CREATE ALERT** button. The following window appears:
+To create or add alerts, click the **Create Alert** button. The following window appears:
 
 ![createalertnew](img/createalertnew.png)
 
@@ -37,10 +37,10 @@ The various fields of the Create Alert screen are as follows:
 
 This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by following these steps:
 
-1. Click on the **MANAGE RECIPIENTS** button.
+1. Click on the **Manage Recipients** button.
 2. Use the dropdown menu to select available recipients.
    ![managerecepientnew](img/managerecepientnew.png)
-3. Click the **UPDATE** button to save the recipient list.
+3. Click the **Update** button to save the recipient list.
 
 
 :::note

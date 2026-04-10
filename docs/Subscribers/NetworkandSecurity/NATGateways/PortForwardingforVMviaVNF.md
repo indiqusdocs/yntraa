@@ -31,9 +31,9 @@ The following steps guide you through reviewing key configuration details, check
 
 1. NAT Gateway Configuration Overview: The following details summarize the key configuration parameters of the selected NAT Gateway.
     - **vCPU/RAM**: Indicates the computational resources allocated for the NAT Gateway.
-    - **AVAILBILITY Zone**: The region or zone where the gateway is deployed.
-    - **PUBLIC IP**: The public-facing IP through which outbound traffic is routed.
-2. Check Operational Status: The NAT Gateway is in a **RUNNING** state, indicating it is active and fully operational.
+    - **Availability Zone**: The region or zone where the gateway is deployed.
+    - **Public IP**: The public-facing IP through which outbound traffic is routed.
+2. Check Operational Status: The NAT Gateway is in a **Running** state, indicating it is active and fully operational.
 3. Confirm Network and Gateway Configuration: Review the virtual gateway pack and network size settings to ensure the correct configuration is applied before proceeding with port forwarding or deployment steps.
      - **Virtual Gateway Pack**
      - **Network Size**
@@ -66,7 +66,7 @@ The following steps guide you through logging into the cloud portal, navigating 
 2. Navigate to the **Network and Security > NAT Gateways** section.
 3. Choose the NAT Gateway for which you want to configure the port forwarding rule.
 4. Once inside the selected NAT Gateway, see a section titled **Port Forwarding** along with the public IP address.
-5. Click the **+ ADD RULE** button located next to the Port Forwarding heading. This opens the interface to add a new port forwarding rule.
+5. Click the **+ Add Rule** button located next to the Port Forwarding heading. This opens the interface to add a new port forwarding rule.
 6. Review Existing Rules (Optional): You can see a list of existing rules with the details : 
     - Tier 
     - Instance
@@ -77,11 +77,11 @@ The following steps guide you through logging into the cloud portal, navigating 
 ![pfcreated](img/pfcreated.png)
 ## Adding Details and Creating Port Forwarding Rule
 
-Once you click on **+ ADD RULE**, a new form opens where you must enter the required information. These details define how incoming traffic on the public IP is routed to your internal instance. 
+Once you click on **+ Add Rule**, a new form opens where you must enter the required information. These details define how incoming traffic on the public IP is routed to your internal instance. 
 
 The following steps guide you through completing the port forwarding rule form by selecting the appropriate protocol, tier, and instance, and by specifying the public and private port ranges required to establish the forwarding rule:
 
-1. Click the **+ ADD RULE** a new form titled **Add Port Forwarding Rule** appears.
+1. Click the **+ Add Rule** a new form titled **Add Port Forwarding Rule** appears.
 2. Fill in all the required fields marked with a red asterisk (*):
 	- **Protocol**:  Select the desired protocol from the dropdown.
 	- **Tier**:  Choose the appropriate tier from the list that maps to your network environment.

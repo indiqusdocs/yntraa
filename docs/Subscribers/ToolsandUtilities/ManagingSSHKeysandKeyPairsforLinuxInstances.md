@@ -23,7 +23,7 @@ This creates a public-private key pair, downloading the private key to your syst
 :::
 
 ## Upload Public Key
-To Upload existing public keys from your system, click the **UPLOAD PUBLIC KEY** button. 
+To Upload existing public keys from your system, click the **Upload Public Key** button. 
 
 ![uploadpublickeynew](img/uploadpublickeynew.png)
 
