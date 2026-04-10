@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/SystemRequirements.md",
+                "file": "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SystemRequirements"
+              "title": "IPv4AddressesandVPC"
             }
           }
         ]
@@ -169,19 +169,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd33b57712a7ce2d",
+  "active": "12b904c5ebf316b8",
   "lastOpenFiles": [
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints/index.html",
-    "build/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance/index.html",
-    "build/docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances/index.html",
-    "build/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances/index.html",
-    "build/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances/index.html",
-    "build/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations/index.html",
-    "build/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances/index.html",
-    "build/docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
+    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities",
+    "build/docs/Subscribers/ToolsandUtilities",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
+    "docs/Subscribers/SystemRequirements.md",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -210,12 +216,6 @@
     "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
     "docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md"
+    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md"
   ]
 }

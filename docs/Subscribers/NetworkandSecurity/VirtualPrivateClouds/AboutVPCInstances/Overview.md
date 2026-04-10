@@ -16,7 +16,7 @@ Along with the summary, the following information is readily available under the
     - The instance's status, **Running**, is displayed in <span class="green">**green**</span>, whereas **Stopped** is displayed in <span style={{ color: 'red' }}>red</span>.
     - Information about the Virtual Router Pack.
     - Information about the Network Size.
-- **Internal Information**- <br/>
+- **Internal Information** <br/>
 	This displays the information that is used for internal identification of this VPC router and communication with other internal services.
     - Template Name
     - Virtual Router Internal Name
