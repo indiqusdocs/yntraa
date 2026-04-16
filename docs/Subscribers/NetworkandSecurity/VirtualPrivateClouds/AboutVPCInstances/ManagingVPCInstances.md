@@ -5,7 +5,7 @@ sidebar_position: 5
 
 ## Viewing VPC Instances
 
-Yntraa Cloud offers a quick means to view Instances that are part of a VPC network, and to associate or dissociate Instances with VPCs by navigating to VPC details and selecting  **VPC Instances**.
+Yntraa Cloud offers a quick means to view Instances that are part of a VPC network, and to associate or dissociate Instances with VPCs by navigating to VPC details and selecting **VPC Instances**.
 
 ![vpcinstanceadd](img/vpcinstanceadd.png)
 
@@ -14,7 +14,7 @@ Yntraa Cloud offers a quick means to view Instances that are part of a VPC netwo
 To add or remove instances to VPC, follow these steps:
 
 1. To view all Instances that are available to add to this VPC, click the **Add Instance** button.
-2. Select the Network Tier where you want to add the available instances
+2. Select the Network Tier where you want to add the available instances.
 ![addinginstances](img/addinginstances.png)
 
 :::note

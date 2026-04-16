@@ -29,7 +29,7 @@ After the tier is created, three icons appear on the right side for quick action
 
 - **Restart** the network
 - **Replace** the access control list
-- **Delete** the tier.
+- **Delete** the tier
 
 :::note
 Only empty tiers can be deleted, which means that in order to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
