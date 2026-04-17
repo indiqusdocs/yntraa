@@ -3,14 +3,16 @@ sidebar_position: 9
 ---
 # Reconfiguring Linux Instances
 
-To view a available reconfiguration options, navigate to  [Operating Linux Instances](AboutLinuxInstances.md), select a Linux Instance and access the **Reconfigure** tab.
+To view a available reconfiguration options:
+1. Navigate to  [Other Linux Instances](AboutLinuxInstances.md). The following screen appears:
+   ![reconfigurefirstnew](img/reconfigurefirstnew.png)
+2. Select a Linux Instance and access the **Reconfigure** tab.
 
 A Linux Instance on Yntraa Cloud can be reconfigured in the following ways:
 
 - Billing interval changed between monthly and hourly.
 - Choosing and applying a new Compute pack.
 - Choosing and applying a new Root Disk pack.
-![reconfigurefirstnew](img/reconfigurefirstnew.png)
 ![reconfiguresecondnew](img/reconfiguresecondnew.png)
 
 :::note

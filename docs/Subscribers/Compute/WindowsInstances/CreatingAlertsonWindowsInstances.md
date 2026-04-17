@@ -34,7 +34,7 @@ The various fields of the add alert page are described below:
 - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 - **Value in Percentage** - You can define the Value. 
 - **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
-- **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients
+- **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
 
 # Managing Recipients
 

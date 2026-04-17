@@ -3,6 +3,8 @@ sidebar_position: 1
 ---
 # Overview
 
+The **Overview** tab provides a summary of the block volume’s configuration, status, and key details. It helps users quickly view availability, utilisation, and essential information required to identify and manage the volume.
+
 Navigate to the **Overview** tab to view the following details:
 
 - **Configuration and Availability**<br/>

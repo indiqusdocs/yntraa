@@ -2,24 +2,29 @@
 sidebar_position: 2
 ---
 # Creating Data Disk
-To create a Block Volume data disk, follow the below steps:
+
+Creating a data disk in Yntraa Cloud allows you to add additional storage to your instances for better data management and scalability.
+
+To create a Block Volume data disk, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.**
-2. Click the **+ New Block Volume**.
    ![datadisk3new](img/datadisk3new.png)
+2. Click the **+ New Block Volume** button.
 3. Choose an **Availability Zone**.
 4. Select an Instance from the dropdown list to attach the disk to. 
-5. In the **Choose Disk Configuration** section, select the desired disk tier (**Tier1, Tier2, or Tier3**).
-6. Click on the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
-7. Click on **Select Pack** to choose the configured disk pack.
+5. In the **Choose Disk Configuration** section:
+    - Select the desired disk tier (**Tier1, Tier2, or Tier3**).
+    - Click on the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
+    - Click on **Select Pack** to choose the configured disk pack.
    ![datadisk1new](img/datadisk1new.png)
-8. Verify the estimated cost of your data disk based on the options that you have chosen from the **Summary and Estimated Costs** Section.
-9. Click on the check box after going through the policies mentioned by your cloud service provider.
+6. Name your data disk.
+7. Verify the estimated cost of your data disk based on the options that you have chosen from the **Summary and Estimated Costs** Section.
+8. Click on the check box after going through the policies mentioned by your cloud service provider.
    ![datadisk2new](img/datadisk2new.png)
-10. Clicking the **Buy Monthly** button. A confirmation pop-over will appear, and the price summary along with any applicable discount codes.
-    1. Apply a discount code by clicking the **Apply** button or remove it using the **Remove** button.
-    2. Clicking the **Cancel** button, this action will be canceled.
-11. Click the **Confirm** button to create the Data Disk.|
+9. Clicking the **Buy Monthly** button. A confirmation pop-over will appear, and the price summary along with any applicable discount codes.
+    1. Apply a discount code by clicking the **Apply** button or remove it using the **Remove** button. need ss
+    2. Clicking the **Cancel** button, this action will be canceled. need ss
+10. Click the **Confirm** button to create the Data Disk.|
    ![bvconfirm](img/bvconfirm.png)
 
 :::note

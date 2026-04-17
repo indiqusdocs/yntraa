@@ -3,7 +3,9 @@ sidebar_position: 2
 ---
 # Creating Automated Restore Point Schedules
 
-Yntraa Cloud users can create restore point policies for their root and data disks. These schedules enable for strategic management of data retention policies and can be used as an alternative backup solution. To create or manage the restore point schedules, navigate to the **Schedules** section of disk details.
+You can create restore point policies for your root and data disks. These schedules enable for strategic management of data retention policies and can be used as an alternative backup solution. To create or manage the restore point schedules, navigate to the **Schedules** section of disk details.
+
+![schedulenew](img/schedulenew.png)
 
 The following schedules are supported:
 
@@ -14,11 +16,9 @@ The following schedules are supported:
 | Weekly   | A restore point will be taken every week on the specified day and time.  |
 | Monthly  | A restore point will be taken every month on the specified date and time.|
 
-You can create automatic restore point policies as per defined schedules. 
+You can create automatic restore point policies as per the defined schedules. 
 
-![schedulenew](img/schedulenew.png)
-
-## Set Restore Point Schedule
+## Setting Restore Point Schedule
 
 While configuring restore point schedules, the following points should be considered:
 
@@ -26,13 +26,13 @@ While configuring restore point schedules, the following points should be consid
 - All schedule options support time specifications in custom time zones.
 - All schedule options include a **Restore Points to Keep** setting, which is a limit on how many restore point to keep (or rotate after) as per the retention policy.
   
-To create a Restore Point Schedule, click **Create Schedule** button. The following dialog box appears.
-
+To create a Restore Point Schedule:
+1. Click the **Create Schedule** button. The following dialog box appears:
 ![setrestorenew](img/setrestorenew.png)
-Select the below details in the form to set the Restore Point Schedule.
+2. Provide the following details to set the Restore Point Schedule:
 - **Frequency**
 - **Time zone**
 - **Restore Points to Keep**
 :::note
-	There can only be one policy per schedule; the new restore point policy overrides the existing policy of the same frequency.
+There can only be one policy per schedule; the new restore point policy overrides the existing policy of the same frequency.
 :::
