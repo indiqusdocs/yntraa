@@ -3,13 +3,22 @@ sidebar_position: 3
 ---
 # Working with Disk Restore Points
 
-Yntraa block volumes service provides extensive functionality for managing disk restore points. Restore points are point-in-time 'images' of a disk contents and can be used as a restoration point for the parent disk. The following sections outline all available restore points functions and capabilities in the Yntraa Cloud.
+Restore points are point-in-time 'images' of a disk contents and can be used as a restoration point for the parent disk. The following sections outline all available restore points functions and capabilities in the Yntraa Cloud.
+
+Yntraa block volumes service provides extensive functionality for managing disk restore points. 
 
 ## Creating Disk Restore Point
 
-Disk restore point can be created manually with the current timestamp by clicking the **Create Disk Restore Point** button under the **Restore Points** tab/section of any disk. This will generate a restore point that can be used to create an **Image (template)** or restore an existing disk.
+To create disk restore point, follow these steps: 
+1. Navigate to **Storage > Block Volume** and access the **Restore Points** tab. The following screen appears:
+   ![restorepointdefault](img/restorepointdefault.png)
+2. Click the **Create Disk Restore Point** button. The following screen appears:
+   ![creatediskrestpointpopup](img/creatediskrestpointpopup.png)
+   
+   This will generate a restore point that can be used to create an **Image (template)** or restore an existing disk.
+   ![restorepointname](img/restorepointname.png)
 
-![restorepointdefault](img/restorepointdefault.png)
+
 
 ## Creating a Disk from a Restore Point
 
