@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
+                "file": "docs/Subscribers/OtherServices/FileStorage.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ReconfiguringLinuxInstances"
+              "title": "FileStorage"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "12b904c5ebf316b8",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
     "build/search-index.json",
     "build/assets/js/a4dbadb2.85a981b2.js",
     "build/assets/js/7fd41d55.6fcf61ed.js",
@@ -181,7 +182,6 @@
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails",
     "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/img/restorepointname.png",
@@ -203,7 +203,6 @@
     "docs/Subscribers/Compute/OtherLinuxInstances/img/linuxutilise.png",
     "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/Operations.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/Overview.md",
     "build/assets/images/addnetworkrhelnic-19d1b5f7c80b8b8bf37d066b3b4998a7.png",
     "build/assets/images/deleterhelnic-5f2e0ebddc6547482e77ffa3974c2d07.png",
