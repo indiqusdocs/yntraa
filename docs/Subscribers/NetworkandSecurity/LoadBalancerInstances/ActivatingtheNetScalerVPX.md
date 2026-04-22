@@ -10,7 +10,7 @@ The following steps can be used for activating the NetScaler VPX control panel a
 1. Navigate to **Network and Security > Load Balancers** and click the LBI whose control panel needs to be activated.
    ![loadbalanceinstance1](img/loadbalanceinstance1.png)
    ![LBI Created](img/lbicreated.png)
-2. In the LBI details, click the **Console** button to access the Instance's console interface. One-by-one, use the following commands:
+2. In the LBI details, click the **Launch Console** button to access the Instance's console interface. One-by-one, use the following commands:
 
 ```
 set ns config -IPAddress <VM_private_IP_address> -netmask <VM_tier_netmask>

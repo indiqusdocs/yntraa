@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
+                "file": "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ViewingGraphsandUtilisationofWindowsInstances"
+              "title": "ReconfiguringLinuxInstances"
             }
           }
         ]
@@ -171,6 +171,24 @@
   },
   "active": "12b904c5ebf316b8",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/OtherLinuxInstances/img/OtherLinuxInstance.png",
+    "docs/Subscribers/Compute/OtherLinuxInstances/img/linuxSwitchPlan.png",
+    "docs/Subscribers/Compute/OtherLinuxInstances/img/ReconfigureInstance1.png",
+    "docs/Subscribers/Compute/OtherLinuxInstances/img/ReconfigureInstance2.png",
+    "docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
+    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
+    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
@@ -181,7 +199,6 @@
     "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds/index.html",
     "build/assets/images/windowalertadded-5c9449d27f82e14cf156f21899a9272b.png",
     "build/assets/images/windowinstancecreated-f91b387d34ade9b6db11649e9a9c5ac2.png",
     "build/assets/images/managerecipientsbutton-9154605183fd34756e34843c086bed06.png",
@@ -189,16 +206,8 @@
     "build/assets/images/windowinstanceutilisation-d4f1b36965a97ba8e26df25fd4f94242.png",
     "build/assets/images/createalert-2dca01d77c5b344e7e9dcebdaa4d87a4.png",
     "docs/Subscribers/Compute/WindowsInstances/img/WindowInstanceUtilisation.png",
-    "docs/Subscribers/Compute/WindowsInstances/img/WindiwInstanceUtilisation.png",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/img/ManageRecipientsButton.png",
-    "docs/Subscribers/Compute/WindowsInstances/img/ManageRecepientButton.png",
-    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
     "docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
     "docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints.md",
     "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume.md",
@@ -207,15 +216,6 @@
     "docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage.md",
-    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
-    "docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/Operations.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/Overview.md",
-    "docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md"
+    "docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage.md"
   ]
 }
