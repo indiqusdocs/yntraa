@@ -5,7 +5,7 @@ sidebar_position: 3
 
 Unlike Linux Instances that use SSH connections, Windows Instances use the remote desktop protocol (RDP).
 
-Use any RDP client to connect to a Windows Instance. While [Microsoft Remote Desktop](https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients) works ubiquitously across Windows, MacOS and Linux machines (and also Android/Chromebook and iPad OS), a [list of popular RDP tools](https://geekflare.com/remote-desktop-client-software/) can be found here.
+To connect to a windows instance, use any RDP clients. While [Microsoft Remote Desktop](https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-clients) works ubiquitously across Windows, MacOS and Linux machines (and also Android/Chromebook and iPad OS), a [list of popular RDP tools](https://geekflare.com/remote-desktop-client-software/) can be found here.
 
 
 
