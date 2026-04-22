@@ -7,7 +7,9 @@ Monitoring the performance of your Windows Instances is essential for ensuring o
 
 ## Graphs (Real-time)
 
-To view the available graphs and monitor the instance in real-time, navigate to [Windows Instances Screen](AboutWindowsInstances), select a Windows Instance, and access the **Graphs** tab.
+To view the available graphs and monitor the instance in real-time:
+1. Navigate to **Compute** > [Windows Instances](AboutWindowsInstances).
+2. Select a Windows Instance, and click the **Graphs** tab. The following screen appears:
 ![graphsnew](img/graphsnew.png)
 
 You can use these graphs to understand Instance utilisation patterns and create custom alerts.
@@ -25,8 +27,12 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 
 ## Utilisation (Historical)
 
- To view historical usage across supported parameters, navigate to the [Windows Instances](AboutWindowsInstances), select a Windows Instance and access the **Utilisation** tab.
+ To view historical usage across supported parameters: 
+ 1. Navigate to **Compute** > [Windows Instances](AboutWindowsInstances).
+ 2. Select a Windows Instance, and click the **Utilisation** tab.
 
 The Utilisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a .csv file.
+
+![Window Instance Utilisation](img/windowinstanceutilisation.png)
 
 
