@@ -6,7 +6,7 @@ sidebar_position: 7
 To view the disks attached to this instance, navigate to [Windows Instances Screen](AboutWindowsInstances), select a Windows Instance, and access the **Volumes** tab. The following screen appears:
 ![volumedefault](img/volumedefault.png)
 
-Click the **Add Volume** button to open the configuration panel, specify the required volume details, and submit the configuration. The system then creates and attaches the volume to the instance
+Click the **Add Volume** button to open the [Configuration Panel](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk), specify the required volume details, and submit the configuration. The system then creates and attaches the volume to the instance.
   
 Windows Instances on Yntraa Cloud console work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
 

@@ -21,22 +21,19 @@ The Alerts tab lists all the alerts already configured for that particular RHEL 
 
 ## Creating an Alert
 
-Navigate to the **RHEL Instances > Alerts**. The following screen appears: 
-
-pic
-
-You can create or add alerts by clicking the **Create Alert** button. The following screen appears, and you can configure the alert using the on-screen input form.
-
-![createalertnewrhel](img/createalertnewrhel.png)
-
-The various fields on the add alert page are described as follows:
-
+1. Navigate to **Compute > RHEL Instances**. The following screen appears: ![RHEL Instance Window](img/rhelinstancewindow.png) 
+2. Click the RHEL instance. The following screen appears: ![RHEL Instance Alert](img/rhelinstancealert.png) 
+3. Click the **Alerts** tab. The following screen appears: ![Rhel Alert Tab](img/Rhelalerttab.png)
+4. Click the **Create Alert** button to add a new alert and provide the details in the respective fields: ![Create Alert Rhel Window Open](img/createalertrhelwindowopen.png)
+   
 - **Name** - You can define the name for your alert.
 - **Choose Parameter** - This option allows you to define what parameter must be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT, NETWORK OUTPUT parameters.
 - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 - **Value in Percentage** - You can define the trigger value/threshold.
 - **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
-- **Add Recipients** - Email IDS can be added here, or also you can add them by using the manage recipients.
+- **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
+  
+  5. Click **Create** button.
 
 ## Managing Recipients
 

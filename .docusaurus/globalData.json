@@ -486,8 +486,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX",
-              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel",
               "sidebar": "sidebar1"
             },
             {
@@ -556,8 +556,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances",
               "sidebar": "sidebar1"
             },
             {

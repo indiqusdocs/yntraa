@@ -4,11 +4,11 @@ sidebar_position: 3
 # Overview
 
 Navigate to [RHEL Instance](AboutRHELInstances.md) and select a RHEL Instance and access the **Overview** tab to view the following details:
+  ![powerrhelnewnew](img/powerrhelnewnew.png)
 - [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)
 - [Security and Access Control](#security-and-access-control)
   
-  ![powerrhelnewnew](img/powerrhelnewnew.png)
 ## Configuration and Availability
 The instance's status, **RUNNING**, is displayed in <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red </span>out.
 

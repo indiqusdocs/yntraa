@@ -10,7 +10,6 @@ Click the **Add Volume** button to open the configuration panel, specify the req
 
 RHEL Instances on Yntraa Cloud work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
 
-
 The following are the quick actions:
 
 - **Create Template** - Click on it, and enter the image name and description.

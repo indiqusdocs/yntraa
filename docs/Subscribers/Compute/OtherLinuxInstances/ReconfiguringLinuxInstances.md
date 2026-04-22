@@ -12,11 +12,11 @@ To view a available reconfiguration options:
 5. To reconfigure the current root disk, select **Custom Disk**, enter the required disk size, and click **Select Pack**.
    
 To change the billing interval, follow these steps:
-6. Navigate to **Compute > Other Linux Instance**. The following screen appears: ![reconfigurefirstnew](img/reconfigurefirstnew.png)
-7. Click the **Switch Plan** button to change the billing interval between monthly and hourly.
+1. Navigate to **Compute > Other Linux Instance**. The following screen appears: ![reconfigurefirstnew](img/reconfigurefirstnew.png)
+2. Click the **Switch Plan** button to change the billing interval between monthly and hourly.
    ![Linux Switch Plan](img/linuxswitchplan.png)
-8. Select the **I have read and agreed to the end user license agreement and privacy policy** option.
-9. Click **Confirm Switch** button.
+3. Select the **I have read and agreed to the end user license agreement and privacy policy** option.
+4. Click **Confirm Switch** button.
 
 :::note
 You can only reconfigure with the same billing interval. To change the billing interval, use the **Switch Plan** button. It is recommended to switch the plan before reconfiguring the Instance if you wish to use both the Reconfigure and Switch Plan options. You are charged as per the pack you have reconfigured, not based on the older pack.
