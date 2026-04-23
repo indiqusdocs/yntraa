@@ -17,7 +17,7 @@ To create a RHEL instance, follow these steps:
 7. Select the compute pack from the available compute collections.
 ![computepacknew](img/computepacknew.png)
 8. Select a root disk for your instance from the available options or choose **Custom Disk** to define the size. Adjust the disk size as required and click **Select Pack** to confirm.
-![rootdiskrhelnew](img/rootdiskrhelnew.png)
+![Root Disk Rhel New](img/rootdiskrhelnew.png)
 9. **Choose an Authentication Method**: 
     - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** or upload the key pair by clicking the **Upload a key pair** option. 
     - **Use Default Password**: On selecting **Use Default Password**, the system automatically generates a password for the instance. You can view or copy this password from the instance details page after creation and use it to log in.

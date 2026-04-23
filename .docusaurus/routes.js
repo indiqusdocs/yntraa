@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '3a2'),
+    component: ComponentCreator('/docs', '4c7'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '8a7'),
+        component: ComponentCreator('/docs', '5ac'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'da9'),
+            component: ComponentCreator('/docs', '885'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -839,8 +839,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheNetScalerVPX', 'b70'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel', '52e'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -923,8 +923,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutFirewallInstances', 'b06'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances', 'a17'),
                 exact: true,
                 sidebar: "sidebar1"
               },

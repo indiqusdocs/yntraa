@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
 ---
-# Activating the NetScaler VPX Control Panel
+# Activating the Alteon LBI Control Panel
 
 Adding the NetScaler VPX is required to enable advanced load balancing, traffic management, and security features for your application environment. 
 
-The following steps can be used for activating the NetScaler VPX control panel and accessing it after activation:
+The following steps can be used for activating the Alteon LBI control panel and accessing it after activation:
 
 1. Navigate to **Network and Security > Load Balancers** and click the LBI whose control panel needs to be activated.
    ![loadbalanceinstance1](img/loadbalanceinstance1.png)

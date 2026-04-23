@@ -3,7 +3,9 @@ sidebar_position: 5
 ---
 # Overview
 
-To view the following details, navigate to **Virtual Firewalls**, select the [Firewall Instance](AboutFirewallInstances.md) and access the **Overview** tab.
+To view the following details, 
+1. Navigate to **Network and Security > Virtual Firewalls**.
+2. Select the [Firewall Instance](AboutVirtualFirewallInstances.md), and click the **Overview** tab.
 
 - [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)

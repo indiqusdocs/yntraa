@@ -25,7 +25,8 @@ To create a restore point, follow these steps:
 1. Click the **Create Instance Restore Point** button. The following screen appears:
    ![restorerhelcreation](img/restorerhelcreation.png)
 2. Enter the **Name** and the **Description** of the restore point.
-3. Click the **Create** button.
+3. Click the **Create** button. The following screen appears:
+   ![Rhel Create Instance](img/rhelcreateinstance.png)
 
 
 
