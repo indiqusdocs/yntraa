@@ -8,7 +8,7 @@ The Yntraa Load Balancer Instances (LBI) Service allows you to create load balan
 The following management features are supported on Yntraa Cloud:
 
 - [Creating Load Balancer Instance inside a VPC](CreatingaLoadBalancerInstance)
-- [Activating the NetScaler VPX Control Panel](ActivatingtheNetScalerVPX)
+- [Activating the NetScaler VPX Control Panel](ActivatingtheAlteonLBIControlPanel.md)
 
 
 

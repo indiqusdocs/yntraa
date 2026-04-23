@@ -15,11 +15,13 @@ To view the configured alerts or configure new ones:
 # Instance Alerts
 
 You can access the Alerts tab from the instances details. It shows the alerts already configured for that particular instance with following details:
+![Window Alert Created](img/windowalertcreated.png)
 - Alert Name
 - Parameter
 - Trigger
 - Value
 - Reading Duration
+  
 # Adding an Alert
 
 1. Navigate to the **Window Instances > Alerts**. The following screen appears: ![Create Alert](img/createalert.png)

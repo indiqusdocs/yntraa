@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# About Firewall Instances
+# About Virtual Firewall Instances
 
 Firewall Instances provide the ability to implement firewall services using a Virtualized Network Function (VNF) framework within your network environment. These instances are designed to support multiple VLAN configurations, enable the use of public IPv4 addresses, and offer automated service deployment.
 
