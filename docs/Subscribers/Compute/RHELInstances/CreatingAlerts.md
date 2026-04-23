@@ -21,7 +21,7 @@ The Alerts tab lists all the alerts already configured for that particular RHEL 
 ## Creating an Alert
 
 To create an alert, follow these steps:
-1. Navigate to **Compute > RHEL Instances**. The following screen appears: ![RHEL Instance Window](img/rhelinstancewindow.png) 
+1. Navigate to **Compute > RHEL Instances**. The following screen appears: ![RHEL Instance Window](img/RHELInstanceWindow.png) 
 2. Click **Instance Name**. The following screen appears: ![RHEL Instance Alert](img/rhelinstancealert.png) 
 3. Click the **Alerts** tab. The following screen appears: ![Rhel Alert Tab](img/Rhelalerttab.png)
 4. Click the **Create Alert** button. The following screen appears: ![Create Alert Rhel Window Open](img/createalertrhelwindowopen.png)
