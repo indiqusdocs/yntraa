@@ -15,8 +15,15 @@ Primarily, IPv4 Addresses can be used for configuring access and perform NAT via
 
 ![vpcaddip](img/vpcaddip.png)
 
-As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **Add Public IPv4 Address** button.
+To add a new IPv4 Address to the VPC, follow these steps: 
 
+ 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears: ![VPC IP Address](img/vpcipaddress.png)
+ 2. Click the **IP Address** tab. The following screen appears: ![Add IP Window](img/addipwindow.png)
+3. Click the **Add Public IPv4 Address** button. The following screen appears: ![Confirm IPv4 Purchase](img/confirmipv4purchase.png) 
+4. Click the **Confirm Purchase** button. The following screen appears: 
+   ![Final Confirm Prchase IPv4](img/finalconfirmprchaseipv4.png)
+5. Click the **Confirm** button. The following screen appears: ![Purchased IPv4](img/purchasedipv4.png)
+   
 :::note
 Public IPv4 addresses may carry a price which may vary depending on availability of IPv4 addresses in the country of operation, and/or how the service provider has priced them.
 :::

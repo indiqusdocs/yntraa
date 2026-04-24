@@ -5,31 +5,50 @@ sidebar_position: 7
 
 Access control policies can be created using Access Control Lists (ACL) and configuring rules within these ACL (called ACL Rules). An ACL can then be applied to any tier within the VPC. These policies govern what traffic is allowed or restricted into and from your VPC network tiers.
 
+## Creating ACL
+
+To create access control policies, follow these steps: 
+
+1. Navigate to **Network and Security > Virtual Private Cloud** tab. The following screen appears: ![VPC ACL](img/vpcacl.png)
+2. Click the **VPC Name**. The following screen appears: ![ACL Window](img/aclwindow.png)
+3. Click the **Access Control Lists** tab. The following screen appears: ![aclmanage](img/aclmanage.png)
+4. Click the **Add Access Control list** button. The following screen appears:   ![ACL Popup Window](img/aclpopupwindow.png)
+    - Enter name in the **Access Control List Name** field
+5. Click **Add Access Control List** button.
+   
 :::note
 Each VPC comes with **default_allow** and **default_deny** ACL, which can be edited but not deleted.
 :::
 
-To access the ACL navigating to the **Network and Security > Virtual Private Cloud** tab and select the **Access Control Lists**. You can perform the following actions on any available ACL: 
+## Adding Rule
 
-- Edit the ACL name
-- Add an ACL rule
-- Assign the ACL to a tier
-- Delete the ACL
+To add rule to ACL, follow these steps: 
 
-![aclmanage](img/aclmanage.png)
+1. Navigate to **Network and Security > Virtual Private Cloud** tab. The following screen appears: ![VPC ACL](img/vpcacl.png)
+2. Click the **VPC Name**. The following screen appears: ![ACL Window](img/aclwindow.png)
+3. Click the **Access Control Lists** tab. The following screen appears: ![aclmanage](img/aclmanage.png)
+4. Click the **Add Rule** icon. The following screen appears: ![Rule Added ACL](img/ruleaddedacl.png)
+5. Click the **Add ACL Rule** button. 
+6. Click the **Access Control** name from the list, to view the rule you applied. The following screen appears: ![Rule Applied ACL](img/ruleappliedacl.png)
 
-## Creating Custom ACL and Adding Rules
+   :::note
+   Any available ACL (existing or new) can be viewed in detail by clicking its name in the list. This displays a list of rules that govern ingress (incoming) and egress (outgoing) traffic for the subnet.
+   ::: 
+7. Click the **Edit** icon to edit/change the ACL name. The following screen appears: ![Edit ACL](img/editacl.png)
+    - Click the **Edit Access Control List** button. The following screen appears: 
+   ![ACL Name Changed](img/aclnamechanged.png)
+8. Click the **Delete List** icon. The following screen appears: ![Delete ACL Rule](img/deleteaclrule.png)
+    - Select the option **I confirm that I have delinked all tiers from this access control list**.
+    - Click the **Delete Access Control List** button.
 
-You can create a custom ACL by clicking the **Add Access Control List** button and assigning a name to the ACL. An ACL is a collection of individual traffic control rules that must be configured after the ACL is created.
+## Applying ACL to Tier
 
-![defacl](img/defacl.png)
+To apply ACL to tier, follow these steps: 
 
-Any available ACL (existing or new) can be viewed in detail by clicking its name in the list. This displays a list of rules that govern ingress (incoming) and egress (outgoing) traffic for the subnet. From this section, you can create new rules or delete existing ones.
-
-![aclmanage](img/aclmanage.png)
-
-![ingegrule](img/ingegrule.png)
-
-
+1. Navigate to **Network and Security > Virtual Private Cloud** tab. The following screen appears: ![VPC ACL](img/vpcacl.png)
+2. Click the **VPC Name**. The following screen appears: ![ACL Window](img/aclwindow.png)
+3. Click the **Access Control Lists** tab. The following screen appears: ![aclmanage](img/aclmanage.png)
+4. Click the **Apply ACL to Tier** icon. The following screen appears: ![Apply ACL To Tier](img/applyacltotier.png)
+5. Click the **Replace Tier ACL** button. 
 
 
