@@ -31,32 +31,29 @@ Public IPv4 addresses may carry a price which may vary depending on availability
 ## Configuring Load Balancing 
 To configure the Load Balancing Rule, follow these steps:
 
-1. To create Load Balancing Rule, click the Load Balancing icon. The following window appears:
-	![addrulenew](img/addrulenew.png)
-2. Click **+ Add Rule**. The following window appears:
-	![addrule1new](img/addrule1new.png)
-3. Specify the following details in the window:
-	- **Rule Name**
-	- **Description**
-	- **Protocol**
-	- **Tier**
-	- **Public Port**
-	- **Private Port**
-	- **Algorithm**
-4. Click the **Add Load Balancing Rule** button.
-
-Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
-
-1. Click the **Load Balancer Rule** icon. The following window appears:
-   ![addrulenew](img/addrulenew.png)
-2. Click the dropdown arrow and select the appropriate **Load Balancing Rule**. This window shows Instances that are part of this load balancer, and those available to be added. 
-   ![addrule2](img/addrule2.png)
-3. Click the **+** icon to add an instance and the **X** icon to remove an instance.
-   ![addrule2](img/addrule2.png)
+1. Navigate to **Network and Security > Virtual Private Clouds** .The following screen appears: [VPC IP Address](img/vpcipaddress.png)
+2. Click the **IP Address** tab. The following screen appears: ![Add IP Window](img/addipwindow.png)
+3. Click the **Load Balancing** icon. The following window appears: ![addrulenew](img/addrulenew.png)
+4. Click **+ Add Rule** and provide the following details: ![Add LB Rule Window](img/addlbrulewindow.png)
+    - **Rule Name**
+    - **Description**
+    - **Protocol**
+    - **Tier**
+    - **Public Port**
+    - **Private Port**
+    - **Algorithm**
+5. Click the **Add Load balancing Rule** button. The following screen appears:
+   ![LB Usage](img/lbusage.png)
+6. Click the **Load Balancing** icon. The following screen appears: ![Load Balancing Already Created](img/loadbalancingalreadycreated.png)
+7. Click the drop-down and select the appropriate **Load Balancing Rule**. The following screen appears with the details: ![addrule2](img/addrule2.png)
+    - Description
+    - Protocol
+    - Algorithm
+    - Private and Public Port 
+8. Click the **+** icon to add an instance and the **X** icon to remove an instance. 
+   ![addrule2](img/addrule2.png) 
    ![instanceaddremove](img/instanceaddremove.png)
-:::note
-To delete this Load Balancing Rule, click **Delete This Rule** button.
-:::
+9. To delete this Load Balancing Rule, click **Delete This Rule** button.
 
 To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
