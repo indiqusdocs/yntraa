@@ -17,16 +17,20 @@ Restore point shows the following details:
 - Type
 - Created On
  
-## Revert Instance Restore Point
-
-## Delete Instance Restore Point
-
 To create an instance restore point, follow these steps:
 
 1. Click the **Create Instance Restore Point** button. The following screen appears:
    ![restorepointwindownew](img/restorepointwindownew.png)
 2. Specify the name and the description of the restore point.
 3. To create a Restore Point, click **Create** button.
+   
+## Quick Actions
+   
+   The following are the quick actions:
+
+- Click the **Restore from Instance Restore Point** icon, and select **Yes**. ![Window Restore From Instance](img/revertwindowinstance.png)
+   ![Yes Restore](img/yesrestorewindow.png)
+- Click the **Delete Restore Point**icon. The following screen appears: ![Window Delete Instance Restore Point](img/deleterestorewindow.png)
 
 
 
