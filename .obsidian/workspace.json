@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
+                "file": "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ReconfiguringWindowsInstances"
+              "title": "IPv4AddressesandVPC"
             }
           }
         ]
@@ -171,31 +171,36 @@
   },
   "active": "12b904c5ebf316b8",
   "lastOpenFiles": [
-    "docs/Subscribers/Compute/WindowsInstances/img/windowsinstanceview.png",
-    "docs/Subscribers/Compute/WindowsInstances/img/WindowsInstanceView",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
+    "build/assets/images/wininstancethirdnew-49a37950f9f63d78cdf58de18745af62.png",
+    "build/assets/images/windowsswitchplan-cca236e638f626408dc98af6fc9e51f2.png",
+    "build/assets/images/windowsinstanceview-5b9f162e8b60016c56828be8e4afec1d.png",
+    "build/assets/images/windowinstancesections-69172c3b81c3c84699e8ad2b18bfcd1f.png",
+    "build/assets/images/windowalertcreated-71fb3e6b517966932cf73d2f3427992a.png",
+    "build/assets/images/windowinstancecreated-f91b387d34ade9b6db11649e9a9c5ac2.png",
+    "build/assets/images/signup3-8838ce0a773b82acaaab3f8561a9f572.png",
+    "build/assets/images/windowalertadded-5c9449d27f82e14cf156f21899a9272b.png",
+    "build/assets/images/windetails1new-eb7825416395fdb6901211321f9569c4.png",
+    "build/assets/images/winconfirmpurchase-bd8329164056cdd5dcde580bbeaec47d.png",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets.md",
+    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/img/windowinstancescreen.png",
-    "docs/Subscribers/Compute/WindowsInstances/img/windowinstancescreen",
-    "docs/Subscribers/Compute/WindowsInstances/img/WindowInstancescreen.png",
     "docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances.md",
     "docs/Subscribers/Compute/RHELInstances/CreatingAlerts.md",
     "docs/Subscribers/AccountCentre/Address.md",
-    "build/blog/tags/facebook/index.html",
-    "build/blog/tags/docusaurus/index.html",
-    "build/blog/tags/hola/index.html",
-    "build/blog/tags/hello/index.html",
-    "build/blog/authors/all-sebastien-lorber-articles/index.html",
-    "build/blog/authors/yangshun/index.html",
-    "build/blog/welcome/index.html",
-    "build/blog/tags/facebook",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/sps.png",
-    "build/img/rn.png",
-    "build/img/sps.svg",
-    "build/img/sbs.png",
-    "build/img/social-card.png",
     "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
@@ -211,11 +216,6 @@
     "docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
     "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
-    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
-    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints.md",
-    "docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints.md"
+    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md"
   ]
 }
