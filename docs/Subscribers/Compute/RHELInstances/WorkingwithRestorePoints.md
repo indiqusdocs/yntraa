@@ -7,9 +7,7 @@ Instance Restore points allow you to create point-in-time images of instances th
 
 The Restore points section shows all RHEL Instance Restore points, which can be used to revert the RHEL Instances to an earlier state.
 
-To view all the Restore points taken for the Instance, navigate to a [RHEL Instances](AboutRHELInstances.md) and access the **Restore points** tab.
-
-![restorerhelnew](img/restorerhelnew.png)
+To view all the Restore points taken for the Instance, navigate to a [RHEL Instances](AboutRHELInstances.md) and access the **Restore points** tab. ![Rhel Create Instance](img/rhelcreateinstance.png)
 
 Restore points list down the following details:
 
@@ -19,14 +17,20 @@ Restore points list down the following details:
 - Type
 - Created On
 
-Two quick options are available, one is to revert the Instance from the snapshot, and the other is to delete the particular snapshot.
-
 To create a restore point, follow these steps: 
 1. Click the **Create Instance Restore Point** button. The following screen appears:
    ![restorerhelcreation](img/restorerhelcreation.png)
 2. Enter the **Name** and the **Description** of the restore point.
 3. Click the **Create** button. The following screen appears:
-   ![Rhel Create Instance](img/rhelcreateinstance.png)
+   
+## Quick Actions
+
+The following are the quick actions:
+
+- Click the **Restore from Instance Restore Point** icon, and select **Yes** . ![RHEL Restore From Instance](img/rhelrestorefrominstance.png)
+   ![Yes Restore](img/yesrestore.png)
+- Click the **Delete Restore Point**icon. The following screen appears: ![RHEL Delete Instance Restore Point](img/rheldeleteinstancerestorepoint.png)
+
 
 
 
