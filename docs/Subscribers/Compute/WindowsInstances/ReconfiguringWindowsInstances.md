@@ -23,7 +23,6 @@ To reconfigure compute pack and root disk, follow these steps:
 Changing the billing interval allows you to switch between monthly and hourly plans based on your usage and cost preferences.
 
 To change the billing interval, follow these steps:
-   
 1. Navigate to **Compute > Windows Instance**. The following screen appears: ![Windows Instance View](img/windowsinstanceview.png)
 2. To change the billing interval between monthly and hourly, click the **Switch Plan** button. ![Windows Switch Plan](img/windowsswitchplan.png)
 3. Select the **I have read and agreed to the end user license agreement and privacy policy** option.
