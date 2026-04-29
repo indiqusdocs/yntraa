@@ -15,45 +15,45 @@ Primarily, IPv4 Addresses can be used for configuring access and perform NAT via
 
 ![vpcaddip](img/vpcaddip.png)
 
-To add a new IPv4 Address to the VPC, follow these steps: 
+As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **Add Public IPv4 Address** button.
 
- 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears: ![VPC IP Address](img/vpcipaddress.png)
- 2. Click the **IP Address** tab. The following screen appears: ![Add IP Window](img/addipwindow.png)
-3. Click the **Add Public IPv4 Address** button. The following screen appears: ![Confirm IPv4 Purchase](img/confirmipv4purchase.png) 
-4. Click the **Confirm Purchase** button. The following screen appears: 
-   ![Final Confirm Prchase IPv4](img/finalconfirmprchaseipv4.png)
-5. Click the **Confirm** button. The following screen appears: ![Purchased IPv4](img/purchasedipv4.png)
-   
 :::note
 Public IPv4 addresses may carry a price which may vary depending on availability of IPv4 addresses in the country of operation, and/or how the service provider has priced them.
 :::
 
 ## Configuring Load Balancing 
-To configure the Load Balancing Rule, follow these steps:
 
-1. Navigate to **Network and Security > Virtual Private Clouds** .The following screen appears: [VPC IP Address](img/vpcipaddress.png)
-2. Click the **IP Address** tab. The following screen appears: ![Add IP Window](img/addipwindow.png)
-3. Click the **Load Balancing** icon. The following window appears: ![addrulenew](img/addrulenew.png)
-4. Click **+ Add Rule** and provide the following details: ![Add LB Rule Window](img/addlbrulewindow.png)
-    - **Rule Name**
-    - **Description**
-    - **Protocol**
-    - **Tier**
-    - **Public Port**
-    - **Private Port**
-    - **Algorithm**
-5. Click the **Add Load balancing Rule** button. The following screen appears:
-   ![LB Usage](img/lbusage.png)
-6. Click the **Load Balancing** icon. The following screen appears: ![Load Balancing Already Created](img/loadbalancingalreadycreated.png)
-7. Click the drop-down and select the appropriate **Load Balancing Rule**. The following screen appears with the details: ![addrule2](img/addrule2.png)
-    - Description
-    - Protocol
-    - Algorithm
-    - Private and Public Port 
-8. Click the **+** icon to add an instance and the **X** icon to remove an instance. 
-   ![addrule2](img/addrule2.png) 
+Load balancing helps distribute traffic across multiple instances to improve performance and availability. By creating a load balancing rule in your VPC, you define how traffic is routed and can easily manage which instances handle the load.
+
+To configure the Load Balancing Rule, follow these steps:
+1. Navigate to **Network and security > VPC** and click the **IP Address** tab. The following screen appears:
+   ![VPC IP Address](img/vpcipaddress.png)
+2. To create Load Balancing Rule, click the Load Balancing icon. The following window appears:
+	![addrulenew](img/addrulenew.png)
+3. Click **+ Add Rule**. The following window appears:
+	![addrule1new](img/addrule1new.png)
+4. Specify the following details in the window:
+	- **Rule Name**
+	- **Description**
+	- **Protocol**
+	- **Tier**
+	- **Public Port**
+	- **Private Port**
+	- **Algorithm**
+5. Click the **Add Load Balancing Rule** button.
+
+Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
+
+1. Click the **Load Balancer Rule** icon. The following window appears:
+   ![addrulenew](img/addrulenew.png)
+2. Click the dropdown arrow and select the appropriate **Load Balancing Rule**. This window shows Instances that are part of this load balancer, and those available to be added. 
+   ![addrule2](img/addrule2.png)
+3. Click the **+** icon to add an instance and the **X** icon to remove an instance.
+   ![addrule2](img/addrule2.png)
    ![instanceaddremove](img/instanceaddremove.png)
-9. To delete this Load Balancing Rule, click **Delete This Rule** button.
+:::note
+To delete this Load Balancing Rule, click **Delete This Rule** button.
+:::
 
 To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
@@ -66,9 +66,10 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
-1. Click the **Port Forwarding** icon. The following window appears:  ![pfaddrule](img/pfaddrule.png)
-2. Click **+ Add Rule**. The following window appears: ![pfnowadded](img/pfnowadded.png)
-3. Specify the following details in the window:
+1. Navigate to **Network and security > VPC** and click the **IP Address** tab. The following screen appears:
+   ![VPC IP Address](img/vpcipaddress.png)
+2. Click the **Port Forwarding** icon. The following window appears:  ![pfaddrule](img/pfaddrule.png)
+3. Click **+ Add Rule** and provide the following details: ![pfnowadded](img/pfnowadded.png)
 	- **Protocol** 
 	- **Tier**
 	- **Instance**
@@ -90,10 +91,11 @@ A Port-Forwarding IP address can be used to configure multiple Port-Forwarding a
 :::
 ## Configuring Static NAT
 
-To use the public IP as a static translation.
-
-1. Click the **Static NAT** icon. The following window appears: 
+To use the public IP as a static translation, follow these steps:
+1. Navigate to **Network and security > VPC** and click the **IP Address** tab. The following screen appears:
+   ![VPC IP Address](img/vpcipaddress.png)
+2. Click the **Static NAT** icon. The following window appears: 
    ![addstaticnat](img/addstaticnat.png)
-2. Select the Instance you want to assign the public IP. Click the **Add Static NAT** button.
+3. Select the Instance you want to assign the public IP. Click the **Add Static NAT** button.
 
 To test whether static NAT has been configured correctly, you can use the public IP to SSH into the virtual machine that the IP is NAT-ing to.

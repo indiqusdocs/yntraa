@@ -6,26 +6,16 @@ sidebar_position: 6
 To view the disks attached to particular Instance, navigate to [RHEL Instances](AboutRHELInstances.md) and access the **Volumes** tab.
 ![rhelvolumenew](img/rhelvolumenew.png)
 
-## Adding Volume
+Click the **Add Volume** button to open the configuration panel, specify the required volume details, and submit the configuration. The system then creates and attaches the volume to the instance
 
-To add a volume, follow these steps:
+RHEL Instances on Yntraa Cloud work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) and let you carry out basic disk operations.
 
-1. Click the **Add Volume** button.
-2. Specify the required disk configurations, and submit it.
-3. The system creates and attaches the volume to the instance.
-
-For detailed steps, refer: [Create Data Disk](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk).
-
-## Quick Actions
 The following are the quick actions:
 
 - **Create Template** - Click on it, and enter the image name and description.
-  ![Create Image RHEL](img/createimagerhel.png)
-- **Create Restore Point** - Clicking on this will create a Volume snapshot.
-  ![Create Restorepoint RHEL](img/Createrestorepointrhel.png)
+- **Create Snapshot** - Clicking on this will create a Volume snapshot.
 - **Detach/attach** - This option attach/detach the volume to/from the instance.
- ![Detach RHEL](img/detachrhel.png)
- 
+
 :::note
 Volume-level operations are available as part of the Block Volumes service.
 :::

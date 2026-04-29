@@ -7,9 +7,9 @@ Graphs and Utilisation for Linux instances helps monitor real-time performance a
 
 ## Graphs (Real-time)
 
-To view the available graphs and monitor the instance in real-time, follow these steps:
+To view the available graphs and monitor the instance in real-time:
 1. Navigate to **Compute** >[Other Linux Instances](AboutLinuxInstances.md).
-2. Click **Instance Name**, and select the **Graphs** tab.
+2. Select a Linux Instance and access the **Graphs** tab.
 
 You can use these graphs to understand Instance utilisation patterns and create custom alerts.
 
@@ -26,9 +26,9 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 ![utilisationnew](img/utilisationnew.png)
 ## Utilisation (Historical)
 
-To view historical usage across supported parameters, follow these steps:
+To view historical usage across supported parameters:
 1. Navigate to **Compute** > [Other Linux Instances](AboutLinuxInstances.md).
-2. Click **Instance Name**, and click the **Utilisation** tab. The following screen appears:
+2. Select a Linux Instance and access the **Utilisation** tab. The following screen appears:
    ![linuxutilise](img/linuxutilise.png)
 
 The Utillisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a .csv file. 
