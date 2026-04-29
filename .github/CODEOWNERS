@@ -1,4 +1,4 @@
 # All files — default reviewers
-* @SimYotta @indiqusdocs
+* @indiqusdocs
 # Protect the CODEOWNERS file itself
 .github/CODEOWNERS @indiqusdocs
