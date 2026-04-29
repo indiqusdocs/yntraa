@@ -3,10 +3,9 @@ sidebar_position: 3
 ---
 # Overview
 
-
-Navigate to Compute > [Other Linux Instances](AboutLinuxInstances.md), click **Instance Name**, and select the **Overview** tab. ![Linux Overview Screen](img/linuxoverviewscreen.png)
-
-The following detail appears:
+To view the following details:
+1. Navigate to [Other Linux Instances](AboutLinuxInstances.md).
+2. Select a Linux Instance and access the **Overview** tab.
 
 - [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)

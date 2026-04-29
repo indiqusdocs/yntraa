@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # About Linux Instances
 
-Yntraa Cloud offers a highly usable and visual way of working with Linux Instances using the cloud console. To view all the Linux instances available in your account, follow these steps:
+Yntraa Cloud offers a highly usable and visual way of working with and operating Linux Instances using the cloud console. To view all the Linux instances available in your account, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**.
    ![linuxinstancenew](img/linuxinstancenew.png)
