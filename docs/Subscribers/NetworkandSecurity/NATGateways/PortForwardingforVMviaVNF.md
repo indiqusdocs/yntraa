@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
 ---
-# Port Forwarding for VM via VNF
+# Port Forwarding for Instance via VNF
 
-This section outlines the steps to configure port forwarding for a Virtual Machine (VM) using a Virtual Network Function (VNF) in a cloud environment. Port forwarding allows external clients to securely access services (for example SSH, HTTP) hosted on the VM by mapping ports from the VNF’s public IP to the VM’s private IP. This approach improves network segmentation and control by routing all incoming traffic through the VNF layer.
+This section outlines the steps to configure port forwarding for a instance using a Virtual Network Function (VNF) in a cloud environment. Port forwarding allows external clients to securely access services (for example SSH, HTTP) hosted on the instance by mapping ports from the VNF’s public IP to the instance private IP. This approach improves network segmentation and control by routing all incoming traffic through the VNF layer.
 
-The following are the high-level tasks required to configure port forwarding for a VM via a VNF:
+The following are the high-level tasks required to configure port forwarding for a instance via a VNF:
 
 1. [Accessing and Selecting a NAT Gateway](#accessing-and-selecting-a-nat-gateway)
 2. [Reviewing Configuration](#reviewing-configuration)
@@ -85,7 +85,7 @@ The following steps guide you through completing the port forwarding rule form b
 2. Fill in all the required fields marked with a red asterisk (*):
 	- **Protocol**:  Select the desired protocol from the dropdown.
 	- **Tier**:  Choose the appropriate tier from the list that maps to your network environment.
-	- **Instance**:  Select the instance (virtual machine) that receives the forwarded traffic.
+	- **Instance**:  Select the instance that receives the forwarded traffic.
 	- **Public Start Port**:  Enter the starting port number from the public IP address range.
 	- **Public End Port**:  Enter the ending port number from the public IP address range.
 	- **Private Start Port**: Enter the starting port on the internal (private) IP to which traffic must be forwarded.

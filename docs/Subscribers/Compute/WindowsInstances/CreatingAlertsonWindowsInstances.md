@@ -39,19 +39,18 @@ You can access the Alerts tab from the instances details. It shows the alerts al
 
 # Managing Recipients
 
-This section lists all the email IDs already configured for alerts. You can delete the existing email IDs and add other email IDs by following these steps:
-
-1. Click the **Manage Recipients** button. ![Manage Recipients Button](img/managerecipientsbutton.png)
-   The following screen appears: ![managerecepientsnew](img/managerecepientsnew.png)
-2. Use the dropdown menu to select available recipients.
-3. Click the **Update** button.
+This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following these steps:
+1. Click the **Manage Recipients** button.
+2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
+3. From the list view, select the email IDs based on their assigned roles.
+4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
+5. Click the **Update** button to save the changes to the recipients list.
    
-
+![Windows Manage Recepients](img/windowsmanagerecepients.png)
 
 :::note
-	All the managed recipients receive all setup alerts. If no email ID is configured, no email is sent for the already configured alerts.
+All configured recipients will receive all the set-up alerts. If no email ID is configured or added, then no email will be sent for the already configured alerts.
 :::
-
 
 
 

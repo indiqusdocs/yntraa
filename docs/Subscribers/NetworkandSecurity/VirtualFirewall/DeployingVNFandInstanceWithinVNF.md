@@ -1,16 +1,16 @@
 ---
 sidebar_position: 4
 ---
-# Deploying VNF and VM Within VNF
+# Deploying VNF and Instance Within VNF
 
-This section provides a step-by-step guide for deploying a Virtual Network Function (VNF)—specifically a virtual firewall and provisioning a Virtual Machine (VM) behind it using the Yntraa Cloud. This setup allows you to route VM traffic through the VNF, enabling secure and segmented network environments. 
+This section provides a step-by-step guide for deploying a Virtual Network Function (VNF)—specifically a virtual firewall and provisioning a instance behind it using the Yntraa Cloud. This setup allows you to route instance traffic through the VNF, enabling secure and segmented network environments. 
 
 It is ideal for following use cases:
 - Advanced traffic control
 - Isolation
 - Policy enforcement
   
-The following are the high level steps required for deploying VNF and VM within VNF:
+The following are the high level steps required for deploying VNF and instance within VNF:
   
 1. [Creating The New Virtual Firewall](#creating-the-new-virtual-firewall)
 2. [Configuration Options For Virtual Firewall](#configuration-options-for-virtual-firewall)

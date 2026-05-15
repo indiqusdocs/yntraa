@@ -35,4 +35,7 @@ The Utilisation table shows a historical date-wise details of daily maximum, min
 
 ![Window Instance Utilisation](img/windowinstanceutilisation.png)
 
+:::note
+The CMP UI logs are available for a maximum period of two years.
+:::
 

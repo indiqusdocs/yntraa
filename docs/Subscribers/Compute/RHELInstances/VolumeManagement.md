@@ -13,7 +13,7 @@ RHEL Instances on Yntraa Cloud work with the [Block Volumes Service](/docs/Subs
 The following are the quick actions:
 
 - **Create Template** - Click on it, and enter the image name and description.
-- **Create Snapshot** - Clicking on this will create a Volume snapshot.
+- **Create Restore Point** - Clicking on this will create a Volume restore point.
 - **Detach/attach** - This option attach/detach the volume to/from the instance.
 
 :::note

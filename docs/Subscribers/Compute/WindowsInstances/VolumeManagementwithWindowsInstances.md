@@ -13,7 +13,7 @@ Windows Instances on Yntraa Cloud console work with the [Block Volumes Service]
 The following quick actions are available:
 
 - **Create Template** - Click on it, and enter the image name and description.
-- **Create Snapshot** - To create a Volume snapshot.
+- **Create Restore Point** - To create a Volume snapshot.
 - **Detach/attach** - To attach/detach the volume to/from the instance.
 
 :::note

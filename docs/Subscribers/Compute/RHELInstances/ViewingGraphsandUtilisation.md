@@ -25,6 +25,9 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 
 The Utillisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a .csv file. 
 
+:::note
+The CMP UI logs are available for a maximum period of two years.
+:::
 
 
 

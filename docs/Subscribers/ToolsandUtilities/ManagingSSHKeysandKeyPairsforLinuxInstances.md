@@ -19,7 +19,7 @@ To generate new SSH key pairs, click the **Generate a new key pair**.
 ![generatesshkeynew](img/generatesshkeynew.png)
 
 :::note
-This creates a public-private key pair, downloading the private key to your system while storing the public key in your Yntraa Cloud account. You can then use the downloaded private key to connect to virtual machines associated with the corresponding public key.
+This creates a public-private key pair, downloading the private key to your system while storing the public key in your Yntraa Cloud account. You can then use the downloaded private key to connect to instances associated with the corresponding public key.
 :::
 
 ## Upload Public Key
