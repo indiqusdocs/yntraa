@@ -13,7 +13,7 @@ Yntraa Cloud provides the options to perform the following operations on Linux I
 
 - **Restart Instance** - Perform a quick reboot on your Instance. This is a simple restart, and no data is lost.
 - **Force Stop Instance** - Force stop a running or a hung Linux Instance.
-- **Reset Password** - Reset the Linux Instances root user password. This requires the Linux Instance to be powered off.
+- **Reset Password** - Reset the Linux Instances user password. This requires the Linux Instance to be powered off.
 - **Reset SSH KEY** - Reset the Linux Instances SSH key association. This requires the Linux Instance to be powered off.
 - **Rename Instance** - Rename the Linux Instance.
 - **Migrate Instance** - Migrate Linux Instance between VPC networks within the same Availability Zone.

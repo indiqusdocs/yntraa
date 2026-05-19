@@ -10,7 +10,7 @@ Yntraa Cloud console provides the following operations on Windows Instances.
 
 - **Restart Instance** - Use this option to perform a quick reboot on your Instance. This is a simple restart, and no data is lost.
 - **Force Stop Instance**- To force stop a running or a hung Windows Instance.
-- **Reset Password**- To reset the Windows Instance root user password. This requires the Linux Instance to be powered off.
+- **Reset Password**- To reset the Windows Instance user password. This requires the Linux Instance to be powered off.
 - **Reset SSH Key**- To reset SSH key. 
 - **Rename Instance** - To rename the Windows Instance.
 - **Migrate Instance** - To migrate Windows Instance between VPC networks within the same Availability Zone.

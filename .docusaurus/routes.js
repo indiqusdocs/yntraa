@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -84,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '472'),
+    component: ComponentCreator('/docs', '635'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '51c'),
+        component: ComponentCreator('/docs', '133'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '1de'),
+            component: ComponentCreator('/docs', '331'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -103,6 +138,12 @@ export default [
               {
                 path: '/docs/category/account-centre',
                 component: ComponentCreator('/docs/category/account-centre', '23a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/autoscale',
+                component: ComponentCreator('/docs/category/autoscale', '8f1'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -481,6 +522,30 @@ export default [
               {
                 path: '/docs/Subscribers/CloudAssure/SecurityandCompliance',
                 component: ComponentCreator('/docs/Subscribers/CloudAssure/SecurityandCompliance', '98b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/Autoscale/AboutAutoscale',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/AboutAutoscale', '784'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups', '98d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale', 'ce7'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs', '727'),
                 exact: true,
                 sidebar: "sidebar1"
               },

@@ -191,6 +191,26 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
+              "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
+              "path": "/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/Autoscale/RequirementsforAutoscale",
+              "path": "/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs",
+              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Compute/ManagedKubernetes/AboutKubernetes",
               "path": "/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes",
               "sidebar": "sidebar1"
@@ -843,6 +863,11 @@
             {
               "id": "/category/managed-kubernetes",
               "path": "/docs/category/managed-kubernetes",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/autoscale",
+              "path": "/docs/category/autoscale",
               "sidebar": "sidebar1"
             },
             {
