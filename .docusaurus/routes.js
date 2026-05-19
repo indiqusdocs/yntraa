@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a3c'),
+    component: ComponentCreator('/docs', '08d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '910'),
+        component: ComponentCreator('/docs', 'e18'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '6ba'),
+            component: ComponentCreator('/docs', 'f2a'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -209,7 +209,13 @@ export default [
               },
               {
                 path: '/docs/category/miscellaneous',
-                component: ComponentCreator('/docs/category/miscellaneous', 'd7b'),
+                component: ComponentCreator('/docs/category/miscellaneous', 'b39'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/miscellaneous-1',
+                component: ComponentCreator('/docs/category/miscellaneous-1', '775'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -490,8 +496,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs', '727'),
+                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance', 'fa3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -768,6 +774,12 @@ export default [
               {
                 path: '/docs/Subscribers/intro',
                 component: ComponentCreator('/docs/Subscribers/intro', 'b36'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Miscallaneous/OtherServices',
+                component: ComponentCreator('/docs/Subscribers/Miscallaneous/OtherServices', '871'),
                 exact: true,
                 sidebar: "sidebar1"
               },

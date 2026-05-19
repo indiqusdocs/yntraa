@@ -181,8 +181,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs",
-              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupVMs",
+              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
+              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
               "sidebar": "sidebar1"
             },
             {
@@ -413,6 +413,11 @@
             {
               "id": "Subscribers/intro",
               "path": "/docs/Subscribers/intro",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Miscallaneous/OtherServices",
+              "path": "/docs/Subscribers/Miscallaneous/OtherServices",
               "sidebar": "sidebar1"
             },
             {
@@ -806,6 +811,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/miscellaneous",
+              "path": "/docs/category/miscellaneous",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "/category/tools-and-utilities",
               "path": "/docs/category/tools-and-utilities",
               "sidebar": "sidebar1"
@@ -836,8 +846,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/miscellaneous",
-              "path": "/docs/category/miscellaneous",
+              "id": "/category/miscellaneous-1",
+              "path": "/docs/category/miscellaneous-1",
               "sidebar": "sidebar2"
             }
           ],
