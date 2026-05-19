@@ -551,8 +551,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandVMWithinVNF",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandInstanceWithinVNF",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandInstanceWithinVNF",
               "sidebar": "sidebar1"
             },
             {

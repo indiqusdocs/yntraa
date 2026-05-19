@@ -26,11 +26,11 @@ Yntraa Cloud provides the options to perform the following operations on Linux I
   Reinstalling the operating system will permanently erase all data on the root disk (including system files, applications, and stored data). Attached data disks remain unaffected. Ensure back up important data before proceeding.
   :::
   
-- **Delete Instance** - Delete the Linux Instance.   
+- **Delete Instance** - To **Delete Instance**, type **DELETE** to confirm, then click **SCHEDULE DELETION** to delete the instance later or **DELETE NOW** to delete it immediately.   
   :::warning
   Deleting a Linux Instance removes it entirely along with its subscription and is a non-reversible action.
   :::
-
+  ![Delete other Linux Instance](img/deleteotherlinuxinstance.png)
 
 
 

@@ -23,7 +23,6 @@ To create or add alerts, follow these steps:
 
 1. Click the **Create Alert** button. The following window appears:
 ![alertwindownew](img/alertwindownew.png)
- screenshot change
 2. Provide the information in the following fields:
 - **Name** - You can define the name for your alert.
 - **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT and NETWORK OUTPUT parameters.
@@ -33,13 +32,14 @@ To create or add alerts, follow these steps:
 3. Click **Create**.
 ## Managing Recipients
 
-This section list and display all the recipients' IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs. To do so, perform the following steps:
+This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following these steps:
 
-1. Click the **MANAGE RECIPIENTS** button.
-2. Use the dropdown menu to select available recipients.
+1. Click the **Manage Recipients** button.
+2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
+3. From the list view, select the email IDs based on their assigned roles.
+4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
+5. Click the **Update** button to save the changes to the recipients list.
    ![recepientnew](img/recepientnew.png)
-3. Click the **UPDATE** button to save the recipient list.
-
 
 :::note
 All recipients receive all setup alerts. If no email ID added, then no email is sent for the alerts.

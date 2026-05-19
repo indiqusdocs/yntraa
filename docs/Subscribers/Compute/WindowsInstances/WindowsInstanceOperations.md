@@ -21,10 +21,12 @@ Yntraa Cloud console provides the following operations on Windows Instances.
   :::note
     Reinstalling the operating system will permanently erase all data on the root disk (including system files, applications, and stored data). Attached data disks remain unaffected. Ensure back up important data before proceeding.
     ::: 
-- **Delete Instance** - To delete the Windows Instance. 
+- **Delete Instance** - To **Delete Instance**, type **DELETE** to confirm, then click **SCHEDULE DELETION** to delete the instance later or **DELETE NOW** to delete it immediately.
 	:::note 
 	Deleting a Windows instance removes it entirely along with its subscription and is a non-reversible action.
 	:::
+	
+	![Delete Window Instance](img/deletewindowinstance.png)
 
 
 

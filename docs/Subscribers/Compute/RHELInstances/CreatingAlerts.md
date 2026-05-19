@@ -36,12 +36,14 @@ To create an alert, follow these steps:
 
 ## Managing Recipients
 
-This section list and display all the email IDs already configured for the alerts. You can delete the existing email IDs and add other email IDs by the following steps:
+This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following these steps:
 
-1. Click the **Manage Recipients** button. The following screen appears:
-   ![recepientrhelnew](img/recepientrhelnew.png)
-2. Use the dropdown menu to select available recipients.
-3. Click the **Update** button to save the recipient list.
+1. Click the **Manage Recipients** button.
+2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
+3. From the list view, select the email IDs based on their assigned roles.
+4. Select the appropriate role option to ensure the selected recipients receive alert notifications.
+5. Click the **Update** button to save the changes to the recipients list.
+ ![Rhel Manage Recepients](img/rhelmanagerecepients.png)
    
 :::note
 All the managed recipients receive all the setup alerts. If no email ID is configured or added, no email is sent for the already configured alerts.

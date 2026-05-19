@@ -3,7 +3,7 @@ sidebar_position: 0
 ---
 # About RHEL Instances
 
-Instances are virtualized compute resources designed to support the execution of applications and workloads. Red Hat Enterprise Linux (RHEL) instances are virtual machines provisioned with RHEL operating system images, enabling a stable and enterprise-grade environment for deployment and operations.
+Instances are virtualized compute resources designed to support the execution of applications and workloads. Red Hat Enterprise Linux (RHEL) instances are instances provisioned with RHEL operating system images, enabling a stable and enterprise-grade environment for deployment and operations.
 
 The Yntraa Cloud offers a flexible and granular pricing model for Red Hat Enterprise Linux (RHEL) based on virtual CPU (vCPU) core slabs. This model allows organizations to tailor costs to their actual resource usage, making it a versatile option for businesses with varying workload demands.
 
