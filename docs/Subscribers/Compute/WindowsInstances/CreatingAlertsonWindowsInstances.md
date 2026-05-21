@@ -7,9 +7,9 @@ Alerts get triggered whenever a configured condition is met. You can create mult
 
 You can configure alerts for instances running on the Yntraa Cloud console. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
 
-To view the configured alerts or configure new ones:
+To view the configured alerts or configure new perform these steps:
 
-1. Navigate to **Compute** > [Windows Instances](/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances)
+1. Navigate to **Compute** > [Windows Instances](/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances).
 2. Select a Windows Instance, and access the **Alerts** tab.
 
 # Instance Alerts
@@ -27,19 +27,19 @@ You can access the Alerts tab from the instances details. It shows the alerts al
 1. Navigate to the **Window Instances > Alerts**. The following screen appears: ![Create Alert](img/createalert.png)
 2. Click the **Create Alert** Button. The following screen appears, where you can enter the required details in the fields ![Create Alert Window](img/createalertwindow.png)
    
-- **Name** - You can define the name for your alert.
-- **Choose parameter** - This option allows you to define what parameter must be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT, NETWORK OUTPUT parameters.
-- **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
-- **Value in Percentage** - You can define the Value. 
-- **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
-- **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
+	- **Name** - You can define the name for your alert.
+	- **Choose parameter** - This option allows you to define what parameter must be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT, NETWORK OUTPUT parameters.
+	- **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
+	- **Value in Percentage** - You can define the Value. 
+	- **Reading duration** - This option lets you define the breach window, i.e., the duration for which the breach has to be consistent to trigger the alert email.
+	- **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
 3. Click the **Create** button. The following screen appears: 
    ![Window Alert Added](img/windowalertadded.png)
 
 
 # Managing Recipients
 
-This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following these steps:
+This lists and display all the email IDs already configured for the alerts. You can delete the existing IDs and add other email IDs by following these steps:
 1. Click the **Manage Recipients** button.
 2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
 3. From the list view, select the email IDs based on their assigned roles.

@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Creating Autoscale Groups
 
-To create Autoscale Groups, the following steps are:
+To create Autoscale Groups, follow these steps:
 1. Navigate to **Compute > Autoscale Groups** in the navigation menu.
    ![Autoscale Group](img/autoscalegroup.png)
 2. Click the **NEW AUTOSCALE GROUP** button.
@@ -42,7 +42,7 @@ To create Autoscale Groups, the following steps are:
 12.  Define the **Scale Down Policy**; the parameters are similar to the Scale UP policy. Only the breach parameter will be greater than by default.
 ![Scale Down](img/scaledown.png)
 :::note  
-The reading **DURATION** must be at least 60 seconds. The **QUIET TIME** must be between 120 and 3600 seconds.  
+The reading **DURATION** (The time period during which the system monitors metrics before triggering a scaling action.) must be at least 60 seconds. The **QUIET TIME** must be between 120 and 3600 seconds.  
 :::
 13. Next is to set up the SSH Key. if your account doesn’t have any SSH key pair, then you can use the **Generate a new key pair** option, and you can also upload the key by selecting **Upload a key pair**.
 ![SSH Key](img/sshkey.png)

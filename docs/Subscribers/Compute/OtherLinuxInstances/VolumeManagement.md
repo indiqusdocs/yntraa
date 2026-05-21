@@ -10,7 +10,7 @@ To view the disks attached to this Instance:
 3. Access the **Volumes** tab to manage disks associated with the instance using the [Block Volumes](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) service.
 4. The following are the quick actions:
 - **Create Template** - Click on it, and enter the image name and description.
-- **Create Restore Point** - Click on it, to create a Volume Restore Point.
+- **Create Restore Point** - Click on it to create a disk restore point.
 - **Detach/attach from Instance** - This option attach/detach the volume to/from the instance.
 
 :::note

@@ -14,7 +14,7 @@ To view the available graphs and monitor the instance in real-time:
 
 You can use these graphs to understand Instance utilisation patterns and create custom alerts.
 
-The following graphs are available on a 24-hour time-scale graph with a 30-day trend line for the following parameters:
+The graphs are available on a 24-hour time-scale with a 30-day trend line for the following parameters:
 
 - CPU 
 - RAM 
@@ -36,6 +36,6 @@ The Utilisation table shows a historical date-wise details of daily maximum, min
 ![Window Instance Utilisation](img/windowinstanceutilisation.png)
 
 :::note
-The CMP UI logs are available for a maximum period of two years.
+The logs are available for a maximum period of two years.
 :::
 
