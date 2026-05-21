@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
+                "file": "docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ViewingDetailsofWindowsInstances"
+              "title": "ViewingGraphsandUtilizationofLinuxInstances"
             }
           }
         ]
@@ -171,6 +171,15 @@
   },
   "active": "2592141e249ca685",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/RHELInstances/Overview.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/Overview.md",
+    "docs/Subscribers/Compute/RHELInstances/CreatingAlerts.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts.md",
+    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
+    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
     "build/search-index.json",
     "build/sitemap.xml",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
@@ -181,22 +190,13 @@
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes/index.html",
     "build/icons/home.svg",
     "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/Overview.md",
     "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
     "docs/Subscribers/Compute/RHELInstances/VolumeManagement.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/Overview.md",
     "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingAlerts.md",
-    "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts.md",
-    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
-    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/Operations.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
     "build/assets/images/pfruleenable-b3947e2b734487c9c0a0f6d22c3283e3.png",

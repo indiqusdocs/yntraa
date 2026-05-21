@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 # RHEL Instance Operations
 
-To view all available Instance operations perform these steps:
+To view all available Instance operations, perform these steps:
 1. Navigate to **Compute** > [RHEL Instances](AboutRHELInstances.md).
 2. Select a RHEL Instance and access the **Operations** tab. The following screen appears:
    ![operation1new](img/operation1new.png)

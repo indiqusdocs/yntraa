@@ -7,7 +7,7 @@ Alerts get triggered whenever a configured condition is met. You can create mult
 
 You can configure alerts for instances running on the Yntraa Cloud console. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
 
-To view the configured alerts or configure new perform these steps:
+To view the configured alerts or configure new, perform these steps:
 
 1. Navigate to **Compute** > [Windows Instances](/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances).
 2. Select a Windows Instance, and access the **Alerts** tab.

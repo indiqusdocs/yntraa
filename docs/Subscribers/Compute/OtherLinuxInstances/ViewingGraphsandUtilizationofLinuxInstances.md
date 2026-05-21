@@ -11,7 +11,7 @@ To view the available graphs and monitor the instance in real-time:
 1. Navigate to **Compute** >[Other Linux Instances](AboutLinuxInstances.md).
 2. Select a Linux Instance and access the **Graphs** tab.
 
-You can use these graphs to understand Instance utilisation patterns and create custom alerts.
+You can use graphs to understand Instance utilisation patterns and create custom alerts.
 
 The graphs are available on a 24-hour time-scale graph with a 30-day trend line for the following parameters:
 

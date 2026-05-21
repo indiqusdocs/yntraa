@@ -12,7 +12,7 @@ To view the following details:
 - [Security and Access Control](#security-and-access-control)
 ## Configuration and Availability
 
-This section displays the instance's status .**RUNNING** is displayed in <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red</span>.
+This section displays the instance's status. **RUNNING** is displayed in <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red</span>.
 ![overviewdefault](img/overviewdefault.png)
 ## Internal Information
 This section displays the information used for internal identification of this instance and communication with other internal services:
