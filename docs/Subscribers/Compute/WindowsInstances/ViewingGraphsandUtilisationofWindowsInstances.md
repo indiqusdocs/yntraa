@@ -7,7 +7,7 @@ Monitoring the performance of your Windows Instances is essential for ensuring o
 
 ## Graphs (Real-time)
 
-To view the available graphs and monitor the instance in real-time:
+To view the available graphs and monitor the instance in real-time, perform these steps:
 1. Navigate to **Compute** > [Windows Instances](AboutWindowsInstances).
 2. Select a Windows Instance, and click the **Graphs** tab. The following screen appears:
 ![graphsnew](img/graphsnew.png)

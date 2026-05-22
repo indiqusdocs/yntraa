@@ -11,7 +11,7 @@ To view the disks attached to this Instance:
 4. The following are the quick actions:
 - **Create Template** - Click on it, and enter the image name and description.
 - **Create Restore Point** - Click on it to create a disk restore point.
-- **Detach/attach from Instance** - This option attach/detach the volume to/from the instance.
+- **Detach/attach from Instance** - Click on it to attach/detach the volume to/from the instance.
 
 :::note
 Volume-level operations are available as part of the Block Volumes service.

@@ -24,7 +24,7 @@ To create or add alerts, follow these steps:
 1. Click the **Create Alert** button. The following window appears:
 ![alertwindownew](img/alertwindownew.png)
 2. Provide the information in the following fields:
-	- **Name** - You can define the name for your alert.
+    - **Name** - You can define the name for your alert.
 	- **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT and NETWORK OUTPUT parameters.
 	- **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
 	- **Reading duration** - Select the duration for which the condition must persist before triggering the alert.
@@ -42,7 +42,7 @@ This lists and display all the email IDs already configured for the alerts. You 
    ![recepientnew](img/recepientnew.png)
 
 :::note
-All recipients receive all setup alerts. If no email ID added, then no email is sent for the alerts.
+All recipients receive all setup alerts. If no email ID added, no email is sent for the alerts.
 :::
 
 

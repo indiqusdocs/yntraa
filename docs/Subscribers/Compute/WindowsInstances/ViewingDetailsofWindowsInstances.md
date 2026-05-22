@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Viewing Details of Windows Instances
 
-To view the details of Windows Instances:
+To view the details of Windows Instances, perform these steps:
 1. Navigate to **Compute** > [Windows Instances](AboutWindowsInstances)
 2. Select any Windows Instance, and click the **Overview** tab.
 ![windetails1new](img/windetails1new.png)

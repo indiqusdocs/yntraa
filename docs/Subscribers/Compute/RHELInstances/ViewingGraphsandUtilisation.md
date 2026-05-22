@@ -7,7 +7,7 @@ To view the available graphs and monitor the instance in real-time, navigate to 
 ## Graphs
 You can use graphs to understand Instance utilisation patterns and create custom alerts.
 
-The following graphs are available on a 24-hour time-scale with a 30-day trend line for the following parameters:
+The graphs are available on a 24-hour time-scale with a 30-day trend line for the following parameters:
 
 - CPU 
 - RAM 

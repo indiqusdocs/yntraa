@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
+                "file": "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ViewingGraphsandUtilizationofLinuxInstances"
+              "title": "ViewingDetailsofWindowsInstances"
             }
           }
         ]
@@ -171,13 +171,17 @@
   },
   "active": "2592141e249ca685",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
+    "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
     "docs/Subscribers/Compute/RHELInstances/Overview.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/Overview.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingAlerts.md",
     "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts.md",
     "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/Overview.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement.md",
+    "docs/Subscribers/Compute/RHELInstances/VolumeManagement.md",
+    "docs/Subscribers/Compute/RHELInstances/CreatingAlerts.md",
     "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
     "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
     "build/search-index.json",
@@ -191,11 +195,7 @@
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions/index.html",
     "build/icons/home.svg",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/VolumeManagement.md",
     "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/Operations.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC.md",
