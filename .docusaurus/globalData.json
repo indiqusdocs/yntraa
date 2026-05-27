@@ -176,6 +176,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/Compute/Autoscale/Modifying Configurations",
+              "path": "/docs/Subscribers/Compute/Autoscale/Modifying Configurations",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Compute/Autoscale/RequirementsforAutoscale",
               "path": "/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale",
               "sidebar": "sidebar1"

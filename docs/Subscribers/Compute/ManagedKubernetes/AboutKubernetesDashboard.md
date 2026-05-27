@@ -9,7 +9,7 @@ The Kubernetes Dashboard is a web-based user interface that provides a visual re
 - **Access Control:** Access to the dashboard is subject to RBAC (Role-Based Access Control) policies. Users need appropriate permissions to view and modify resources.
 - **Monitoring:** While the dashboard provides essential monitoring, more comprehensive monitoring solutions like Prometheus and Grafana can be integrated for in-depth insights.
   
-![dashboardkube](img/dashboardkube.png)
+![Kubernetes Dashboard](img/kubedashboard.png)
   
 Details of services, pods, namespaces, controllers etc. for a Kubernetes cluster are available on the Kubernetes Dashboard UI. To access the dashboard, the `kubeconfig` manifest must be downloaded and used.
 
