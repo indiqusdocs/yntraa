@@ -9,9 +9,9 @@ To modify the Autoscale Group configuration settings, follow these steps:
 3. Click the **Disable** button. The following screen appears: ![Auto Scale Disabled](img/autoscaledisabled.png) 
 4. Click the autoscale group under the **Group Name** column (for example, **test-def-autoscale**) to open its settings and modify the following configurations:   
    
-    - OS Image (must belong to the same Zone)
-    - Compute Offering (CPU/RAM)
-    - Disk Size (≥ template minimum) 
+    - OS image (must belong to the same zone)
+    - Compute offering (CPU/RAM)
+    - Disk size (≥ template minimum) 
 
    ![Update and Enable Group](img/updateandenable.png)
       
