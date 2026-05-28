@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 # Installing ACS CSI Driver on K8s Cluster
 
-To install and configure the Apache CloudStack CSI (Container Storage Interface) driver on a Kubernetes cluster using Helm.
+This section describes the process for installing and configuring the Apache CloudStack (ACS) Container Storage Interface (CSI) driver on a Kubernetes cluster using Helm.
 
 ## Prerequisites
 
@@ -17,7 +17,7 @@ Before proceeding with the installation, ensure the following prerequisites are 
   
 ## Installing Helm 
 
-Execute the following commands on the Kubernetes master node to install Helm.
+Execute the following commands on the Kubernetes master node to install Helm:
 
 - **Installing Required Packages**
 
@@ -101,19 +101,19 @@ Ensure: 
   
 ## Troubleshooting
 
-- **API Connectivity Issues**
+### **API Connectivity Issues**
 
    Verify that the CloudStack API endpoint is reachable from the master node: 
    
    `curl -k https://<cloudstack-api-url>/client/api`
 
-- **Check CSI Driver Logs** 
+### **Checking CSI Driver Logs** 
 
-    Controller logs: 
+- **Controller logs**: 
 
     `kubectl logs -n kube-system deployment/cloudstack-csi-controller`
 
-    Node plugin logs: 
+- **Node plugin logs**: 
 
     `kubectl logs -n kube-system <cloudstack-csi-node-pod-name>`
 

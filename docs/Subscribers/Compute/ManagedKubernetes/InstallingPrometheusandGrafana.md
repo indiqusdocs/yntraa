@@ -3,7 +3,7 @@ sidebar_position: 12
 ---
 # Installing Prometheus and Grafana
 
-To deploy Prometheus and Grafana on a Kubernetes cluster using the kube-prometheus-stack Helm chart from the Prometheus Community repository.
+This section describes the process for deploying Prometheus and Grafana on a Kubernetes cluster using the kube-prometheus-stack Helm chart from the Prometheus Community repository.
 
 The deployment includes:
     - Prometheus Server
@@ -21,7 +21,7 @@ Ensure the following prerequisites are met before proceeding:
     - Sufficient cluster resources available for monitoring components.
   
 ## Adding Prometheus Community Helm Repository
-Run the following commands to add the official Prometheus Community Helm repository and update the local Helm cache.
+Run the following commands to add the official Prometheus Community Helm repository and update the local Helm cache:
 
 - **Adding Helm Repository**
 
@@ -49,6 +49,7 @@ Verify that all monitoring pods are running successfully.
 `bash id="6fwp4q" kubectl get pods -n monitoring`
 
 Expected output should show pods in Running state.
+
 Example:
 
 ```
@@ -59,12 +60,14 @@ bash id="l7d5pq" NAME                             �
 The Helm chart automatically deploys Grafana and generates a default admin password.
 
 - **Forwarding Grafana Service Port**
+   
    Run the following command to access Grafana locally:
    
    `bash id="3mk3hx" kubectl port-forward svc/prometheus-grafana 3000:80 -n monitoring`
    
 - **Accessing Grafana UI**
-   Open the following URL in your web browser:
+   
+   Open the following URL in web browser:
    
    `text id="q13xmp" http://localhost:3000`
 
@@ -85,6 +88,7 @@ The Helm chart automatically deploys Grafana and generates a default admin passw
   `bash id="q6y3pr" kubectl port-forward svc/prometheus-kube-prometheus-prometheus 9090:9090 -n monitoring` 
 
 - **Accessing Prometheus UI** 
+   
    Open the following URL in your web browser:
    
    `text id="h9x6rk" http://localhost:9090` 
@@ -108,7 +112,7 @@ After deployment, verify the following validations:
   `bash id="m2fh8g" kubectl logs -n monitoring <pod-name>`
   
 - **Describing Failed Pods**
-    
- `bash id="6j1dvc" kubectl describe pod <pod-name> -n monitoring`
+
+  `bash id="6j1dvc" kubectl describe pod <pod-name> -n monitoring`
  
  Prometheus and Grafana have now been successfully deployed on the Kubernetes cluster using the kube-prometheus-stack Helm chart. The environment is ready for monitoring Kubernetes workloads, infrastructure metrics, and alerting integration.

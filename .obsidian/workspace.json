@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
+                "file": "docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "InstallingPrometheusandGrafana"
+              "title": "InstallingACSCSIDriveronK8sCluster"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "2592141e249ca685",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/search-index.json",
@@ -181,9 +184,6 @@
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
     "docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine.md",
     "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard.md",
     "build/assets/images/kubeaddpfrule-13488af7abedc54a2ca1e1214a367780.png",
@@ -202,7 +202,6 @@
     "docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations.md",
     "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters.md",
     "docs/Subscribers/Compute/ManagedKubernetes/Overview.md",
     "docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints.md",
     "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
