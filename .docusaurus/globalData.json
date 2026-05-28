@@ -226,6 +226,16 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Compute/ManagedKubernetes/Overview",
               "path": "/docs/Subscribers/Compute/ManagedKubernetes/Overview",
               "sidebar": "sidebar1"

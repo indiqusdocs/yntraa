@@ -9,7 +9,7 @@ Yntraa Cloud allows for manual and automatic cluster scaling. Clusters scaling c
 1. Navigate to **Operations > Nodes**, click the **SCALE CLUSTER** button. A window appears, keep **autoscaling** disabled.
 2. Select one of the available compute packs.
 3. Click **CONFIRM SCALING**.
-![nodekube](img/nodekube.png)
+![Kubernetes Scale Cluster](img/kubescalecluster.png)
 ![scalekube](img/scalekube.png)
 ## Automatically Scaling a Cluster
 

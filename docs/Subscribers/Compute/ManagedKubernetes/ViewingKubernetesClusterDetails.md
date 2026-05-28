@@ -14,7 +14,7 @@ To view cluster details on the UI, the following steps are:
     - Autoscaling Enabled/Disabled
     - Created
       
-![kubedetail](img/kubedetail.png) 
+![Kubernetes Cluster Created](img/kubeclustercreated.png) 
        
 You can view a list of sections and the various operations or actions you can perform inside the particular section by clicking on the Kubernetes Cluster name. Below the cluster name is an informational view where you can find the below details.
 
@@ -23,8 +23,8 @@ You can view a list of sections and the various operations or actions you can pe
    - Cluster Pack
    - High Availability Enabled/Disabled
 
-A quick option is available in the top right corner, i.e., to  **POWER OFF/ON** the cluster.
-![overviewkube](img/overviewkube.png)
+A quick option is available in the top right corner, i.e., to  **Stop Cluster/Start Cluster**.
+![Kubernetes Overview](img/kubernetesoverview.png)
 
 Details on available Kubernetes Cluster operations and actions can be found in their respective sections:
 

@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd44'),
+    component: ComponentCreator('/docs', 'd4f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '00c'),
+        component: ComponentCreator('/docs', 'b0a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5ca'),
+            component: ComponentCreator('/docs', '555'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -511,6 +511,18 @@ export default [
               {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters', '767'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster', 'e31'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana', '743'),
                 exact: true,
                 sidebar: "sidebar1"
               },
