@@ -29,9 +29,7 @@ Run the following commands to add the official Prometheus Community Helm reposit
 
 - **Updating Helm Repository**
  
-  `
- helm repo update
- `
+  `helm repo update`
 
 ## Creating Monitoring Namespace
 Create a dedicated namespace for monitoring components.
