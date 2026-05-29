@@ -25,35 +25,35 @@ Run the following commands to add the official Prometheus Community Helm reposit
 
 - **Adding Helm Repository**
 
-   `bash id="4ytm7v" helm repo add prometheus-community https://prometheus-community.github.io/helm-charts`
+   `helm repo add prometheus-community https://prometheus-community.github.io/helm-charts`
 
 - **Updating Helm Repository**
  
   `
- bash id="3n4jpr" helm repo update
+ helm repo update
  `
 
 ## Creating Monitoring Namespace
 Create a dedicated namespace for monitoring components.
 
-   `bash id="m4u2gs" kubectl create namespace monitoring`
+   `kubectl create namespace monitoring`
    
 ## Deploying Prometheus and Grafana Stack
 Deploy the kube-prometheus-stack Helm chart into the monitoring namespace.
 
-`bash id="c0x7nd" helm install prometheus prometheus-community/kube-prometheus-stack --namespace monitoring`
+`helm install prometheus prometheus-community/kube-prometheus-stack --namespace monitoring`
     
 ## Verifying Installation
 Verify that all monitoring pods are running successfully.
 
-`bash id="6fwp4q" kubectl get pods -n monitoring`
+`kubectl get pods -n monitoring`
 
 Expected output should show pods in Running state.
 
 Example:
 
 ```
-bash id="l7d5pq" NAME                                                     READY   STATUS    RESTARTS alertmanager-prometheus-kube-prometheus-alertmanager-0   2/2     Running   0 prometheus-grafana-6b8d4f6f58-abcde                      3/3     Running   0 prometheus-kube-prometheus-operator-xxxxx                1/1     Running   0 prometheus-kube-state-metrics-xxxxx                      1/1     Running   0 prometheus-prometheus-kube-prometheus-prometheus-0       2/2     Running   0
+NAME                                                     READY      STATUS    RESTARTS alertmanager-prometheus-kube-prometheus-alertmanager-0      2/2     Running   0 prometheus-grafana-6b8d4f6f58-abcde                      3/3     Running   0 prometheus-kube-prometheus-operator-xxxxx                1/1     Running   0 prometheus-kube-state-metrics-xxxxx                      1/1     Running   0 prometheus-prometheus-kube-prometheus-prometheus-0       2/2     Running   0
 ```
     
 ## Accessing Grafana
@@ -63,20 +63,20 @@ The Helm chart automatically deploys Grafana and generates a default admin passw
    
    Run the following command to access Grafana locally:
    
-   `bash id="3mk3hx" kubectl port-forward svc/prometheus-grafana 3000:80 -n monitoring`
+   `kubectl port-forward svc/prometheus-grafana 3000:80 -n monitoring`
    
 - **Accessing Grafana UI**
    
    Open the following URL in web browser:
    
-   `text id="q13xmp" http://localhost:3000`
+   `http://localhost:3000`
 
 - **Default Grafana Credentials**
     - Username: admin
   
   Retrieve the automatically generated admin password:
   
-  `bash id="v57v8s" kubectl get secret --namespace monitoring prometheus-grafana -o jsonpath="{.data.admin-password}" | base64 --decode ; echo`
+  `kubectl get secret --namespace monitoring prometheus-grafana -o jsonpath="{.data.admin-password}" | base64 --decode ; echo`
 
 
 ## Accessing Prometheus
@@ -85,13 +85,13 @@ The Helm chart automatically deploys Grafana and generates a default admin passw
    
    Run the following command:
 
-  `bash id="q6y3pr" kubectl port-forward svc/prometheus-kube-prometheus-prometheus 9090:9090 -n monitoring` 
+  `kubectl port-forward svc/prometheus-kube-prometheus-prometheus 9090:9090 -n monitoring` 
 
 - **Accessing Prometheus UI** 
    
    Open the following URL in your web browser:
    
-   `text id="h9x6rk" http://localhost:9090` 
+   `http://localhost:9090` 
 
 ## Validation Checks
 After deployment, verify the following validations:
@@ -105,14 +105,14 @@ After deployment, verify the following validations:
 
 - **Checking Helm Release Status**
   
-   `bash id="2w5nct" helm list -n monitoring` 
+   `helm list -n monitoring` 
    
 - **Checking Pod Logs**
   
-  `bash id="m2fh8g" kubectl logs -n monitoring <pod-name>`
+  `kubectl logs -n monitoring <pod-name>`
   
 - **Describing Failed Pods**
 
-  `bash id="6j1dvc" kubectl describe pod <pod-name> -n monitoring`
+  `kubectl describe pod <pod-name> -n monitoring`
  
  Prometheus and Grafana have now been successfully deployed on the Kubernetes cluster using the kube-prometheus-stack Helm chart. The environment is ready for monitoring Kubernetes workloads, infrastructure metrics, and alerting integration.
