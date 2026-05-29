@@ -5,9 +5,9 @@ sidebar_position: 4
 
 To view the available graphs and monitor the instance in real-time, navigate to the [RHEL Instance](AboutRHELInstances.md) and access the **Graphs** tab.
 ## Graphs
-You can use these graphs to understand Instance utilisation patterns and create custom alerts.
+You can use graphs to understand Instance utilisation patterns and create custom alerts.
 
-The following graphs are available on a 24-hour time-scale graph with a 30-day trend line for the following parameters:
+The graphs are available on a 24-hour time-scale with a 30-day trend line for the following parameters:
 
 - CPU 
 - RAM 
@@ -26,7 +26,7 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 The Utillisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a .csv file. 
 
 :::note
-The CMP UI logs are available for a maximum period of two years.
+The logs are available for a maximum period of two years.
 :::
 
 

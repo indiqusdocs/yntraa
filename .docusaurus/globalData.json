@@ -166,28 +166,28 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/CloudAssure/AssessmentandAdvisory",
-              "path": "/docs/Subscribers/CloudAssure/AssessmentandAdvisory",
+              "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
+              "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/CloudAssure/MigrationAssist",
-              "path": "/docs/Subscribers/CloudAssure/MigrationAssist",
+              "id": "Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
+              "path": "/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/CloudAssure/MonitoringandNotifications",
-              "path": "/docs/Subscribers/CloudAssure/MonitoringandNotifications",
+              "id": "Subscribers/Compute/Autoscale/Modifying Configurations",
+              "path": "/docs/Subscribers/Compute/Autoscale/Modifying Configurations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/CloudAssure/ProfessionalServices",
-              "path": "/docs/Subscribers/CloudAssure/ProfessionalServices",
+              "id": "Subscribers/Compute/Autoscale/RequirementsforAutoscale",
+              "path": "/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/CloudAssure/SecurityandCompliance",
-              "path": "/docs/Subscribers/CloudAssure/SecurityandCompliance",
+              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
+              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
               "sidebar": "sidebar1"
             },
             {
@@ -223,6 +223,16 @@
             {
               "id": "Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters",
               "path": "/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana",
               "sidebar": "sidebar1"
             },
             {
@@ -421,53 +431,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ManagedSecurity/DDosProtection",
-              "path": "/docs/Subscribers/ManagedSecurity/DDosProtection",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSecurity/PrivilegedAccessManagement",
-              "path": "/docs/Subscribers/ManagedSecurity/PrivilegedAccessManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSecurity/YottaSmartCSOC",
-              "path": "/docs/Subscribers/ManagedSecurity/YottaSmartCSOC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSolutions/BackupandRecovery",
-              "path": "/docs/Subscribers/ManagedSolutions/BackupandRecovery",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSolutions/BareMetal",
-              "path": "/docs/Subscribers/ManagedSolutions/BareMetal",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSolutions/DevOpsasaService",
-              "path": "/docs/Subscribers/ManagedSolutions/DevOpsasaService",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSolutions/LoadTestingasaService",
-              "path": "/docs/Subscribers/ManagedSolutions/LoadTestingasaService",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSolutions/ManagedDatabaseServices",
-              "path": "/docs/Subscribers/ManagedSolutions/ManagedDatabaseServices",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSolutions/MessagingServices",
-              "path": "/docs/Subscribers/ManagedSolutions/MessagingServices",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/ManagedSolutions/ResiliencyAssuranceService",
-              "path": "/docs/Subscribers/ManagedSolutions/ResiliencyAssuranceService",
+              "id": "Subscribers/Miscallaneous/OtherServices",
+              "path": "/docs/Subscribers/Miscallaneous/OtherServices",
               "sidebar": "sidebar1"
             },
             {
@@ -661,16 +626,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/OtherServices/Containers",
-              "path": "/docs/Subscribers/OtherServices/Containers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/OtherServices/FileStorage",
-              "path": "/docs/Subscribers/OtherServices/FileStorage",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/SigningIn",
               "path": "/docs/Subscribers/SigningIn",
               "sidebar": "sidebar1"
@@ -846,6 +801,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/autoscale",
+              "path": "/docs/category/autoscale",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "/category/storage",
               "path": "/docs/category/storage",
               "sidebar": "sidebar1"
@@ -866,23 +826,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/managed-solutions",
-              "path": "/docs/category/managed-solutions",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managed-security",
-              "path": "/docs/category/managed-security",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/cloud-assure",
-              "path": "/docs/category/cloud-assure",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/other-services",
-              "path": "/docs/category/other-services",
+              "id": "/category/miscellaneous",
+              "path": "/docs/category/miscellaneous",
               "sidebar": "sidebar1"
             },
             {
@@ -901,23 +846,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/managed-solutions-1",
-              "path": "/docs/category/managed-solutions-1",
+              "id": "/category/managed-solutions",
+              "path": "/docs/category/managed-solutions",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/cloud-assure-1",
-              "path": "/docs/category/cloud-assure-1",
+              "id": "/category/cloud-assure",
+              "path": "/docs/category/cloud-assure",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/other-services-1",
-              "path": "/docs/category/other-services-1",
+              "id": "/category/other-services",
+              "path": "/docs/category/other-services",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/miscellaneous",
-              "path": "/docs/category/miscellaneous",
+              "id": "/category/miscellaneous-1",
+              "path": "/docs/category/miscellaneous-1",
               "sidebar": "sidebar2"
             }
           ],
@@ -931,7 +876,7 @@
             },
             "sidebar2": {
               "link": {
-                "path": "/docs/category/managed-solutions-1",
+                "path": "/docs/category/managed-solutions",
                 "label": "Managed Solutions"
               }
             },

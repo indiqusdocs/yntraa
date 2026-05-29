@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # What is a VPC?
 
-A Virtual Private Cloud (VPC) is a secure, isolated section of a public cloud where you can deploy and manage your cloud resources—such as virtual machines, databases, and applications—with full control over networking and security. With a VPC, you define your own IP address ranges, create subnets, configure routing tables, and set up firewalls and gateways, allowing you to build a custom network architecture tailored to your needs.
+A Virtual Private Cloud (VPC) is a secure, isolated section of a public cloud where you can deploy and manage your cloud resources—such as instances, databases, and applications—with full control over networking and security. With a VPC, you define your own IP address ranges, create subnets, configure routing tables, and set up firewalls and gateways, allowing you to build a custom network architecture tailored to your needs.
 
 ## VPCs and the 3-Tier Architecture
 

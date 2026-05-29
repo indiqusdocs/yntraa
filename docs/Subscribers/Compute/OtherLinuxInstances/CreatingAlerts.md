@@ -24,15 +24,15 @@ To create or add alerts, follow these steps:
 1. Click the **Create Alert** button. The following window appears:
 ![alertwindownew](img/alertwindownew.png)
 2. Provide the information in the following fields:
-- **Name** - You can define the name for your alert.
-- **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT and NETWORK OUTPUT parameters.
-- **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
-- **Reading duration** - Select the duration for which the condition must persist before triggering the alert.
-- **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
+    - **Name** - You can define the name for your alert.
+	- **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT and NETWORK OUTPUT parameters.
+	- **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
+	- **Reading duration** - Select the duration for which the condition must persist before triggering the alert.
+	- **Add Recipients** - Email IDs can be added here, or also you can add them by using the manage recipients.
 3. Click **Create**.
 ## Managing Recipients
 
-This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following these steps:
+This lists and display all the email IDs already configured for the alerts. You can delete the existing IDs and add other email IDs by following these steps:
 
 1. Click the **Manage Recipients** button.
 2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.
@@ -42,7 +42,7 @@ This will list and display all the email IDs already configured for the alerts. 
    ![recepientnew](img/recepientnew.png)
 
 :::note
-All recipients receive all setup alerts. If no email ID added, then no email is sent for the alerts.
+All recipients receive all setup alerts. If no email ID added, no email is sent for the alerts.
 :::
 
 

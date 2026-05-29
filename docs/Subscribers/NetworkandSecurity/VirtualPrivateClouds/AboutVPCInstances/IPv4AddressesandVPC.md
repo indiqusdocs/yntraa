@@ -40,9 +40,10 @@ To configure the Load Balancing Rule, follow these steps:
 	- **Public Port**
 	- **Private Port**
 	- **Algorithm**
-5. Click the **Add Load Balancing Rule** button.
+5. Click the **Add Load Balancing Rule** button. The following screen appears:
+   ![Enable LBI](img/enablelbi.png)
 
-Once the load balancer rule has been created, you can navigate to load balancer and add (or remove) Instances to this rule. To do this, follow these steps:
+Once the load balancer rule has been created, the Port Forwarding and Static NAT options are automatically disabled. You can navigate to load balancer and add (or remove) Instances to this rule by following these steps:
 
 1. Click the **Load Balancer Rule** icon. The following window appears:
    ![addrulenew](img/addrulenew.png)
@@ -78,9 +79,10 @@ To configure port forwarding, follow these steps:
 	  :::note
 	  The end ports should be equal to or greater than the start ports.
 	  :::
-4. Click the **Add Port Forwarding Rule** button.
+4. Click the **Add Port Forwarding Rule** button. The following screen appears: 
+   ![PF Rule Enable](img/pfruleenable.png)
 
-Once the Port-Forwarding rule is created, you can view its details by following these steps:
+Once the Port-Forwarding rule is created, the Load Balancing and Static NAT options are automatically disabled. You can then view the details of the Port Forwarding rule by following these steps:
 1. Click the **Port Forwarding Rule** icon. The following window appears:![pf](img/pf.png)
 2. In this window, you can view the Instance where this rule is configured, along with the private and public port range mappings.
 
@@ -96,6 +98,9 @@ To use the public IP as a static translation, follow these steps:
    ![VPC IP Address](img/vpcipaddress.png)
 2. Click the **Static NAT** icon. The following window appears: 
    ![addstaticnat](img/addstaticnat.png)
-3. Select the Instance you want to assign the public IP. Click the **Add Static NAT** button.
+3. Select the Instance you want to assign the public IP. Click the **Add Static NAT** button. The following screen appears:
+   ![Static NAT Enable](img/staticnatenable.png)
+   
+Once the Static NAT is created, the Port Forwarding Rule and  Load Balancing options are automatically disabled.
 
 To test whether static NAT has been configured correctly, you can use the public IP to SSH into the virtual machine that the IP is NAT-ing to.

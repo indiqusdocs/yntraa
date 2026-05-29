@@ -14,9 +14,9 @@ Kubernetes clusters can be powered ON/OFF using the **power** button on top of
 Kubernetes clusters can be stopped or restarted from the **Operations** section of cluster details.
 
 - **Stop Cluster** - To stop the Kubernetes cluster. No data will be lost, and the cluster can be started again.
-![stopcluster](img/stopcluster.png)
+![Stop Kubernetes Cluster](img/stopkubecluster.png)
 - **Restart Cluster** - This action restarts the Virtual Router and the cluster nodes can/should be used if a Kubernetes Cluster has become unresponsive or unreachable.
-![restartcluster](img/restartcluster.png)
+![Restart Kubernetes Cluster](img/restartkubecluster.png)
 - **Scaling Cluster** - This action is to manually scale this Cluster, or configure Cluster Autoscaling on it. 
 	:::note
 	that you can’t configure both manual and Autoscaling together on a Kubernetes Cluster.

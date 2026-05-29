@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5073fcc7d725176a",
+        "id": "4f0f2d66feffc593",
         "type": "tabs",
         "children": [
           {
-            "id": "2592141e249ca685",
+            "id": "3740c8ec402d7ace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints.md",
-                "mode": "preview",
-                "source": true
+                "file": "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "WorkingwithRestorePoints"
+              "title": "InstallingPrometheusandGrafana"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 312.5
   },
   "right": {
     "id": "5e8a9c3efb0fb0d9",
@@ -169,53 +169,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "2592141e249ca685",
+  "active": "3740c8ec402d7ace",
   "lastOpenFiles": [
-    "build/docs/Subscribers/ManagedSolutions/ResiliencyAssuranceService/index.html",
-    "build/docs/Subscribers/ManagedSolutions/MessagingServices/index.html",
-    "build/docs/Subscribers/ManagedSolutions/ManagedDatabaseServices/index.html",
-    "build/docs/Subscribers/ManagedSolutions/LoadTestingasaService/index.html",
-    "build/docs/Subscribers/ManagedSolutions/DevOpsasaService/index.html",
-    "build/docs/Subscribers/ManagedSolutions/BareMetal/index.html",
-    "build/docs/Subscribers/ManagedSolutions/BackupandRecovery/index.html",
-    "build/docs/Subscribers/ManagedSolutions/MessagingServices",
-    "build/docs/Subscribers/ManagedSolutions/ResiliencyAssuranceService",
-    "build/docs/Subscribers/ManagedSolutions/ManagedDatabaseServices",
-    "build/docs/Subscribers/ManagedSolutions/LoadTestingasaService",
-    "docs/Subscribers/Compute/RHELInstances/VolumeManagement.md",
-    "docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints.md",
-    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation.md",
-    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/Overview.md",
-    "docs/Subscribers/Compute/RHELInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingAlerts.md",
-    "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances.md",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
-    "build/icons/home.svg",
+    "docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
+    "build/sitemap.xml",
+    "build/docs/Subscribers/SigningUp/index.html",
+    "build/docs/Subscribers/SigningIn/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances/index.html",
     "build/img/undraw_docusaurus_tree.svg",
-    "build/img/sps.svg",
     "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.svg",
+    "build/img/sps.png",
     "build/img/social-card.png",
     "build/img/sbs.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sps.png",
-    "build/img/rn.png",
     "build/img/sbs.png",
-    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts.md",
-    "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance.md",
+    "build/img/rn.png",
+    "build/img/rn.svg",
+    "docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters.md",
+    "docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation.md",
+    "docs/Knowledgebase/WhatisaVPC.md",
+    "docs/Knowledgebase/WhatisInstances.md",
+    "docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/Overview.md",
+    "docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints.md",
+    "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
+    "docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/Operations.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/Operations.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances.md"
+    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances.md",
+    "docs/Subscribers/Compute/Autoscale/Modifying Configurations.md"
   ]
 }

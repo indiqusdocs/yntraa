@@ -8,7 +8,7 @@ To view the below details, navigate to [Kubernetes](AboutKubernetes.md), select
 - [Configuration and Availability](#configuration-and-availability)
 - [Nodes](#nodes-information)
 - [Internal Information](#internal-information)
-![overviewkube](img/overviewkube.png)
+![Kubernetes Overview](img/kubernetesoverview.png)
 ## Configuration and Availability
 
 1. The cluster’s status, **RUNNING**, is displayed in Green, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red</span>.

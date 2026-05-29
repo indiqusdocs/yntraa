@@ -36,7 +36,7 @@ To create an alert, follow these steps:
 
 ## Managing Recipients
 
-This will list and display all the email IDs already configured for the alerts. You can delete the existing ids and add other email ids by following these steps:
+This lists and display all the email IDs already configured for the alerts. You can delete the existing IDs and add other email IDs by following these steps:
 
 1. Click the **Manage Recipients** button.
 2. Click the dropdown icon in the **Add Recipients** field to view the recipients list.

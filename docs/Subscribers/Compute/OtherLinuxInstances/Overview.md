@@ -3,16 +3,19 @@ sidebar_position: 3
 ---
 # Overview
 
-To view the following details:
-1. Navigate to [Other Linux Instances](AboutLinuxInstances.md).
-2. Select a Linux Instance and access the **Overview** tab.
 
+The overview section lists the following details:
 - [Configuration and Availability](#configuration-and-availability)
 - [Internal Information](#internal-information)
 - [Security and Access Control](#security-and-access-control)
+
+To view the details, perform these steps:
+1. Navigate to [Other Linux Instances](AboutLinuxInstances.md).
+2. Select a Linux Instance and access the **Overview** tab.
+
 ## Configuration and Availability
 
-This section displays the instance's status, **Running** in <span class="green">green</span>, and other information related to the networking zone in <span style={{ color: 'red' }}>red</span>.
+This section displays the instance's status. **RUNNING** is displayed in <span class="green">**green**</span>, whereas **STOPPED** is displayed in <span style={{ color: 'red' }}>red</span>.
 ![overviewdefault](img/overviewdefault.png)
 ## Internal Information
 This section displays the information used for internal identification of this instance and communication with other internal services:
