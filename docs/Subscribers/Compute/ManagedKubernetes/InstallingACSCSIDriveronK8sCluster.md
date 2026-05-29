@@ -19,20 +19,25 @@ Before proceeding with the installation, ensure the following prerequisites are 
 
 Execute the following commands on the Kubernetes master node to install Helm:
 
-- **Installing Required Packages**
+### Installing Required Packages
+To install the required packages, run the following command:
 
    `sudo apt-get install curl gpg apt-transport-https --yes`
 
-- **Adding Helm Repository**
- ```
- curl -fsSL https://packages.buildkite.com/helm-linux/helm-debian/gpgkey | gpg
- --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
- echo "deb [signed-by=/usr/share/keyrings/helm.gpg] 
- https://packages.buildkite.com/helm-linux/helm-debian/any/ any main" | sudo 
- tee /etc/apt/sources.list.d/helm-stable-debian.list
- ```
+### Adding Helm Repository
+Run the following commands to add the Helm repository:
+```
+ curl -fsSL https://packages.buildkite.com/helm-linux/helm-debian/gpgkey | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
+```
 
-- **Updating Repository and Installing Helm** 
+
+```
+echo "deb [signed-by=/usr/share/keyrings/helm.gpg] https://packages.buildkite.com/helm-linux/helm-debian/any/ any main" | sudo tee /etc/apt/sources.list.d/helm-stable-debian.list
+```
+ 
+
+### Updating Repository and Installing Helm
+To update the repository and install help, run the following commands:
 ```
 sudo apt-get update 
 sudo apt-get install helm
@@ -43,26 +48,27 @@ sudo apt-get install helm
 Download the latest CloudStack CSI Driver Helm charts from the official release page: 
 https://github.com/cloudstack/cloudstack-csi-driver/releases/ 
 
-After downloading: 
-1. Extract/unzip the downloaded package. 
-2. Navigate to the extracted directory. 
+After downloading, run the following commands: 
+1. Extract/unzip the downloaded package:  
    
-   For example: 
+	`unzip cloudstack-csi-driver.zip`
    
-   `unzip cloudstack-csi-driver.zip cd cloudstack-csi-driver`
+2. Navigate to the extracted directory.
+    
+   `cd cloudstack-csi-driver`
    
 ## Preparing K8s Nodes 
 
-Create the metadata directory on all Kubernetes nodes. 
+Create the metadata directory on all Kubernetes nodes by running the following command: 
 
 `mkdir -p /run/metadata`
     
 ## Installing CloudStack CSI Driver
-Navigate to the extracted Helm chart directory and execute the following command: 
+Navigate to the extracted Helm chart directory and run the following command: 
 
 `helm install cloudstack-csi . -n kube-system --create-namespace`
-    
-## Expecting Installation Output 
+
+## Expected Installation Output 
 
 Sample successful installation output: 
 
