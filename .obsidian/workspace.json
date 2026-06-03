@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations.md",
+                "file": "docs/ReleaseNotes/Ver1000.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ClusterOperations"
+              "title": "Ver1000"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "3740c8ec402d7ace",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations.md",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
     "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
@@ -181,14 +182,12 @@
     "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers/index.html",
     "build/assets/images/deletekubecluster-9c5d5f2175e2715e2c40d11a9080d5c4.png",
     "build/assets/images/operationcluster-19a992e95a6bc4bc56bb103482b5f1d4.png",
     "build/assets/images/stopkubernetescluster-a11f0913e27ae9ac4c43804e1ae83c81.png",
     "build/assets/images/scalekubecluster-a3c4a254ffadbe606eab2a1f1c743fe4.png",
     "build/assets/images/startkubecluster-98268fafaafe0260968e1af06f26ae57.png",
     "docs/Subscribers/Compute/OtherLinuxInstances/Operations.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations.md",
     "docs/Subscribers/Compute/ManagedKubernetes/img/deletekubecluster.png",
     "docs/Subscribers/Compute/ManagedKubernetes/img/scalekubecluster.png",
     "docs/Subscribers/Compute/ManagedKubernetes/img/scalecluster.png",
