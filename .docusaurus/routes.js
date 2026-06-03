@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -119,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd4f'),
+    component: ComponentCreator('/docs', '545'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b0a'),
+        component: ComponentCreator('/docs', '2ee'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '555'),
+            component: ComponentCreator('/docs', 'bdc'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -218,12 +183,6 @@ export default [
                 component: ComponentCreator('/docs/category/miscellaneous-1', '775'),
                 exact: true,
                 sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/category/monitoring-and-usage',
-                component: ComponentCreator('/docs/category/monitoring-and-usage', '227'),
-                exact: true,
-                sidebar: "sidebar1"
               },
               {
                 path: '/docs/category/nat-gateways',
@@ -376,84 +335,6 @@ export default [
                 sidebar: "sidebar4"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/Address',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Address', 'cd2'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Assets',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Assets', '5c5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Commercial',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Commercial', 'ea3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/CompanyDetails',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/CompanyDetails', 'e77'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Contacts',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Contacts', '116'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Dashboard',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Dashboard', 'ce3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup', 'a77'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra', 'e55'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails', 'a22'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Organisation-AccountProfile',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Organisation-AccountProfile', 'f65'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Profile',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Profile', '399'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/ResettingPassword',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/ResettingPassword', 'a27'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Services',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Services', 'ba2'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/AccountCentre/StandardAgreements',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/StandardAgreements', '53c'),
                 exact: true,
@@ -468,12 +349,6 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/TeamMemberManagement',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/TeamMemberManagement', 'a69'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/AccountCentre/Tickets',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/Tickets', '9f0'),
                 exact: true,
                 sidebar: "sidebar1"
               },
