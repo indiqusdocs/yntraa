@@ -31,6 +31,11 @@
               "sidebar": "sidebar2"
             },
             {
+              "id": "FAQs/FAQs",
+              "path": "/docs/FAQs/",
+              "sidebar": "sidebar2"
+            },
+            {
               "id": "FAQs/ManagedSolutions/ManagedDatabases",
               "path": "/docs/FAQs/ManagedSolutions/ManagedDatabases",
               "sidebar": "sidebar2"
@@ -38,11 +43,6 @@
             {
               "id": "FAQs/ManagedSolutions/ResiliencyAssuranceService",
               "path": "/docs/FAQs/ManagedSolutions/ResiliencyAssuranceService",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "FAQs/Miscellaneous/FAQs",
-              "path": "/docs/FAQs/Miscellaneous/FAQs",
               "sidebar": "sidebar2"
             },
             {
@@ -784,11 +784,6 @@
               "id": "/category/other-services",
               "path": "/docs/category/other-services",
               "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/miscellaneous-1",
-              "path": "/docs/category/miscellaneous-1",
-              "sidebar": "sidebar2"
             }
           ],
           "draftIds": [],
@@ -801,8 +796,8 @@
             },
             "sidebar2": {
               "link": {
-                "path": "/docs/category/managed-solutions",
-                "label": "Managed Solutions"
+                "path": "/docs/FAQs/",
+                "label": "FAQs/FAQs"
               }
             },
             "sidebar3": {

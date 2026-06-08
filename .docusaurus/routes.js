@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -119,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '545'),
+    component: ComponentCreator('/docs', '818'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '2ee'),
+        component: ComponentCreator('/docs', '052'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'bdc'),
+            component: ComponentCreator('/docs', '5df'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -214,12 +179,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/miscellaneous-1',
-                component: ComponentCreator('/docs/category/miscellaneous-1', '775'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
                 path: '/docs/category/nat-gateways',
                 component: ComponentCreator('/docs/category/nat-gateways', '049'),
                 exact: true,
@@ -286,6 +245,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/FAQs/',
+                component: ComponentCreator('/docs/FAQs/', '44a'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
                 path: '/docs/FAQs/CloudAssure/',
                 component: ComponentCreator('/docs/FAQs/CloudAssure/', 'ae2'),
                 exact: true,
@@ -318,12 +283,6 @@ export default [
               {
                 path: '/docs/FAQs/ManagedSolutions/ResiliencyAssuranceService',
                 component: ComponentCreator('/docs/FAQs/ManagedSolutions/ResiliencyAssuranceService', 'c33'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/FAQs/Miscellaneous/FAQs',
-                component: ComponentCreator('/docs/FAQs/Miscellaneous/FAQs', '9d3'),
                 exact: true,
                 sidebar: "sidebar2"
               },
