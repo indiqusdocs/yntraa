@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/FAQs/Miscellaneous/FAQs.md",
+                "file": "docs/Subscribers/GettingStartedonYntraaCloud.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "FAQs"
+              "title": "GettingStartedonYntraaCloud"
             }
           }
         ]
@@ -171,27 +171,28 @@
   },
   "active": "3740c8ec402d7ace",
   "lastOpenFiles": [
+    "build/img/sbs.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.svg",
+    "build/img/sps.png",
+    "build/img/social-card.png",
+    "build/img/rn.png",
+    "build/img/sbs.png",
+    "build/img/logo.svg",
+    "build/img/rn.svg",
+    "build/img/favicon.ico",
+    "build/img",
+    "build/icons",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/search-index.json",
     "build/sitemap.xml",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
-    "build/img/sbs.png",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sps.png",
-    "build/img/sps.svg",
-    "build/img/social-card.png",
-    "build/img/sbs.svg",
-    "build/img/rn.svg",
-    "build/img/rn.png",
+    "build/404.html",
+    "build/blog/authors/index.html",
+    "build/blog/first-blog-post/index.html",
+    "docs/FAQs/Miscellaneous/FAQs.md",
     "docs/ReleaseNotes/Ver1000.md",
     "docs/Subscribers/AccountCentre/_Services.md",
     "docs/Subscribers/AccountCentre/_Tickets.md",
@@ -215,7 +216,6 @@
     "docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters.md",
     "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
     "docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard.md"
+    "docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine.md"
   ]
 }
