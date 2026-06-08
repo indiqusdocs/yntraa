@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/GettingStartedonYntraaCloud.md",
+                "file": "docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GettingStartedonYntraaCloud"
+              "title": "InstallingACSCSIDriveronK8sCluster"
             }
           }
         ]
@@ -169,8 +169,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "3740c8ec402d7ace",
+  "active": "b7a0c898a65a0b2a",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/Overview.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes.md",
+    "docs/Subscribers/GettingStartedonYntraaCloud.md",
     "build/img/sbs.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_tree.svg",
@@ -181,7 +192,6 @@
     "build/img/rn.png",
     "build/img/sbs.png",
     "build/img/logo.svg",
-    "build/img/rn.svg",
     "build/img/favicon.ico",
     "build/img",
     "build/icons",
@@ -206,16 +216,6 @@
     "docs/Subscribers/AccountCentre/_Assets.md",
     "docs/Subscribers/AccountCentre/_Address.md",
     "docs/Subscribers/AccountCentre/_MonitoringandUsage/UsageDetails.md",
-    "docs/Subscribers/AccountCentre/_MonitoringandUsage/MonitoringInfra.md",
-    "docs/Subscribers/AccountCentre/_MonitoringandUsage/MonitoringBackup.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/Operations.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine.md"
+    "docs/Subscribers/AccountCentre/_MonitoringandUsage/MonitoringInfra.md"
   ]
 }

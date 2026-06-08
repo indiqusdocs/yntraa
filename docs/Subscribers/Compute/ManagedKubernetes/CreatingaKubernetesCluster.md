@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Creating a Kubernetes Cluster
 
-To create a Kubernetes cluster, the following steps are:
+To create a Kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Kubernetes** 
 2. Click the **NEW KUBERNETES CLUSTER** button.
@@ -35,7 +35,7 @@ To create a Kubernetes cluster, the following steps are:
 This might take up to 5-8 minutes. You may use the cloud console during this time, but it is advised that you do not refresh the browser window.
 :::
 
-Once ready, you get notified of this purchase on your email address on record. To access the  newly created Windows Instances, navigate to **Compute > Kubernetes** on the main navigation panel.
+Once ready, you get notified of this purchase on your  registered email address. To access the  newly created Windows Instances, navigate to **Compute > Kubernetes** on the main navigation panel.
 
 
 
