@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Other Services/OfferingServices.md",
+                "file": "docs/Subscribers/Other Services/SubscribingtoaService.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "OfferingServices"
+              "title": "SubscribingtoaService"
             }
           }
         ]
@@ -171,6 +171,17 @@
   },
   "active": "3740c8ec402d7ace",
   "lastOpenFiles": [
+    "docs/Subscribers/Other Services/OfferingServices.md",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/docs/Subscribers/SystemRequirements/index.html",
+    "build/docs/Subscribers/SystemRequirements",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
     "docs/Subscribers/Other Services/SubscribingtoaService.md",
     "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts.md",
@@ -180,7 +191,6 @@
     "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
     "docs/Subscribers/Compute/Autoscale/Modifying Configurations.md",
     "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/Subscribers/Other Services/OfferingServices.md",
     "docs/ReleaseNotes/Ver1000.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
     "docs/Subscribers/Miscallaneous/SubscribingtoaService.md",
@@ -188,16 +198,6 @@
     "docs/Subscribers/Other Services/img/selectservices.png",
     "docs/Subscribers/Other Services/img/otherservices.png",
     "docs/Subscribers/Other Services/img/confirmservice.png",
-    "docs/Subscribers/Other Services/_category_.json",
-    "docs/Subscribers/Other Services/img",
-    "docs/Subscribers/Other Services",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation/index.html",
     "build/icons/home.svg",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel.md",
@@ -215,7 +215,6 @@
     "build/img/sps.png",
     "docs/Subscribers/AccountCentre/_Services.md",
     "docs/Subscribers/AccountCentre/_Tickets.md",
-    "docs/Subscribers/AccountCentre/_ResettingPassword.md",
-    "docs/Subscribers/AccountCentre/_Profile.md"
+    "docs/Subscribers/AccountCentre/_ResettingPassword.md"
   ]
 }

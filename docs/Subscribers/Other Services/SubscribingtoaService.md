@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Subscribing to a Service
 
-By subscribing to a service, you can utilize additional cloud offerings designed to meet your infrastructure and operational needs. The platform enables seamless service management from a single location.
+By subscribing to a service, you can utilize additional cloud services designed to meet your infrastructure and operational needs. The platform enables seamless service management from a single location.
 
 To select and request a service, follow these steps:
 
