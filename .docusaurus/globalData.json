@@ -361,11 +361,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Miscallaneous/OtherServices",
-              "path": "/docs/Subscribers/Miscallaneous/OtherServices",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
               "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
               "sidebar": "sidebar1"
@@ -553,6 +548,16 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Other Services/OfferingServices",
+              "path": "/docs/Subscribers/Other Services/OfferingServices",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Other Services/SubscribingtoaService",
+              "path": "/docs/Subscribers/Other Services/SubscribingtoaService",
               "sidebar": "sidebar1"
             },
             {
@@ -756,8 +761,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/miscellaneous",
-              "path": "/docs/category/miscellaneous",
+              "id": "/category/other-services",
+              "path": "/docs/category/other-services",
               "sidebar": "sidebar1"
             },
             {
@@ -781,8 +786,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/other-services",
-              "path": "/docs/category/other-services",
+              "id": "/category/other-services-1",
+              "path": "/docs/category/other-services-1",
               "sidebar": "sidebar2"
             }
           ],

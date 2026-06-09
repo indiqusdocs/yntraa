@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -84,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '818'),
+    component: ComponentCreator('/docs', '641'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '052'),
+        component: ComponentCreator('/docs', 'e19'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5df'),
+            component: ComponentCreator('/docs', '05f'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -173,12 +208,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/miscellaneous',
-                component: ComponentCreator('/docs/category/miscellaneous', 'b39'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/category/nat-gateways',
                 component: ComponentCreator('/docs/category/nat-gateways', '049'),
                 exact: true,
@@ -204,7 +233,13 @@ export default [
               },
               {
                 path: '/docs/category/other-services',
-                component: ComponentCreator('/docs/category/other-services', 'ee2'),
+                component: ComponentCreator('/docs/category/other-services', 'eb7'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/category/other-services-1',
+                component: ComponentCreator('/docs/category/other-services-1', '381'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -665,12 +700,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Miscallaneous/OtherServices',
-                component: ComponentCreator('/docs/Subscribers/Miscallaneous/OtherServices', '871'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks', '8ea'),
                 exact: true,
@@ -895,6 +924,18 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC', '84a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Other Services/OfferingServices',
+                component: ComponentCreator('/docs/Subscribers/Other Services/OfferingServices', 'c74'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Other Services/SubscribingtoaService',
+                component: ComponentCreator('/docs/Subscribers/Other Services/SubscribingtoaService', '62f'),
                 exact: true,
                 sidebar: "sidebar1"
               },

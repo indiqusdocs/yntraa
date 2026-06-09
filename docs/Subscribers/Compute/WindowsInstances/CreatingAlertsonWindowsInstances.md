@@ -12,7 +12,7 @@ To view the configured alerts or configure new, perform these steps:
 1. Navigate to **Compute** > [Windows Instances](/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances).
 2. Select a Windows Instance, and access the **Alerts** tab.
 
-# Instance Alerts
+## Instance Alerts
 
 You can access the Alerts tab from the instances details. It shows the alerts already configured for that particular instance with following details:
 ![Window Alert Created](img/windowalertcreated.png)
@@ -22,7 +22,7 @@ You can access the Alerts tab from the instances details. It shows the alerts al
 - Value
 - Reading Duration
   
-# Adding an Alert
+## Adding an Alert
 
 1. Navigate to the **Window Instances > Alerts**. The following screen appears: ![Create Alert](img/createalert.png)
 2. Click the **Create Alert** Button. The following screen appears, where you can enter the required details in the fields ![Create Alert Window](img/createalertwindow.png)
@@ -37,7 +37,7 @@ You can access the Alerts tab from the instances details. It shows the alerts al
    ![Window Alert Added](img/windowalertadded.png)
 
 
-# Managing Recipients
+## Managing Recipients
 
 This lists and display all the email IDs already configured for the alerts. You can delete the existing IDs and add other email IDs by following these steps:
 1. Click the **Manage Recipients** button.
