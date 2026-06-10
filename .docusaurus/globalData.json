@@ -141,6 +141,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Compute/ManagedKubernetes/ClusterOperations",
               "path": "/docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations",
               "sidebar": "sidebar1"

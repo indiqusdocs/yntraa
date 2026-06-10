@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '641'),
+    component: ComponentCreator('/docs', '23c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e19'),
+        component: ComponentCreator('/docs', 'b41'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '05f'),
+            component: ComponentCreator('/docs', '84a'),
             routes: [
               {
                 path: '/docs/category/about-vpc-instances',
@@ -397,6 +397,12 @@ export default [
               {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard', '5d1'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD', '224'),
                 exact: true,
                 sidebar: "sidebar1"
               },

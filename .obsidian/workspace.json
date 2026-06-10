@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Other Services/SubscribingtoaService.md",
+                "file": "docs/Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SubscribingtoaService"
+              "title": "BackupingandRestoringETCD"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 318.5
   },
   "right": {
     "id": "5e8a9c3efb0fb0d9",
@@ -171,6 +171,12 @@
   },
   "active": "3740c8ec402d7ace",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/ManagedKubernetes/img/snapshotbackup.png",
+    "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/Overview.md",
+    "docs/Subscribers/Other Services/SubscribingtoaService.md",
     "docs/Subscribers/Other Services/OfferingServices.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
@@ -182,7 +188,6 @@
     "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
     "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
-    "docs/Subscribers/Other Services/SubscribingtoaService.md",
     "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts.md",
     "docs/Subscribers/Compute/RHELInstances/CreatingAlerts.md",
@@ -207,14 +212,10 @@
     "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes.md",
     "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
     "docs/Subscribers/Compute/RHELInstances/AboutRHELInstances.md",
-    "docs/FAQs/Miscellaneous/FAQs.md",
     "build/img/sbs.png",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sps.png",
-    "docs/Subscribers/AccountCentre/_Services.md",
-    "docs/Subscribers/AccountCentre/_Tickets.md",
-    "docs/Subscribers/AccountCentre/_ResettingPassword.md"
+    "build/img/sps.png"
   ]
 }
