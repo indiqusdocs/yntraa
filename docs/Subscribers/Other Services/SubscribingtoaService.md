@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
-# Other Services
+# Subscribing to a Service
 
-**Other Services** provides access to additional cloud services that support different infrastructure and operational needs. It enables you to explore and manage services efficiently from a single location.
+By subscribing to a service, you can utilize additional cloud services designed to meet your infrastructure and operational needs. The platform enables seamless service management from a single location.
 
 To select and request a service, follow these steps:
 

@@ -57,7 +57,7 @@ After downloading, run the following commands: 
     
    `cd cloudstack-csi-driver`
    
-## Preparing K8s Nodes 
+## Preparing Kubernetes Nodes 
 
 Create the metadata directory on all Kubernetes nodes by running the following command: 
 

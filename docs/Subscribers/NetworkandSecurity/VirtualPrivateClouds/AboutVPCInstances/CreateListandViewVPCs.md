@@ -15,14 +15,18 @@ To create a VPC, follow the below steps:
 5. **Choose a Networking Pack** from the available network collections. 
 6. Select the default IPv4 address for VPC Networking to create the VPC network with a new Public IP address.
    ![vpccreationnew](img/vpccreationnew.png)
-7. Verify the Estimated Cost of your VPC, based on the options that you have chosen from the **Summary and Estimated Costs** Section.
-8. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option.
-9. Click the **Buy Monthly** button, a confirmation pop-over will open up, and the price summary will be displayed along with the discount codes, if you have any in your account. 
+   
+   :::note
+   You cannot edit the Super CIDR after creating it.
+   :::
+1. Verify the Estimated Cost of your VPC, based on the options that you have chosen from the **Summary and Estimated Costs** Section.
+2. Select the I have read and agreed to the **End User License Agreement** and **Privacy Policy** option.
+3. Click the **Buy Monthly** button, a confirmation pop-over will open up, and the price summary will be displayed along with the discount codes, if you have any in your account. 
     1. You can apply any of the discount codes listed by clicking on the **Apply** button. 
     2. You can also remove the applied discount code by clicking the **Remove** button. 
     3. You can click the **Cancel** button to cancel this action.
   ![costsummarynew](img/costsummarynew.png)
-10. Click the **Confirm** button to create the VPC. ![confirmvpcnew](img/confirmvpcnew.png)
+4. Click the **Confirm** button to create the VPC. ![confirmvpcnew](img/confirmvpcnew.png)
 
 Once ready, you’ll be notified of this purchase on your email address on record. 
 

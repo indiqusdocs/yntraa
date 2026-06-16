@@ -31,6 +31,11 @@
               "sidebar": "sidebar2"
             },
             {
+              "id": "FAQs/FAQs",
+              "path": "/docs/FAQs/",
+              "sidebar": "sidebar2"
+            },
+            {
               "id": "FAQs/ManagedSolutions/ManagedDatabases",
               "path": "/docs/FAQs/ManagedSolutions/ManagedDatabases",
               "sidebar": "sidebar2"
@@ -38,11 +43,6 @@
             {
               "id": "FAQs/ManagedSolutions/ResiliencyAssuranceService",
               "path": "/docs/FAQs/ManagedSolutions/ResiliencyAssuranceService",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "FAQs/Miscellaneous/FAQs",
-              "path": "/docs/FAQs/Miscellaneous/FAQs",
               "sidebar": "sidebar2"
             },
             {
@@ -81,71 +81,6 @@
               "sidebar": "sidebar4"
             },
             {
-              "id": "Subscribers/AccountCentre/Address",
-              "path": "/docs/Subscribers/AccountCentre/Address",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Assets",
-              "path": "/docs/Subscribers/AccountCentre/Assets",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Commercial",
-              "path": "/docs/Subscribers/AccountCentre/Commercial",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/CompanyDetails",
-              "path": "/docs/Subscribers/AccountCentre/CompanyDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Contacts",
-              "path": "/docs/Subscribers/AccountCentre/Contacts",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Dashboard",
-              "path": "/docs/Subscribers/AccountCentre/Dashboard",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup",
-              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringBackup",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra",
-              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/MonitoringInfra",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/MonitoringandUsage/UsageDetails",
-              "path": "/docs/Subscribers/AccountCentre/MonitoringandUsage/UsageDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Organisation-AccountProfile",
-              "path": "/docs/Subscribers/AccountCentre/Organisation-AccountProfile",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Profile",
-              "path": "/docs/Subscribers/AccountCentre/Profile",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/ResettingPassword",
-              "path": "/docs/Subscribers/AccountCentre/ResettingPassword",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Services",
-              "path": "/docs/Subscribers/AccountCentre/Services",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/AccountCentre/StandardAgreements",
               "path": "/docs/Subscribers/AccountCentre/StandardAgreements",
               "sidebar": "sidebar1"
@@ -158,11 +93,6 @@
             {
               "id": "Subscribers/AccountCentre/TeamMemberManagement",
               "path": "/docs/Subscribers/AccountCentre/TeamMemberManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/AccountCentre/Tickets",
-              "path": "/docs/Subscribers/AccountCentre/Tickets",
               "sidebar": "sidebar1"
             },
             {
@@ -208,6 +138,11 @@
             {
               "id": "Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard",
               "path": "/docs/Subscribers/Compute/ManagedKubernetes/Accessingthekubernetesdashboard",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD",
               "sidebar": "sidebar1"
             },
             {
@@ -431,11 +366,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Miscallaneous/OtherServices",
-              "path": "/docs/Subscribers/Miscallaneous/OtherServices",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
               "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
               "sidebar": "sidebar1"
@@ -623,6 +553,16 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Other Services/OfferingServices",
+              "path": "/docs/Subscribers/Other Services/OfferingServices",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Other Services/SubscribingtoaService",
+              "path": "/docs/Subscribers/Other Services/SubscribingtoaService",
               "sidebar": "sidebar1"
             },
             {
@@ -826,8 +766,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/miscellaneous",
-              "path": "/docs/category/miscellaneous",
+              "id": "/category/other-services",
+              "path": "/docs/category/other-services",
               "sidebar": "sidebar1"
             },
             {
@@ -841,11 +781,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/monitoring-and-usage",
-              "path": "/docs/category/monitoring-and-usage",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/managed-solutions",
               "path": "/docs/category/managed-solutions",
               "sidebar": "sidebar2"
@@ -856,13 +791,8 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/other-services",
-              "path": "/docs/category/other-services",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/miscellaneous-1",
-              "path": "/docs/category/miscellaneous-1",
+              "id": "/category/other-services-1",
+              "path": "/docs/category/other-services-1",
               "sidebar": "sidebar2"
             }
           ],
@@ -876,8 +806,8 @@
             },
             "sidebar2": {
               "link": {
-                "path": "/docs/category/managed-solutions",
-                "label": "Managed Solutions"
+                "path": "/docs/FAQs/",
+                "label": "FAQs/FAQs"
               }
             },
             "sidebar3": {
