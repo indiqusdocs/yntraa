@@ -6,10 +6,10 @@ sidebar_position: 3
 To get started with the Yntraa Cloud, you must create an account on the Yntraa Cloud. 
 
 1. Navigate to Yntraa Cloud [url](https://portal.yntraacloud.ai/). The following screen appears:
-   ![sigin](img/sigin.png)
+   ![Sigin](img/sigin.png)
    
 2. Click the **Sign Up** button. The following screen appears:
-   ![signuppage](img/signuppage.png)
+   ![Signup Page](img/signuppage.png)
 
 3. On the **Sign Up** screen, provide the following details:
    
@@ -21,11 +21,11 @@ To get started with the Yntraa Cloud, you must create an account on the Yntraa C
     - **Country**
     - **State**
     - **City**
-    - **Postal Code
+    - **Postal Code**
 
 4. Select the I agree to the **Terms & Conditions** and **Privacy Policy** option.
-5. Click **Submit**. The following screen appears: ![signup3](img/signup3.png)
-6. You receive the following email at your registered email ID and click on the **Start Now** button to activate your account. ![signup4](img/signup4.png)
+5. Click **Submit**. The following screen appears: ![Signup3](img/signup3.png)
+6. You receive the following email at your registered email ID and click on the **Start Now** button to activate your account. ![Signup4](img/signup4.png)
 
 
 

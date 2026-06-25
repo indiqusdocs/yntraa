@@ -646,6 +646,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/TeamMemberandChildUserManagement",
+              "path": "/docs/Subscribers/TeamMemberandChildUserManagement",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/ToolsandUtilities/AboutToolsandUtilities",
               "path": "/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities",
               "sidebar": "sidebar1"

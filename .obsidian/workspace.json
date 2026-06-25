@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF.md",
-                "mode": "preview",
+                "file": "docs/Subscribers/SigningUp.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PortForwardingforVMviaVNF"
+              "title": "SigningUp"
             }
           }
         ]
@@ -171,34 +171,39 @@
   },
   "active": "3740c8ec402d7ace",
   "lastOpenFiles": [
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandInstanceWithinVNF.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
-    "build/search-index.json",
-    "build/sitemap.xml",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances/index.html",
-    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
     "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities/index.html",
     "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
-    "build/img/logo-01.png",
-    "build/img/undraw_docusaurus_tree.svg",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
     "build/img/undraw_docusaurus_react.svg",
-    "build/img/social-card.png",
-    "build/img/sps.png",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/rn.svg",
     "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.png",
     "build/img/sps.svg",
-    "build/img/sbs.svg",
-    "build/img/favicon.png",
     "build/img/sbs.png",
+    "build/img/social-card.png",
+    "build/img/sbs.svg",
+    "build/img/logo-01.png",
+    "docs/Subscribers/SigningIn.md",
+    "docs/Subscribers/SigningUp.md",
+    "docs/Subscribers/GettingStartedonYntraaCloud.md",
+    "docs/Subscribers/TeamMemberandChildUserManagement.md",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandInstanceWithinVNF.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF.md",
     "docs/Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD.md",
     "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails.md",
@@ -211,10 +216,6 @@
     "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard.md",
     "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance.md",
     "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
-    "docs/Subscribers/Compute/Autoscale/Modifying Configurations.md",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/ReleaseNotes/Ver1000.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs.md",
-    "docs/Subscribers/Miscallaneous/SubscribingtoaService.md"
+    "docs/Subscribers/Compute/Autoscale/Modifying Configurations.md"
   ]
 }
