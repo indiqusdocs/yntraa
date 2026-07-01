@@ -3,11 +3,13 @@ sidebar_position: 6
 ---
 # IPv4 Addresses and VPC
 
-IPv4 Addresses are an integral part of using VPC networking, and need to be used to access various components of the VPC. By default, a public IPv4 Address is assigned to the VR which can communicate through the internet to transmit traffic to/from the VR. This IPv4 can also be used for configuring remote access (L2TP) and site-to-site (IPSec) VPN connections.
+IPv4 Addresses are an integral part of using VPC networking, and need to be used to access various components of the VPC. By default, a public IPv4 Address is assigned to the VR which can communicate through the internet to transmit traffic to/from the VR. You can use this IPv4 for configuring remote access (L2TP) and site-to-site (IPSec) VPN connections.
 
 ## Using Additional IPv4
 
-Primarily, IPv4 Addresses can be used for configuring access and perform NAT via:
+Additional IPv4 addresses provide extra public IPs that you can assign to your cloud resources as needed. They help configure external access, support network communication, and enable services such as Network Address Translation (NAT) to meet your connectivity requirements.
+
+Primarily, you can use IPv4 addresses for configuring access and perform NAT via the following:
 
 - [Load balancing](#configuring-load-balancing)
 - [Port Forwarding](#configuring-port-forwarding)
@@ -15,10 +17,13 @@ Primarily, IPv4 Addresses can be used for configuring access and perform NAT via
 
 ![vpcaddip](img/vpcaddip.png)
 
-As a first step, a new IPv4 Address needs to be added to the VPC, which can be done using the **Add Public IPv4 Address** button.
+To add a a new IPv4 address to the VPC, follow these steps:
+
+1. Click the Add Public IPv4 Address button. The following screen appears:
+
 
 :::note
-Public IPv4 addresses may carry a price which may vary depending on availability of IPv4 addresses in the country of operation, and/or how the service provider has priced them.
+Public IPv4 addresses may carry a price which may vary depending on availability of IPv4 addresses in the country of operation, and/or how they have been priced.
 :::
 
 ## Configuring Load Balancing 
@@ -32,7 +37,7 @@ To configure the Load Balancing Rule, follow these steps:
 	![addrulenew](img/addrulenew.png)
 3. Click **+ Add Rule**. The following window appears:
 	![addrule1new](img/addrule1new.png)
-4. Specify the following details in the window:
+4. Provide the following details in the window:
 	- **Rule Name**
 	- **Description**
 	- **Protocol**
@@ -40,14 +45,14 @@ To configure the Load Balancing Rule, follow these steps:
 	- **Public Port**
 	- **Private Port**
 	- **Algorithm**
-5. Click the **Add Load Balancing Rule** button. The following screen appears:
+5. Click the **Add Load Balancing Rule** button. The following screen appears, which shows the load balancer rule has been created.
    ![Enable LBI](img/enablelbi.png)
 
 Once the load balancer rule has been created, the Port Forwarding and Static NAT options are automatically disabled. You can navigate to load balancer and add (or remove) Instances to this rule by following these steps:
 
 1. Click the **Load Balancer Rule** icon. The following window appears:
    ![addrulenew](img/addrulenew.png)
-2. Click the dropdown arrow and select the appropriate **Load Balancing Rule**. This window shows Instances that are part of this load balancer, and those available to be added. 
+2. Click the dropdown arrow and select the appropriate **Load Balancing Rule**. This following window appears that shows the Instances that are part of this load balancer, and those available to be added. 
    ![addrule2](img/addrule2.png)
 3. Click the **+** icon to add an instance and the **X** icon to remove an instance.
    ![addrule2](img/addrule2.png)
@@ -67,7 +72,7 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
-1. Navigate to **Network and security > VPC** and click the **IP Address** tab. The following screen appears:
+1. Navigate to **Network and security > Virtual Private Clouds** and click the **IP Addresses** tab. The following screen appears:
    ![VPC IP Address](img/vpcipaddress.png)
 2. Click the **Port Forwarding** icon. The following window appears:  ![pfaddrule](img/pfaddrule.png)
 3. Click **+ Add Rule** and provide the following details: ![pfnowadded](img/pfnowadded.png)
@@ -89,13 +94,13 @@ Once the Port-Forwarding rule is created, the Load Balancing and Static NAT opti
 To test if port-forwarding is configured correctly, use the public IP to SSH into the virtual machine the IP forwards to.
 
 :::note
-A Port-Forwarding IP address can be used to configure multiple Port-Forwarding access rules but with one virtual machine. To port-forward into a different virtual machine, you’ll need to purchase an additional public IP address.
+A Port-Forwarding IP address can be used to configure multiple Port-Forwarding access rules but with one virtual machine. To port-forward into a different virtual machine, you need to purchase an additional public IP address.
 :::
 ## Configuring Static NAT
 
 To use the public IP as a static translation, follow these steps:
-1. Navigate to **Network and security > VPC** and click the **IP Address** tab. The following screen appears:
-   ![VPC IP Address](img/vpcipaddress.png)
+1. Navigate to **Network and security > Virtual Private Clouds** and click the **IP Addresses** tab. The following screen appears:
+   ![VPC IP Address](img/vpcipaddress3.png)
 2. Click the **Static NAT** icon. The following window appears: 
    ![addstaticnat](img/addstaticnat.png)
 3. Select the Instance you want to assign the public IP. Click the **Add Static NAT** button. The following screen appears:

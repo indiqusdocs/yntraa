@@ -1,9 +1,16 @@
 ---
 sidebar_position: 3
 ---
-# Overview
+# Viewing VPC Details
 
-To view a list of sections and the various operations or actions you can perform by going inside the particular section, click on the VPC name. Below the VPC name is an informational view where you can find the following details:
+Viewing VPC details to get a summary of its configuration and status. This section provides an overview of important information about your Virtual Private Cloud, helping you understand and manage it easily from a single place.
+
+To view the details associated with a VPC follow these steps:
+
+1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
+2. Click on the VPC name to view the associated details and manage the VPC. The following screen appears:
+   ![vpcoverviewnew](img/vpcoverviewnew.png)
+3. Click on Overview from the menu on the left. The section of the top shows the following information about the selected VPC.
 
 - Configuration
 - Availability Zone
@@ -21,10 +28,6 @@ Along with the summary, the following information is readily available under the
     - Template Name
     - Virtual Router Internal Name
     - Created On
-
-![vpcoverviewnew](img/vpcoverviewnew.png)
-
-From here on, VPC operations, configurations and other available functions can be managed by navigating to the respective tabs/sections.
 
 
 

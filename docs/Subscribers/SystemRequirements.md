@@ -3,16 +3,21 @@ sidebar_position: 2
 ---
 # System Requirements
 
-To ensure optimal performance and full functionality of the Yntraa Cloud, users must meet the following system requirements:
+To ensure optimal performance and full functionality of the Yntraa Cloud, your system must meet the following requirements:
 
-## Supported Browsers
+- [Supported Web Browsers](#supported-web-browsers)
+- [Web Browser Settings](#web-browser-settings)
+- [Device Compatibility](#device-compatibility)
+- [Internet Connectivity](#internet-connectivity)
 
-The Yntraa Cloud is a web-based application and supports the following desktop browsers:
+## Supported Web Browsers
+
+The Yntraa Cloud portal is a web-based application and is supported on the following desktop web browsers:
 
 - Google Chrome (latest stable version recommended)
 - Mozilla Firefox (latest stable version recommended)
   
-## Browser Settings
+## Web Browser Settings
 
 - JavaScript must be enabled
 - Cookies must be enabled for authentication and session handling
@@ -20,11 +25,11 @@ The Yntraa Cloud is a web-based application and supports the following desktop b
 
 ## Device Compatibility
 
-The Yntraa Cloud is designed for desktop and laptop use only and is not compatible with mobile devices or tablets.
+The Yntraa Cloud portal is designed for desktop and laptop use only and is not compatible with mobile devices or tablets.
 
 ## Internet Connectivity
 
-A stable and reliable internet connection is required for smooth and uninterrupted use of the console.
+A stable and reliable internet connection is required for smooth and uninterrupted use of the Yntraa Cloud portal.
 
 
 
