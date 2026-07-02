@@ -676,36 +676,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/compute",
-              "path": "/docs/category/compute",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/windows-instances",
-              "path": "/docs/category/windows-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/rhel-instances",
-              "path": "/docs/category/rhel-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/other-linux-instances",
-              "path": "/docs/category/other-linux-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managed-kubernetes",
-              "path": "/docs/category/managed-kubernetes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/autoscale",
-              "path": "/docs/category/autoscale",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/network-and-security",
               "path": "/docs/category/network-and-security",
               "sidebar": "sidebar1"
@@ -743,6 +713,36 @@
             {
               "id": "/category/load-balancer-instances",
               "path": "/docs/category/load-balancer-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/compute",
+              "path": "/docs/category/compute",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/windows-instances",
+              "path": "/docs/category/windows-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/rhel-instances",
+              "path": "/docs/category/rhel-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/other-linux-instances",
+              "path": "/docs/category/other-linux-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/managed-kubernetes",
+              "path": "/docs/category/managed-kubernetes",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/autoscale",
+              "path": "/docs/category/autoscale",
               "sidebar": "sidebar1"
             },
             {
