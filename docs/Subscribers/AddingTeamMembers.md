@@ -8,7 +8,8 @@ The Role-Based Access Control (RBAC) in the One Yotta portal is a security frame
 To add a team member or child user, perform the following steps:
 1. Navigate to [Yntraa Cloud portal](https://portal.yntraacloud.ai/). The following screen appears where you must provide the required details.
    ![Yntraa Sign In](img/yntraasignin.png)
-2. Click the **Sign In** button. The following screen appears: `<New screenshot comes here>`
+2. Click the **Sign In** button. The following screen appears:
+   ![Yntraa Account](img/yntraaaccount.png)
 3. Click the **User Account ID** (for example, YNT-E433) and then click **Account** from the menu on the top-right corner. The following screen appears:
 ![Profile](img/profile.png) 
 4. Navigate **Account > Team**. The following screen appears:
@@ -22,22 +23,22 @@ To add a team member or child user, perform the following steps:
 	The Type field lets you assign multiple roles to a contact based on their responsibilities within the organisation.
 	:::
 
-1. Click the **Submit** button. The following screen appears:
+7. Click the **Submit** button. The following screen appears:
 ![Team Members View](img/teammember.png) 
    
 	:::note
 	Once a team member is added, a registration confirmation email is sent to their registered email address, allowing them to set their password and sign in to the One Yotta platform.
 	:::
 
-1. Click the **Add as Portal User** icon (highlighted in red). The following screen appears:
+8. Click the **Add as Portal User** icon (highlighted in red). The following screen appears:
    ![Portal Role](img/portaluserrole.png)
-2. Select the appropriate portal role from the following options:    
+9. Select the appropriate portal role from the following options:    
     - **Admin** - Full access to all functionalities. 
     - **Commercial** - Permission to perform billing actions and read-only for other actions.
     - **Technology** - Permission to perform technical actions and read-only for other actions. 
 
 	The following screen appears:![Role](img/userroles.png)
-1. Click the **Yes** button. The system assigns the selected role to the team member. The following screen appears:
+10. Click the **Yes** button. The system assigns the selected role to the team member. The following screen appears:
    ![Role Assigned](img/roleassign.png)
    
 
