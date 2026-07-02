@@ -390,16 +390,17 @@ html .hero__title {
 
 
 
-/* Heading Numbering Reset counters */
+/* ═══════════════════════════════════════════
+   HEADING NUMBERING (main content area only)
+   ═══════════════════════════════════════════ */
+
 .markdown {
   counter-reset: h2counter;
 }
 
-/* H2 */
 .markdown h2 {
   counter-reset: h3counter;
 }
-
 .markdown h2::before {
   counter-increment: h2counter;
   content: counter(h2counter) ". ";
@@ -407,11 +408,9 @@ html .hero__title {
   font-weight: bold;
 }
 
-/* H3 */
 .markdown h3 {
   counter-reset: h4counter;
 }
-
 .markdown h3::before {
   counter-increment: h3counter;
   content: counter(h2counter) "." counter(h3counter) " ";
@@ -419,11 +418,50 @@ html .hero__title {
   font-weight: bold;
 }
 
-/* H4 */
 .markdown h4::before {
   counter-increment: h4counter;
   content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) " ";
   color: black;
+  font-weight: bold;
+}
+
+
+/* ═══════════════════════════════════════════
+   TOC NUMBERING (right sidebar)
+   Targets the root ul by class.
+   Child uls have NO class — use plain ul.
+   ═══════════════════════════════════════════ */
+
+ul.table-of-contents {
+  counter-reset: toc-h2;
+}
+
+/* ── H2 entries ── */
+ul.table-of-contents > li {
+  counter-increment: toc-h2;
+  counter-reset: toc-h3;
+}
+ul.table-of-contents > li > a.table-of-contents__link::before {
+  content: counter(toc-h2) ". ";
+  font-weight: bold;
+}
+
+/* ── H3 entries (child ul has no class) ── */
+ul.table-of-contents > li > ul > li {
+  counter-increment: toc-h3;
+  counter-reset: toc-h4;
+}
+ul.table-of-contents > li > ul > li > a.table-of-contents__link::before {
+  content: counter(toc-h2) "." counter(toc-h3) " ";
+  font-weight: bold;
+}
+
+/* ── H4 entries ── */
+ul.table-of-contents > li > ul > li > ul > li {
+  counter-increment: toc-h4;
+}
+ul.table-of-contents > li > ul > li > ul > li > a.table-of-contents__link::before {
+  content: counter(toc-h2) "." counter(toc-h3) "." counter(toc-h4) " ";
   font-weight: bold;
 }
 
