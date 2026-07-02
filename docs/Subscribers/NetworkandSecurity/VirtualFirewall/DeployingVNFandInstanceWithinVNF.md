@@ -27,7 +27,7 @@ To create new Virtual Firewall, follow these steps:
 1. In the main navigation panel, navigate to the **Network and Security** > [Virtual Firewall](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall) section.
 2. On the Virtual Firewalls page, click the **New Virtual Firewall** button.
 3. Follow the prompts to configure and create the virtual firewall.
-![newvfnew](img/newvfnew.png)
+![VF Window](img/vfwindow.png)
 
 ### Configuration Options for Virtual Firewall
 
@@ -38,12 +38,12 @@ The following steps guide you through selecting configuration options like avail
 1. **Choose Your Availability Zone**: Select your preferred availability zone based on your location and network needs.
 2. **Select Firewall Provider**: Choose a firewall provider from the dropdown.  
 3. **Choose a Virtual Firewall Configuration**: Pick a collection option that matches your performance requirements.
-   ![newvf1](img/newvf1.png)
+   ![VF Components](img/vfcomponents.png)
 4. **Set Incoming Traffic Rule**: Select the desired ACL rule from the dropdown menu.
 5. **Name Your Virtual Firewall**: Enter a name for your virtual firewall. Use only letters, numbers, hyphens, or dots.
-   ![newvfdefault](img/newvfdefault.png)
+   ![VF Components](img/vfcomponents2.png)
 6. **Summary and Estimated Costs**: Check the summary and pricing before proceeding.
-![estimatedcost](img/estimatedcost.png)
+![VF Components3](img/vfcomponents3.png)
 ### Deploying Virtual Firewall
 
 After completing the configuration and deployment steps, the newly created virtual firewall appears in the Virtual Firewalls section. This interface provides a summary of key details such as the firewall's name, compute configuration, provider, zone, public IP address, instance count, and deployment status.
@@ -61,7 +61,7 @@ The following steps guide you through accessing the Virtual Firewalls section an
     - Creation time 
 
 A green **Powered On** icon confirms that the firewall is active and running.
-![virtualfirewallconfignew](img/virtualfirewallconfignew.png)
+![VF Overview](img/vfoverview.png)
 ### Viewing Firewall Details
 
 To check the configuration and operational status of your deployed virtual firewall, you can access its detailed view in the Yntraa Cloud. This section provides essential system specifications, network settings, and real-time status indicators.
@@ -75,7 +75,7 @@ The following steps guide you through viewing the full details of your virtual f
     - Configuration and Availability
     - Internal information
     - NIC Information
-![virtualfirewallconfignew](img/virtualfirewallconfignew.png)
+![VF Overview](img/vfoverview.png)
 ### Viewing LAN and WAN Tiers
 
 To understand the network configuration, navigate to the **Network and Security** section where you can view both **LAN** and **WAN** tiers. This helps identify how instances are connected and how traffic flows between internal and external networks.
@@ -86,4 +86,4 @@ The following steps guide you through accessing the Networking section and ident
 2. Click on the **Networking** option: In the left-side menu, under the opened firewall instance, click on the **Networking** tab. This section displays all networks linked to the selected firewall.
 3. Identify the **WAN Tier**: Look for the network labeled as ISOLATED_NETWORK. This is the WAN Tier, typically connected to external/public networks.
 4. Identify the **LAN Tiers**: LAN tiers used for internal communications. 
-![networkingnew](img/networkingnew.png) 
+![Network Name](img/networkname.png) 

@@ -84,22 +84,16 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '23c'),
+    component: ComponentCreator('/docs', '45c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b41'),
+        component: ComponentCreator('/docs', 'ded'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '84a'),
+            component: ComponentCreator('/docs', '980'),
             routes: [
-              {
-                path: '/docs/category/about-vpc-instances',
-                component: ComponentCreator('/docs/category/about-vpc-instances', '210'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
               {
                 path: '/docs/category/account-centre',
                 component: ComponentCreator('/docs/category/account-centre', '23a'),
@@ -343,6 +337,12 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/TeamMemberManagement',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/TeamMemberManagement', 'a69'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AddingTeamMembers',
+                component: ComponentCreator('/docs/Subscribers/AddingTeamMembers', 'e6b'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -833,62 +833,62 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds', 'dcc'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds', 'd47'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs', 'bdd'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs', '878'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers', '065'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC', '463'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets', 'a1f'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances', '571'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview', '3b1'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring', 'a73'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations', '00d'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers', '31e'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC', '1c9'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC', '53d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets', 'e65'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances', '6d9'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ReconfiguringaVPC',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ReconfiguringaVPC', 'a1a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails', 'b1d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations', 'cca'),
                 exact: true,
                 sidebar: "sidebar1"
               },

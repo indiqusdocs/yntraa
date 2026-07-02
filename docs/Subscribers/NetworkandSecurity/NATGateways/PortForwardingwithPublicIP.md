@@ -23,7 +23,7 @@ The following steps guide you through the process of navigating to your NAT Gate
 4. Click the **Add Public IPv4 Address** button. A new public IP is generated and listed under the IPv4 ADDRESS section.
 5. A confirmation message **IPv4 Address purchase successful** appears at the top.
 6. The newly added IP shows the status as Unused.
-![addipv4new](img/addipv4new.png)
+![Add IP](img/addip.png)
 ## Adding a Port Forwarding Rule
 
 Once a public IPv4 address has been successfully added to your NAT Gateway, the next step is to configure port forwarding. This enables external access to internal services by mapping incoming traffic on specific ports to designated internal IP addresses within your network.
@@ -36,7 +36,7 @@ The following steps guide you through locating the unused public IP, accessing t
     - In the row corresponding to the **Unused** public IP, locate and click on the **port forwarding icon**.
     - The icon is next to other icons like the delete (trash bin) and details icon, as shown in  the red box in the screenshot.
 4. **Proceed to Configure the Rule**: After clicking the icon, follow the prompted interface to define your port forwarding rule (not shown in the screenshot but typically involves specifying internal and external ports, protocol, and target IP).
-![addportforwardingnew](img/addportforwardingnew.png)
+![Port Forwarding Adding](img/portforwardingadding.png)
 ## Requiring Values in the Rule
 
 After accessing the port forwarding configuration interface, the next step is to specify the necessary rule parameters. The following details determine how external traffic is routed through the public IP to the intended internal instance:
@@ -51,7 +51,7 @@ After accessing the port forwarding configuration interface, the next step is to
 - **Private End Port**
 
 Click the **Add Port Forwarding Rule** button to save and apply the rule.  
-![pfrdetails](img/pfrdetails.png)
+![Create PF Rule](img/pfrule.png)   
 
 
 

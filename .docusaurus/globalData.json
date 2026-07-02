@@ -96,6 +96,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/AddingTeamMembers",
+              "path": "/docs/Subscribers/AddingTeamMembers",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
               "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
               "sidebar": "sidebar1"
@@ -501,53 +506,53 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers",
               "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/ReconfiguringaVPC",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ReconfiguringaVPC",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations",
               "sidebar": "sidebar1"
             },
             {
@@ -671,6 +676,36 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/compute",
+              "path": "/docs/category/compute",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/windows-instances",
+              "path": "/docs/category/windows-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/rhel-instances",
+              "path": "/docs/category/rhel-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/other-linux-instances",
+              "path": "/docs/category/other-linux-instances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/managed-kubernetes",
+              "path": "/docs/category/managed-kubernetes",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/autoscale",
+              "path": "/docs/category/autoscale",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "/category/network-and-security",
               "path": "/docs/category/network-and-security",
               "sidebar": "sidebar1"
@@ -678,11 +713,6 @@
             {
               "id": "/category/virtual-private-clouds",
               "path": "/docs/category/virtual-private-clouds",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/about-vpc-instances",
-              "path": "/docs/category/about-vpc-instances",
               "sidebar": "sidebar1"
             },
             {
@@ -713,36 +743,6 @@
             {
               "id": "/category/load-balancer-instances",
               "path": "/docs/category/load-balancer-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/compute",
-              "path": "/docs/category/compute",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/windows-instances",
-              "path": "/docs/category/windows-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/rhel-instances",
-              "path": "/docs/category/rhel-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/other-linux-instances",
-              "path": "/docs/category/other-linux-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managed-kubernetes",
-              "path": "/docs/category/managed-kubernetes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/autoscale",
-              "path": "/docs/category/autoscale",
               "sidebar": "sidebar1"
             },
             {

@@ -212,22 +212,18 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-23c": {
+  "/docs-45c": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-b41": {
+  "/docs-ded": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-84a": {
+  "/docs-980": {
     "__comp": "a94703ab"
-  },
-  "/docs/category/about-vpc-instances-210": {
-    "__comp": "14eb3368",
-    "__props": "6fa09a07"
   },
   "/docs/category/account-centre-23a": {
     "__comp": "14eb3368",
@@ -392,6 +388,10 @@
   "/docs/Subscribers/AccountCentre/TeamMemberManagement-a69": {
     "__comp": "17896441",
     "content": "da87b629"
+  },
+  "/docs/Subscribers/AddingTeamMembers-e6b": {
+    "__comp": "17896441",
+    "content": "85c2dc7d"
   },
   "/docs/Subscribers/Compute/Autoscale/AboutAutoscale-784": {
     "__comp": "17896441",
@@ -717,45 +717,45 @@
     "__comp": "17896441",
     "content": "ac2e9e09"
   },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/AboutVirtualPrivateClouds-dcc": {
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds-d47": {
     "__comp": "17896441",
-    "content": "af1c74f9"
+    "content": "949bb3b0"
   },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreateListandViewVPCs-bdd": {
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs-878": {
     "__comp": "17896441",
-    "content": "c24b511f"
+    "content": "9e532f58"
   },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/CreatingVPCSubnetsTiers-065": {
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers-31e": {
     "__comp": "17896441",
-    "content": "f2f3fbb7"
-  },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/IPv4AddressesandVPC-463": {
-    "__comp": "17896441",
-    "content": "7def56e5"
-  },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingAccessControlonVPCSubnets-a1f": {
-    "__comp": "17896441",
-    "content": "56e6650c"
-  },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/ManagingVPCInstances-571": {
-    "__comp": "17896441",
-    "content": "2c96ff23"
-  },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Overview-3b1": {
-    "__comp": "17896441",
-    "content": "21a15159"
-  },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/Reconfiguring-a73": {
-    "__comp": "17896441",
-    "content": "15edad7f"
-  },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVPCInstances/VPCManagementandBasicOperations-00d": {
-    "__comp": "17896441",
-    "content": "e666902d"
+    "content": "2d848408"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC-1c9": {
     "__comp": "17896441",
     "content": "bf72e5ec"
+  },
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC-53d": {
+    "__comp": "17896441",
+    "content": "db4da76f"
+  },
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets-e65": {
+    "__comp": "17896441",
+    "content": "36254d10"
+  },
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances-6d9": {
+    "__comp": "17896441",
+    "content": "373b6797"
+  },
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ReconfiguringaVPC-a1a": {
+    "__comp": "17896441",
+    "content": "96c878b0"
+  },
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails-b1d": {
+    "__comp": "17896441",
+    "content": "e0b42d18"
+  },
+  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations-cca": {
+    "__comp": "17896441",
+    "content": "f676d729"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC-84a": {
     "__comp": "17896441",
