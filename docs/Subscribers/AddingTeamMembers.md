@@ -39,7 +39,7 @@ To add a team member or child user, perform the following steps:
 
 	The following screen appears:![Role](img/userroles.png)
 10. Click the **Yes** button. The system assigns the selected role to the team member. The following screen appears:
-   ![Role Assigned](img/roleassign.png)
+   ![Role Assigned](img/roleassigned.png)
    
 
 
