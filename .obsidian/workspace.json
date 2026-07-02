@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/intro.md",
+                "file": "docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "NetworkingManagement"
             }
           }
         ]
@@ -169,9 +169,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "3740c8ec402d7ace",
+  "active": "b7a0c898a65a0b2a",
   "lastOpenFiles": [
+    "build/index.html",
+    "build/search/index.html",
+    "build/search",
+    "build/markdown-page/index.html",
+    "build/markdown-page",
+    "build/blog/tags/hola/index.html",
+    "build/blog/tags/hello/index.html",
+    "build/blog/tags/facebook/index.html",
+    "build/blog/authors/all-sebastien-lorber-articles/index.html",
+    "build/blog/authors/yangshun/index.html",
+    "build/blog/tags/docusaurus/index.html",
+    "build/assets/images/3tierednetwork-3f97085fe2e60ec5870aaf0bcb407fc5.png",
+    "build/assets/images/aclmanage-84aeaa0d00a9f02bdad5432da77bd504.png",
+    "build/assets/images/addinginstances-909a10e5c959c880b7014922133eb366.png",
+    "build/assets/images/addip-e386fcfbc0d97b1991ae10d935e207d0.png",
+    "build/assets/images/addnatinstance-7a86b953cb155bf14d37da3b231b2e7f.png",
+    "build/assets/images/addnetworkrhelnic-19d1b5f7c80b8b8bf37d066b3b4998a7.png",
+    "build/assets/images/addnetworktab2-7c35fcee00d110af01027a8708856125.png",
+    "build/assets/images/addnicinstance-bb467d57627f2f4e790385913153ea22.png",
+    "build/assets/images/addrule1new-78a97e36ed577f71065e5d719366caa9.png",
+    "build/assets/images/addrule2-a92e36193575a04c4c838567655888dd.png",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds.md",
     "docs/Subscribers/GettingStartedonYntraaCloud.md",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses.md",
+    "docs/Subscribers/AddingTeamMembers.md",
+    "docs/Subscribers/intro.md",
     "docs/Subscribers/SystemRequirements.md",
     "docs/Subscribers/SigningUp.md",
     "docs/Subscribers/SigningIn.md",
@@ -185,36 +211,11 @@
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds.md",
-    "build/search-index.json",
-    "build/search/index.html",
-    "build/search",
-    "build/markdown-page/index.html",
-    "build/markdown-page",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/sbs.svg",
-    "build/img/undraw_docusaurus_react.svg",
-    "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/sbs.png",
-    "build/img/sps.svg",
-    "build/img/sps.png",
-    "build/img/social-card.png",
-    "build/img/rn.svg",
-    "build/img/rn.png",
-    "docs/Subscribers/TeamMemberorChildUserManagement.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances.md",
     "docs/Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks.md",
     "docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks.md",
-    "docs/Subscribers/intro.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandInstanceWithinVNF.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel.md"
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandInstanceWithinVNF.md"
   ]
 }

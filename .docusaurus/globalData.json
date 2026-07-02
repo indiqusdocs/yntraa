@@ -96,6 +96,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/AddingTeamMembers",
+              "path": "/docs/Subscribers/AddingTeamMembers",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
               "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
               "sidebar": "sidebar1"
@@ -643,11 +648,6 @@
             {
               "id": "Subscribers/SystemRequirements",
               "path": "/docs/Subscribers/SystemRequirements",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/TeamMemberorChildUserManagement",
-              "path": "/docs/Subscribers/TeamMemberorChildUserManagement",
               "sidebar": "sidebar1"
             },
             {
