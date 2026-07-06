@@ -16,7 +16,7 @@ To create a VPC, perform the following steps:
 2. Click the **New Virtual Private Cloud** button. The following screen appears:
    ![VPC Screen](img/vpcscreen.png)
 3. Choose an **Availability Zone**, which is the geographical region where your VPC will be configured.
-4. Specify network address base size and select size i.e. The super CIDR for the internal IP allocation in an x.x.x.x/x format.
+4. Specify network address base size and select size i.e. The <span class="tooltip-wrapper"> **super CIDR** <span class="tooltip-box">It is the method of combining multiple continuous smaller CIDR blocks into a larger block to reduce the number of routes.</span></span> for internal IP allocation in an x.x.x.x/x format. For more information, refer [IP addressing](/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR)
 5. **Choose a Networking Pack** from the available network collections. 
 6. Select the default IPv4 address for VPC Networking to create the VPC network with a new Public IP address.
   

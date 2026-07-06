@@ -396,6 +396,31 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/NetworkingManagement",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/NetworkingManagement",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Operations",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Operations",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Overview",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Overview",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
               "sidebar": "sidebar1"

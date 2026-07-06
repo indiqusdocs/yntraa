@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '45c'),
+    component: ComponentCreator('/docs', 'b05'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ded'),
+        component: ComponentCreator('/docs', '410'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '980'),
+            component: ComponentCreator('/docs', '2d1'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -697,6 +697,36 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance', '517'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint', 'ec8'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/NetworkingManagement',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/NetworkingManagement', 'ddc'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Operations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Operations', '273'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Overview',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Overview', '7a4'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance', '02c'),
                 exact: true,
                 sidebar: "sidebar1"
               },

@@ -48,6 +48,18 @@ After the tier is created, three icons appear on the right side for quick action
 You can delete only the empty tiers, which means that in order to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
 :::
 
+## Replacing an ACL
+
+To replace an ACL, follow these steps:
+
+1. Click the **Replace Access Control List** (highlighted in red) icon.
+   ![Tier Default Deny](img/tierdefaultdeny.png)
+
+   The following screen appears: 
+   
+2. Select a different **ACL** from the dropdown list.
+3. Click the **Replace Tier ACL** button.
+   ![Tier Replaced](img/tierreplaced.png)
 
 
 
