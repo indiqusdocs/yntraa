@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Activating the Alteon LBI Control Panel
 
-Adding the NetScaler VPX is required to enable advanced load balancing, traffic management, and security features for your application environment. 
+Adding the Alteon is required to enable advanced load balancing, traffic management, and security features for your application environment. 
 
 The following steps can be used for activating the Alteon LBI control panel and accessing it after activation:
 
@@ -24,7 +24,7 @@ reboot
 All the required details can be found in the parent VPC and/or on the LBI details sections of Yntraa Cloud.
 :::
 
-After completing the above steps, click the **Launch Load Balancer Management Interface** button in the **Access** section of the LBI details to access the NetScaler VPX UI.
+After completing the above steps, click the **Launch Load Balancer Management Interface** button in the **Access** section of the LBI details to access the Alteon UI.
 
 ![lbmanagement](img/lbmanagement.png)
 

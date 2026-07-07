@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b05'),
+    component: ComponentCreator('/docs', 'd0e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '410'),
+        component: ComponentCreator('/docs', 'a33'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2d1'),
+            component: ComponentCreator('/docs', 'f38'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -731,38 +731,44 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Volume Management',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Volume Management', 'e35'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways', 'fc5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances', 'ffa'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/', '1ed'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses', '217'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses', 'ef5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations', 'aac'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/RestartingandDeletingaNATGateway',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/RestartingandDeletingaNATGateway', 'daa'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview', '46c'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayInstances',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayInstances', '84f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways', 'd53'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayOverview',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayOverview', '950'),
                 exact: true,
                 sidebar: "sidebar1"
               },

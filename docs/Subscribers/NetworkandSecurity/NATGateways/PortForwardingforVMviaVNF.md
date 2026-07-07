@@ -18,43 +18,45 @@ The following are the high-level tasks required to configure port forwarding for
 
 This section outlines the steps to access and select a NAT Gateway within the Yntraa Cloud. Before managing configuration or operational settings, you must navigate to the appropriate section of the dashboard and identify the NAT Gateway instance relevant to their network environment. This ensures that all subsequent actions are performed on the correct gateway associated with the intended Virtual Network Function (VNF). 
 
-The following steps guide you through locating and selecting your NAT Gateway from the dashboard:
+To locate and select your NAT Gateway, follow these steps:
 
-1. Navigate to the **Network and Security > NAT Gateways** section from the  cloud dashboard.
+1. Navigate to the **Network and Security > NAT Gateways**.
+![NAT Gateway Instances](img/natgatewayinstances.png)  
 2. Select the appropriate NAT Gateway associated with your VNF.
 ![NAT Gateway View](img/natgatewayview.png)
 ## Reviewing Configuration
 
 This section offers a detailed review of the current NAT Gateway configuration within the cloud environment. It includes essential system specifications, deployment parameters, and operational status to ensure the gateway is correctly set up and functioning as expected. Verify these details before initiating any advanced networking configurations, such as port forwarding or scaling operations.
 
-The following steps guide you through reviewing key configuration details, checking operational status, and accessing internal system information necessary for validation and troubleshooting within your cloud environment: 
+To review key configuration details, check operational status, and access internal system information necessary for validation and troubleshooting within your cloud environment, follow these steps:
+![NAT Overview](img/natoverview.png)
 
-1. NAT Gateway Configuration Overview: The following details summarize the key configuration parameters of the selected NAT Gateway.
+- **NAT Gateway Configuration Overview**: The following details summarize the key configuration parameters of the selected NAT Gateway.
     - **vCPU/RAM**: Indicates the computational resources allocated for the NAT Gateway.
     - **Availability Zone**: The region or zone where the gateway is deployed.
     - **Public IP**: The public-facing IP through which outbound traffic is routed.
-2. Check Operational Status: The NAT Gateway is in a **Running** state, indicating it is active and fully operational.
-3. Confirm Network and Gateway Configuration: Review the virtual gateway pack and network size settings to ensure the correct configuration is applied before proceeding with port forwarding or deployment steps.
+- **Check Operational Status**: The NAT Gateway is in a **Running** state, indicating it is active and fully operational.
+- **Confirm Network and Gateway Configuration**: Review the virtual gateway pack and network size settings to ensure the correct configuration is applied before proceeding with port forwarding or deployment steps.
      - **Virtual Gateway Pack**
      - **Network Size**
-4. Access Internal Information for System Reference: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the cloud environment.
+- **Access Internal Information for System Reference**: The following internal configuration details are provided for system-level reference and tracking of the NAT Gateway within the cloud environment.
     - Template Name
     - Virtual Gateway Internal Name
     - Created On
-![NAT Overview](img/natoverview.png)
+
 ## Accessing Port Forwarding Settings for NAT Gateway
 
 To enable external access to internal services hosted behind a NAT Gateway, you must configure port forwarding rules. This section explains how to access the port forwarding settings for a NAT Gateway within the cloud environment. Port forwarding allows specific inbound traffic to reach designated internal resources by mapping external ports to internal IPs and ports.
 
-The following steps outline the process to navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively:
+To navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively, follow these steps:
 
-1. Navigate to the **Network and Security > NAT Gateways** section.
+1. Navigate to the **Network and Security > NAT Gateways**.
    ![NAT Listing](img/natlisting.png)
 2. Select your NAT Gateway from the list.
 3. In the gateway page, click the **IP Addresses** tab.
    ![NAT IP](img/natip.png)
 4. Find your public IP address listed on this page.
-5. Click the **Port Forwarding Rule** icon (next to the IP address) to start adding a port forwarding rule.
+5. Click the **Port Forwarding Rule** icon (next to the IP address) to start adding a [port forwarding rule](/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses).
 ![Port Forwarding](img/portforwarding.png)
 ## Adding a New Port Forwarding Rule
 
@@ -62,19 +64,20 @@ To allow external access through a NAT Gateway in the cloud portal, you can add 
 
 The following steps guide you through logging into the cloud portal, navigating to the NAT Gateways section, selecting the relevant gateway, and initiating the process of creating a new port forwarding rule by accessing the Port Forwarding interface and reviewing any existing rules: 
 
-1. Login to the Yntraa Cloud.
-2. Navigate to the **Network and Security > NAT Gateways** section.
-3. Choose the NAT Gateway for which you want to configure the port forwarding rule.
-4. Once inside the selected NAT Gateway, see a section titled **Port Forwarding** along with the public IP address.
-5. Click the **+ Add Rule** button located next to the Port Forwarding heading. This opens the interface to add a new port forwarding rule.
-6. Review Existing Rules (Optional): You can see a list of existing rules with the details : 
+1. Login to the Yntraa Cloud portal.
+2. Navigate to the **Network and Security > NAT Gateways**.
+3. Click the NAT Gateway for which you want to configure the port forwarding rule.
+4. Once inside the selected NAT Gateway, click the Port Forwarding icon. The following screen appears:
+![PF Created](img/pfcreatedwindow.png)
+5. Click the **+ Add Rule** button. The following screen appears where you  can add a new port forwarding rule:
+6. (Optional) Review Existing Rules: You can view a list of existing rules with the following details: 
     - Tier 
     - Instance
     - Private IPv4
     - Protocol 
     - Public Range
     - Private Range
-![PF Created](img/pfcreatedwindow.png)
+
 ## Adding Details and Creating Port Forwarding Rule
 
 Once you click on **+ Add Rule**, a new form opens where you must enter the required information. These details define how incoming traffic on the public IP is routed to your internal instance. 
@@ -82,6 +85,7 @@ Once you click on **+ Add Rule**, a new form opens where you must enter the requ
 The following steps guide you through completing the port forwarding rule form by selecting the appropriate protocol, tier, and instance, and by specifying the public and private port ranges required to establish the forwarding rule:
 
 1. Click the **+ Add Rule** a new form titled **Add Port Forwarding Rule** appears.
+![Create PF Rule](img/pfrule.png)   
 2. Fill in all the required fields marked with a red asterisk (*):
 	- **Protocol**:  Select the desired protocol from the dropdown.
 	- **Tier**:  Choose the appropriate tier from the list that maps to your network environment.
@@ -99,8 +103,8 @@ If you want to forward only one port, enter the same value for start and end por
 Same rule as above applies if forwarding a single port.
 :::
    
-1. Click the **ADD PORT FORWARDING RULE** button to save and apply the new rule.
-![Create PF Rule](img/pfrule.png)   
+3. Click the **Add Port Forwarding Rule** button to save and apply the new rule.
+
 ## Verifying the Added Port Forwarding Rule
 
 After creating the port forwarding rule, it is important to verify that it has been added correctly. This ensures that traffic is properly forwarded to the intended internal instance. Review the rule details listed under the **Port Forwarding** section to confirm everything matches your configuration.
@@ -108,6 +112,7 @@ After creating the port forwarding rule, it is important to verify that it has b
 The following steps guide you through locating the newly added rule in the **Port Forwarding** section, reviewing its associated tier, instance, IP addresses, and port ranges, and confirming that all values align with the configuration you specified during rule creation:
 
 1. Once the rule is added, it appears in the list under the **Port Forwarding** section for the selected public IP.
+![PF Created](img/pfcreatedwindow.png)
 2. Review the displayed rule details, which include:
     - Tier
     - Instance 
@@ -116,5 +121,5 @@ The following steps guide you through locating the newly added rule in the **Por
     - Public range
     - Private range
 3. Ensure the information is accurate and matches the values you entered during rule creation. 
-![PF Created](img/pfcreatedwindow.png)
+
 

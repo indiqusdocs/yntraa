@@ -421,33 +421,38 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Volume Management",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Volume Management",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingNATGateways",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/RestartingandDeletingaNATGateway",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/RestartingandDeletingaNATGateway",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayOverview",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayOverview",
               "sidebar": "sidebar1"
             },
             {
