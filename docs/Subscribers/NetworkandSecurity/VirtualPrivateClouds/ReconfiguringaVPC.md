@@ -6,6 +6,13 @@ sidebar_position: 8
 
 The reconfigure section shows your current VPC subscription details and lets you update the networking pack based on changing requirements. It helps you adjust your network setup to better match your workload needs and keep your cloud environment optimized and up to date.
 
+To reconfigure a VPC, follow these steps: 
+
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears: 
+![Reconfigure in VPC](img/reconfigureinvpc.png)
+2. Click on your created VPC, the following screen appears: 
+![VPC Reconfigure Overview](img/vpcreconfigureoverview.png)
+3. Select a **Virtual Router** from the list, and click the **Reconfiguring Networking Pack** button. The following screen appears: 
 ![reconfignew1](img/reconfignew1.png)
 
 :::note

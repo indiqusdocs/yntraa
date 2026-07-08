@@ -5,10 +5,13 @@ sidebar_position: 2
 
 To ensure optimal performance and full functionality of the Yntraa Cloud, your system must meet the following requirements:
 
+<div className="custom-block-blue">  
 - [Supported Web Browsers](#supported-web-browsers)
 - [Web Browser Settings](#web-browser-settings)
 - [Device Compatibility](#device-compatibility)
 - [Internet Connectivity](#internet-connectivity)
+</div>
+
 
 ## Supported Web Browsers
 

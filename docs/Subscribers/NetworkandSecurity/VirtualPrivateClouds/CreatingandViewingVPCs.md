@@ -42,15 +42,14 @@ This might take up to 5-8 minutes. You may use the cloud console during this tim
 
 ## Viewing Available VPCs
 
-You can access all the VPCs created in your account from **Network and Security > Virtual Private Clouds**. The list comprises of the following details:
+Viewing available VPCs provides a list of all configured virtual private clouds and select the appropriate VPC for your networking requirements.
 
-- VPC Name
-- Public IP
-- Network Size
-- Created
-  
-Click on the VPC name to view the associated details and manage the VPC.
- ![vpccreatenew](img/vpccreatenew.png)
+To view all available VPCs, follow these steps:
+
+Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
+![Available VPC](img/availablevpc.png)
+
+
 
 
 

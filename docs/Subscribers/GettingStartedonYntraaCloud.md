@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 # Getting Started
 
-This section walks you through the basic steps to create and launch your first workload on the Yntraa Cloud portal. You will learn how to set up the required networking components, choose the right compute resources, configure storage and access settings, apply security rules, and finally create a customer workload instance.
+This section guides you through the basic steps to create and launch your first workload on the Yntraa Cloud portal. You will learn how to set up the required networking components, choose the right compute resources, configure storage and access settings, apply security rules, and finally create a customer workload instance.
 
 This section comprises of the following sub-sections:
 
@@ -21,10 +21,10 @@ This section comprises of the following sub-sections:
 Create a Virtual Private Cloud (VPC) to set up a secure and isolated network environment for your cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing you to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on creating a VPC, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs).
 
 ## Creating Subnets and Tiers 
-Create Subnets and Tiers within a VPC to organise the network into logical segments for different application layers such as web, application, and database. For more information on creating Subnets and Tiers, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers).
+Create Subnets and Tiers within a VPC to organise the network into logical segments for different application layers such as web, application, and database. For more information on creating subnets and tiers, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers).
   
 ## Adding IPv4 Addresses
-Add IPv4 addresses within a VPC to enable communication between network components and external systems. By default, a public IPv4 address is assigned to the Virtual Router (VR), allowing it to send and receive traffic over the internet. These IP addresses can also be used to configure secure connections such as remote access (L2TP) and site-to-site (IPSec) VPN. For more information on adding IPv4 Addresses, [click here](/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses)
+Add IPv4 addresses within a VPC to enable communication between network components and external systems. By default, a public IPv4 address is assigned to the Virtual Router (VR), allowing it to send and receive traffic over the internet. These IP addresses can also be used to configure secure connections such as remote access (L2TP) and site-to-site (IPSec) VPN. For more information on adding IPv4 addresses, [click here](/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses)
 
 ## Selecting a Compute Package 
 Select a compute package to define the processing resources required for running applications or workloads. Compute instances are virtual machines that provide CPU, memory, and other resources to support application performance. These instances can run various Linux operating systems such as Ubuntu, CentOS, Rocky Linux, Oracle Linux, and Debian. For more information on selecting a compute package, [click here](/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances)

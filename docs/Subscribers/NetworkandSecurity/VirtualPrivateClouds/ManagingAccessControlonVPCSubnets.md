@@ -3,13 +3,16 @@ sidebar_position: 7
 ---
 # Managing Access Control on VPC Subnets
 
-This section describes how to manage Access Control List (ACL) on VPC. An ACL is a set of rules for controlling and filtering incoming and outgoing network traffic and reducing network attacks.
+Access Control Policies govern what traffic is allowed or restricted into and from your VPC network tiers.
+
+You can create Access Control Policies using Access Control Lists (ACL) and configure rules within these ACL (called ACL Rules). You can then apply the ACL to any tier within the VPC. 
 
 - [Use Cases](#use-cases)
 - [Managing Individual Custom ACL and Adding Rules](#managing-individual-custom-acl-and-adding-rules)
 
 
 ## Use Cases
+
 The following are the use cases of ACL:
 
 - **Allow web traffic**: Permit HTTP (80) and HTTPS (443) traffic to web servers.
@@ -35,6 +38,8 @@ You can access ACLs from the Access Control Lists menu item under the VPC detail
 - [Deleting an ACL](#deleting-an-acl)
   
 ### Creating an ACL Rule
+
+Creating an Access Control List (ACL) enables you to configure traffic filtering rules for your network. Use an ACL to control inbound and outbound traffic and help secure your network resources.
 
 To create a custom ACL and add rules, follow these steps:
 
@@ -64,6 +69,8 @@ To create a custom ACL and add rules, follow these steps:
 10. Click the **Replace Tier ACL** button.
 
 ### Editing ACL Name
+
+Editing an ACL name enables you to change the name of an existing ACL. Use this option to keep ACL names clear, consistent, and easy to identify during network management.
 
 To edit the ACL name, follow these steps:
 

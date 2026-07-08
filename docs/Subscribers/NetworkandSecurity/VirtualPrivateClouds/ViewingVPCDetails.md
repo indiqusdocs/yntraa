@@ -8,18 +8,13 @@ Viewing VPC details to get a summary of its configuration and status. This secti
 To view the details associated with a VPC follow these steps:
 
 1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
-2. Click on the VPC name to view the associated details and manage the VPC. The following screen appears:
+   ![VPC Overview](img/overviewtabinvpc.png)
+2. Click on your created VPC. The following screen appears: 
    ![vpcoverviewnew](img/vpcoverviewnew.png)
-3. Click on Overview from the menu on the left. The section of the top shows the following information about the selected VPC.
-
-- Configuration
-- Availability Zone
-- Public IP
-- Created
-
-Along with the summary, the following information is readily available under the **Overview** tab:
+3. Click **Overview**. The following screen appears with the details:
 
 - **Configuration and Availability**
+  View the VPC's configuration to verify the current configuration and operational state.
     - The instance's status, **Running**, is displayed in <span class="green">**green**</span>, whereas **Stopped** is displayed in <span style={{ color: 'red' }}>red</span>.
     - Information about the Virtual Router Pack.
     - Information about the Network Size.

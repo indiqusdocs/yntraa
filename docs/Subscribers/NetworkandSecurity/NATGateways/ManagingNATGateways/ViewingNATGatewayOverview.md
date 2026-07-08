@@ -3,6 +3,8 @@ sidebar_position: 2
 ---
 # Viewing NAT Gateway Overview
 
+The NAT gateway overview helps you view the current configuration and operational status of the gateway. Reviewing the overview enables you to validate the gateway's settings, monitor its performance, and manage it more effectively.
+
 1. Navigate to **Network and Security > Nat Gateways**. The following screen appears
 ![NAT Gateway Instances](img/natgatewayinstances.png)  
 2. Click on your created NAT Gateway. The following screen appears:
@@ -26,6 +28,8 @@ sidebar_position: 2
 	- Created On
 	  
 ## Powering On and Off the Virtual Router
+
+Powering a virtual router on or off allows you to control its operational state. Power on the virtual router to start routing network traffic and enable connectivity between networks. Power off the virtual router when performing maintenance, applying configuration changes, or temporarily stopping network services to conserve resources or troubleshoot issues.
 
 To **Power On/Off** the virtual router, follow these steps: 
 
