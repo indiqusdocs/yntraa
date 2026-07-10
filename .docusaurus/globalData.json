@@ -371,13 +371,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
-              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
+              "id": "Subscribers/NetworkandSecurity/L2 Networks/AddinganL2Networks",
+              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AddinganL2Networks",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks",
-              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks",
+              "id": "Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks",
+              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks",
               "sidebar": "sidebar1"
             },
             {
@@ -466,6 +466,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel",
               "sidebar": "sidebar1"
@@ -473,6 +478,11 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts",
               "sidebar": "sidebar1"
             },
             {
@@ -486,53 +496,38 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/Operations",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Operations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation",
               "sidebar": "sidebar1"
             },
             {
@@ -733,11 +728,6 @@
             {
               "id": "/category/virtual-firewalls",
               "path": "/docs/category/virtual-firewalls",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/firewall-instances",
-              "path": "/docs/category/firewall-instances",
               "sidebar": "sidebar1"
             },
             {

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 7
 ---
 # Restore Points
 
@@ -8,7 +8,7 @@ Instance Restore Point allow you to create point-in-time images of instances tha
 The Restore Point section shows all the Virtual Firewall Restore Point, which can be used to revert the Virtual Firewall to an earlier state.
 
 To view all the restore points taken for Instance, navigate to **Network and Security**, select a **Virtual Firewall** and click the **Restore Points** tab.
-![restorepoints](img/restorepoints.png)
+![restorepoints](imgnew/restorepoints.png)
 
 A Restore Point lists the following details:
 - Restore Point Name
@@ -16,7 +16,7 @@ A Restore Point lists the following details:
 - Description
 - Type
 - Created On
-![restorepoints](img/restorepoints.png)
+![restorepoints](imgnew/restorepoints.png)
 
 The following quick options are available:
 - **Restore from Instance Restore Point**
@@ -26,7 +26,7 @@ The following quick options are available:
 
 To create a Restore Point, follow these steps:
 
-1. Click the **Create Restore Point** button. The following window appears: ![createrestorenew](img/createrestorenew.png)
+1. Click the **Create Restore Point** button. The following window appears: ![createrestorenew](imgnew/createrestorenew.png)
 2. Enter the **Name** and **Description** of the Restore Point.
 3. Click the **Create** button.
 

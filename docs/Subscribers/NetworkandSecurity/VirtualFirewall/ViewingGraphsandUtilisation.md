@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 3
 ---
 # Viewing Graphs and Utilisation
 
@@ -18,11 +18,11 @@ The following graphs are available on a 24-hour time-scale graph with a 30-day t
 - Disk Read IOPS
 - Disk Write IOPS
 
-![graphtrendnew](img/graphtrendnew.png)
+![graphtrendnew](imgnew/graphtrendnew.png)
 ## Utilisation (Historical)[​](http://localhost:3000/docs/Subscribers/Compute/LinuxInstances/ViewingGraphsandUtilizationofLinuxInstances#utilisation-historical "Direct link to Utilisation (Historical)")
 
 To view historical usage across supported parameters, navigate to the [Network and Security](AboutVirtualFirewallInstances.md), select the **Virtual Firewall** and access the **Utilisation** tab.
-![utilisationnew](img/utilisationnew.png)
+![utilisationnew](imgnew/utilisationnew.png)
 
 The Utillisation table shows a historical date-wise details of daily maximum, minimum, and average readings for all parameters. The utilisation report is downloadable as a .csv file.
 

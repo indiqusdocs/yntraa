@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd0e'),
+    component: ComponentCreator('/docs', 'bc3'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a33'),
+        component: ComponentCreator('/docs', '99b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f38'),
+            component: ComponentCreator('/docs', '44d'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -127,12 +127,6 @@ export default [
               {
                 path: '/docs/category/details-of-block-volume',
                 component: ComponentCreator('/docs/category/details-of-block-volume', '644'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/firewall-instances',
-                component: ComponentCreator('/docs/category/firewall-instances', '8bc'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -671,14 +665,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks', '8ea'),
+                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/AddinganL2Networks',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/AddinganL2Networks', '2db'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks', 'f3a'),
+                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks', '9e5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -785,6 +779,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances', '37b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel', 'f76'),
                 exact: true,
@@ -793,6 +793,12 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork', '220'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts', '596'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -809,62 +815,44 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances', 'a17'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume', '76e'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts', '60e'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement', '017'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement', '409'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Operations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Operations', '500'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations', 'a02'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall', '202'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview', '02f'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots', '596'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall', '138'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details', '729'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots', '31a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation', '844'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails', '543'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement', '1ac'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation', '470'),
                 exact: true,
                 sidebar: "sidebar1"
               },

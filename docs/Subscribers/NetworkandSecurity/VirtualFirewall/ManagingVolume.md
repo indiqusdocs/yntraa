@@ -1,14 +1,14 @@
 ---
-sidebar_position: 9
+sidebar_position: 5
 ---
-# Volume Management
+# Managing Volume
 
 Volume Management allows you to monitor and manage the storage disks associated with a Virtual Firewall instance. 
 
 To view the disks attached to this Instance, navigate to **Network and Security**, select a **Virtual Firewall** and click the **Volumes** tab.
 
-Virtual Firewall on Yntraa Cloud work with the [Block Volumes Service](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement) and let you carry out basic disk operations.
-![volumenew](img/volumenew.png)
+Virtual Firewall on Yntraa Cloud work with the [Block Volumes Service](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) and let you carry out basic disk operations.
+![volumenew](imgnew/volumenew.png)
 
 The following are the quick actions:
 

@@ -1,12 +1,12 @@
 ---
-sidebar_position: 15
+sidebar_position: 9
 ---
 # Operations
 
 To view all available Instance operations, navigate to the **Network and security**, select a **Virtual Firewall** and access the **Operations** tab.
 
 Yntraa Cloud provides the options to perform the following operations on Virtual Firewall:
-	![operationnew](img/operationnew.png)
+	![operationnew](imgnew/operationnew.png)
 - **Restart Virtual Firewall** - Perform a quick reboot on your Instance. This is a simple restart, and no data will be lost.
 - **Force Stop Virtual Firewall** - Force stop a running or a hung Virtual Firewall.
 - **Rename Virtual Firewall** - Rename the Virtual Firewall.
