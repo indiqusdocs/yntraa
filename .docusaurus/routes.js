@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'bc3'),
+    component: ComponentCreator('/docs', 'f29'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '99b'),
+        component: ComponentCreator('/docs', '71a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '44d'),
+            component: ComponentCreator('/docs', '7c0'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -701,26 +701,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/NetworkingManagement', 'ddc'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations', '370'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Operations',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Operations', '273'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Overview',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Overview', '7a4'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks', 'e69'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
                 path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance', '02c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details', '1d4'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -815,6 +815,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations', '842'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume', '76e'),
                 exact: true,
@@ -823,12 +829,6 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement', '017'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Operations',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Operations', '500'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -851,8 +851,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation', '470'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs', '3e4'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation', '969'),
                 exact: true,
                 sidebar: "sidebar1"
               },

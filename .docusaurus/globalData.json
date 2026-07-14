@@ -401,23 +401,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/NetworkingManagement",
-              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/NetworkingManagement",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Operations",
-              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Overview",
-              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Overview",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks",
               "sidebar": "sidebar1"
             },
             {
               "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance",
               "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details",
               "sidebar": "sidebar1"
             },
             {
@@ -496,6 +496,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume",
               "sidebar": "sidebar1"
@@ -503,11 +508,6 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/Operations",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Operations",
               "sidebar": "sidebar1"
             },
             {
@@ -526,8 +526,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation",
               "sidebar": "sidebar1"
             },
             {

@@ -24,18 +24,14 @@ To create a subnet and tier, follow these steps:
     - Access Control
     - Load Balancing Type
 
-:::note
-To set up a public load balancer, you need to select **Public Load Balancer** from the **Load Balancing Type** drop-down. There can only be 1 tier of type Public LB in a network.
-:::
-  
 5. Click the **Add Network Tier** button. The following screen appears: 
 ![Subnet and Tier Created in VPC](img/subnetandtiercreatedinvpc.png)
 
 After the tier is created, the following quick actions are available: 
 
-- **Restart** the network
-- **Replace** the access control list
-- **Delete** the tier
+    - **Restart Network** 
+    - **Replace Access Control List** 
+    - **Delete Network** 
 
 ## Replacing an ACL
 

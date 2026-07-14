@@ -22,9 +22,9 @@ The Yntraa Cloud portal is a web-based application and is supported on the follo
   
 ## Web Browser Settings
 
-- JavaScript must be enabled
-- Cookies must be enabled for authentication and session handling
-- Pop-ups should be allowed for the Yntraa Cloud domain to ensure proper functionality
+- JavaScript must be enabled.
+- Cookies must be enabled for authentication and session handling.
+- Pop-ups should be allowed for the Yntraa Cloud domain to ensure proper functionality.
 
 ## Device Compatibility
 

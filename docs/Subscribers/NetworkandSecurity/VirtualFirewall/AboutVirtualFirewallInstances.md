@@ -45,13 +45,13 @@ To view a virtual firewall details, follow these steps:
 ![launchconsolenew](imgnew/launchconsolenew.png)
    
 - [Viewing Firewall Instance Details](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing%20Firewall%20Instance%20Details)
-- [Viewing Graphs and Utilisation](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphsandUtilisation)
+- [Viewing Graphs and Utilisation](ViewingGraphs.md)
 - [Configuring Alerts](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts)
 - [Managing Volume](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume)
 - [Networking Management](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement)
 - [Restore Points](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots)
 - [Reconfiguring Virtual Firewall](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall)
-- [Operations](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Operations)
+- [ManagingFirewallInstanceOperations](ManagingFirewallInstanceOperations.md)
   
 
 On the top-right corner, the following options are available: 

@@ -14,7 +14,7 @@ To create a VPC, perform the following steps:
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![New VPC](img/newvpc.png)
 2. Click the **New Virtual Private Cloud** button. The following screen appears:
-   ![VPC Screen](img/vpcscreen.png)
+   ![VPC Screen](img/vpcdetailsnew.png)
 3. Choose an **Availability Zone**, which is the geographical region where your VPC will be configured.
 4. Specify network address base size and select size i.e. The <span class="tooltip-wrapper"> **super CIDR** <span class="tooltip-box">It is the method of combining multiple continuous smaller CIDR blocks into a larger block to reduce the number of routes.</span></span> for internal IP allocation in an x.x.x.x/x format. For more information, refer [IP addressing](/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR)
 5. **Choose a Networking Pack** from the available network collections. 
@@ -24,14 +24,14 @@ To create a VPC, perform the following steps:
    You cannot edit the Super CIDR after creating it.
    :::
    
-7. Verify the Estimated Cost of your VPC, based on the options that you have chosen from the **Summary and Estimated Costs** Section.
+7. Verify the estimated cost of your VPC, based on the options that you have chosen from the **Summary and Estimated Costs** Section.
   ![vpccreationnew](img/vpccreationnew.png)
 8. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
 9. Click the **Buy Monthly** button, a confirmation screen appears, and the price summary is displayed along with the discount codes, if you have any in your account. 
     1. You can apply any of the discount codes listed by clicking on the **Apply** button. 
     2. You can also remove the applied discount code by clicking the **Remove** button. 
 
-  ![costsummarynew](img/costsummarynew.png)
+    ![costsummarynew](img/costsummarynew.png)
 10. Click the **Confirm** button to create the VPC. ![confirmvpcnew](img/confirmvpcnew.png)
 
 Once your VPC is ready, you will be notified of this purchase on your email address on record. 

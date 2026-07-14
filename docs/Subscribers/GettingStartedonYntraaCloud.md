@@ -7,6 +7,7 @@ This section guides you through the basic steps to create and launch your first 
 
 This section comprises of the following sub-sections:
 
+<div className="custom-block-blue">  
 - [Creating Virtual Private Cloud](#creating-virtual-private-cloud)
 - [Creating Subnets and Tiers](#creating-subnets-and-tiers )
 - [Adding IPv4 Addresses](#adding-ipv4-addresses)
@@ -16,6 +17,7 @@ This section comprises of the following sub-sections:
 - [Configuring SSH Key or Login Credentials](#configuring-ssh-key-or-login-credentials)
 - [Configuring Firewall](#configuring-firewall)
 - [Creation of Customer Workload Instance](#creation-of-customer-workload-instance)
+</div>
 
 ## Creating Virtual Private Cloud 
 Create a Virtual Private Cloud (VPC) to set up a secure and isolated network environment for your cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing you to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on creating a VPC, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs).
