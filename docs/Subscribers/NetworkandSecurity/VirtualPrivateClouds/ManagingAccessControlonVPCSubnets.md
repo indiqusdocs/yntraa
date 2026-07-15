@@ -69,7 +69,7 @@ To create a custom ACL and add rules, follow these steps:
 ![ACL](img/aclview.png)
 7. Click the **Appy ACL to Tier** icon (highlighted in red). The following screen appears:
 ![Apply ACL to Tier](img/applyingacltotier.png)
-8. Select **Network Tier**.
+8. Select **Network Tiers**.
 9. Click the **Replace Tier ACL** button.
 
 ### Editing ACL Name

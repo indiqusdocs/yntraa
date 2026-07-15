@@ -86,7 +86,7 @@ The end ports should be equal to or greater than the start ports.
 
 Once the Port-Forwarding rule is created, the Load Balancing and Static NAT options are automatically disabled. You can then view the details of the Port Forwarding rule by following these steps:
 
-1. Click the **Port Forwarding Rule** icon. The following screen appears:
+5. Click the **Port Forwarding Rule** icon. The following screen appears:
 ![pf](img/pf.png)
 
 You can view the Instance where this rule is configured, along with the private and public port range mappings.

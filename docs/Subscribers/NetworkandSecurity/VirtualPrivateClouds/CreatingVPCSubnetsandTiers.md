@@ -45,8 +45,8 @@ To replace an ACL, follow these steps:
    
    The following screen appears: 
    ![Tier Replaced](img/tierreplaced.png)
-1. Select a different **ACL** from the **Access Control** dropdown.
-2. Click the **Replace Tier ACL** button.
+2. Select a different **ACL** from the **Access Control** dropdown.
+3. Click the **Replace Tier ACL** button.
 
 ## Deleting a Network Tier
 
