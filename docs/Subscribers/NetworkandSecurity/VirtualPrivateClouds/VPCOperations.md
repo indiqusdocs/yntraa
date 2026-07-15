@@ -24,11 +24,16 @@ To restart a VPC, follow these steps:
 ![Delete VPC Overview](img/deletevpcoverview.png) 
 3. Click **Operations**. The following screen appears:
 ![operationnew](img/operationnew.png)
-4. Click the **Restart Virtual Router**.
+4. Click the **Restart Virtual Router** button.
 
 ## Deleting a VPC
 
 When you no longer need a VPC, delete it to remove unused network resources and keep your cloud environment organised and easy to manage.
+
+:::note
+Before attempting to delete this VPC, ensure that all Tiers, IPv4 Addresses, and Instances are removed from this VPC. This action is irreversible, and you may not be able to recover any data for this VPC.
+:::
+
 
 To delete a VPC, follow these steps:
 
@@ -42,11 +47,6 @@ To delete a VPC, follow these steps:
 ![Finally Delete VPC](img/finallydeletevpc.png)
 5. Enter **DELETE** and click the **Delete Now** button. The following screen appears: 
 ![VPC Now Deleted](img/vpcnowdeleted.png)
-
-:::note
-Before attempting to delete this VPC, ensure that all Tiers, IPv4 Addresses, and Instances are removed from this VPC. This action is irreversible, and you may not be able to recover any data for this VPC.
-:::
-
 
 
 

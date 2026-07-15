@@ -36,7 +36,7 @@ This section comprises of the following sub-sections:
 
 <div className="custom-block-blue">  
 - [Creating an ACL Rule](#creating-an-acl-rule)
-- [Editing ACL name](#editing-acl-name)
+- [Editing ACL name](#editing-an-acl-name)
 - [Deleting an ACL](#deleting-an-acl)
 </div>
 
@@ -69,10 +69,10 @@ To create a custom ACL and add rules, follow these steps:
 ![ACL](img/aclview.png)
 7. Click the **Appy ACL to Tier** icon (highlighted in red). The following screen appears:
 ![Apply ACL to Tier](img/applyingacltotier.png)
-8. Select **Network Tiers**.
+8. Select a **Network Tier** from the list.
 9. Click the **Replace Tier ACL** button.
 
-### Editing ACL Name
+### Editing an ACL Name
 
 Editing an ACL name enables you to change the name of an existing ACL. Use this option to keep ACL names clear, consistent, and easy to identify during network management.
 
@@ -87,6 +87,9 @@ To edit the ACL name, follow these steps:
 2. Click the **Edit Access Control List** button.
 
 ### Deleting an ACL
+:::note
+To delete an ACL, you must first disassociated it with the attached tier. For more information, refer [Replacing an ACL](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers).
+:::
 
 To delete an ACL, follow these steps:
 
@@ -98,11 +101,6 @@ To delete an ACL, follow these steps:
 
 2. Click the **I confirm that I have delinked all Tiers from this Access Control List** option.
 3. Click the **Delete Access Control List** button.
-   
-:::note
-To delete an ACL, you must first disassociated it with the attached tier. For more information, refer [Replacing an ACL](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers).
-:::
-
 
 
 
