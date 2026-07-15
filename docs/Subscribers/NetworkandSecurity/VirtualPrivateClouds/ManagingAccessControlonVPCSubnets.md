@@ -10,7 +10,6 @@ You can create Access Control Policies using Access Control Lists (ACL) and conf
 - [Use Cases](#use-cases)
 - [Managing Individual Custom ACL and Adding Rules](#managing-individual-custom-acl-and-adding-rules)
 
-
 ## Use Cases
 
 The following are the use cases of ACL:
@@ -51,11 +50,8 @@ To create a custom ACL and add rules, follow these steps:
 ![VPC](img/vpc.png)
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
 ![Manage ACL](img/testingacl.png)
-3. Click the **Add Access Control List** button. The following screen appears where you provide the following details: 
-![Creating ACL](img/creatingacl.png)
-
-    - **Access Control List Name**
-      
+3. Click the **Add Access Control List** button. The following screen appears where you provide the Access Control List Name. 
+![Creating ACL](img/creatingacl.png) 
 4. Click **Add Access Control List** button. The following screen appears:
 ![Add Rule in ACL](img/addruleacl.png)
 5. Click the **Add Rule** icon (highlighted in red). The following screen appears where you provide the required details: 

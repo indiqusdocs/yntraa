@@ -5,8 +5,6 @@ sidebar_position: 6
 
 This section guides you through the basic steps to create and launch your first workload on the Yntraa Cloud portal. You will learn how to set up the required networking components, choose the right compute resources, configure storage and access settings, apply security rules, and finally create a customer workload instance.
 
-This section comprises of the following sub-sections:
-
 <div className="custom-block-blue">  
 - [Creating Virtual Private Cloud](#creating-virtual-private-cloud)
 - [Creating Subnets and Tiers](#creating-subnets-and-tiers )
@@ -16,7 +14,7 @@ This section comprises of the following sub-sections:
 - [Configuring Storage](#configuring-storage)
 - [Configuring SSH Key or Login Credentials](#configuring-ssh-key-or-login-credentials)
 - [Configuring Firewall](#configuring-firewall)
-- [Creation of Customer Workload Instance](#creation-of-customer-workload-instance)
+- [Creation of Customer Workload Instance](#creation-of-customer-workload-instance) 
 </div>
 
 ## Creating Virtual Private Cloud 

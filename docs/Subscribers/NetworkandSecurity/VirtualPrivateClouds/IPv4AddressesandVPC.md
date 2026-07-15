@@ -21,7 +21,7 @@ Primarily, you can use IPv4 addresses for configuring access and perform NAT via
 
 To add a a new IPv4 address to the VPC, follow these steps:
 
-1. Navigate to **Network and Security > Virtual Private Cloud**. The following screen appears:
+1. Navigate to **Network and Security** > **Virtual Private Cloud**. The following screen appears:
 ![VPC Deployed](img/vpcdeployed.png) 
 2. Click on your created VPC name from the list. The following screen appears:
 ![Deployed VPC Overview](img/deployedvpcoverview.png)
@@ -38,22 +38,17 @@ Public IPv4 addresses may carry a price which may vary depending on availability
 
 Load balancing helps distribute traffic across multiple instances to improve performance and availability. By creating a load balancing rule in your VPC, you define how traffic is routed and can easily manage which instances handle the load.
 
+:::note
+A load balancer IP rule can only be configured if the tier/subnet type is set to **Public IP**.
+:::
+
 To configure the Load Balancing Rule, follow these steps:
-1. Navigate to **Network and security > VPC** and, click **IP Address**. The following screen appears:
+1. Navigate to **Network and Security** > **Virtual Private Cloud**, and click **IP Addresses**. The following screen appears:
 ![VPC IP Address](img/vpcipaddress.png)
 2. Click the **Load Balancing** icon (highlighted in red). The following screen appears:
 ![addrulenew](img/addrulenew.png)
 3. Click **+ Add Rule**. The following screen appears where you provide the required details
-![addrule1new](img/addrule1new.png)
-
-	- **Rule Name**
-	- **Description**
-	- **Protocol**
-	- **Tier**
-	- **Public Port**
-	- **Private Port**
-	- **Algorithm**
-	  
+![addrule1new](img/addrule1new.png)	  
 4. Click the **Add Load Balancing Rule** button. The following screen appears: 
 ![Enable LBI](img/enablelbi.png)
 
@@ -72,26 +67,16 @@ To delete this Load Balancing Rule, click **Delete This Rule** button.
 
 To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
-:::note
-A load balancer IP rule can only be configured if the tier/subnet type is set to **Public IP**.
-:::
-
 ## Configuring Port Forwarding
 
 A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
 1. Navigate to **Network and security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
-![VPC IP Address](img/vpcipaddress.png)
-2. Click the **Port Forwarding** icon (highlighted in red). The following window appears:  
 ![PF Rule Add](img/pficon.png)
-3. Click **+ Add Rule**. The following screen appears where you provide the following details: 
+2. Click the **Port Forwarding** icon (highlighted in red). The following window appears: 
+3. Click **+ Add Rule**. The following screen appears where you provide the required details: 
 ![pfnowadded](img/pfnowadded.png)
-	- **Protocol** 
-	- **Tier**
-	- **Instance**
-	- **Public Start Port** and **Public End Port**
-	- **Private Start Port** and **Private End Port** 
 :::note
 The end ports should be equal to or greater than the start ports.
 :::
