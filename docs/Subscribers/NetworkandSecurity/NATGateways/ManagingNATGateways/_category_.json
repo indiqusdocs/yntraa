@@ -1,8 +1,0 @@
-{
-  "label": "Managing NAT Gateways",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Managing NAT Gateways allows you to view, configure, and maintain NAT Gateway instances that provide secure outbound internet access for private instances. Regular management helps ensure optimal performance, security, and reliable network connectivity."
-  }
-}

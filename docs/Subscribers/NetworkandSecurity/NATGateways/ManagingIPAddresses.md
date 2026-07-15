@@ -4,7 +4,7 @@ sidebar_position: 4
 # Managing IP Addresses
 
 Each virtual gateway comes with a default IPv4 address that belongs to the Virtual Gateway governing the network. The default (source - NAT) IPv4 address can be used to access the Virtual Gateway publicly or via Remote Access (RA) VPN.
-![addipaddressnew](img/addipaddressnew.png)
+![addipaddressnew](imgnew/addipaddressnew.png)
 
 This section comprises of the following sub-sections:
 
@@ -23,34 +23,29 @@ A public IPv4 address uniquely identifies a resource on the internet and enables
 To add a public IPv4 address, follow these steps:
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
-![List of NAT Gateways](img/listofnatgateways.png)
+![List of NAT Gateways](imgnew/listofnatgateways.png)
 2. Click on your created NAT Gateway from the list. The following screen appears: 
-![Nat Gateway Details Screen](img/natgatewaydetailsscreen.png)
+![Nat Gateway Details Screen](imgnew/natgatewaydetailsscreen.png)
 3. Click **IP Addresses**. The following screen appears:
-![IP Addresses Tab](img/ipaddressestab.png) 
+![IP Addresses Tab](imgnew/ipaddressestab.png) 
 4. Click the **Add Public IPv4 Address** button. The following screen appears:
-![confirmpurchaseipv4](img/confirmpurchaseipv4.png)
+![confirmpurchaseipv4](imgnew/confirmpurchaseipv4.png)
 5. Select the **Monthly** option and click the **Confirm Purchase** button. The following screen appears:
-![confirmipv4](img/confirmipv4.png)
+![confirmipv4](imgnew/confirmipv4.png)
 6. Click the **Confirm** button. The public IPv4 address is added.
    
 ## Adding Firewall Rules
 
 A firewall rule defines how a NAT Gateway allows or blocks network traffic based on specified criteria, such as IP addresses, ports, and protocols. Adding firewall rules helps control network access, enhance security, and ensure that only authorized traffic passes through the NAT Gateway.
 
-To add firewall rules, follow these steps:
+To add a firewall rule, follow these steps:
 
 1. Click the **Firewall Rule** icon (highlighted in red).
-![firewallrulenew](img/firewallrulenew.png)
+![firewallrulenew](imgnew/firewallrulenew.png)
 
-   The following screen appears where you provide the required details: 
-![frcreation](img/frcreation.png)
+   The following screen appears:
+![frcreation](imgnew/frcreation.png)
 
-    - **Rule**
-	- **Traffic Type**
-	- **Protocol**
-	- **Start Port** and **End Port**. 
-	  
 2. Click the **Add Rule** button. The firewall rule is added
 
 ## Adding Port Forwarding Rules
@@ -60,34 +55,25 @@ A port forwarding rule maps incoming traffic on a specific public IP address and
 To add a port forwarding rule, follow these steps:
 
 1. Click the **Port Forwarding Rule** icon (highlighted in red).
-![Port Forwarding Rule](img/pfrulenew.png)
+![Port Forwarding Rule](imgnew/pfrulenew.png)
 
    The following screen appears: 
-   ![pfrulenewadd](img/pfrulenewadd.png)
-2. To add a new rule, click on **+ Add Rule**. The following screen appears where you provide the required details: 
-![natpfrulenew](img/natpfrulenew.png)
-
-    - **Protocol**
-    - **Tier**
-    - **Instance**
-    - **IP Address**
-    - **Public Start Port**
-    - **Pubic End Port**
-    - **Private Start Port**
-    - **Private End Port**
+   ![pfrulenewadd](imgnew/pfrulenewadd.png)
+2. Click **+ Add Rule**. The following screen appears;
+![natpfrulenew](imgnew/natpfrulenew.png)
 3. Click the **Add Port Forwarding Rule** button. The port forwarding rule is added.
 
 ## Changing the Source NAT 
 
 A Source NAT (SNAT) IPv4 address is the public IP address that the NAT Gateway uses for outbound traffic from private instances. Changing the Source NAT IPv4 address allows you to route outbound traffic through a different public IP, helping you meet network, security, or connectivity requirements.
 
-To change source NAT IPv4 address, follow these steps:
+To change the source NAT, follow these steps:
 
 1. Click the **Source NAT** icon (highlighted in red).
-![Source NAT Change](img/sourcenatchange.png)
+![Source NAT Change](imgnew/sourcenatchange.png)
 
    The following screen appears: 
-   ![warning](img/warning.png)
+   ![warning](imgnew/warning.png)
 
 2. Click the **Okay** button.
 
@@ -98,13 +84,13 @@ Static NAT maps a dedicated public IP address to a private instance within your 
 To add a static NAT, follow these steps: 
 
 1. Click the **Static NAT** icon (highlighted in red).
-![Adding Static NAT](img/addingstaticnat.png)
+![Adding Static NAT](imgnew/addingstaticnat.png)
 
    The following screen appears where you provide the required details: 
-   ![Static NAT Details](img/staticnatdetails.png)
+   ![Static NAT Details](imgnew/staticnatdetails.png)
    
-    - **Instance**
-    - **IP Address**
+    - **Instance**: Select the instance to associate with the Static NAT from the **Instance** dropdown.
+    - **IP Address**: Select the instance IP address to map with the Static NAT from the **Select IP Address** dropdown.
 2. Click the **Add Static NAT** button. The static NAT is added.
    
 ## Deleting an IP Address
@@ -114,12 +100,12 @@ A public IP address enables a NAT Gateway to communicate with external networks 
 To delete an IP address, follow these steps:
 
 1. Click the **Delete IP** icon (highlighted in red).
-![addipaddressnew](img/addipaddressnew.png)
+![addipaddressnew](imgnew/addipaddressnew.png)
   
    The following screen appears: 
-    ![ipv4delete](img/ipv4delete.png)
+    ![ipv4delete](imgnew/ipv4delete.png)
    
-2. Select the **I confirm that I have removed everything from this IPv4 Address** option and click the **Delete Now** button.
+2. Select the **I confirm that I have removed everything from this IPv4 Address** option, and click the **Delete Now** button.
 
 	:::warning
 	This is an irreversible action.

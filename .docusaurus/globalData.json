@@ -441,28 +441,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingNATGateways",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/RestartingandDeletingaNATGateway",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/RestartingandDeletingaNATGateway",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayInstances",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayOverview",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayOverview",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways",
               "sidebar": "sidebar1"
             },
             {
@@ -473,6 +458,21 @@
             {
               "id": "Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview",
               "sidebar": "sidebar1"
             },
             {
@@ -713,11 +713,6 @@
             {
               "id": "/category/nat-gateways",
               "path": "/docs/category/nat-gateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managing-nat-gateways",
-              "path": "/docs/category/managing-nat-gateways",
               "sidebar": "sidebar1"
             },
             {

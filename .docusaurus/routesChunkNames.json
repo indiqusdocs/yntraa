@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-cb6": {
+  "/docs-b71": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-4a3": {
+  "/docs-3b1": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-738": {
+  "/docs-67e": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -264,10 +264,6 @@
   "/docs/category/managed-solutions-df9": {
     "__comp": "14eb3368",
     "__props": "d548d368"
-  },
-  "/docs/category/managing-nat-gateways-0d2": {
-    "__comp": "14eb3368",
-    "__props": "3d2ca6c0"
   },
   "/docs/category/nat-gateways-049": {
     "__comp": "14eb3368",
@@ -661,25 +657,13 @@
     "__comp": "17896441",
     "content": "5ef74b2b"
   },
-  "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/-1ed": {
+  "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses-658": {
     "__comp": "17896441",
-    "content": "1aa3bad4"
+    "content": "d2c54649"
   },
-  "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses-ef5": {
+  "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways-5e6": {
     "__comp": "17896441",
-    "content": "bfcc7e2a"
-  },
-  "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/RestartingandDeletingaNATGateway-daa": {
-    "__comp": "17896441",
-    "content": "fc6492ed"
-  },
-  "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayInstances-84f": {
-    "__comp": "17896441",
-    "content": "a2dfa25b"
-  },
-  "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingNATGatewayOverview-950": {
-    "__comp": "17896441",
-    "content": "528c6075"
+    "content": "cd287b30"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF-d08": {
     "__comp": "17896441",
@@ -688,6 +672,18 @@
   "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP-e32": {
     "__comp": "17896441",
     "content": "b03c5a9b"
+  },
+  "/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway-cde": {
+    "__comp": "17896441",
+    "content": "47c1b5ff"
+  },
+  "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances-8c0": {
+    "__comp": "17896441",
+    "content": "6ba23929"
+  },
+  "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview-38b": {
+    "__comp": "17896441",
+    "content": "aa436e54"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances-37b": {
     "__comp": "17896441",

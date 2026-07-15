@@ -24,6 +24,7 @@ To locate and select your NAT Gateway, follow these steps:
 ![NAT Gateway Instances](img/natgatewayinstances.png)  
 2. Select the appropriate NAT Gateway associated with your VNF.
 ![NAT Gateway View](img/natgatewayview.png)
+
 ## Reviewing Configuration
 
 This section offers a detailed review of the current NAT Gateway configuration within the cloud environment. It includes essential system specifications, deployment parameters, and operational status to ensure the gateway is correctly set up and functioning as expected. Verify these details before initiating any advanced networking configurations, such as port forwarding or scaling operations.
@@ -50,14 +51,15 @@ To enable external access to internal services hosted behind a NAT Gateway, you 
 
 To navigate to the NAT Gateway, locate the public IP address, and access the port forwarding configuration interface to add or manage rules effectively, follow these steps:
 
-1. Navigate to the **Network and Security > NAT Gateways**.
+1. Navigate to **Network and Security > NAT Gateways**.
    ![NAT Listing](img/natlisting.png)
 2. Select your NAT Gateway from the list.
 3. In the gateway page, click the **IP Addresses** tab.
    ![NAT IP](img/natip.png)
 4. Find your public IP address listed on this page.
-5. Click the **Port Forwarding Rule** icon (next to the IP address) to start adding a [port forwarding rule](/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ManagingIPAddresses).
+5. Click the **Port Forwarding Rule** icon (next to the IP address) to start adding a [port forwarding rule](/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses).
 ![Port Forwarding](img/portforwarding.png)
+
 ## Adding a New Port Forwarding Rule
 
 To allow external access through a NAT Gateway in the cloud portal, you can add a new port forwarding rule. This involves selecting the appropriate NAT Gateway and configuring the necessary forwarding details. 
