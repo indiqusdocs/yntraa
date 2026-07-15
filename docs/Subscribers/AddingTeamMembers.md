@@ -7,7 +7,7 @@ One Yotta is Yotta’s unified customer portal that provides a single, secure pl
 
 To support secure collaboration while providing access to these capabilities, One Yotta implements Role-Based Access Control (RBAC). RBAC assigns permissions based on predefined roles, such as Admin, Commercial, and Technology, ensuring that each team member can access only the features and resources required for their responsibilities. This role-based approach strengthens security, simplifies access management, and improves operational efficiency across the organization.
 
-To add a team member or child user, perform the following steps:
+To add a team member or child user, follow these steps:
 1. Navigate to [Yntraa Cloud portal](https://portal.yntraacloud.ai/). The following screen appears where you must provide the required details.
    ![Yntraa Sign In](img/yntraasignin.png)
 2. Click the **Sign In** button. The following screen appears:

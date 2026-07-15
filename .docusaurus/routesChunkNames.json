@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-f29": {
+  "/docs-cb6": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-71a": {
+  "/docs-4a3": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-7c0": {
+  "/docs-738": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -349,6 +349,10 @@
     "__comp": "17896441",
     "content": "e0962159"
   },
+  "/docs/Knowledgebase/DifferenceBetweenL2NetworksandVPC-755": {
+    "__comp": "17896441",
+    "content": "4a628a7d"
+  },
   "/docs/Knowledgebase/IPv4Networking-f85": {
     "__comp": "17896441",
     "content": "0f5a8847"
@@ -368,6 +372,10 @@
   "/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR-182": {
     "__comp": "17896441",
     "content": "b53dca5b"
+  },
+  "/docs/Knowledgebase/WorkingwithVPNConnectionsinaVPC-62d": {
+    "__comp": "17896441",
+    "content": "628b416e"
   },
   "/docs/ReleaseNotes/Ver1000-db9": {
     "__comp": "17896441",
@@ -737,10 +745,6 @@
     "__comp": "17896441",
     "content": "b53cf86c"
   },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds-d47": {
-    "__comp": "17896441",
-    "content": "949bb3b0"
-  },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs-878": {
     "__comp": "17896441",
     "content": "9e532f58"
@@ -748,10 +752,6 @@
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers-31e": {
     "__comp": "17896441",
     "content": "2d848408"
-  },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC-1c9": {
-    "__comp": "17896441",
-    "content": "bf72e5ec"
   },
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC-53d": {
     "__comp": "17896441",
@@ -776,10 +776,6 @@
   "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations-cca": {
     "__comp": "17896441",
     "content": "f676d729"
-  },
-  "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC-84a": {
-    "__comp": "17896441",
-    "content": "8f1cc45b"
   },
   "/docs/Subscribers/Other Services/OfferingServices-c74": {
     "__comp": "17896441",

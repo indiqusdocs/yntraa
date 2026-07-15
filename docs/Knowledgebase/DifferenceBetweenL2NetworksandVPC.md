@@ -1,9 +1,9 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 ---
 # Difference Between L2 Networks and VPC
 
-An L2 network provides connectivity at the data link layer, allowing devices within the same network segment to communicate directly, while a Virtual Private Cloud (VPC) creates an isolated virtual network environment in the cloud. These components work together to support secure and flexible network design. 
+ An L2 network provides connectivity at the data link layer, allowing devices within the same network segment to communicate directly, while a Virtual Private Cloud (VPC) creates an isolated virtual network environment in the cloud. These components work together to support secure and flexible network design. 
 
 L2 networks and VPCs help manage traffic efficiently, improve isolation, and provide better control over how cloud resources communicate.
 
@@ -24,7 +24,3 @@ A VPC is a higher-level abstraction that allows you to create isolated network e
 **The difference in Traffic Flow is simplified in the following diagram.**
 
 ![Difference Between L2 Networks and VPC](img/vpcdiagram.png)
-
-
-
-

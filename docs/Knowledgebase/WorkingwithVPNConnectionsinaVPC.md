@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
 ---
 # Working with VPN Connections in a VPC
 
@@ -7,15 +7,13 @@ The VPC feature on Yntraa Cloud provides advanced networking capabilities for us
 
 There are two types of VPN connections supported on Yntraa cloud:
 
+<div className="custom-block-blue">  
 - **Remote Access VPN -** To connect securely from your home or office to your VPC on Yntraa Cloud. This is used primarily when you are using a dynamic IP to connect to the internet and a VPN connection can, therefore, not be pre-configured.
 - **Site-to-Site VPN -** To connect a private static network to your VPC on Yntraa Cloud using an IPSec tunnel. Site-to-site gateways must be pre-configured on Yntraa Cloud.
+</div>
 
 The underlying SDN on Yntraa Cloud provides an L2TP-over-IPsec-based remote access VPN service to VPCs and guest virtual networks. Since each VPC has its own virtual router, VPNs are not shared across the networks.
 
 :::note
 All VPN users in your account will get access to all VPNs created in your account.
 :::
-
-
-
-

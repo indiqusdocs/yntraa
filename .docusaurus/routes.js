@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f29'),
+    component: ComponentCreator('/docs', 'cb6'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '71a'),
+        component: ComponentCreator('/docs', '4a3'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7c0'),
+            component: ComponentCreator('/docs', '738'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -281,6 +281,12 @@ export default [
                 sidebar: "sidebar2"
               },
               {
+                path: '/docs/Knowledgebase/DifferenceBetweenL2NetworksandVPC',
+                component: ComponentCreator('/docs/Knowledgebase/DifferenceBetweenL2NetworksandVPC', '755'),
+                exact: true,
+                sidebar: "sidebar3"
+              },
+              {
                 path: '/docs/Knowledgebase/IPv4Networking',
                 component: ComponentCreator('/docs/Knowledgebase/IPv4Networking', 'f85'),
                 exact: true,
@@ -307,6 +313,12 @@ export default [
               {
                 path: '/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR',
                 component: ComponentCreator('/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR', '182'),
+                exact: true,
+                sidebar: "sidebar3"
+              },
+              {
+                path: '/docs/Knowledgebase/WorkingwithVPNConnectionsinaVPC',
+                component: ComponentCreator('/docs/Knowledgebase/WorkingwithVPNConnectionsinaVPC', '62d'),
                 exact: true,
                 sidebar: "sidebar3"
               },
@@ -863,12 +875,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds', 'd47'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs', '878'),
                 exact: true,
@@ -877,12 +883,6 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers', '31e'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC', '1c9'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -919,12 +919,6 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations', 'cca'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC', '84a'),
                 exact: true,
                 sidebar: "sidebar1"
               },

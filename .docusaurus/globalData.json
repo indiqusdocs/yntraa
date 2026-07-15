@@ -51,6 +51,11 @@
               "sidebar": "sidebar2"
             },
             {
+              "id": "Knowledgebase/DifferenceBetweenL2NetworksandVPC",
+              "path": "/docs/Knowledgebase/DifferenceBetweenL2NetworksandVPC",
+              "sidebar": "sidebar3"
+            },
+            {
               "id": "Knowledgebase/IPv4Networking",
               "path": "/docs/Knowledgebase/IPv4Networking",
               "sidebar": "sidebar3"
@@ -73,6 +78,11 @@
             {
               "id": "Knowledgebase/WhatisIPAddressSubnetTierandCIDR",
               "path": "/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/WorkingwithVPNConnectionsinaVPC",
+              "path": "/docs/Knowledgebase/WorkingwithVPNConnectionsinaVPC",
               "sidebar": "sidebar3"
             },
             {
@@ -536,11 +546,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs",
               "sidebar": "sidebar1"
@@ -548,11 +553,6 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
               "sidebar": "sidebar1"
             },
             {
@@ -583,11 +583,6 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
               "sidebar": "sidebar1"
             },
             {

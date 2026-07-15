@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 6
 ---
 # Managing Access Control on VPC Subnets
 
@@ -31,12 +31,16 @@ Each VPC comes with **default_allow** and **default_deny** ACL. You can edit
 
 ## Managing Individual Custom ACL and Adding Rules
 
-You can access ACLs from the Access Control Lists menu item under the VPC details. The following actions are available:
+Manage access control on VPC subnets to define and enforce network traffic rules within your virtual private cloud. By applying and updating access control settings, you can regulate inbound and outbound traffic, enhance network security, and ensure that subnet communication aligns with your organization's security requirements.
 
+This section comprises of the following sub-sections:
+
+<div className="custom-block-blue">  
 - [Creating an ACL Rule](#creating-an-acl-rule)
 - [Editing ACL name](#editing-acl-name)
 - [Deleting an ACL](#deleting-an-acl)
-  
+</div>
+
 ### Creating an ACL Rule
 
 Creating an Access Control List (ACL) enables you to configure traffic filtering rules for your network. Use an ACL to control inbound and outbound traffic and help secure your network resources.
@@ -45,15 +49,18 @@ To create a custom ACL and add rules, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears
 ![VPC](img/vpc.png)
-2. Click the **VPC name** and navigate to the **Access Control Lists** menu. The following screen appears:
+2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
 ![Manage ACL](img/testingacl.png)
-3. Click the **Add Access Control List** button. The following screen appears:
+3. Click the **Add Access Control List** button. The following screen appears where you provide the following details: 
 ![Creating ACL](img/creatingacl.png)
-4. Provide the desired name in the **Access Control List Name** field. Then, click the **Add Access Control List** button. The Access Control List gets added as shown in the following screen:
+
+    - **Access Control List Name**
+      
+4. Click **Add Access Control List** button. The following screen appears:
 ![Add Rule in ACL](img/addruleacl.png)
-5. Click on the **Add Rule** icon (highlighted in red). The following screen appears:
+5. Click the **Add Rule** icon (highlighted in red). The following screen appears where you provide the required details: 
 ![Rule Adding](img/ruleadding.png)
-6. Provide the following details:
+
     - **Traffic Type:** Select the traffic direction: Ingress or Egress.
     - **Action:** Choose whether to allow or deny the traffic.
     - **CIDR:** In the CIDR (Source/Destination) field, enter 192.168.0.0/21.
@@ -61,12 +68,13 @@ To create a custom ACL and add rules, follow these steps:
         - **Start Port**: Enter the starting port.
         - **End Port**: Enter the ending port.
     - **Description:** Enter a description for the rule.
-7. Click the **Add ACL Rule** button. The following screen appears:
+6. Click the **Add ACL Rule** button. The following screen appears where you provide the required details
+       - Network Tier
 ![ACL to Tier](img/acltotier.png)
-8. Click the **Appy ACL to Tier** icon (highlighted in red). The following screen appears:
+7. Click the **Appy ACL to Tier** icon (highlighted in red). The following screen appears where you provide the required details: 
 ![Apply ACL to Tier](img/applyingacltotier.png)
-9. Select the desired tier from the dropdown.
-10. Click the **Replace Tier ACL** button.
+    - **Network Tier**
+8. Click the **Replace Tier ACL** button.
 
 ### Editing ACL Name
 
@@ -77,11 +85,10 @@ To edit the ACL name, follow these steps:
 1. Click the **edit** icon (highlighted in red) as shown in the following image:
  ![Edit ACL](img/editingacl.png)
  
-   The following screen appears:
+   The following screen appears where you provide the required details: 
    ![ACL Edited](img/acledited.png)
-
-2. Enter the name of your ACL.
-3. Click the **Edit Access Control List** button.
+    - **Access Control List Name**
+2. Click the **Edit Access Control List** button.
 
 ### Deleting an ACL
 
@@ -93,12 +100,14 @@ To delete an ACL, follow these steps:
    The following screen appears:
    ![Deleting ACL](img/deletingacl.png)
 
-2. Click the **I confirm that i have deleted all Tiers from this Access Control List** option.
+2. Click the **I confirm that I have deleted all Tiers from this Access Control List** option.
 3. Click the **Delete Access Control List** button.
    
 :::note
 To delete an ACL, you must first disassociated it with the attached tier. For more information, refer [Replacing an ACL](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers).
 :::
+
+
 
 
 

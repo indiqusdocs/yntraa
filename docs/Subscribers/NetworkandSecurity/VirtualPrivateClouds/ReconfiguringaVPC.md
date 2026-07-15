@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 ---
 
 # Reconfiguring a VPC
@@ -10,7 +10,7 @@ To reconfigure a VPC, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears: 
 ![Reconfigure in VPC](img/reconfigureinvpc.png)
-2. Click the instance name. The following screen appears: 
+2. Click on your created VPC name from the list. The following screen appears: 
 ![VPC Reconfigure Overview](img/vpcreconfigureoverview.png)
 3. Select a **Virtual Router** from the list, and click the **Reconfiguring Networking Pack** button. The following screen appears: 
 ![reconfignew1](img/reconfignew1.png)

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Creating and Viewing VPCs
 
@@ -7,9 +7,9 @@ A Virtual Private Cloud (VPC) is a private virtual network that provides a secur
 
 ## Creating a VPC
 
-Creating a VPC to establish a private network for your cloud environment. A VPC provides the foundation for deploying and managing your cloud resources.
+You must create a VPC to establish a private network for your cloud environment. A VPC provides the foundation for deploying and managing your cloud resources.
 
-To create a VPC, perform the following steps:
+To create a VPC, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![New VPC](img/newvpc.png)
@@ -32,7 +32,7 @@ To create a VPC, perform the following steps:
     2. You can also remove the applied discount code by clicking the **Remove** button. 
 
     ![costsummarynew](img/costsummarynew.png)
-10. Click the **Confirm** button to create the VPC. ![confirmvpcnew](img/confirmvpcnew.png)
+10. Click the **Confirm** button. ![confirmvpcnew](img/confirmvpcnew.png)
 
 Once your VPC is ready, you will be notified of this purchase on your email address on record. 
 

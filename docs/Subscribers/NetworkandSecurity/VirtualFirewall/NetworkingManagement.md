@@ -68,5 +68,5 @@ The following actions are available:
 - Network/tier associations can be removed from this section by using the **Delete** action.
 
 :::note
-You can configure advanced networking settings using the [Virtual Private Clouds](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds) service.
+You can configure advanced networking settings using the [Virtual Private Clouds](/docs/category/virtual-private-clouds) service.
 :::
