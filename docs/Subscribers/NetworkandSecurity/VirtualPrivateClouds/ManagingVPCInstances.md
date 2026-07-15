@@ -29,7 +29,7 @@ To add instances to a VPC, follow these steps:
 3. Click **VPC Instances**. The following screen appears: 
 ![VPC Instances](img/vpcinstances.png)
 4. Click the **Add Instance** button. The following screen appears
-![Adding Instances in VPC](img/addinginstanceinvpc.png)
+![Adding Instances in VPC](img/addinginsatnceinvpc.png)
 5. Select the **Network Tier** from the dropdown, and click the **+** icon (highlighted in red). The following screen appears: 
 ![Instance Added](img/instanceadded.png)
 

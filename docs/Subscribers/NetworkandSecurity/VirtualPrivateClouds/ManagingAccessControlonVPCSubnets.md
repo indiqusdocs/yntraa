@@ -64,13 +64,13 @@ To create a custom ACL and add rules, follow these steps:
         - **Start Port**: Enter the starting port.
         - **End Port**: Enter the ending port.
     - **Description:** Enter a description for the rule.
-6. Click the **Add ACL Rule** button. The following screen appears where you provide the required details
-       - Network Tier
-![ACL to Tier](img/acltotier.png)
-7. Click the **Appy ACL to Tier** icon (highlighted in red). The following screen appears where you provide the required details: 
+6. Click the **Add ACL Rule** button and then click on your created ACL name. The following screen appears:
+![ACL Rule](img/aclruleview.png) 
+![ACL](img/aclview.png)
+7. Click the **Appy ACL to Tier** icon (highlighted in red). The following screen appears:
 ![Apply ACL to Tier](img/applyingacltotier.png)
-    - **Network Tier**
-8. Click the **Replace Tier ACL** button.
+8. Select **Network Tier**.
+9. Click the **Replace Tier ACL** button.
 
 ### Editing ACL Name
 
@@ -78,12 +78,12 @@ Editing an ACL name enables you to change the name of an existing ACL. Use this 
 
 To edit the ACL name, follow these steps:
 
-1. Click the **edit** icon (highlighted in red) as shown in the following image:
+1. Click the **Edit** icon (highlighted in red).
  ![Edit ACL](img/editingacl.png)
  
-   The following screen appears where you provide the required details: 
+   The following screen appears:
    ![ACL Edited](img/acledited.png)
-    - **Access Control List Name**
+1. Edit or change the ACL name in **Access Control List Name**.
 2. Click the **Edit Access Control List** button.
 
 ### Deleting an ACL
@@ -96,7 +96,7 @@ To delete an ACL, follow these steps:
    The following screen appears:
    ![Deleting ACL](img/deletingacl.png)
 
-2. Click the **I confirm that I have deleted all Tiers from this Access Control List** option.
+2. Click the **I confirm that I have delinked all Tiers from this Access Control List** option.
 3. Click the **Delete Access Control List** button.
    
 :::note
