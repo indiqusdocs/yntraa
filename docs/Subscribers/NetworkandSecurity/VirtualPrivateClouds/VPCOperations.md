@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 8
 ---
 # VPC Operations
 
@@ -7,27 +7,46 @@ This section help you manage your VPC efficiently after it is created. You can p
 
 This section comprises of the following sub-sections:
 
-- [Powering On and Off the Virtual Router](#powering-on-and-off-the-virtual-router)
-- [Deleting a VPC](#deleting-a-vpc)
+<div className="custom-block-blue">  
+- [Restarting a VPC](#restarting-a-vpc)
+- [Deleting a VPC](#deleting-a-vpc) 
+</div>
 
-## Powering On and Off the Virtual Router
+## Restarting a VPC
 
-You can manage the VPC power state by using the Start Router/Stop Router button in the top-right corner. The status is shown as <span class="green">Powered on</span> in green when the router is <span class="green">Running</span> and <span class="red">Powered off</span> when it is <span style={{ color: 'red' }}>Stopped</span>.
+Restart a VPC to refresh its network services and apply recent configuration changes. Use this option to restore normal network operations or resolve temporary connectivity issues.
 
-To restart the VPC, navigate to the  **Operations** tab and click the **Restart Virtual Router** button. This performs quick reboot and no data is lost.
+To restart a VPC, follow these steps:
 
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
+![Delete VPC Instance](img/deletevpcinstance.png) 
+2. Click on your created VPC name from the list. The following screen appears:
+![Delete VPC Overview](img/deletevpcoverview.png) 
+3. Click **Operations**. The following screen appears:
 ![operationnew](img/operationnew.png)
+4. Click the **Restart Virtual Router** button.
 
 ## Deleting a VPC
 
 When you no longer need a VPC, delete it to remove unused network resources and keep your cloud environment organised and easy to manage.
 
-To delete a VPC, navigate to the **Operations** Section and click the **Delete VPC Network** button. Deleting a VPC removes it permanently.
-
 :::note
 Before attempting to delete this VPC, ensure that all Tiers, IPv4 Addresses, and Instances are removed from this VPC. This action is irreversible, and you may not be able to recover any data for this VPC.
 :::
 
+
+To delete a VPC, follow these steps:
+
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
+![Delete VPC Instance](img/deletevpcinstance.png) 
+2. Click on your created VPC name from the list. The following screen appears:
+![Delete VPC Overview](img/deletevpcoverview.png) 
+3. Click **Operations**. The following screen appears:
+![Delete VPC](img/deletevpc1.png)
+4. Click the **Delete VPC Network** button. The following screen appears: 
+![Finally Delete VPC](img/finallydeletevpc.png)
+5. Enter **DELETE** and click the **Delete Now** button. The following screen appears: 
+![VPC Now Deleted](img/vpcnowdeleted.png)
 
 
 

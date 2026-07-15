@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 # Creating VPC Subnets and Tiers
 
@@ -7,47 +7,62 @@ A VPC subnet is a smaller, segmented network within a VPC that helps organise an
 
 Subnets and tiers help efficiently group resources, control traffic flow, and improve security and performance within your cloud environment.
 
+## Creating a Subnet and Tier
 To create a subnet and tier, follow these steps:
 
 1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
+![VPC List](img/vpclist.png)
+2. Click on the VPC name from the list. The following screen appears:
+![Overview in VPC](img/overviewinvpc.png)
+3. Click **Subnet And Tiers**. The following screen appears:
+![Adding Tier in VPC](img/addingtierinvpc.png)
+4. Click the **Add Tier** button. The following screen appears where you provide the required details:
+![Adding Network Tier](img/addingnetworktier.png)
+5. Click the **Add Network Tier** button. The following screen appears: 
+![Subnet and Tier Created in VPC](img/subnetandtiercreatedinvpc.png)
+   
+## Restarting a Network Tier
 
-2. Click on the VPC name to which you want a subnet and tier. The following screen appears:
+Restarting a network tier refreshes the selected tier by reapplying its network configuration. Use this option to restore normal network operations, apply recent configuration changes, or resolve temporary connectivity issues within the tier.
 
-3. Click on **Subnet And Tiers**  from the menu on the left. The following screen appears:
+To restart a network tier, follow these steps:
 
-![tiernew](img/tiernew.png)
+1. Click the **Restart Network** icon (highlighted in red). 
+![Restart Network](img/restartnetwork.png)
 
-4. Click the **Add Tier** button. The following screen appears:
+   The follow screen appears:
+   ![Restart Tier in VPC](img/restarttierinvpc.png)
+2. Click the **Restart Tier** button. 
+   
+## Replacing an ACL
 
-5. Provide the following details:
-    - Tier Name
-    - Gateway 
-    - Netmask
-      
+Replacing an Access Control List (ACL) enables you to assign a different ACL to a tier. Use this option to update the traffic filtering rules and ensure the tier complies with your current security and access requirements.
+
+To replace an ACL, follow these steps:
+
+1. Click the **Replace Access Control List** icon (highlighted in red). 
+   ![Tier Default Deny](img/tierdefaultdeny.png)
+   
+   The following screen appears: 
+   ![Tier Replaced](img/tierreplaced.png)
+2. Select a different **ACL** from the **Access Control** dropdown.
+3. Click the **Replace Tier ACL** button.
+
+## Deleting a Network Tier
+
+Deleting a network tier permanently removes the selected tier from the VPC. Use this option to remove tiers that are no longer required, simplify network management, and maintain a clean and organized network configuration.
 :::note
-The gateway should be consistent with the subnet mask.
-:::
-    - Access Control
-    - Load Balancing Type
-  
-:::note
-To set up a public load balancer, you need to select **Public LB** from the **Load Balancing Type** drop-down. There can only be 1 tier of type Public LB in a network.
+You can delete only the empty network tiers, which means that in order to delete a network tier, ensure that there are no Instances and no NAT rule(s) associated with it.
 :::
 
-![createtier](img/createtier.png)
+To delete a network tier, follow these steps:
 
-6. Click the **Add Network Tier** button. The following screen appears:
+1. Click the **Delete Network** icon (highlighted in red). 
+![Delete Tier in VPC](img/deletetierinvpc.png)
 
-After the tier is created, three icons appear on the right side for quick actions:
-
-- **Restart** the network
-- **Replace** the access control list
-- **Delete** the tier
-
-:::note
-You can delete only the empty tiers, which means that in order to delete a tier, ensure that there are no Instances and no NAT rule(s) associated with it.
-:::
-
-
-
+   The following screen appears: 
+   ![Tier Delete Message](img/tierdeletemessage.png)
+   
+2. Select the **I confirm that I have removed everything from this tier** option, and click the **Delete Tier** button. The following screen appears: 
+![Tier Deleted in VPC](img/tierdeletedinvpc.png)
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 12
 ---
 # Deploying VNF and Instance Within VNF
 
@@ -10,7 +10,7 @@ It is ideal for following use cases:
 - Isolation
 - Policy enforcement
   
-The following are the high level steps required for deploying VNF and instance within VNF:
+The following are the high level tasks required for deploying VNF and instance within VNF:
   
 1. [Creating The New Virtual Firewall](#creating-the-new-virtual-firewall)
 2. [Configuration Options For Virtual Firewall](#configuration-options-for-virtual-firewall)
@@ -44,6 +44,7 @@ The following steps guide you through selecting configuration options like avail
    ![VF Components](img/vfcomponents2.png)
 6. **Summary and Estimated Costs**: Check the summary and pricing before proceeding.
 ![VF Components3](img/vfcomponents3.png)
+
 ### Deploying Virtual Firewall
 
 After completing the configuration and deployment steps, the newly created virtual firewall appears in the Virtual Firewalls section. This interface provides a summary of key details such as the firewall's name, compute configuration, provider, zone, public IP address, instance count, and deployment status.
@@ -62,6 +63,7 @@ The following steps guide you through accessing the Virtual Firewalls section an
 
 A green **Powered On** icon confirms that the firewall is active and running.
 ![VF Overview](img/vfoverview.png)
+
 ### Viewing Firewall Details
 
 To check the configuration and operational status of your deployed virtual firewall, you can access its detailed view in the Yntraa Cloud. This section provides essential system specifications, network settings, and real-time status indicators.
@@ -76,6 +78,7 @@ The following steps guide you through viewing the full details of your virtual f
     - Internal information
     - NIC Information
 ![VF Overview](img/vfoverview.png)
+
 ### Viewing LAN and WAN Tiers
 
 To understand the network configuration, navigate to the **Network and Security** section where you can view both **LAN** and **WAN** tiers. This helps identify how instances are connected and how traffic flows between internal and external networks.

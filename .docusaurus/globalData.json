@@ -51,6 +51,11 @@
               "sidebar": "sidebar2"
             },
             {
+              "id": "Knowledgebase/DifferenceBetweenL2NetworksandVPC",
+              "path": "/docs/Knowledgebase/DifferenceBetweenL2NetworksandVPC",
+              "sidebar": "sidebar3"
+            },
+            {
               "id": "Knowledgebase/IPv4Networking",
               "path": "/docs/Knowledgebase/IPv4Networking",
               "sidebar": "sidebar3"
@@ -73,6 +78,11 @@
             {
               "id": "Knowledgebase/WhatisIPAddressSubnetTierandCIDR",
               "path": "/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR",
+              "sidebar": "sidebar3"
+            },
+            {
+              "id": "Knowledgebase/WorkingwithVPNConnectionsinaVPC",
+              "path": "/docs/Knowledgebase/WorkingwithVPNConnectionsinaVPC",
               "sidebar": "sidebar3"
             },
             {
@@ -371,13 +381,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
-              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AboutL2Networks",
+              "id": "Subscribers/NetworkandSecurity/L2 Networks/AddinganL2Networks",
+              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AddinganL2Networks",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks",
-              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/AddNewL2Networks",
+              "id": "Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks",
+              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks",
               "sidebar": "sidebar1"
             },
             {
@@ -396,33 +406,48 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Volume Management",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Volume Management",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Instances",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/IPv4Addresses",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Operations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/Overview",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways/ViewingandManagingNATGateways",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways",
               "sidebar": "sidebar1"
             },
             {
@@ -436,6 +461,26 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel",
               "sidebar": "sidebar1"
@@ -443,6 +488,11 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts",
               "sidebar": "sidebar1"
             },
             {
@@ -456,58 +506,43 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/AboutVirtualFirewallInstances",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ConfiguringAlerts",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/NetworkingManagement",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Operations",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Overview",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ReconfiguringVirtualFirewall",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/Snapshots",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingGraphsandUtilisation",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/ViewingVirtualFirewallDetails",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/FirewallInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AboutVirtualPrivateClouds",
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation",
               "sidebar": "sidebar1"
             },
             {
@@ -518,11 +553,6 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/DifferenceBetweenL2NetworksandVPC",
               "sidebar": "sidebar1"
             },
             {
@@ -553,11 +583,6 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/WorkingwithVPNConnectionsinaVPC",
               "sidebar": "sidebar1"
             },
             {
@@ -676,6 +701,36 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "/category/network-and-security",
+              "path": "/docs/category/network-and-security",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/virtual-private-clouds",
+              "path": "/docs/category/virtual-private-clouds",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/nat-gateways",
+              "path": "/docs/category/nat-gateways",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/l2-networks",
+              "path": "/docs/category/l2-networks",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/virtual-firewalls",
+              "path": "/docs/category/virtual-firewalls",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "/category/load-balancer-instances",
+              "path": "/docs/category/load-balancer-instances",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "/category/compute",
               "path": "/docs/category/compute",
               "sidebar": "sidebar1"
@@ -703,46 +758,6 @@
             {
               "id": "/category/autoscale",
               "path": "/docs/category/autoscale",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/network-and-security",
-              "path": "/docs/category/network-and-security",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/virtual-private-clouds",
-              "path": "/docs/category/virtual-private-clouds",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/nat-gateways",
-              "path": "/docs/category/nat-gateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/managing-nat-gateways",
-              "path": "/docs/category/managing-nat-gateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/l2-networks",
-              "path": "/docs/category/l2-networks",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/virtual-firewalls",
-              "path": "/docs/category/virtual-firewalls",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/firewall-instances",
-              "path": "/docs/category/firewall-instances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "/category/load-balancer-instances",
-              "path": "/docs/category/load-balancer-instances",
               "sidebar": "sidebar1"
             },
             {

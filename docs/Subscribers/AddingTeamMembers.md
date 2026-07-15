@@ -3,9 +3,11 @@ sidebar_position: 5
 ---
 # Adding Team Members
 
-The Role-Based Access Control (RBAC) in the One Yotta portal is a security framework that manages team member access based on defined roles such as Admin, Commercial, and Technology. It is required to ensure that all the team members have appropriate and restricted access to only the functions relevant to their responsibilities, improving security and operational efficiency. 
+[One Yotta](https://account.yotta.com) is Yotta’s unified customer portal that provides a single, secure platform to manage your account, services, assets, billing, and infrastructure monitoring. It centralizes essential management tasks, giving you complete visibility into your environment and enabling you to efficiently manage single or multiple deployments through an intuitive dashboard. 
 
-To add a team member or child user, perform the following steps:
+To support secure collaboration while providing access to these capabilities, [One Yotta](https://account.yotta.com) implements Role-Based Access Control (RBAC). RBAC assigns permissions based on predefined roles, such as Admin, Commercial, and Technology, ensuring that each team member can access only the features and resources required for their responsibilities. This role-based approach strengthens security, simplifies access management, and improves operational efficiency across the organization.
+
+To add a team member or child user, follow these steps:
 1. Navigate to [Yntraa Cloud portal](https://portal.yntraacloud.ai/). The following screen appears where you must provide the required details.
    ![Yntraa Sign In](img/yntraasignin.png)
 2. Click the **Sign In** button. The following screen appears:
@@ -14,7 +16,7 @@ To add a team member or child user, perform the following steps:
 ![Profile](img/profile.png) 
 4. Navigate **Account > Team**. The following screen appears:
 ![Team Member](img/teams.png)
-5. Click the **+ Invite Team Members** button. The portal redirects you to the One Yotta platform and automatically opens the Contacts tab as shown in the screen.
+5. Click the **+ Invite Team Members** button. The portal redirects you to the [One Yotta](https://account.yotta.com) platform and automatically opens the Contacts tab as shown in the screen.
 ![Add Team Member](img/contacts.png)
 6. Click the **New Contact** button. The following screen appears where you must provide the contact details.
 ![Adding Team Member](img/newmember.png)
