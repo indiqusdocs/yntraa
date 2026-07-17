@@ -24,7 +24,7 @@ To enhance your network security within the Yntraa Cloud, you can deploy a virtu
 
 To create new Virtual Firewall, follow these steps: 
 
-1. In the main navigation panel, navigate to the **Network and Security** > [Virtual Firewall](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall) section.
+1. Navigate to the **Network and Security > Virtual Firewalls**.
 2. On the Virtual Firewalls page, click the **New Virtual Firewall** button.
 3. Follow the prompts to configure and create the virtual firewall.
 ![VF Window](img/vfwindow.png)

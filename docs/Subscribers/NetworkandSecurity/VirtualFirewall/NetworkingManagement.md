@@ -21,16 +21,15 @@ To add and detach a network, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewall**. The following screen appears
 ![networknew](imgnew/networknew.png)
-2. Click the instance name. The following screen appears: 
+2. Click the instance name from the list. The following screen appears: 
 ![VF Listing View](imgnew/vflistingview.png)
 3. Click **Networking**. The following screen appears: 
 ![Networking Screen](imgnew/networkingscreen.png)
-4. Click the **Add Network** button. The following screen appears where you provide the required details: 
-![Add Network Requirements](imgnew/addnetworkrequirements.png)
-
-    - **Target Network** 
-    - **(Optional) Assign an IP Address**
-      
+4. Click the **Add Network** button. The following screen appears:
+![Add Network Requirements](imgnew/addnetworkrequirements.png) 
+:::note
+If the instance is deployed in a VPC, use **Add Network** to connect it to multiple VPC tiers or share it with other VPC networks within the same availability zone.
+::: 
 5. Click the **Confirm** button. The following screen appears: 
 ![Network Added](imgnew/networkadded.png)
 6. Click the **Detach NIC** icon (highlighted in red). The following screen appears: 
@@ -58,14 +57,6 @@ To add a secondary IP and delete an NIC, follow these steps:
 ![Secondary IP is Added](imgnew/secondaryipisadded.png)
 6. Click the **Delete NIC** icon (highlighted in red). The following screen appears: 
 ![NIC Deleted](imgnew/nicdeleted.png)
-
-
-The Networking and NICs section list all the networks that a instance is attached to.
-
-The following actions are available:
-
-- If the Instance is inside a VPC, you can associate the Instance to multiple tiers within the VPC or share the Instance with other VPC networks in the same Availability Zone by using the **Add Network** option.
-- Network/tier associations can be removed from this section by using the **Delete** action.
 
 :::note
 You can configure advanced networking settings using the [Virtual Private Clouds](/docs/category/virtual-private-clouds) service.

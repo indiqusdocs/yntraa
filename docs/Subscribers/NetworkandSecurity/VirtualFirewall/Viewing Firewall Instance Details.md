@@ -9,7 +9,7 @@ To view the details associated with a virtual firewall instance, follow these st
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![VF Listing View](imgnew/vflistingview.png)
-2. Click the [instance name](AboutVirtualFirewallInstances.md) from the list. The Overview tab opens automatically. The following screen appears:
+2. Click the [instance name](AboutVirtualFirewallInstances.md) from the list. The Overview tab opens automatically. The following screen appears with the details:
 ![Instance Overview](imgnew/overview.png)
 
 <div className="custom-block-blue">  

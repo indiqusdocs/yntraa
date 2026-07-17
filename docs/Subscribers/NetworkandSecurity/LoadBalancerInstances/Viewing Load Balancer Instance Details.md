@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 8
 ---
 # ViewingLoadBalancerInstanceDetails
 
@@ -9,7 +9,7 @@ To view the details of a load balancer instance, follow these steps:
 
  1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
   ![Load Balancer Screen](img/loadbalancerscreen.png)
- 2. Select a **Instance**. The **Overview** tab opens automatically. The following screen appears with the details
+ 2. Select a **Instance** from the list. The **Overview** tab opens automatically. The following screen appears with the details
  ![LBI Overview](img/lbioverview.png)
  
  <div className="custom-block-blue">  

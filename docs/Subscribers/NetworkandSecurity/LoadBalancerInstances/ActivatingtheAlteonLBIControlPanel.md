@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 # Activating the Alteon LBI Control Panel
 
@@ -9,7 +9,7 @@ To activate the Alteon LBI control panel and accessing it after activation, foll
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
    ![loadbalanceinstance](img/lbiwindow.png)
-2. Click the instance name. The following screen appears:
+2. Click the instance name from the list. The following screen appears:
   ![LBI Overview](img/lbioverviewwindow.png) 
 3. Click **Access**. The following screen appears: 
   ![Access LBI](img/accesslbi.png)

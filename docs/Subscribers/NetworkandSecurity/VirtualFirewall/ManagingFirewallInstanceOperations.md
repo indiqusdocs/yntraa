@@ -22,7 +22,7 @@ To restart a virtual firewall, follow these steps:
 
 1. Navigate to **Network and security > Virtual Firewall**. The following screen appears: 
 ![Virtual Firewall Lists](img/virtualfirewalllists.png)
-2. Click the instance name. The following screen appears: 
+2. Click the instance name from the list. The following screen appears: 
 ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
 ![Operation List View](img/operationlistview.png) 
@@ -38,7 +38,7 @@ To force stop a virtual firewall, follow these steps:
 
 1. Navigate to **Network and security > Virtual Firewall**. The following screen appears: 
 ![Virtual Firewall Lists](img/virtualfirewalllists.png)
-2. Click the instance name. The following screen appears: 
+2. Click the instance name from the list. The following screen appears: 
 ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
 ![Operation List View](img/operationlistview.png) 
@@ -54,45 +54,53 @@ To rename a virtual firewall, follow these steps:
 
 1. Navigate to **Network and security > Virtual Firewall**. The following screen appears: 
 ![Virtual Firewall Lists](img/virtualfirewalllists.png)
-2. Click the instance name. The following screen appears: 
+2. Click the instance name from the list. The following screen appears: 
 ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
 ![Operation List View](img/operationlistview.png) 
-4. Click the **Rename Virtual Firewall** button. The following screen appears where you provide the following details: 
+4. Click the **Rename Virtual Firewall** button. The following screen appears where you provide the Virtual Firewall Name.
 ![Rename VF](img/renamevfscreen.png)
-    - Virtual Firewall Name
 5. Click the **Done** button. The following screen appears: 
 ![Instance Renamed](img/instancerenamed.png)
 
 ## Deleting a Virtual Firewall
 
 Delete a Virtual Firewall to permanently remove it when it is no longer required. Use this option to free up associated resources and maintain an organized cloud environment.
+:::warning
+Deleting a Virtual Firewall removes it entirely along with its subscription and is a non-reversible action.
+:::
 
 To delete a virtual firewall, follow these steps: 
 
 1. Navigate to **Network and security > Virtual Firewall**. The following screen appears: 
 ![Virtual Firewall Lists](img/virtualfirewalllists.png)
-2. Click the instance name. The following screen appears: 
+2. Click the instance name from the list. The following screen appears: 
 ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
 ![Operation List View](img/operationlistview.png) 
 4. Click the **Delete Virtual Firewall** button. The following screen appears:
 ![VF Delete Process](img/vfdeleteprocess.png)
-5. Click the **Okay button**. The following screen appears:
-
+5. Click the **Okay button**.
 :::note
-
+Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
 :::
-1. Navigate to **Network and Security > Virtual Firewall**. The following screen appears
-![networknew](imgnew/networknew.png)
-2. Click the instance name. The following screen appears: 
-![VF Listing View](imgnew/vflistingview.png)
-3. Click **Networking**. The following screen appears: 
+6. Navigate to **Network and Security > Virtual Firewall**. The following screen appears
+![Virtual Firewall Lists](img/virtualfirewalllists.png)
+7. Click the instance name from the list. The following screen appears: 
+![Overview](img/overviewpanel.png)
+8. Click **Networking**. The following screen appears: 
 ![Delete VF Process1](img/deletevfprocess1.png)
+9. Click the **Detach NIC** icon (highlighted in red) next to the required private network to detach the network interface card(s) (NIC) from the virtual firewall. The following screen appears: 
+![Detaching NIC](img/detachingnic.png)
+10. Click the **Yes** button. The following screen appears:
+![NIC Detached](img/nicdetached.png)
+11. Click **Operations**. The following screen appears: 
+![Operation List View](img/operationlistview.png) 
+12. Click the **Delete Virtual Firewall** button. The following screen appears: 
+![Deleting VF](img/deletingvfinstance.png)
+13. Enter **DELETE** and click the **Delete Now** button. The virtual firewall instance is deleted. 
 
-  :::warning
-  Deleting a Virtual Firewall removes it entirely along with its subscription and is a non-reversible action.
-  :::
+
 
 
 

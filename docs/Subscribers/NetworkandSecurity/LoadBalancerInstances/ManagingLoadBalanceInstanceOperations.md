@@ -5,18 +5,14 @@ sidebar_position: 5
 
 You can manage the lifecycle of load balancer by restarting, force stopping, renaming, or deleting. These operations help you maintain service availability, resolve operational issues, organize resources, and manage your cloud infrastructure efficiently.
 
-To view all available load balancer instance operations, follow these steps:
- 1. Navigate to the **Network and Security > Load Balancers**. The following screen appears:
-![Load Balancer Screen](img/loadbalancerscreen.png)
- 2. Select a **Instance** and click **Operations**. The following screen appears:
-![LB Operations](img/lboperations.png)
-
 Yntraa Cloud provides the following operations on load balancer instances:
 
+<div className="custom-block-blue">  
 - [Restarting an Instance](#restarting-an-instance)
 - [Force Stop an Instance](#force-stop-an-instance)
 - [Renaming an Instance](#renaming-an-instance)
 - [Deleting an Instance](#deleting-an-instance)
+</div>
 
 ## Restarting an Instance
 

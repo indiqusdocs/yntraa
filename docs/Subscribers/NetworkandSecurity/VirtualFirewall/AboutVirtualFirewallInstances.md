@@ -7,13 +7,6 @@ Virtual Firewall Instances provide the ability to implement firewall services us
 
 The service falls under the Virtual Firewall and is built using our integration framework using [FortiGate VM](https://www.fortinet.com/products/private-cloud-security/fortigate-virtual-appliances) for powering the appliance.
 
-The following are the important features:
-
-- Multi-VLAN support and multiple Public IPv4 addresses for Virtual Firewalls.
-- Automated service activation, reducing the need for manual intervention.
-- Subscribers can create, configure, and manage Virtual Firewalls with enhanced network interface controls, restore points, etc.
-- Limitations include predefined WAN-LAN configurations and one firewall per gateway.
-  
 To access all virtual firewalls created in your account, follow these steps: 
 
 This section comprises of the following sub-sections:
@@ -28,12 +21,14 @@ This section comprises of the following sub-sections:
 
 Viewing virtual firewall details lets you access the configuration, status, and key information of a virtual firewall. View the firewall details to verify its settings, monitor its configuration, and ensure it is protecting network traffic as intended.
 
+
+
 To view a virtual firewall details, follow these steps: 
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
 
-2. Click on your created virtual firewall name from the list. The following screen appears with the available sections and their corresponding operations.
+2. Click on your created virtual firewall name from the list. The following screen appears with the available sections and their corresponding operations:
 ![launchconsolenew](imgnew/launchconsolenew.png)
    
 - [Viewing Firewall Instance Details](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing%20Firewall%20Instance%20Details)
@@ -49,7 +44,7 @@ To view a virtual firewall details, follow these steps:
 
 The virtual firewall console provides a secure, web‑based interface to manage and monitor your firewall. It allows administrators or you to configure policies, review system activity, and ensure network protection through a centralized dashboard. 
 
-1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears with the details: 
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
 2. Click on your created virtual firewall name from the list. The following screen appears:
 ![All Details Screen](imgnew/launchconsolenew.png) 

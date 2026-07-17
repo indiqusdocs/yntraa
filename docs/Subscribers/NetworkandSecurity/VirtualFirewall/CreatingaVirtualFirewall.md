@@ -23,11 +23,11 @@ Creating a virtual firewall allows you to deploy a firewall instance to secure a
 		**Allow Custom-** Enable you to specify the source from which traffic should be allowed.
 	:::
 	
-1. Review the summary and estimated costs.
+7. Review the summary and estimated costs.
    ![costnew](img/costnew.png)
-2.  Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
+8.  Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
    ![confirmvfnew](img/confirmvfnew.png)
-3. Click the **Confirm** button.
+9. Click the **Confirm** button.
 
 
 

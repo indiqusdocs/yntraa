@@ -3,7 +3,9 @@ sidebar_position: 8
 ---
 # Reconfiguring Virtual Firewall
 
-To reconfigure the existing virtual firewall pack, 
+Reconfigure a virtual firewall to replace its current firewall appliance with a different one that better meets your operational and security requirements. This operation updates the firewall configuration by applying the selected appliance. 
+
+To reconfigure the existing virtual firewall pack, follow these steps: 
 
 1. Navigate to **Network and Security > Virtual Firewall**. The following screen appears: 
 ![Virtual Firewall lists](img/virtualfirewalllists.png) 
@@ -12,23 +14,13 @@ To reconfigure the existing virtual firewall pack,
 3. Click **Reconfigure**. The following screen appears: 
 ![Reconfigure VF Pack](imgnew/reconfigurevfpack.png)
 4. Click the **Stop Instance** button. The following screen appears: 
+![Stop VF Message](imgnew/stopvfmessagebox.png)
+5. Click the **Yes** button. The following screen appears:
 ![Stopping VF](imgnew/stoppinginstance.png)
-5. Select a **Firewall Appliance** from the list. The following screen appears: 
-![Pack Selected](imgnew/packselected.png)
-6. Click the **Reconfigure Virtual Firewall Pack**. The following screen appears: 
+6. Select a **Firewall Appliance** from the list, and click the **Reconfigure Virtual Firewall Pack** button. The following screen appears: 
+![Reconfigure VF Message](imgnew/reconfigurevfmessage.png)
+7. Select **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy policy**, and click the **Confirm Reconfigure** button. 
 
-
-:::note
-Your Virtual Firewall needs to be powered off in order to be reconfigured.
-:::
-The Virtual Firewall on Yntraa Cloud can be reconfigured in the following ways:
-
-- The Billing interval changed monthly.
-- Choosing and applying a new Compute pack.
-
-:::note
-You can only reconfigure with the same billing interval.
-:::
 
 
 
