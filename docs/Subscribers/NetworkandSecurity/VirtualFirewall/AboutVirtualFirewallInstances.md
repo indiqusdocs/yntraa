@@ -15,15 +15,12 @@ The following are the important features:
 - Limitations include predefined WAN-LAN configurations and one firewall per gateway.
   
 To access all virtual firewalls created in your account, follow these steps: 
-  
-Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
-![virtualfirewallnew](imgnew/virtualfirewallnew.png)
 
 This section comprises of the following sub-sections:
 
 <div className="custom-block-blue">  
 - [Viewing Virtual Firewall Details](#viewing-virtual-firewall-details)
-- [Launching VF Web Based Console ](#launching-vf-web-based-console)
+- [Launching Virtual Firewall Web Based Console ](#launching-virtual-firewall-web-based-console)
 - [Stopping and Starting Virtual Firewall Instance](#stopping-and-starting-virtual-firewall-instance)
 </div>
 
@@ -33,15 +30,10 @@ Viewing virtual firewall details lets you access the configuration, status, and 
 
 To view a virtual firewall details, follow these steps: 
 
-1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears with the details: 
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
 
-    - Virtual Firewall Name
-    - Public IPv4
-    - Instances
-    - Created
-
-2. Click the instance name. The following screen appears with the available sections and their corresponding operations.
+2. Click on your created virtual firewall name from the list. The following screen appears with the available sections and their corresponding operations.
 ![launchconsolenew](imgnew/launchconsolenew.png)
    
 - [Viewing Firewall Instance Details](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing%20Firewall%20Instance%20Details)
@@ -52,25 +44,17 @@ To view a virtual firewall details, follow these steps:
 - [Restore Points](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots)
 - [Reconfiguring Virtual Firewall](/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall)
 - [ManagingFirewallInstanceOperations](ManagingFirewallInstanceOperations.md)
-  
 
-On the top-right corner, the following options are available: 
-
-- <span class="green">**Launch Console**</span>
-- <span style={{ color: 'red' }}>Stop Instance</span> and <span style={{ color: 'blue' }}>Start Instance</span>
-  
-## Launching VF Web Based Console 
+## Launching Virtual Firewall Web Based Console 
 
 The virtual firewall console provides a secure, web‑based interface to manage and monitor your firewall. It allows administrators or you to configure policies, review system activity, and ensure network protection through a centralized dashboard. 
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears with the details: 
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
-2. Click the instance name. The following screen appears:
+2. Click on your created virtual firewall name from the list. The following screen appears:
 ![All Details Screen](imgnew/launchconsolenew.png) 
 3. Click the **Launch Console** button. The following screen appears where you provide the required details:  
 ![fortinetui](imgnew/fortinetui.png)
-    - Username 
-    - Password
 4. Click the **Login** button. The FortiGate web-based management interface opens, allowing you to begin firewall configuration.
    
 ## Stopping and Starting Virtual Firewall Instance
@@ -81,13 +65,13 @@ To start and stop the virtual firewall instance, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears with the details: 
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
- 2. Click the instance name. The following screen appears:
+ 2. Click on your created virtual firewall name from the list. The following screen appears:
 ![All Details Screen](imgnew/launchconsolenew.png) 
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
 ![Stop VF Message](imgnew/stopvfmessage.png)
 4. Click the **Yes** button. The following screen appears:
 ![VF Instance Stopped](imgnew/vfinstancestopped.png)
-5. Click the <span style={{ color: 'blue' }}>Start Instance</span>. The following screen appears: 
+5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears: 
 ![Start Instance Message](imgnew/startinstancemessage.png)
 6. Click the **Yes** button. The following screen appears:
 ![All Details Screen](imgnew/launchconsolenew.png) 
