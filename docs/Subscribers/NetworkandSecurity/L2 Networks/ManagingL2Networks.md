@@ -27,7 +27,9 @@ To restart an L2 network, follow these steps:
 ## Deleting an L2 Network
 
 Deleting an L2 network permanently removes an unused Layer 2 network from your environment. Delete an L2 network to free resources, simplify network management, and remove networks that are no longer required.
-
+:::warning
+This action is irreversible and permanently deletes the L2 network. You will not be able to recover the L2 network or its associated configuration after deletion.
+:::
 To delete an L2 network, follow these steps:
 
 1. Navigate to **Network and Security > L2 Networks**. The following screen appears: 

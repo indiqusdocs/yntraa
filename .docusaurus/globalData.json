@@ -451,16 +451,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway",
               "sidebar": "sidebar1"
