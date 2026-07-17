@@ -96,6 +96,9 @@ To add a static NAT, follow these steps:
 ## Deleting an IP Address
 
 A public IP address enables a NAT Gateway to communicate with external networks and the internet. Delete a public IP address when it is no longer required to free up network resources, simplify configuration, and maintain an organized and efficient network environment.
+:::warning
+This is an irreversible action.
+:::
 
 To delete an IP address, follow these steps:
 
@@ -106,10 +109,6 @@ To delete an IP address, follow these steps:
     ![ipv4delete](imgnew/ipv4delete.png)
    
 2. Select the **I confirm that I have removed everything from this IPv4 Address** option, and click the **Delete Now** button.
-
-	:::warning
-	This is an irreversible action.
-	:::
 
 
 
