@@ -13,13 +13,11 @@ This section comprises of the following sub-sections:
 
 ## Adding and Detaching a Network
 
-A network links your virtual firewall instance to other systems and defines how traffic flows securely. It specifies IP addresses, gateways, and subnets, which are essential for managing communication and isolating workloads. 
-
-Adding a network expands connectivity and allows you to assign secondary IPs, while detaching a network removes unused connections to keep the configuration clean and secure.
+A network connects your virtual firewall to other resources and defines secure traffic flow through IP addressing and subnet configuration. Add a network to extend connectivity or assign secondary IPs, and detach unused networks to simplify management and maintain a secure configuration.
 
 To add and detach a network, follow these steps: 
 
-1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
 ![networknew](imgnew/networknew.png)
 2. Click on your created virtual firewall name from the list. The following screen appears: 
 ![VF Listing View](imgnew/vflistingview.png)
@@ -40,7 +38,7 @@ A secondary IP is an additional address assigned to your virtual firewall instan
 
 To add a secondary IP, follow these steps: 
 
-1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
 ![Network](imgnew/networknew.png)
 2. Click on your created virtual firewall name from the list. The following screen appears: 
 ![VF Listing View](imgnew/vflistingview.png)

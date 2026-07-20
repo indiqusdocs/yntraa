@@ -5,9 +5,9 @@ sidebar_position: 2
 
 Creating a Load Balancer Instance provisions a dedicated load balancing appliance within your virtual network to distribute application traffic across multiple backend resources. Create a Load Balancer Instance to improve application availability, optimize traffic distribution, and enhance performance by directing client requests to healthy backend servers.
 
-To a create a load balancer instances, follow these steps:
+To a create a load balancer instance, follow these steps:
 
-1. Navigate to **Network and Security> Load Balancers**. The following screen appears: 
+1. Navigate to **Network and Security > Load Balancers**. The following screen appears: 
  ![loadbalanceinstance](img/lbiwindow.png)
  2. Click the **+ New Load Balancer Instance** button. The following screen appears:
 ![LBI Components](img/lbicomponents.png)

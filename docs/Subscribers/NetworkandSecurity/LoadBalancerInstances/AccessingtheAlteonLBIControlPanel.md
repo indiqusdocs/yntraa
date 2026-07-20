@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Accessing the Alteon LBI Control Panel
 
-Adding the Alteon is required to enable advanced load balancing, traffic management, and security features for your application environment. 
+The Alteon Load Balancer Instance (LBI) Control Panel is a web-based management interface that enables you to configure, monitor, and manage your Alteon LBI. Accessing the control panel allows you to perform advanced load balancing, traffic management, application delivery, and security configurations to ensure high availability, performance, and reliability for your applications.
 
 To activate the Alteon LBI control panel and accessing it after activation, follow these steps:
 
@@ -14,18 +14,7 @@ To activate the Alteon LBI control panel and accessing it after activation, foll
 3. Click **Access**. The following screen appears: 
   ![Access LBI](img/accesslbi.png)
 4. Click the **Launch Load Balancer Management Interface** button to open the load balancer management console, where you can configure, monitor, and manage the selected load balancer.
-5. Click the **Launch Console** button to access the Instance's console interface. One-by-one, run the following commands:
 
-```
-set ns config -IPAddress <VM_private_IP_address> -netmask <VM_tier_netmask>
-add route 0 0 <gateway_IP_address_for_tier>
-save config
-reboot
-```
-
-:::note
-You can find all the required details in the parent VPC and/or on the LBI details sections of Yntraa Cloud.
-:::
 
 
 

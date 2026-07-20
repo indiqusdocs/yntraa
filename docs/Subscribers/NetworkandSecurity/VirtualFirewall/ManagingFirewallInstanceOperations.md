@@ -38,7 +38,7 @@ To force stop a virtual firewall, follow these steps:
 
 1. Navigate to **Network and security > Virtual Firewalls**. The following screen appears: 
 ![Virtual Firewall Lists](img/numberofvf.png)
-2. Click the instance name from the list. The following screen appears: 
+2. Click on your created virtual firewall name from the list. The following screen appears: 
 ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
 ![Operation List View](img/operationlistview.png) 
@@ -66,8 +66,8 @@ To rename a virtual firewall, follow these steps:
 ## Deleting a Virtual Firewall
 
 Delete a Virtual Firewall to permanently remove it when it is no longer required. Use this option to free up associated resources and maintain an organized cloud environment.
-:::warning
-Deleting a Virtual Firewall removes it entirely along with its subscription and is a non-reversible action.
+:::note
+You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
 
 To delete a virtual firewall, follow these steps: 
@@ -84,7 +84,7 @@ To delete a virtual firewall, follow these steps:
 :::note
 Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
 :::
-6. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears
+6. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
 ![Virtual Firewall Lists](img/numberofvf.png)
 7. Click on your created virtual firewall name from the list. The following screen appears: 
 ![Overview](img/overviewpanel.png)
@@ -99,6 +99,7 @@ Before deleting a virtual firewall, ensure that all associated L2 networks are d
 12. Click the **Delete Virtual Firewall** button. The following screen appears: 
 ![Deleting VF](img/deletingvfinstance.png)
 13. Enter **DELETE** and click the **Delete Now** button. The virtual firewall instance is deleted. 
+14. Enter **DELETE** and click the **Schedule Deletion** button. 
 
 
 

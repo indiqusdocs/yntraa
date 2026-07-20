@@ -8,9 +8,6 @@ Firewall instance details give a simple overview of the system. They show its cu
 This section comprises of the following sub-sections:
 
 <div className="custom-block-blue"> 
-- [Configuration and Availability](#configuration-and-availability)
-- [Internal Information](#internal-information)
-- [NIC Information](#nic-information)
 - [Launching Virtual Firewall Web Based Console](#launching-virtual-firewall-web-based-console)
 - [Stopping and Starting Virtual Firewall Instance](#stopping-and-starting-virtual-firewall-instance)
 </div>
@@ -22,26 +19,20 @@ To view the details associated with a virtual firewall instance, follow these st
 2. Click on your created virtual firewall from the list. The Overview tab opens automatically. The following screen appears with the details:
 ![Instance Overview](imgnew/overview.png)
 
-## Configuration and Availability
+**Configuration and Availability:** This displays the following virtual firewall configuration details to help verify its current configuration and operational state:
 
-This displays the virtual firewall configuration details to help verify its current configuration and operational state.
-
-- The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>.
+- The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>
 - Availability Zone
 - Firewall Provider
 - Firewall Configuration
 - Root Disk
 
-## Internal Information
-
-This displays the information that is used for internal identification of the virtual firewall and communication with other internal services.
+**Internal Information:** This displays the following information that is used for internal identification of the virtual firewall and communication with other internal services:
 - Template Name
 - Virtual Firewall Internal Name
 - Created On
   
-## NIC Information
-
-This displays the network interface details associated with the virtual firewall to help identify and manage its network connectivity.
+**NIC Information:** This displays the following network interface details associated with the virtual firewall to help identify and manage its network connectivity:
 - Network Name
 - MAC Address
 - IP Address
@@ -56,7 +47,7 @@ The virtual firewall console provides a secure, web‑based interface to manage 
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
 2. Click on your created virtual firewall name from the list. The following screen appears:
 ![All Details Screen](imgnew/launchconsolenew.png) 
-3. Click the **Launch Console** button. The following screen appears where you provide the required details:  
+3. Click the **Launch Console** button. The following screen appears:  
 ![fortinetui](imgnew/fortinetui.png)
 4. Click the **Login** button. The FortiGate web-based management interface opens, allowing you to begin firewall configuration.
    
@@ -66,7 +57,7 @@ Stop and start the virtual firewall instance to apply updates, perform maintenan
 
 To start and stop the virtual firewall instance, follow these steps:  
 
-1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears with the details: 
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
  2. Click on your created virtual firewall name from the list. The following screen appears:
 ![All Details Screen](imgnew/launchconsolenew.png) 

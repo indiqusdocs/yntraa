@@ -14,9 +14,7 @@ This section comprises of the following sub-sections:
 
 ## Configuring Alerts
 
-Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage. 
-
-You can configure alerts for instances running on the Yntraa Cloud. You can define alerts for Instances and configure the email recipients for these alerts using a straightforward and easy-to-use interface.
+Create an alert to monitor a specific virtual firewall metric and receive an email notification when the configured threshold is reached. While creating an alert, specify a name, select the parameter to monitor, define the trigger condition and reading duration, and add the email recipients for notifications.
 
 To configure alerts, follow these steps: 
 
@@ -39,7 +37,7 @@ To configure alerts, follow these steps:
 
 The Manage Recipients feature lets you control who receives firewall alerts. It displays all configured or added email IDs and provides options to remove outdated addresses or add new ones. 
 
-To remove existing email IDs and add other email IDs, follow these steps.
+To remove existing email IDs and add other email IDs, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![vfinstancealert](imgnew/vfinstancealert.png)

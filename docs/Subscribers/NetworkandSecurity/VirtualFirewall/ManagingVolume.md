@@ -42,7 +42,7 @@ To create the disk restore point, follow these steps:
 ![Root Disk](img/rootdisk.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
 ![Create Disk Restore Point](img/creatediskrestorepoint.png)
-5. Click the **Click Disk Restore Point** button. The disk restore point is created.
+5. Click the **Create Disk Restore Point** button. The disk restore point is created.
 :::note
 Restore Point creation will occupy space in your additional storage.
 :::
@@ -72,7 +72,7 @@ To create volume, follow these steps:
 ![Root Disk](img/rootdisk.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
 ![Create Disk Restore Point](img/creatediskrestorepoint.png)
-5. Click the **Click Disk Restore Point** button. 
+5. Click the **Create Disk Restore Point** button. 
 :::note
 Restore Point creation will occupy space in your additional storage.
 :::
@@ -80,7 +80,7 @@ Restore Point creation will occupy space in your additional storage.
 ![Restore Points list](img/restorepointslist.png)
 7. Click **Disk Restore Point**. The following screen appears: 
 ![Creating Volume](img/createvolume.png)
-8. Click the [**Create Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) icon (highlighted in red) corresponding to the required disk restore point. The following screen appears.
+8. Click the [**Create Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) icon (highlighted in red) corresponding to the required disk restore point. The following screen appears:
 ![Create Image Details](img/createimagedetails.png)
 
 ## Deleting Disk Restore Point
@@ -101,7 +101,7 @@ This action can not be reversed.
 ![Root Disk](img/rootdisk.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
 ![Create Disk Restore Point](img/creatediskrestorepoint.png)
-5. Click the **Click Disk Restore Point** button. 
+5. Click the **Create Disk Restore Point** button. 
 :::note
 Restore Point creation will occupy space in your additional storage.
 :::

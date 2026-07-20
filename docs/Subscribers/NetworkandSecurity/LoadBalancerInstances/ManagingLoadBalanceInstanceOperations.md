@@ -52,7 +52,7 @@ To rename an instance, follow these steps:
 ![Load Balancer Screen](img/loadbalancerscreen.png)
 2. Click on your created load balancer Instance from the list, and click **Operations**. The following screen appears:
 ![LB Operations](img/lboperations.png)
-3. Click the **Rename Instance** button. The following screen appears: 
+3. Click the **Rename Instance** button. The following screen appears where you can update the LBI name in Instance Name.
  ![Instance Name Changed](img/instancenamechanged.png)
 4. Click the **Done** button. The new instance name appears (highlighted in red). 
 ![Name Changed](img/namechange.png)
@@ -60,8 +60,8 @@ To rename an instance, follow these steps:
 ## Deleting an Instance
 
 Delete a load balancer instance when it is no longer required to remove it permanently from cloud environment. This action helps free up resources, reduce unnecessary costs, and keep your infrastructure organized by eliminating unused instances. 
-:::warning
-This action is irreversible and cannot be undone.
+:::note
+You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
 
 To delete an instance, follow these steps:
@@ -72,9 +72,7 @@ To delete an instance, follow these steps:
 ![LB Operations](img/lboperations.png)
 3. Click the **Delete Instance** button. The following screen appears: 
 ![Delete Instance](img/deleteinstance.png)
-4. Enter **Delete** and click the **Delete Now** button. 
+4. Enter **DELETE** and click the **Delete Now** button. The LBI is deleted.
 5. Enter **DELETE** and click the **Schedule Deletion** button.
 
-:::note
-You can schedule the deletion of the resource and continue using it until the end of the current billing cycle. If needed, you can revoke the scheduled deletion before the billing cycle ends.
-:::
+
