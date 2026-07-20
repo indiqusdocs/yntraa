@@ -21,7 +21,7 @@ Primarily, you can use IPv4 addresses for configuring access and perform NAT via
 
 To add a a new IPv4 address to the VPC, follow these steps:
 
-1. Navigate to **Network and Security** > **Virtual Private Clouds**. The following screen appears:
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
 ![VPC Deployed](img/vpcdeployed.png) 
 2. Click on your created VPC name from the list. The following screen appears:
 ![Deployed VPC Overview](img/deployedvpcoverview.png)
@@ -43,7 +43,7 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 :::
 
 To configure the Load Balancing Rule, follow these steps:
-1. Navigate to **Network and Security** > **Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
+1. Navigate to **Network and Security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
 ![VPC IP Address](img/vpcipaddress.png)
 2. Click the **Load Balancing** icon (highlighted in red). The following screen appears:
 ![addrulenew](img/addrulenew.png)

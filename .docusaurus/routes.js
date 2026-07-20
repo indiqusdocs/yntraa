@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b36'),
+    component: ComponentCreator('/docs', '34d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e1b'),
+        component: ComponentCreator('/docs', 'e9b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '600'),
+            component: ComponentCreator('/docs', 'fd3'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -683,14 +683,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances', 'a56'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel', '52e'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel', '358'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -701,8 +695,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint', 'ec8'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint', '1b3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -725,8 +719,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details', '1d4'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails', '922'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -767,32 +761,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances', '37b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel', 'f76'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts', '596'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall', '484'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts', '589'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations', '842'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints', 'c5c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -815,18 +803,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots', '596'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details', '729'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs', '3e4'),
                 exact: true,
@@ -835,6 +811,12 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation', '969'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails', '54e'),
                 exact: true,
                 sidebar: "sidebar1"
               },

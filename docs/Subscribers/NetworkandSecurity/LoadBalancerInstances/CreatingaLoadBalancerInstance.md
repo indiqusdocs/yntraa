@@ -26,7 +26,7 @@ To a create a load balancer instances, follow these steps:
 11. Once the LBI is created, navigate back to the VPC and configure the added **IPv4 Address** as a Static NAT on the newly-created Load Balancer Instance.
 
 :::note
-The above steps create an LBI and place it in the correct spot in the network. To configure traffic management rules and access other options via the NetScaler VPX control panel, additional activation steps are needed. These instructions are sent over email when an LBI is created.
+The above steps create an LBI and place it in the correct spot in the network. To configure traffic management rules and access other options via the Alteon control panel, additional activation steps are needed. These instructions are sent over email when an LBI is created.
 :::
 
 

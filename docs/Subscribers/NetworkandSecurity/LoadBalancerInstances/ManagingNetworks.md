@@ -39,11 +39,10 @@ To add a secondary IP, follow these steps:
 ![LBI Overview Window](img/lbioverviewwindow.png) 
 2. Click **Networking**. The following screen appears:
 ![Networking](img/networkingscreen.png) 
-3. Click the **+ New Secondary IP** button. The following screen appears where you provide the required details: 
+3. Click the **+ New Secondary IP** button. The following screen appears:
 ![Add Secondary IP](img/addsecondaryip.png)
-    - IP Address
-    - Associate Network
-4. Click the **Add** button.
+4. Click the **Add** button. The secondary IP is added (highlighted in red). The following screen appears: 
+![Secondary IP Added in LBI](img/secondaryipaddedinlbi.png)
 
 It is used in following networking services:
 - [Static NAT](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC): You can map a public IP to a secondary IP for external access.

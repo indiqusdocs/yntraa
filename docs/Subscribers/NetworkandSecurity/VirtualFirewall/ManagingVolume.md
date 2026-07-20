@@ -1,14 +1,17 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 # Managing Volume
 
 Manage volumes to monitor and protect the storage resources attached to your instances. Volume management allows you to view attached disks, create disk restore points to safeguard data before changes, and create custom images for rapid instance deployment and recovery. These operations help ensure data protection, simplify backup and restoration, and maintain consistent storage configurations across your cloud environment.
 
+This section comprises of the following sub-sections:
+
 <div className="custom-block-blue">  
 - [Viewing Attached Disk](#viewing-attached-disk)
-- [Creating Disk Restore Point ](#creating-disk-restore-point )
-- [Creating My Images](#creating-my-images)
+- [Creating Disk Restore Point ](#creating-disk-restore-point)
+- [Viewing Disk Restore Point ](#viewing-disk-restore-point)
+- [Creating Volume](#creating-volume)
 - [Deleting Disk Restore Point](#deleting-disk-restore-point)
 </div>
 
@@ -18,12 +21,12 @@ View the disks attached to an instance to verify the storage resources associate
 
 To view the disks attached to an Instance, follow these steps: 
 
-1. Navigate to **Network and Security > Virtual Firewall**. The following screen appears: 
-![Virtual Firewall lists](img/virtualfirewalllists.png)
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
+![Virtual Firewall lists](img/numberofvf.png)
 2. Click on your created virtual firewall from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
 3. Click **Volumes**. The following screen appears: 
-![Root Disk](img/rootdisk.png)
+![View Root Disk](img/viewrootdisk.png)
 
 ## Creating Disk Restore Point 
 
@@ -31,66 +34,44 @@ Create a disk restore point to capture the current state of a disk before perfor
 
 To create the disk restore point, follow these steps: 
 
-1. Navigate to **Network and Security > Virtual Firewall**. The following screen appears: 
-![Virtual Firewall lists](img/virtualfirewalllists.png)
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
+![Virtual Firewall lists](img/numberofvf.png)
 2. Click on your created virtual firewall from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
 3. Click **Volumes**. The following screen appears: 
 ![Root Disk](img/rootdisk.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
-![Create Restore Point](img/createrestorepoint.png)
-5. Click the **Click Disk Restore Point** button. 
+![Create Disk Restore Point](img/creatediskrestorepoint.png)
+5. Click the **Click Disk Restore Point** button. The disk restore point is created.
 :::note
 Restore Point creation will occupy space in your additional storage.
 :::
-6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
+
+## Viewing Disk Restore Point
+
+View disk restore points to monitor the available recovery snapshots created for a disk. Reviewing restore points helps you verify backup availability, identify restore points based on their creation time, and select the appropriate recovery point when restoring a disk. This ensures you can quickly recover disk data to a known good state whenever required.
+
+To view the disk restore point, follow these steps: 
+
+1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears:
 ![Restore Points list](img/restorepointslist.png)
-7. Click **Disk Restore Point**. The following screen appears: 
-![Disk Restore Points](img/diskrestorepoints.png)
-
-## Creating My Images
-
-Create a custom image to capture the complete state of an instance, including its operating system, installed applications, and configuration settings. A custom image enables you to quickly deploy new instances with the same configuration, ensuring consistency, reducing deployment time, and simplifying backup and disaster recovery.
-
-To create My Images, follow these steps: 
-
-1. Navigate to **Network and Security > Virtual Firewall**. The following screen appears: 
-![Virtual Firewall lists](img/virtualfirewalllists.png)
-2. Click on your created virtual firewall from the list. The following screen appears:
-![Overview](img/overviewscreen.png) 
-3. Click **Volumes**. The following screen appears: 
-![Root Disk](img/rootdisk.png)
-4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
-![Create Restore Point](img/createrestorepoint.png)
-5. Click the **Click Disk Restore Point** button. 
-:::note
-Restore Point creation will occupy space in your additional storage.
-:::
-6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
-![Restore Points list](img/restorepointslist.png)
-7. Click **Disk Restore Point**. The following screen appears: 
-![Disk Restore Points](img/diskrestorepoints.png)
-8. Click the **Create Image** icon (highlighted in red) corresponding to the required disk restore point. The following screen appears.
-![Create Image Details](img/createimagedetails.png)
-9. Click the **Yes** button. The image is created.
-![Create My Image](img/createmyimage.png)
-
-:::note
-After the image is created, it becomes available under **Choose an OS Image > MY Images** when creating windows Instances, RHEL instances, and Other Linux Instances in the Compute section.
-:::
+2. Click **Disk Restore Point**. The following screen appears: 
+![View Disk Restore Points](img/viewdiskrestorepoints.png)
 
 ## Creating Volume
 
+Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
+
 To create volume, follow these steps: 
 
-1. Navigate to **Network and Security > Virtual Firewall**. The following screen appears: 
-![Virtual Firewall lists](img/virtualfirewalllists.png)
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
+![Virtual Firewall lists](img/numberofvf.png)
 2. Click on your created virtual firewall from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
 3. Click **Volumes**. The following screen appears: 
 ![Root Disk](img/rootdisk.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
-![Create Restore Point](img/createrestorepoint.png)
+![Create Disk Restore Point](img/creatediskrestorepoint.png)
 5. Click the **Click Disk Restore Point** button. 
 :::note
 Restore Point creation will occupy space in your additional storage.
@@ -112,14 +93,14 @@ To delete disk restore point, follow these steps:
 This action can not be reversed.
 :::
 
-1. Navigate to **Network and Security > Virtual Firewall**. The following screen appears: 
-![Virtual Firewall lists](img/virtualfirewalllists.png)
+1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
+![Virtual Firewall lists](img/numberofvf.png)
 2. Click on your created virtual firewall from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
 3. Click **Volumes**. The following screen appears: 
 ![Root Disk](img/rootdisk.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
-![Create Restore Point](img/createrestorepoint.png)
+![Create Disk Restore Point](img/creatediskrestorepoint.png)
 5. Click the **Click Disk Restore Point** button. 
 :::note
 Restore Point creation will occupy space in your additional storage.

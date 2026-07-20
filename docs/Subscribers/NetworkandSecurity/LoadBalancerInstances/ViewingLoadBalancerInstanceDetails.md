@@ -1,7 +1,7 @@
 ---
-sidebar_position: 8
+sidebar_position: 3
 ---
-# ViewingLoadBalancerInstanceDetails
+# Viewing Load Balancer Instance Details
 
 Load balancer instance details provide an overview of the instance, including its current status, configuration, internal information, and network details. This information helps you monitor the instance, verify its configuration, and manage network connectivity effectively.
 
@@ -9,7 +9,7 @@ To view the details of a load balancer instance, follow these steps:
 
  1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
   ![Load Balancer Screen](img/loadbalancerscreen.png)
- 2. Select a **Instance** from the list. The **Overview** tab opens automatically. The following screen appears with the details
+ 2. Click on your created load balancer Instance from the list. The Overview tab opens automatically. The following screen appears with the details:
  ![LBI Overview](img/lbioverview.png)
  
  <div className="custom-block-blue">  

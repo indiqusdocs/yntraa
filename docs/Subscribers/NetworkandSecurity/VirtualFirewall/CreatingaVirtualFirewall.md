@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Creating a Virtual Firewall
 
@@ -8,7 +8,7 @@ Creating a virtual firewall allows you to deploy a firewall instance to secure a
  To create a virtual firewall, follow these steps:
  
 1. In the main menu, navigate to the **Network and Security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/virtualfirewalllists.png)
+![Virtual Firewall Lists](img/numberofvf.png)
 2. Click **+ New Virtual Firewall**. The following screen appears: 
 ![vfconfignew](img/vfconfignew.png)
 ![vfdetailsnewnew](img/vfdetailsnewnew.png)

@@ -1,7 +1,18 @@
 ---
 sidebar_position: 4
 ---
-# Configuring Alerts
+# Managing Alerts
+
+Alerts help you monitor the health and performance of your virtual firewall by notifying you when predefined conditions are met. You can create, view, modify, or delete alerts and manage email recipients to ensure the appropriate users receive notifications. Managing alerts enables you to proactively monitor your virtual firewall and respond promptly to important events.
+
+This section comprises of the following sub-sections:
+
+<div className="custom-block-blue">  
+- [Configuring Alerts](#configuring-alerts)
+- [Managing Recipients](#managing-recipients)
+</div>
+
+## Configuring Alerts
 
 Alerts get triggered whenever a configured condition is met. You can create multiple alerts on an instance. Alerts are sent to recipients that you can define and manage. 
 

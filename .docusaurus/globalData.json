@@ -391,13 +391,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel",
-              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel",
               "sidebar": "sidebar1"
             },
             {
@@ -406,8 +401,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint",
-              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint",
               "sidebar": "sidebar1"
             },
             {
@@ -426,8 +421,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details",
-              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details",
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails",
               "sidebar": "sidebar1"
             },
             {
@@ -461,28 +456,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall",
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints",
               "sidebar": "sidebar1"
             },
             {
@@ -501,16 +491,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs",
               "sidebar": "sidebar1"
@@ -518,6 +498,11 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails",
               "sidebar": "sidebar1"
             },
             {
