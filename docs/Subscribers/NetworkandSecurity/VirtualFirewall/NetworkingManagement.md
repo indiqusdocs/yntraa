@@ -49,6 +49,6 @@ To add a secondary IP, follow these steps:
 5. Click the **Add** button. The secondary IP is added (highlighted in red). The following screen appears:
 ![Secondary IP is Added](imgnew/secondaryipaddinvf.png)
 
-:::note
-You can configure advanced networking settings using the [Virtual Private Clouds](/docs/category/virtual-private-clouds) service.
-:::
+    :::note
+    You can configure advanced networking settings using the [Virtual Private Clouds](/docs/category/virtual-private-clouds) service.
+    :::

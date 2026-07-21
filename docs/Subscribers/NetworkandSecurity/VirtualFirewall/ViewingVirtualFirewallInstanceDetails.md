@@ -47,9 +47,7 @@ The virtual firewall console provides a secure, web‑based interface to manage 
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
 2. Click on your created virtual firewall name from the list. The following screen appears:
 ![All Details Screen](imgnew/launchconsolenew.png) 
-3. Click the **Launch Console** button. The following screen appears:  
-![fortinetui](imgnew/fortinetui.png)
-4. Click the **Login** button. The FortiGate web-based management interface opens, allowing you to begin firewall configuration.
+3. Click the **Launch Console** button, enter your username and password, and then click **Login** button to access the FortiGate web-based management interface.
    
 ## Stopping and Starting Virtual Firewall Instance
 

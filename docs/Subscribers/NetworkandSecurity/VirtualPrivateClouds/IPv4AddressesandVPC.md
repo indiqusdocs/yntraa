@@ -30,9 +30,9 @@ To add a a new IPv4 address to the VPC, follow these steps:
 4. Click the **Add Public IPv4 Address** button. The following screen appears:
 ![IP in VPC](img/ipinvpc.png) 
 
-:::note
-Public IPv4 addresses may carry a price which may vary depending on availability of IPv4 addresses in the country of operation, and/or how they have been priced.
-:::
+    :::note
+    Public IPv4 addresses may carry a price which may vary depending on availability of IPv4 addresses in the country of operation, and/or how they have been priced.
+    :::
 
 ## Configuring Load Balancing 
 
@@ -61,9 +61,9 @@ Once the load balancer rule has been created, the Port Forwarding and Static NAT
 7. Click the **+** icon (highlighted in red) to add an instance. The following screen appears:
 ![Add Instance in LB Rule](img/addinstanceinlbrule.png) 
 
-:::note
-To delete this Load Balancing Rule, click **Delete This Rule** button.
-:::
+    :::note
+    To delete this Load Balancing Rule, click **Delete This Rule** button.
+    :::
 
 To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
@@ -78,9 +78,9 @@ To configure port forwarding, follow these steps:
 ![Add Rule](img/pfaddrulebutton.png) 
 3. Click **+ Add Rule**. The following screen appears where you provide the required details: 
 ![pfnowadded](img/pfnowadded.png)
-:::note
-The end ports should be equal to or greater than the start ports.
-:::
+    :::note
+    The end ports should be equal to or greater than the start ports.
+    :::
 4. Click the **Add Port Forwarding Rule** button. The following screen appears: 
 ![PF Rule Enable](img/pfruleenable.png)
 
@@ -94,7 +94,7 @@ You can view the Instance where this rule is configured, along with the private 
 To test if port-forwarding is configured correctly, use the public IP to SSH into the virtual machine the IP forwards to.
 
 :::note
-A Port-Forwarding IP address can be used to configure multiple Port-Forwarding access rules but with one virtual machine. To port-forward into a different virtual machine, you must purchase an additional public IP address.
+A Port-Forwarding IP address can be used to configure multiple Port- Forwarding  access rules but with one virtual machine. To port-forward into a different virtual machine, you must purchase an additional public IP address.
 :::
 
 ## Configuring Static NAT

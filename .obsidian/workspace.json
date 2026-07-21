@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations.md",
+                "file": "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ManagingLoadBalanceInstanceOperations"
+              "title": "ManagingNetworks"
             }
           }
         ]
@@ -172,9 +172,29 @@
   "active": "49ede8afbb638c00",
   "lastOpenFiles": [
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume.md",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs.md",
+    "docs/Subscribers/NetworkandSecurity/L2 Networks/AddinganL2Networks.md",
+    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance.md",
+    "docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints.md",
+    "docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations.md",
+    "docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/search-index.json",
@@ -196,25 +216,6 @@
     "build/img/rn.svg",
     "build/img/rn.png",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ReconfiguringaVPC.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/_DeployingVNFandInstanceWithinVNF.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/_AddingInstancestoaVFI-basedNetwork.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel.md"
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks.md"
   ]
 }

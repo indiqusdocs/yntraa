@@ -44,7 +44,7 @@ Launch the LBI Web Based Console to access the browser-based management interfac
 2. Click on your created load balancer instance name from the list. The following screen appears:
 ![Overview](img/lbioverview.png) 
 3. Click the **Launch Console** button to access the Instance's console interface. One-by-one, run the following commands:
-
+ 
 ```
 set ns config -IPAddress <VM_private_IP_address> -netmask <VM_tier_netmask>
 add route 0 0 <gateway_IP_address_for_tier>

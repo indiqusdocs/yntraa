@@ -25,9 +25,9 @@ To add a network, follow these steps:
 ![addingnic](img/addingnic.png)
 4. Click the **Yes** button. 
    
-:::note
-If the Instance is inside a VPC, you can associate the Instance to multiple tiers within the VPC or share the Instance with other VPC networks in the same availability zone by using the Add Network option.
-:::
+    :::note
+    If the Instance is inside a VPC, you can associate the Instance to multiple tiers within the VPC or share the Instance with other VPC networks in the same availability zone by using the Add Network option.
+    :::
 
 ## Adding a Secondary IP
 

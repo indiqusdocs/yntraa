@@ -81,9 +81,9 @@ To delete a virtual firewall, follow these steps:
 4. Click the **Delete Virtual Firewall** button. The following screen appears:
 ![VF Delete Process](img/vfdeleteprocess.png)
 5. Click the **Okay button**.
-:::note
-Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
-:::
+    :::note
+    Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
+    :::
 6. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
 ![Virtual Firewall Lists](img/numberofvf.png)
 7. Click on your created virtual firewall name from the list. The following screen appears: 
