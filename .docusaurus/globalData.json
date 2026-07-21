@@ -316,33 +316,38 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/AboutWindowsInstances",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/WindowsInstances/CreatingWindowsInstances",
               "path": "/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances",
+              "id": "Subscribers/Compute/WindowsInstances/Managing Instance Restore Points",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/Managing Instance Restore Points",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances",
+              "id": "Subscribers/Compute/WindowsInstances/ManagingAlerts",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ManagingAlerts",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/WindowsInstances/ManagingNetworks",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ManagingNetworks",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/WindowsInstances/ManagingVolume",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ManagingVolume",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/WindowsInstances/ReconfiguringWindowInstances",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowInstances",
               "sidebar": "sidebar1"
             },
             {
@@ -351,23 +356,18 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances",
+              "id": "Subscribers/Compute/WindowsInstances/ViewingGraphs",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ViewingGraphs",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances",
+              "id": "Subscribers/Compute/WindowsInstances/ViewingUtilisation",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ViewingUtilisation",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/WindowsInstances/WindowsInstanceOperations",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints",
-              "path": "/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints",
+              "id": "Subscribers/Compute/WindowsInstances/ViewingWindowsInstances",
+              "path": "/docs/Subscribers/Compute/WindowsInstances/ViewingWindowsInstances",
               "sidebar": "sidebar1"
             },
             {

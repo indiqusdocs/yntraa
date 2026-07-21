@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '34d'),
+    component: ComponentCreator('/docs', '328'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e9b'),
+        component: ComponentCreator('/docs', 'e20'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'fd3'),
+            component: ComponentCreator('/docs', 'c73'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -593,38 +593,44 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances', 'ff7'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance', '5b0'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances', 'a87'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances',
                 component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances', 'efe'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances', '495'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/Managing Instance Restore Points',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/Managing Instance Restore Points', 'd18'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances', '425'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ManagingAlerts',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ManagingAlerts', '06d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/WindowsInstances/ManagingNetworks',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ManagingNetworks', '08d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/WindowsInstances/ManagingVolume',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ManagingVolume', '326'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations', '4d1'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowInstances', 'd79'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -635,26 +641,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances', '104'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ViewingGraphs',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ViewingGraphs', 'a7c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances', 'b4d'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ViewingUtilisation',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ViewingUtilisation', 'b78'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations', '650'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints', 'd3a'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ViewingWindowsInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ViewingWindowsInstances', 'ee5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
