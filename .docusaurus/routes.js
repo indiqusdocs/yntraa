@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7f5'),
+    component: ComponentCreator('/docs', '37f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '359'),
+        component: ComponentCreator('/docs', 'f1d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '27b'),
+            component: ComponentCreator('/docs', '1d4'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -455,20 +455,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances', 'a58'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance',
                 component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance', 'b0b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts', 'c58'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -479,20 +467,32 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement', '49e'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingAlerts',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingAlerts', '4ca'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/Operations',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/Operations', 'c32'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingInstanceRestorePoints', '35f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/Overview',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/Overview', 'ec3'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations', '4a8'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingNetworks',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingNetworks', '2e9'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume', 'bd3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -503,20 +503,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances', '914'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/Viewing Details of Linux Instances',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/Viewing Details of Linux Instances', 'b78'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement', 'f77'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphs',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphs', 'f90'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints', 'edc'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances', '494'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ViewingUtilisation',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ViewingUtilisation', '96d'),
                 exact: true,
                 sidebar: "sidebar1"
               },

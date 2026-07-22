@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-7f5": {
+  "/docs-37f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-359": {
+  "/docs-f1d": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-27b": {
+  "/docs-1d4": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -465,49 +465,53 @@
     "__comp": "17896441",
     "content": "80b608e4"
   },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances-a58": {
-    "__comp": "17896441",
-    "content": "ca73b099"
-  },
   "/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance-b0b": {
     "__comp": "17896441",
     "content": "d74654ba"
-  },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts-c58": {
-    "__comp": "17896441",
-    "content": "bab135bc"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances-261": {
     "__comp": "17896441",
     "content": "73b293ad"
   },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement-49e": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingAlerts-4ca": {
     "__comp": "17896441",
-    "content": "705db28d"
+    "content": "aec91faf"
   },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/Operations-c32": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingInstanceRestorePoints-35f": {
     "__comp": "17896441",
-    "content": "1f458edd"
+    "content": "3bdf0f94"
   },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/Overview-ec3": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations-4a8": {
     "__comp": "17896441",
-    "content": "83984c99"
+    "content": "af771390"
+  },
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingNetworks-2e9": {
+    "__comp": "17896441",
+    "content": "68daef61"
+  },
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume-bd3": {
+    "__comp": "17896441",
+    "content": "e2d4a0c0"
   },
   "/docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances-953": {
     "__comp": "17896441",
     "content": "79cce89d"
   },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances-914": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/Viewing Details of Linux Instances-b78": {
     "__comp": "17896441",
-    "content": "190afc28"
+    "content": "63d3db71"
   },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement-f77": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphs-f90": {
     "__comp": "17896441",
-    "content": "0c537fa4"
+    "content": "27f5cee5"
   },
-  "/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints-edc": {
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances-494": {
     "__comp": "17896441",
-    "content": "7fd41d55"
+    "content": "d7cbfbfc"
+  },
+  "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingUtilisation-96d": {
+    "__comp": "17896441",
+    "content": "a360c2ea"
   },
   "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance-363": {
     "__comp": "17896441",

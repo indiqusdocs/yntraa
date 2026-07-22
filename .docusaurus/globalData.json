@@ -201,18 +201,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance",
               "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/OtherLinuxInstances/CreatingAlerts",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts",
               "sidebar": "sidebar1"
             },
             {
@@ -221,18 +211,28 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/NetworkingManagement",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ManagingAlerts",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingAlerts",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/Operations",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/Operations",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ManagingInstanceRestorePoints",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingInstanceRestorePoints",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/Overview",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/Overview",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/OtherLinuxInstances/ManagingNetworks",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingNetworks",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/OtherLinuxInstances/ManagingVolume",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume",
               "sidebar": "sidebar1"
             },
             {
@@ -241,18 +241,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances",
+              "id": "Subscribers/Compute/OtherLinuxInstances/Viewing Details of Linux Instances",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/Viewing Details of Linux Instances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/VolumeManagement",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ViewingGraphs",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphs",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints",
-              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints",
+              "id": "Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/OtherLinuxInstances/ViewingUtilisation",
+              "path": "/docs/Subscribers/Compute/OtherLinuxInstances/ViewingUtilisation",
               "sidebar": "sidebar1"
             },
             {
