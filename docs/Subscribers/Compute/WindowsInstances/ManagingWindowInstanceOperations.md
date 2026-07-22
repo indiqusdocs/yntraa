@@ -44,7 +44,7 @@ To force stop a window instance, follow these steps:
     
 ## Resetting Password of an Instance
 
-Resetting the password allows you to regain access to your windows instance if you have forgotten the current password or need to update it for security purposes. You can generate a new administrator password and use it to securely sign in to your Windows instance.
+Resetting the password allows you to regain access to your windows instance if you have forgotten the current password or need to update it for security purposes. You can generate a new administrator password and use it to securely sign in to your windows instance.
 
 To reset password of a window instance, follow these steps: 
 
@@ -82,7 +82,7 @@ A password reset link is sent to your registered email address.
 
 ## Migrating Network
 
-Migrating a Windows instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment
+Migrating a windows instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment
 
 To migrate windows Instance between networks, follow these steps:
 
@@ -126,7 +126,7 @@ To rename an instance, follow these steps:
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Rename Instance** button. The following screen appears where you can update the LBI name in Instance Name.
+3. Click the **Rename Instance** button. The following screen appears where you can update the window instance name in Instance Name.
    ![Instance Name Changed](img/instancenamechanged.png)
 4. Click the **Done** button. The new instance name appears (highlighted in red). 
    ![Name Changed](img/namechange.png)

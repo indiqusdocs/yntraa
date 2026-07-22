@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 # Managing Networks
 
-Manage the networking configuration of your Windows instance to control connectivity and communication with other resources. You can configure network settings, and manage network access to ensure secure and reliable communication for your workloads.
+Manage the networking configuration of your windows instance to control connectivity and communication with other resources. You can configure network settings, and manage network access to ensure secure and reliable communication for your workloads.
 
  To add network interface to a windows instance, follow these steps:
  

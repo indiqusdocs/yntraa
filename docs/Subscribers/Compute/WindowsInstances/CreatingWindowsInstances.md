@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Creating Windows Instances
 
-Create a Windows instance to deploy a virtual machine for running Windows-based applications and workloads in the cloud. During creation, you configure the required compute, storage, networking, and other settings to provision an instance that meets your workload requirements.
+Create a windows instance to deploy a virtual machine for running windows-based applications and workloads in the cloud. During creation, you configure the required compute, storage, networking, and other settings to provision an instance that meets your workload requirements.
 
 To create a windows instance, follow these steps:
 

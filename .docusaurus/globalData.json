@@ -256,18 +256,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/AboutRHELInstances",
-              "path": "/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
               "path": "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/RHELInstances/CreatingAlerts",
-              "path": "/docs/Subscribers/Compute/RHELInstances/CreatingAlerts",
               "sidebar": "sidebar1"
             },
             {
@@ -276,13 +266,28 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/NetworkingManagement",
-              "path": "/docs/Subscribers/Compute/RHELInstances/NetworkingManagement",
+              "id": "Subscribers/Compute/RHELInstances/ManagingAlerts",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ManagingAlerts",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/Overview",
-              "path": "/docs/Subscribers/Compute/RHELInstances/Overview",
+              "id": "Subscribers/Compute/RHELInstances/ManagingInstanceRestorePoints",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ManagingInstanceRestorePoints",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/RHELInstances/ManagingNetworks",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ManagingNetworks",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Compute/RHELInstances/ManagingVolume",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ManagingVolume",
               "sidebar": "sidebar1"
             },
             {
@@ -291,13 +296,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/RHELInstanceOperations",
-              "path": "/docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations",
+              "id": "Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation",
-              "path": "/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation",
+              "id": "Subscribers/Compute/RHELInstances/ViewingGraphs",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ViewingGraphs",
               "sidebar": "sidebar1"
             },
             {
@@ -306,13 +311,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/RHELInstances/VolumeManagement",
-              "path": "/docs/Subscribers/Compute/RHELInstances/VolumeManagement",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/RHELInstances/WorkingwithRestorePoints",
-              "path": "/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints",
+              "id": "Subscribers/Compute/RHELInstances/ViewingUtilisation",
+              "path": "/docs/Subscribers/Compute/RHELInstances/ViewingUtilisation",
               "sidebar": "sidebar1"
             },
             {

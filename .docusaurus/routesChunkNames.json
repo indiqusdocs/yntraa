@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-328": {
+  "/docs-7f5": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-e20": {
+  "/docs-359": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-c73": {
+  "/docs-27b": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -509,53 +509,53 @@
     "__comp": "17896441",
     "content": "7fd41d55"
   },
-  "/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances-02c": {
-    "__comp": "17896441",
-    "content": "2edf0e0f"
-  },
   "/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance-363": {
     "__comp": "17896441",
     "content": "a913d927"
-  },
-  "/docs/Subscribers/Compute/RHELInstances/CreatingAlerts-ff9": {
-    "__comp": "17896441",
-    "content": "d034fe07"
   },
   "/docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances-b48": {
     "__comp": "17896441",
     "content": "e0e0de6b"
   },
-  "/docs/Subscribers/Compute/RHELInstances/NetworkingManagement-eb7": {
+  "/docs/Subscribers/Compute/RHELInstances/ManagingAlerts-02f": {
     "__comp": "17896441",
-    "content": "cd8e83e1"
+    "content": "91a119f2"
   },
-  "/docs/Subscribers/Compute/RHELInstances/Overview-398": {
+  "/docs/Subscribers/Compute/RHELInstances/ManagingInstanceRestorePoints-221": {
     "__comp": "17896441",
-    "content": "9a66e57a"
+    "content": "85da71a3"
+  },
+  "/docs/Subscribers/Compute/RHELInstances/ManagingNetworks-96c": {
+    "__comp": "17896441",
+    "content": "28e5f75e"
+  },
+  "/docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations-045": {
+    "__comp": "17896441",
+    "content": "77be8684"
+  },
+  "/docs/Subscribers/Compute/RHELInstances/ManagingVolume-710": {
+    "__comp": "17896441",
+    "content": "6c77c364"
   },
   "/docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances-36f": {
     "__comp": "17896441",
     "content": "901f212d"
   },
-  "/docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations-dfc": {
+  "/docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances-0c1": {
     "__comp": "17896441",
-    "content": "8aa91582"
+    "content": "0c7b1f97"
   },
-  "/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation-cd3": {
+  "/docs/Subscribers/Compute/RHELInstances/ViewingGraphs-a01": {
     "__comp": "17896441",
-    "content": "ee920405"
+    "content": "6c2fccc1"
   },
   "/docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances-ce6": {
     "__comp": "17896441",
     "content": "eff97054"
   },
-  "/docs/Subscribers/Compute/RHELInstances/VolumeManagement-7c3": {
+  "/docs/Subscribers/Compute/RHELInstances/ViewingUtilisation-c81": {
     "__comp": "17896441",
-    "content": "da8e3f18"
-  },
-  "/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints-784": {
-    "__comp": "17896441",
-    "content": "d8708725"
+    "content": "469df529"
   },
   "/docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances-efe": {
     "__comp": "17896441",

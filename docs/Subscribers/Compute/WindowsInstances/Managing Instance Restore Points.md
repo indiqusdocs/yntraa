@@ -3,7 +3,7 @@ sidebar_position: 9
 ---
 # Managing Instance Restore Points
 
-Instance restore points help protect your window instances by creating point-in-time recovery snapshots. You can create restore points before performing maintenance, configuration changes, or updates, and restore the instance to a previous state if required. You can also delete restore points that are no longer needed to optimize resource usage. This section explains how to create, restore, and delete instance restore points for a load balancer instance.
+Instance restore points help protect your window instances by creating point-in-time recovery snapshots. You can create restore points before performing maintenance, configuration changes, or updates, and restore the instance to a previous state if required. You can also delete restore points that are no longer needed to optimize resource usage. This section explains how to create, restore, and delete instance restore points for a window instance.
 
 This section comprises of the following sub-sections:
 
@@ -32,7 +32,7 @@ To create an instance restore point, follow these steps:
 
 ## Restoring an Instance Restore Point
 
-Restoring an instance from a restore point reverts the load balancer instance to a previously saved state. This operation restores the instance configuration and data captured at the selected restore point, allowing you to recover from configuration errors, failed updates, or other unexpected issues. Restoring a restore point helps minimize service disruption, ensures business continuity, and provides a reliable method to recover the load balancer instance to a known working state.
+Restoring an instance from a restore point reverts the window instance to a previously saved state. This operation restores the instance configuration and data captured at the selected restore point, allowing you to recover from configuration errors, failed updates, or other unexpected issues. Restoring a restore point helps minimize service disruption, ensures business continuity, and provides a reliable method to recover the window instance to a known working state.
 
 To restore an instance restore point, follow these steps: 
 
@@ -48,7 +48,7 @@ To restore an instance restore point, follow these steps:
 
 ## Deleting an Instance Restore Point
 
-Deleting a restore point permanently removes a saved recovery point from the load balancer instance. You can delete restore points that are no longer required to free up storage and keep your restore point list organized. Before deleting a restore point, ensure that it is no longer needed for future recovery, as the action is irreversible and the restore point cannot be recovered once deleted.
+Deleting a restore point permanently removes a saved recovery point from the window instance. You can delete restore points that are no longer required to free up storage and keep your restore point list organized. Before deleting a restore point, ensure that it is no longer needed for future recovery, as the action is irreversible and the restore point cannot be recovered once deleted.
 
 :::warning
 This action can not be reversed.

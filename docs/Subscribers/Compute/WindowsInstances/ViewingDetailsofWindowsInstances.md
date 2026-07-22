@@ -3,13 +3,13 @@ sidebar_position: 3
 ---
 # Viewing Details of Windows Instances
 
-View detailed information about a Windows instance, including its configuration, status, networking, storage, and resource allocation. Reviewing these details helps you monitor the instance and verify its settings for effective management.
+View detailed information about a windows instance, including its configuration, status, networking, storage, and resource allocation. Reviewing these details helps you monitor the instance and verify its settings for effective management.
 
 This section comprises of the following sub-sections:
 
 <div className="custom-block-blue">  
 - [Launching Window Instance Web Based Console](#launching-window-instance-web-based-console)
-- [Stopping and Starting Virtual Firewall Instance](#stopping-and-starting-virtual-firewall-instance)
+- [Stopping and Starting a Window Instance](#stopping-and-starting-a-window-instance)
 </div>
 
 To view the details of windows instances, follow these steps:
@@ -46,7 +46,7 @@ Launch the windows instance web-based console to access and manage your windows 
    ![Overview](img/windowsoverview.png)
 3. Click **Launch Console**, and then provide the windows credentials to login and access the windows instance web-based console.
    
-## Stopping and Starting Virtual Firewall Instance
+## Stopping and Starting a Window Instance
 
 Stop a windows instance to temporarily shut it down when it is not in use, helping optimize resource usage. Start the instance whenever you need to restore access and resume running your windows-based applications and workloads.
 
@@ -57,13 +57,13 @@ To start and stop the window instance, follow these steps:
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/windowsoverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
-![Windows Stop Instance Message](img/windowsstopinstancemessage.png)
+   ![Windows Stop Instance Message](img/windowsstopinstancemessage.png)
 4. Click the **Yes** button. The following screen appears:
-![Window Instance Stopped](img/windowinstancestopped.png)
+   ![Window Instance Stopped](img/windowinstancestopped.png)
 5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears: 
-![Window Instance Start Message](img/windowinstancestartmessage.png)
+   ![Window Instance Start Message](img/windowinstancestartmessage.png)
 6. Click the **Yes** button. The following screen appears:
- ![Overview](img/windowsoverview.png)
+   ![Overview](img/windowsoverview.png)
 
 
 

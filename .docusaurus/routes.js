@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '328'),
+    component: ComponentCreator('/docs', '7f5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'e20'),
+        component: ComponentCreator('/docs', '359'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c73'),
+            component: ComponentCreator('/docs', '27b'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -521,20 +521,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances', '02c'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance',
                 component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance', '363'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/RHELInstances/CreatingAlerts',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/CreatingAlerts', 'ff9'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -545,14 +533,32 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/NetworkingManagement', 'eb7'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingAlerts',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingAlerts', '02f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/Overview',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/Overview', '398'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingInstanceRestorePoints', '221'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingNetworks',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingNetworks', '96c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations', '045'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingVolume',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingVolume', '710'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -563,14 +569,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations', 'dfc'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances', '0c1'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation', 'cd3'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ViewingGraphs',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingGraphs', 'a01'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -581,14 +587,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/VolumeManagement',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/VolumeManagement', '7c3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints', '784'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ViewingUtilisation',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingUtilisation', 'c81'),
                 exact: true,
                 sidebar: "sidebar1"
               },

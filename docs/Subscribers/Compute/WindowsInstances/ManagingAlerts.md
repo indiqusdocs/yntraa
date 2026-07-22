@@ -20,7 +20,7 @@ To configure alerts, follow these steps:
 
 1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Alerts**. The following screen appears:
 ![Windows Instance Alert](img/windowsinstancealert.png)
