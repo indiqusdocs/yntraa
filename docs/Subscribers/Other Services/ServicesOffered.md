@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Offering Services
+# Services Offered
 
 The following table provides a list of additional services along with their respective categories and service types. These offerings are designed to support a variety of business, infrastructure, and operational requirements.
 
