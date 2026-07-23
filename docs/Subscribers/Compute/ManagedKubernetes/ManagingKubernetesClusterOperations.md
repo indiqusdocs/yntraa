@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 ---
-# ManagingKubernetesClusterOperations
+# Managing Kubernetes Cluster Operations
 
 Manage Kubernetes cluster operations to control the lifecycle and capacity of your cluster. These operations enable you to stop the cluster for maintenance, scale resources to meet workload demands, and delete the cluster when it is no longer required, helping you efficiently manage your Kubernetes environment.
 
