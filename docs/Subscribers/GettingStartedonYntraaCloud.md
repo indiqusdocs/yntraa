@@ -42,4 +42,4 @@ Configure an SSH Key or Login Credentials to securely access the compute instanc
 Configure Security Rules or Firewall settings to control network traffic to and from the compute instance. These rules define which ports, protocols, and IP addresses are allowed or restricted, helping protect the instance from unauthorized access while ensuring secure communication. For more information on configuring firewall, [click here](/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses)
 
 ## Creation of Customer Workload Instance
-Refer to [Compute](/docs/category/compute) for detailed instructions on creating production virtual machines to host customer application workloads.
+Refer to [Compute](/docs/category/compute) for detailed instructions on creating customer workload instances. Compute instances provide the virtual machines required to host and run your applications, enabling you to deploy and manage workloads based on your business requirements.
