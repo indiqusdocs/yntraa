@@ -9,7 +9,7 @@ Manage the networking configuration of your RHEL instance to control connectivit
  
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)
