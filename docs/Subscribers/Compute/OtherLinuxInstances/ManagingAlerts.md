@@ -20,7 +20,7 @@ To configure alerts, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Alerts**. The following screen appears:
    ![Linux Instance Alert](img/linuxinstancealertcreate.png)
@@ -43,7 +43,7 @@ To remove existing email IDs and add other email IDs, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Alerts**. The following screen appears:
    ![Linux Instance Alert](img/linuxinstancealertcreate.png)

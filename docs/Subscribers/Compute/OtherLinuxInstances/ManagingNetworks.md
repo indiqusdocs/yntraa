@@ -9,7 +9,7 @@ Manage the networking configuration of your linux instance to control connectivi
  
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)

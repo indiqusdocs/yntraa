@@ -42,7 +42,7 @@ Launch the linux instance web-based console to access and manage your linux inst
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears: 
    ![Linux Instance List](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Launch Console**, and then provide the linux credentials to login and access the linux instance web-based console.
    
@@ -54,7 +54,7 @@ To start and stop the linux instance, follow these steps:
 
 1. Navigate to the **Compute > Other Linux Instances**. The following screen appears: 
   ![Linux Instance List](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
    ![Linux Stop Instance Message](img/linuxstopinstancemessage.png)

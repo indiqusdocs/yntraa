@@ -101,7 +101,7 @@ To rename an instance, follow these steps:
 
 ## Migrating Network
 
-Migrating a linux instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment
+Migrating a linux instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
 
 To migrate linux Instance between networks, follow these steps:
 

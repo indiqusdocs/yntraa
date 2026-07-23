@@ -20,7 +20,7 @@ To configure alerts, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Alerts**. The following screen appears:
    ![RHEL Instance Alert](img/rhelinstancealertcreate.png)
@@ -43,7 +43,7 @@ To remove existing email IDs and add other email IDs, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Alerts**. The following screen appears:
    ![RHEL Instance Alert](img/rhelinstancealertcreate.png)

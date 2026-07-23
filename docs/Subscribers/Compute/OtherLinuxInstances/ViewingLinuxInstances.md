@@ -7,5 +7,5 @@ The linux instances page lets you view and monitor all linux instances in your c
 
 To view the linux instances, follow the step: 
 
-1. Navigate to **Compute > Other Linux Instances**.
+1. Navigate to **Compute > Other Linux Instances**. The following screen appears: 
    ![Linux Instance List](img/linuxinstancelist.png)

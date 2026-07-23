@@ -7,7 +7,7 @@ Create a RHEL instance to deploy a virtual machine for running RHEL-based applic
 
 To create a RHEL instance, follow these steps:
 
-1. Navigate to **Compute > RHEL Instances**.
+1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
 2. Click the **+ New RHEL Instance** button. The following screen appears: 
    ![rhelzonenew](img/rhelzonenew.png) 

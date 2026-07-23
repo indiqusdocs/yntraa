@@ -21,7 +21,7 @@ To create an instance restore point, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![RHEL Instance Restore Point](img/rhelinstancerestorepoint.png)
@@ -32,13 +32,13 @@ To create an instance restore point, follow these steps:
  
 ## Restoring an Instance Restore Point
 
-Restoring an instance from a restore point reverts the load balancer instance to a previously saved state. This operation restores the instance configuration and data captured at the selected restore point, allowing you to recover from configuration errors, failed updates, or other unexpected issues. Restoring a restore point helps minimize service disruption, ensures business continuity, and provides a reliable method to recover the load balancer instance to a known working state.
+Restoring an instance from a restore point reverts the RHEL instance to a previously saved state. This operation restores the instance configuration and data captured at the selected restore point, allowing you to recover from configuration errors, failed updates, or other unexpected issues. Restoring a restore point helps minimize service disruption, ensures business continuity, and provides a reliable method to recover the load balancer instance to a known working state.
 
 To restore an instance restore point, follow these steps: 
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![RHEL Instance Restore Point](img/rhelinstancerestorepoint.png)
@@ -52,7 +52,7 @@ To restore an instance restore point, follow these steps:
   
 ## Deleting an Instance Restore Point
 
-Deleting a restore point permanently removes a saved recovery point from the load balancer instance. You can delete restore points that are no longer required to free up storage and keep your restore point list organized. Before deleting a restore point, ensure that it is no longer needed for future recovery, as the action is irreversible and the restore point cannot be recovered once deleted.
+Deleting a restore point permanently removes a saved recovery point from the RHEL instance. You can delete restore points that are no longer required to free up storage and keep your restore point list organized. Before deleting a restore point, ensure that it is no longer needed for future recovery, as the action is irreversible and the restore point cannot be recovered once deleted.
 
 :::warning
 This action can not be reversed.
@@ -62,7 +62,7 @@ To delete an instance restore point, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![RHEL Instance Restore Point](img/rhelinstancerestorepoint.png)
