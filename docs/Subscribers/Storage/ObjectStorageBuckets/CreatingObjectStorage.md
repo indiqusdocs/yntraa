@@ -11,7 +11,7 @@ To create an Object Storage, follow these steps:
    ![createbucketnew](img/createbucketnew.png)
 2. Click the **+ Create Bucket** button.
 3. Select an availability zone from **Choose Your Availability Zone** filed.
-  ![az](img/az.png)
+  ![Bucket Creation](img/availabilityzone.png)
 	:::note 
 	Pricing may vary based on the selected availability zone.
 	:::

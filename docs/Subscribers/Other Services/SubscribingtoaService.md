@@ -16,6 +16,8 @@ To select and request a service, follow these steps:
 4. Click the **Submit Request** button. The confirmation screen appears, where you can review the service request details and click **Confirm** button to proceed or **Cancel** to discard the request.
    ![Confirm Service](img/confirmservice.png)
 
+The service order is generated in OneYotta, where you can view the order details.
+
    
 
 
