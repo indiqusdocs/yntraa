@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances.md",
+                "file": "docs/Subscribers/GettingStartedonYntraaCloud.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ViewingLinuxInstances"
+              "title": "GettingStartedonYntraaCloud"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "49ede8afbb638c00",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances.md",
     "build/search-index.json",
     "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ReconfiguringVirtualFirewall/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume/index.html",
@@ -181,7 +183,6 @@
     "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations/index.html",
     "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall/index.html",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
     "build/img/undraw_docusaurus_tree.svg",
@@ -215,7 +216,6 @@
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails.md",
     "docs/Subscribers/Compute/RHELInstances/ManagingNetworks.md",
     "docs/Subscribers/GettingStartedonYntraaCloud.md",
-    "docs/ReleaseNotes/Ver1000.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations.md"
+    "docs/ReleaseNotes/Ver1000.md"
   ]
 }
