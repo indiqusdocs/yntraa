@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '37f'),
+    component: ComponentCreator('/docs', 'b52'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f1d'),
+        component: ComponentCreator('/docs', 'ac9'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '1d4'),
+            component: ComponentCreator('/docs', '968'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -377,12 +377,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes', '83a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard', '53d'),
                 exact: true,
@@ -407,14 +401,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations', 'd88'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster', 'dbf'),
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/CreatingKubernetesCluster',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/CreatingKubernetesCluster', '391'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -437,8 +425,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/Overview',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/Overview', 'a2b'),
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations', '993'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworks',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworks', 'cbb'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -451,6 +445,12 @@ export default [
               {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails', '489'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters', '465'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -875,8 +875,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Other Services/OfferingServices',
-                component: ComponentCreator('/docs/Subscribers/Other Services/OfferingServices', 'c74'),
+                path: '/docs/Subscribers/Other Services/ServicesOffered',
+                component: ComponentCreator('/docs/Subscribers/Other Services/ServicesOffered', 'b02'),
                 exact: true,
                 sidebar: "sidebar1"
               },

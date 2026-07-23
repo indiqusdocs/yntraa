@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/GettingStartedonYntraaCloud.md",
+                "file": "docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GettingStartedonYntraaCloud"
+              "title": "ManagingKubernetesClusterOperations"
             }
           }
         ]
@@ -171,27 +171,33 @@
   },
   "active": "49ede8afbb638c00",
   "lastOpenFiles": [
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes",
-    "build/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes",
-    "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk",
-    "build/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes",
-    "build/assets/images/yntraasignup-a86b5e782b1d5b25695ce254afe56f98.png",
-    "build/assets/images/yntraaaccount-e0540c8cca336fde32251c1b700e9f76.png",
-    "build/assets/images/wininstancethirdnew-49a37950f9f63d78cdf58de18745af62.png",
-    "build/assets/images/yntraasignin-7aafade4ffc8d70af7b93b97a176069f.png",
-    "build/assets/images/windowsrestorepointcreated-f93be1a41092c3be2dfc1483f8ca46a2.png",
-    "build/assets/images/yesmessage-9efde609697d3f1a9965919549175f6e.png",
-    "build/assets/images/windowsmanagingrecepients-988fbfad09ca1356199f384c99d6236c.png",
-    "build/assets/images/windowsstopinstancemessage-577cc5abe265fbe7b2b200387bceabf0.png",
-    "build/assets/images/windowsinstanceutilisation-0d8f92f8c3b8346cd45f55bf5615b933.png",
-    "build/assets/images/windowsoverview-db19b7450c734efd41aa65755d1768c5.png",
+    "build/YntraaDocs_July23.zip",
+    "build/search-index.zip",
+    "build/yntraadocs.zip",
+    "build/img.zip",
+    "build/assets/js/main.8ba8216c.js",
+    "build/assets/js/main.8ba8216c.js.LICENSE.txt",
+    "build/assets/js/fcba3256.01233df8.js",
+    "build/assets/js/runtime~main.bceb3d5d.js",
+    "build/assets/js/ffdb24b7.a73f4899.js",
+    "build/assets/js/f8da5119.59294495.js",
+    "build/assets/js/f81c1134.c7db9533.js",
+    "build/icons/home.svg",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/sps.svg",
+    "build/img/sps.png",
+    "build/img/social-card.png",
+    "build/img/sbs.svg",
+    "build/img/sbs.png",
+    "build/img/rn.svg",
+    "docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/CreatingKubernetesCluster.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/BackupingandRestoringETCD.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
+    "docs/Subscribers/GettingStartedonYntraaCloud.md",
     "docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances.md",
@@ -210,12 +216,6 @@
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways.md",
-    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails.md",
-    "docs/Subscribers/Compute/RHELInstances/ManagingNetworks.md",
-    "docs/Subscribers/GettingStartedonYntraaCloud.md"
+    "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways.md"
   ]
 }
