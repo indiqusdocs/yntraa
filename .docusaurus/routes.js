@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b0e'),
+    component: ComponentCreator('/docs', '9bc'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1e4'),
+        component: ComponentCreator('/docs', 'c3e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ee3'),
+            component: ComponentCreator('/docs', 'bac'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -343,12 +343,6 @@ export default [
               {
                 path: '/docs/Subscribers/AddingTeamMembers',
                 component: ComponentCreator('/docs/Subscribers/AddingTeamMembers', 'e6b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/Autoscale/AboutAutoscaleGroups',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/AboutAutoscaleGroups', '41f'),
                 exact: true,
                 sidebar: "sidebar1"
               },

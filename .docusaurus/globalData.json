@@ -111,11 +111,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/AboutAutoscaleGroups",
-              "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscaleGroups",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
               "path": "/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups",
               "sidebar": "sidebar1"

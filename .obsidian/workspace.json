@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/Autoscale/AboutAutoscaleGroups.md",
+                "file": "docs/Subscribers/Compute/Autoscale/Modifying Configurations.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AboutAutoscaleGroups"
+              "title": "Modifying Configurations"
             }
           }
         ]
@@ -171,21 +171,22 @@
   },
   "active": "49ede8afbb638c00",
   "lastOpenFiles": [
-    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance.md",
-    "docs/Subscribers/Compute/Autoscale/Modifying Configurations.md",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/search-index.json",
+    "build/sitemap.xml",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume/index.html",
+    "build/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations/index.html",
+    "build/docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC/index.html",
     "docs/Subscribers/Compute/Autoscale/AboutAutoscaleGroups.md",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
+    "docs/Subscribers/Compute/Autoscale/Modifying Configurations.md",
+    "docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance.md",
     "docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups.md",
-    "build/blog/tags/hello/index.html",
-    "build/blog/tags/hola/index.html",
-    "build/blog/tags/facebook/index.html",
-    "build/blog/tags/docusaurus/index.html",
-    "build/blog/authors/yangshun/index.html",
-    "build/blog/authors/all-sebastien-lorber-articles/index.html",
-    "build/blog/tags/hola",
-    "build/blog/tags/index.html",
-    "build/blog/tags/hello",
-    "build/blog/tags/facebook",
+    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
     "build/assets/images/autoscalerootdisk-c5d3c0be631b7330db92a4ef53bbba17.png",
     "build/assets/images/newautoscalegroup-0356436fd2203345b6e08d6cd0d4b3b9.png",
     "docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale.md",
