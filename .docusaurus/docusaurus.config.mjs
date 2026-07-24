@@ -32,20 +32,20 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\prkumar\\yntraa\\sidebars.js"
+          "sidebarPath": "C:\\Users\\ysharma\\yntraa\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "C:\\Users\\prkumar\\yntraa\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\ysharma\\yntraa\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "plugins": [
     [
-      "C:\\Users\\prkumar\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "C:\\Users\\ysharma\\yntraa\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true
       }
