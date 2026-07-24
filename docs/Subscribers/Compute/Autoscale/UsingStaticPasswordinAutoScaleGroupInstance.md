@@ -8,7 +8,7 @@ sidebar_position: 4
 2. Create a instance using the standard templates.
    ![Overview](img/overview.png)
 3. Launch the console and login with the initial password (Generated at the time of instance creation).
-4. Run the following commands. 
+4. Run the following commands: 
 	1. Create your password. <br />`sudo passwd <yourusername>` (ubuntu/root)
 	2. Disable the password expiry. <br />`sudo chage -I -1 -m 0 -M 99999 -E -1 <yourusername>` (ubuntu/root)
 	3. Ensure password Authentication is enabled (If using SSH). <br />`sudo vi /etc/ssh/sshd_config`
