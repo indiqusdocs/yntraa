@@ -566,11 +566,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/AboutBlockVolumes",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Storage/BlockVolumes/CreatingDataDisk",
               "path": "/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk",
               "sidebar": "sidebar1"

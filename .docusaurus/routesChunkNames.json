@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-9bc": {
+  "/docs-52f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-c3e": {
+  "/docs-05d": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-bac": {
+  "/docs-857": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -756,10 +756,6 @@
   "/docs/Subscribers/SigningUp-cb7": {
     "__comp": "17896441",
     "content": "2f366b4f"
-  },
-  "/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes-b4d": {
-    "__comp": "17896441",
-    "content": "62c0ff90"
   },
   "/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk-64e": {
     "__comp": "17896441",

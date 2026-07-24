@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '9bc'),
+    component: ComponentCreator('/docs', '52f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c3e'),
+        component: ComponentCreator('/docs', '05d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'bac'),
+            component: ComponentCreator('/docs', '857'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -889,12 +889,6 @@ export default [
               {
                 path: '/docs/Subscribers/SigningUp',
                 component: ComponentCreator('/docs/Subscribers/SigningUp', 'cb7'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes', 'b4d'),
                 exact: true,
                 sidebar: "sidebar1"
               },

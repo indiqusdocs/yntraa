@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 # Managing Instance and Disk Restore Points
 
-Restore points use the [Yntraa Block Volumes](/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes) service and occupy billable storage space.
+Restore points use the Yntraa Block Volumes service and occupy billable storage space.
 
 You can view and manage all your instance and disk restores points, and perform various associated operations.
 
