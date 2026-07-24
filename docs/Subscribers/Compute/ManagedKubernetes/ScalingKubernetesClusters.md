@@ -3,18 +3,14 @@ sidebar_position: 5
 ---
 # Scaling Kubernetes Clusters
 
-Yntraa Cloud allows for manual and automatic cluster scaling. You can configure cluster scaling from the **Nodes** section of cluster details or from the **Operations** section of cluster details.
-## Manually Scaling a Cluster
-1. Navigate to **Operations > Nodes**, click the **SCALE CLUSTER** button. ![Kubernetes Scale Cluster](img/kubescalecluster.png)
-	A window appears where you must keep **Autoscaling** disabled.![scalekube](img/scalekube.png)
-2. Select one of the available compute packs.
-3. Click **CONFIRM SCALING**.
-## Automatically Scaling a Cluster
-1. Navigate to **Operations > Nodes**.
-2. Click the **SCALE CLUSTER** button. A window appears, where you must enable **Autoscaling**.![autoscalekube](img/autoscalekube.png)
-3. Enter the minimum and maximum number of worker nodes.
-4. Click **CONFIRM SCALING**.
+Scaling a Kubernetes cluster allows you to adjust its compute capacity by increasing or decreasing the number of worker nodes based on workload demands. This helps maintain application performance, optimize resource utilization, and ensure high availability while efficiently managing infrastructure costs.
 
-:::note
-If the Scale operation fails, stop the cluster and retry the process.
-:::
+1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
+   ![Kubernetes List](img/kuberneteslist.png) 
+2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears with the details: 
+   ![Overview](img/kubernetesoverview.png)
+3. Click **Nodes**. The following screen appears: 
+   ![Kubernetes Node](img/kubernetesnode.png)
+4. Click the **Scale Cluster** button. The following screen appears where you specify the cluster size: 
+   ![Cluster Size](img/clustersize.png)
+5. Click the **Confirm Scaling** button.

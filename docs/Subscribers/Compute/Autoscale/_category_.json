@@ -3,6 +3,6 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "The autoscale feature allows a system to adjust its computing resources based on the changing workload automatically."
+    "description": "Autoscale automatically adjusts compute resources based on workload demand. It adds resources during periods of high traffic to maintain performance and removes unused resources when demand decreases, helping optimize availability, performance, and cost efficiency."
   }
 }

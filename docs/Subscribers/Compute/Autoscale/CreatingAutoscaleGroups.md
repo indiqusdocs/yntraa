@@ -1,54 +1,56 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 # Creating Autoscale Groups
 
-To create Autoscale Groups, follow these steps:
-1. Navigate to **Compute > Autoscale Groups** in the navigation menu.
-   ![Autoscale Group](img/autoscalegroup.png)
-2. Click the **NEW AUTOSCALE GROUP** button.
-3. Select an **Instance Category**.
-![LB in Autoscale Group](img/lbinautoscalegroup.png) 
-4. Select the **Availability Zone** that represents the geographic region for the deployment of your Autoscaled Instance.
-5. **Select VPC Network**, choose the appropriate tier in **Select a Network Tier**, and then select a load balancer from the options in the **Select Load Balancer** dropdown.
-6. Select the **OS Image**.
-![OS Image](img/osimage.png)
-7. Select the **Compute pack** from the available compute collections.
-8. Select the **Root disk** from the available Disk packs. You can use the free size option to define the size of the Root Disk.
-9. Configure the **Autoscale group** as per your requirement; these options must be specified.
-	- **Min. Group Limit:** This is the minimum number of members in the Autoscale Group. The number of instances in the group will be equal to or more than this number.
-    - **Max. Group Limit:** This is the maximum number of members in the Autoscale Group. The number of instances in the group will be equal to or more than this number.
+Creating an autoscale group enables automatic scaling of compute instances based on workload demand and defined scaling policies. This helps maintain application performance, improve availability, and optimize resource utilization by automatically adding or removing instances as needed.
+
+To create autoscale group, follow these steps:
+
+1. Navigate to **Compute > Autoscale Groups**. The following screen appears: 
+   ![Autoscale Group List](img/newautoscalegroup.png)
+2. Click the **NEW AUTOSCALE GROUP** button. The following screen appears: 
+   ![LB in Autoscale Group](img/lbinautoscalegroup.png) 
+   ![OS Image](img/osimage.png)
+   ![Autoscale Root Disk](img/autoscalerootdisk.png)
+   ![Define Autoscale](img/defineautoscale.png)
+   ![Scale Down](img/scaledown.png)
+   ![SSH Key](img/sshkey.png)
+3. Select an instance category.
+4. Select the availability zone that represents the geographic region where you want to deploy your auto-scaled instance.
+5. Select VPC network, choose the appropriate tier in **Select a Network Tier**, and then select a load balancer from the options in the **Select Load Balancer** dropdown.
+6. Select the OS image.
+7. Select a compute pack from the available compute collections.
+8. Select a **Root Disk** for your auto scale group from the available options or choose **Custom Disk** to define the size. Adjust the disk size as required, and click **Select Pack** to confirm.
+9. Configure the autoscale group by specifying all the required options:
+	- **Min. Group Limit:** This is the minimum number of members in the autoscale group. The number of instances in the group will be equal to or more than this number.
+    - **Max. Group Limit:** This is the maximum number of members in the autoscale group. The number of instances in the group will be equal to or more than this number.
     - **Expunge Instance grace period:** This defines how long before a scale-down is executed should the app/user connections to an Instance be removed.
-    - **Polling Interval:** This defines at what interval should the Autoscale Group check your policy conditions and execute the relevant Scale or Scale-down configurations.
-![Config Autoscale](img/configautoscale.png)
+    - **Polling Interval:** This defines at what interval should the autoscale group check your policy conditions and execute the relevant scale or scale-down configurations.
     :::note  
     The **Polling Interval** must be between 60 and 3600 seconds.  
     :::
-10. Define the **Scale Up policy** (Multiple policies can be configured; if multiple conditions are specified, all of them must be met for the Autoscale Group to execute). You must specify the following:
+10. Define the scale up policy (Multiple policies can be configured; if multiple conditions are specified, all of them must be met for the autoscale group to execute) by specifying all the required options:
 	- **Policy Name**: Specify the name for your policy.
 	- **Duration (in mins):** This is the duration in which the conditions have to be true before action is taken.
 	- **Quiet Time (in mins):** The cool-down period in which the policy should not be evaluated after the action has been taken.
-	- **Parameter:** Name of the counter for which the policy will be evaluated.
-	    - **Parameters:** The performance parameters expose the state of the monitored Instances. As of now, there are five new parameters to work with that feature:
+	- **Parameter:** Performance parameters represent the current state of the monitored instances. This feature currently supports the following parameters:
 		- **Instance CPU Percentage** - average percentage
 		- **Instance Memory** - average percentage
 		- **Public Network** - mbps received per instance
 		- **Public Network** - mbps transmit per instance
 		- **Load Balancer** - average connections per instance
-	- **Breach:** Relational Operator to be used with threshold. This will be Greater Than by default.
-	- **Threshold:** This is the value for which the Counter will be evaluated with the Operator selected.
-![Define Autoscale](img/defineautoscale.png)
-11. Click **ADD CONDITION** to add the policy. If you want to add more policies, click the **ADD NEW** button present beside the Policy name.
-12.  Define the **Scale Down Policy**; the parameters are similar to the Scale UP policy. Only the breach parameter will be greater than by default.
-![Scale Down](img/scaledown.png)
-:::note  
-The reading **DURATION** (The time period during which the system monitors metrics before triggering a scaling action.) must be at least 60 seconds. The **QUIET TIME** must be between 120 and 3600 seconds.  
-:::
-13. Next is to set up the SSH Key. if your account doesn’t have any SSH key pair, then you can use the **Generate a new key pair** option, and you can also upload the key by selecting **Upload a key pair**.
-![SSH Key](img/sshkey.png)
-14. If you want to notify your users or custom email addresses upon the execution of this Autoscale Group, then you can select the appropriate option available under Notify on email. i.e., Notify to account users, Notify to comma-separated email addresses.<br/>
-15. Specify the name of your Autoscale group. <br/>
-16. Click the **PUBLISH THIS AUTOSCALE GROUP** button for publishing the Autoscale group.!!
+	- **Breach:** Relational operator to be used with threshold. This will be greater than by default.
+	- **Threshold:** This is the value for which the counter will be evaluated with the operator selected.
+11. Click the **Add Condition** button.
+12.  Define the **Scale Down Policy**. The parameters are similar to the scale up policy. Only the breach parameter will be less than by default.
+    :::note  
+    The reading **Duration** (The time period during which the system monitors metrics before triggering a scaling action.) must be at least 60 seconds. The **Quiet Time** must be between 120 and 3600 seconds.  
+    :::
+13. Configure the SSH key settings. If your account does not have an SSH key pair, select **Generate a New Key Pair** to create one. You can also select **Upload a Key Pair** to upload an existing key pair.
+14. Enable email notifications to receive updates when the auto scale group executes. Select **Also notify other recipients** to add additional email recipients from the dropdown list. The default email address is selected automatically.
+15. Specify the name of your autoscale group. 
+16. Click the **Publish This Autoscale Group** button. The autoscale group is created.
 
 
 

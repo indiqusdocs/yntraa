@@ -3,11 +3,13 @@ sidebar_position: 7
 ---
 # Managing Networks
 
-Manage the networking configuration of your linux instance to control connectivity and communication with other resources. You can configure network settings, and manage network access to ensure secure and reliable communication for your workloads.
+Manage the networking configuration of your kubernetes cluster to control connectivity and communication with other resources. You can configure network settings, and manage network access to ensure secure and reliable communication for your workloads.
 
- To add network interface to a linux instance, follow these steps:
+ To add network interface to a kubernetes cluster, follow these steps:
  
-## Adding Firewall Rule  
+## Adding Firewall Rule 
+
+Firewall rules control inbound and outbound network traffic to Kubernetes clusters, helping secure applications and services by allowing or denying access based on defined ports, protocols, IP addresses, or network ranges. Adding a firewall rule ensures that only authorized traffic can reach cluster resources while protecting workloads from unauthorized access. 
 
 To add a firewall rule, follow these steps: 
  
@@ -47,7 +49,7 @@ To add a port forwarding rule, follow these steps:
    
 ## Adding Load Balance Rule
 
-Add a load balancing rule to distribute incoming network traffic across one or more Kubernetes services or application instances. Load balancing improves application availability, scalability, and reliability by ensuring traffic is evenly routed to healthy backend workloads, helping maintain consistent performance and minimize service disruptions.
+Add a load balancing rule to distribute incoming network traffic across one or more kubernetes services or application instances. Load balancing improves application availability, scalability, and reliability by ensuring traffic is evenly routed to healthy backend workloads, helping maintain consistent performance and minimize service disruptions.
 
 To add a load balance rule, follow these steps: 
 
@@ -59,7 +61,7 @@ To add a load balance rule, follow these steps:
    ![Network Tab](img/networktab.png)
 4. Click **Add Networking Rule**. The following screen appears:
    ![Adding Firewall Rule](img/addingfirewallrule.png)
-5. Click the **Load Balacing Rule** rule from the dropdown. The following screen appears: 
+5. Click the **Load Balancing Rule** rule from the dropdown. The following screen appears: 
    ![Load Balance Rule Details](img/loadbalaceruledetails.png) 
-6. Click the **Add Port forwarding Rule** button. The following screen appears:
+6. Click the **Add Port Forwarding Rule** button. The following screen appears:
   

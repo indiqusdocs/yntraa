@@ -111,8 +111,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/AboutAutoscale",
-              "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscale",
+              "id": "Subscribers/Compute/Autoscale/AboutAutoscaleGroups",
+              "path": "/docs/Subscribers/Compute/Autoscale/AboutAutoscaleGroups",
               "sidebar": "sidebar1"
             },
             {
@@ -126,13 +126,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/RequirementsforAutoscale",
-              "path": "/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale",
+              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
+              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
-              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
+              "id": "Subscribers/Compute/Autoscale/ViewingAutoscaleGroups",
+              "path": "/docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups",
               "sidebar": "sidebar1"
             },
             {

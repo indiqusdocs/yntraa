@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b52'),
+    component: ComponentCreator('/docs', 'b0e'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ac9'),
+        component: ComponentCreator('/docs', '1e4'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '968'),
+            component: ComponentCreator('/docs', 'ee3'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -347,8 +347,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/Autoscale/AboutAutoscale',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/AboutAutoscale', '784'),
+                path: '/docs/Subscribers/Compute/Autoscale/AboutAutoscaleGroups',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/AboutAutoscaleGroups', '41f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -365,14 +365,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale', 'ce7'),
+                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance', 'fa3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance', 'fa3'),
+                path: '/docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups', '9d2'),
                 exact: true,
                 sidebar: "sidebar1"
               },
