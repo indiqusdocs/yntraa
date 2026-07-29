@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 ---
-# Frequently Asked Questions (FAQs)
+# Object Storage
 
 <details><summary>**What is object storage in the context of Yntraa Cloud?**</summary>Object storage is a scalable and durable storage solution for managing unstructured data such as files, images, videos, and backups.</details>
 

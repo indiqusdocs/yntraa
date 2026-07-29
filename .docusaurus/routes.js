@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -84,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '52f'),
+    component: ComponentCreator('/docs', '389'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '05d'),
+        component: ComponentCreator('/docs', '317'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '857'),
+            component: ComponentCreator('/docs', '3b6'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -121,12 +156,6 @@ export default [
               {
                 path: '/docs/category/compute',
                 component: ComponentCreator('/docs/category/compute', 'a28'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/details-of-block-volume',
-                component: ComponentCreator('/docs/category/details-of-block-volume', '644'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -203,6 +232,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/category/storage-1',
+                component: ComponentCreator('/docs/category/storage-1', '0f4'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
                 path: '/docs/category/tools-and-utilities',
                 component: ComponentCreator('/docs/category/tools-and-utilities', '6e6'),
                 exact: true,
@@ -271,6 +306,12 @@ export default [
               {
                 path: '/docs/FAQs/Other Services/File Storage',
                 component: ComponentCreator('/docs/FAQs/Other Services/File Storage', 'daf'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/Storage/ObjectStorage',
+                component: ComponentCreator('/docs/FAQs/Storage/ObjectStorage', '0fd'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -899,32 +940,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations', '198'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePoints', '4c3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview', 'd3d'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/CreatingRestorePointSchedules',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/CreatingRestorePointSchedules', '3fe'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume', '011'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/ManagingOperations',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ManagingOperations', '622'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules', 'e0e'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints', '6b5'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/ResizingtheBlockVolume',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ResizingtheBlockVolume', 'd43'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -935,14 +970,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/Storage/BlockVolumes/ViewingDataDisk',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingDataDisk', '95d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Storage/BlockVolumes/ViewingDataDiskDetails',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingDataDiskDetails', '0a6'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes',
                 component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes', '7a2'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage', 'e12'),
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/AddingObjectinBucket',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/AddingObjectinBucket', 'e15'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -953,14 +1000,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket', '21d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails',
                 component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails', 'f60'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions', '187'),
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket', '9fb'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails', 'd11'),
                 exact: true,
                 sidebar: "sidebar1"
               },

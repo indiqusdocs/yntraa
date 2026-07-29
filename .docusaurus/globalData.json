@@ -51,6 +51,11 @@
               "sidebar": "sidebar2"
             },
             {
+              "id": "FAQs/Storage/ObjectStorage",
+              "path": "/docs/FAQs/Storage/ObjectStorage",
+              "sidebar": "sidebar2"
+            },
+            {
               "id": "Knowledgebase/DifferenceBetweenL2NetworksandVPC",
               "path": "/docs/Knowledgebase/DifferenceBetweenL2NetworksandVPC",
               "sidebar": "sidebar3"
@@ -571,28 +576,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations",
+              "id": "Subscribers/Storage/BlockVolumes/CreatingDiskRestorePoints",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePoints",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview",
+              "id": "Subscribers/Storage/BlockVolumes/CreatingRestorePointSchedules",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/CreatingRestorePointSchedules",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume",
+              "id": "Subscribers/Storage/BlockVolumes/ManagingOperations",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/ManagingOperations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints",
+              "id": "Subscribers/Storage/BlockVolumes/ResizingtheBlockVolume",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/ResizingtheBlockVolume",
               "sidebar": "sidebar1"
             },
             {
@@ -601,13 +601,23 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/Storage/BlockVolumes/ViewingDataDisk",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/ViewingDataDisk",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Storage/BlockVolumes/ViewingDataDiskDetails",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/ViewingDataDiskDetails",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes",
               "path": "/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage",
+              "id": "Subscribers/Storage/ObjectStorageBuckets/AddingObjectinBucket",
+              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/AddingObjectinBucket",
               "sidebar": "sidebar1"
             },
             {
@@ -616,13 +626,23 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket",
+              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails",
               "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions",
-              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions",
+              "id": "Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket",
+              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails",
+              "path": "/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails",
               "sidebar": "sidebar1"
             },
             {
@@ -726,11 +746,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/details-of-block-volume",
-              "path": "/docs/category/details-of-block-volume",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "/category/object-storage-buckets",
               "path": "/docs/category/object-storage-buckets",
               "sidebar": "sidebar1"
@@ -763,6 +778,11 @@
             {
               "id": "/category/other-services-1",
               "path": "/docs/category/other-services-1",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "/category/storage-1",
+              "path": "/docs/category/storage-1",
               "sidebar": "sidebar2"
             }
           ],
