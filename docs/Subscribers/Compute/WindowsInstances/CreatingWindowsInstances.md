@@ -16,23 +16,14 @@ To create a windows instance, follow these steps:
     :::note
 	To add a Windows Instance to a VPC or VNF, you need to have a VPC or VNF configured with at least one tier.
 	:::
-5. **Choose an OS Image** section and select the required operating system from the available options. Choose the appropriate version based on your requirement.
+5. **Choose an OS Image** and select the required operating system from the available options. Choose the appropriate version based on your requirement.
 ![wininstancethirdnew](img/wininstancethirdnew.png)
 6. Select a compute pack from the list.
 7. Select a **Root Disk** from the available options or choose **Custom Disk** to specify the required disk size, and then click **Select Pack**.
-![summarynew](img/summarynew.png)
-8. Verify the estimated cost of your windows instance based on the chosen specifications from the **Summary and Estimated Costs**.
-9. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
-10. Choose the **Buy Hourly** or **Buy Monthly** option. A confirmation window appears and the price summary displays along with the discount codes if you have any in your account. 
-    - You can apply any of the discount codes listed by clicking on the **Apply** button. 
-    - You can also remove the applied discount code by clicking on the **Remove** button. 
-11. Click the **Confirm** button.
-![winconfirmpurchase](img/winconfirmpurchase.png)
-
-    :::note 
-    This might take up to 5-8 minutes. You may use the cloud console during this time, but it is advised that you do not refresh the browser window.
-    :::
-
+   ![summarynew](img/summarynew.png)
+8. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click **Buy Hourly** or **Buy Monthly**. The following screen appears: 
+   ![winconfirmpurchase](img/winconfirmpurchase.png)
+9. Click the **Confirm** button.
 
 
 

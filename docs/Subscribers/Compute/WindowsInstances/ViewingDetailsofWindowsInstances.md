@@ -40,11 +40,11 @@ To view the details of windows instances, follow these steps:
 
 Launch the windows instance web-based console to access and manage your windows virtual machine through a web browser. The console provides a convenient way to perform administrative and management tasks on the instance.
 
-1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
+1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click **Launch Console**, and then provide the windows credentials to login and access the windows instance web-based console.
+3. Click the **Launch Console** button, and then provide the windows credentials to login and access the windows instance web-based console.
    
 ## Stopping and Starting a Window Instance
 
@@ -52,9 +52,9 @@ Stop a windows instance to temporarily shut it down when it is not in use, helpi
 
 To start and stop the window instance, follow these steps:  
 
-1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
+1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
    ![Windows Stop Instance Message](img/windowsstopinstancemessage.png)

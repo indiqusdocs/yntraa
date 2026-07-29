@@ -14,7 +14,7 @@ This section comprises of the following sub-sections:
 
 To view the details of linux instances, follow these steps:
 
-1. Navigate to the **Compute > Other Linux Instances**. The following screen appears: 
+1. Navigate to **Compute > Other Linux Instances**. The following screen appears: 
    ![Linux Instance List](img/linuxinstancelist.png)
 2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/linuxinstanceoverview.png)
@@ -44,7 +44,7 @@ Launch the linux instance web-based console to access and manage your linux inst
    ![Linux Instance List](img/linuxinstancelist.png)
 2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
-3. Click **Launch Console**, and then provide the linux credentials to login and access the linux instance web-based console.
+3. Click **Launch Console** button, and then provide the linux credentials to login and access the linux instance web-based console.
    
 ## Stopping and Starting a Linux Instance
 

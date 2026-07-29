@@ -651,11 +651,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ToolsandUtilities/AboutToolsandUtilities",
-              "path": "/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/ToolsandUtilities/AddingVPNGateways",
               "path": "/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
               "sidebar": "sidebar1"
@@ -671,8 +666,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
-              "path": "/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances",
+              "id": "Subscribers/ToolsandUtilities/ManagingSSHKeyPairs",
+              "path": "/docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs",
               "sidebar": "sidebar1"
             },
             {

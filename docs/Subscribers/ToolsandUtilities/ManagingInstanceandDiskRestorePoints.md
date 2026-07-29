@@ -1,38 +1,66 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 # Managing Instance and Disk Restore Points
 
-Restore points use the Yntraa Block Volumes service and occupy billable storage space.
+Instance and disk restore points provide a reliable way to recover workloads and storage resources when required. You can restore an instance to a previous state, create a new volume or image from a disk restore point, and delete disk restore points that are no longer needed. Managing restore points helps ensure data protection, simplifies recovery operations, and optimizes storage management.
 
-You can view and manage all your instance and disk restores points, and perform various associated operations.
+This section comprises of the following sub-sections:
+<div className="custom-block-blue"> 
+- [Restoring an Instance Restore Point](#restoring-an-instance-restore-point)
+- [Deleting an Instance Restore Point](#deleting-an-instance-restore-point)
+- [Creating Volume](#creating-volume)
+- [Deleting a Disk Restore Point](#deleting-a-disk-restore-point)
+</div>
 
-## Instance Restore Point
+## Restoring an Instance Restore Point
 
-The Instance Restore Point lists the following details:
+Restoring an instance restore point enables you to recover an instance to a previously saved state. This helps restore the instance configuration and data after accidental changes, failures, or other issues, allowing you to quickly return the instance to a known working state.
 
-- Restore Point
-- Internal Name
-- Type
-- Instance
-- Description
-- Created On 
-  ![irpnew](img/irpnew.png)
+To restore an instance restore point, following these steps:
+
+1. Navigate to **Tools and Utilities**. The following screen appears: 
+   ![Restoring Instance](img/restoringinstance.png)
+2. Click the **Restore from Instance Restore Point** icon (highlighted in red). The following screen appears: 
+   ![Restore Yes Message](img/restoreyesmessage.png)
+3. Click the **Yes** button. 
+
+
+## Deleting an Instance Restore Point
+
+Deleting an instance restore point permanently removes it from your cloud account and frees the associated storage resources. Delete a restore point only when it is no longer required for recovery purposes, as it cannot be restored once deleted.
+
+To delete an instance restore point, following these steps 
   
-  To revert the Instance to the restore point, click the icon present in the right corner before the delete icon, or also you can click on the restore point name and then click the **Revert Instance** button. ![restorepointnewup](img/restorepointnewup.png)
+1. Navigate to **Tools and Utilities**. The following screen appears: 
+   ![Delete Restore Point](img/deleterestorepointview.png)
+2. Click the **Delete Restore Point** icon (highlighted in red). The following screen appears: 
+   ![Delete Yes Message](img/deleteyesmessage.png)
+3. Click the **Yes** button. 
 
-  To delete the Instance Restore Point, click the **Delete** icon from the right corner. 
-   ![deleterestorepointnew](img/deleterestorepointnew.png)
-   
-## Disk Restore Point
+## Creating Volume
 
-The Disk Restore Point section shows the following details:
+Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
-- Restore Point
-- Volume
-- Interval
-- Size
-- State
-- Created On
-  
-  ![diskrestorepointnew](img/diskrestorepointnew.png)
+To create volume, follow these steps: 
+
+1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
+   ![Instance Restore Point](img/instancerestorepoint.png)
+2. Click **Disk Restore Point**. The following screen appears: 
+   ![Disk Restore Point](img/diskrestorepoint.png)
+3. Click [**Create Volume**](/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume). The following screen appears: 
+   ![Creating Volume in Root Disk](img/createvolume.png)
+
+## Deleting a Disk Restore Point
+
+Deleting a disk restore point permanently removes it from your cloud account and releases the associated storage resources. Delete a restore point only when it is no longer needed for recovery, as it cannot be recovered after deletion.
+
+To delete a disk restore point, follow these steps: 
+
+1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
+   ![Instance Restore Point](img/instancerestorepoint.png)
+2. Click **Disk Restore Point**. The following screen appears: 
+   ![Delete Disk Restore Point](img/deletediskrestorepoint.png)
+3. Click **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
+   ![Delete Disk Restore Point Message](img/deletediskrestorepointmessage.png)
+4. Click the **Yes** button. 

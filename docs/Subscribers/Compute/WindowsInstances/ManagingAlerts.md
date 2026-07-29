@@ -18,7 +18,7 @@ Create an alert to monitor a specific window instance metric and receive an emai
 
 To configure alerts, follow these steps: 
 
-1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
+1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
@@ -41,7 +41,7 @@ The Manage Recipients feature lets you control who receives window instance aler
 
 To remove existing email IDs and add other email IDs, follow these steps:
 
-1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
+1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)

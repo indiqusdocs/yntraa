@@ -3,16 +3,17 @@ sidebar_position: 7
 ---
 # Managing Volume
 
-Manage volumes to monitor and protect the storage resources attached to your instances. Volume management allows you to view attached disks, create disk restore points to safeguard data before changes, and create custom images for rapid instance deployment and recovery. These operations help ensure data protection, simplify backup and restoration, and maintain consistent storage configurations across your cloud environment.
+This section provides the essential operations required to manage storage volumes and their restore points. It enables you to view attached disks, create and manage disk restore points for data protection, create additional storage volumes as needed, and remove restore points that are no longer required. These operations help ensure efficient storage management, improve data availability, and support backup and recovery workflows.
 
 This section comprises of the following sub-sections:
 
 <div className="custom-block-blue">  
 - [Viewing Attached Disk](#viewing-attached-disk)
+- [Adding Volume](#adding-volume)
 - [Creating Disk Restore Point ](#creating-disk-restore-point)
-- [Viewing Disk Restore Point ](#viewing-disk-restore-point)
+- [Viewing Disk Restore Points ](#viewing-disk-restore-points)
 - [Creating Volume](#creating-volume)
-- [Deleting Disk Restore Point](#deleting-disk-restore-point)
+- [Deleting a Disk Restore Point](#deleting-a-disk-restore-point)
 </div>
 
 ## Viewing Attached Disk
@@ -21,12 +22,26 @@ View the disks attached to an instance to verify the storage resources associate
 
 To view the disks attached to an Instance, follow these steps: 
 
-1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
+1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/viewattacheddisk.png)
+
+## Adding Volume
+
+Adding a volume allows you to create and attach additional block storage to your cloud instances. Volumes provide persistent storage for applications, databases, and other data that must be retained independently of the instance lifecycle. You can create volumes with the required capacity and attach them to supported instances to expand available storage.
+
+To add volume, follow these steps: 
+
+1. Navigate to **Compute > Window Instances**. The following screen appears:
+   ![Window Instance List](img/windowinstancelist.png)
+2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+   ![Overview](img/windowsoverview.png)
+3. Click **Volumes**. The following screen appears: 
+   ![Adding Volume](img/addingvolume.png)
+4. Click the [**Add Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) button to add the volume. 
 
 ## Creating Disk Restore Point 
 
@@ -34,7 +49,7 @@ Create a disk restore point to capture the current state of a disk before perfor
 
 To create the disk restore point, follow these steps: 
 
-1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
+1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
@@ -47,7 +62,7 @@ To create the disk restore point, follow these steps:
     Restore Point creation will occupy space in your additional storage.
     :::
 
-## Viewing Disk Restore Point
+## Viewing Disk Restore Points
 
 View disk restore points to monitor the available recovery snapshots created for a disk. Reviewing restore points helps you verify backup availability, identify restore points based on their creation time, and select the appropriate recovery point when restoring a disk. This ensures you can quickly recover disk data to a known good state whenever required.
 
@@ -82,11 +97,11 @@ To create volume, follow these steps:
 ![Create Volume in Window Instance](img/createvolumewindow.png)
 8. Click the [**Create Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) icon (highlighted in red) corresponding to the required disk restore point. 
 
-## Deleting Disk Restore Point
+## Deleting a Disk Restore Point
 
 Delete a disk restore point when it is no longer required to free up storage resources and simplify restore point management. Removing outdated or unnecessary restore points helps maintain an organized backup environment while ensuring that only relevant recovery points are retained.
 
-To delete disk restore point, follow these steps: 
+To delete a disk restore point, follow these steps: 
 
 :::warning
 This action can not be reversed.

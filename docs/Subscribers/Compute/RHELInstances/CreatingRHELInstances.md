@@ -16,9 +16,9 @@ To create a RHEL instance, follow these steps:
    ![costrhelnew](img/costrhelnew.png)
 3. Choose an Availability Zone, which is the geographical region where your Instance deploys.
 4. Select a VPC or VNF network from the **Select Network Destination** drop-down, and select the appropriate tier listed in network.
-5. Select an OS Image for your instance, or choose a customized image from **My Images**.
+5. Select an OS Image for your instance, or choose a customized image from **[My Images](/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages)**.
 6. Select a compute pack from the list.
-7. Select a **Root Disk** for your instance from the available options or choose **Custom Disk** to define the size. Adjust the disk size as required.
+7. Select a **Root Disk** for your instance from the available options or choose **Custom Disk** to define the size. Adjust the disk size as required, and click **Select Pack** to confirm.
 8. **Choose an Authentication Method**: 
     - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** option or upload the key pair by clicking the **Upload a key pair** option. 
     - **Use Default Password**: On selecting **Use Default Password**, the system automatically generates a password for the instance. You can view or copy this password from the instance details page after creation and use it to log in.

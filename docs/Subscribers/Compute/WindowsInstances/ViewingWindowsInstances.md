@@ -7,7 +7,7 @@ The windows instances page lets you view and monitor all windows virtual machine
 
 To view the window instances, follow the step: 
 
-1. Navigate to **Compute > Windows Instances**.
+1. Navigate to **Compute > Windows Instances**. The following screen appears:
    ![Window Instance Created](img/windowinstancelist.png)
 
 

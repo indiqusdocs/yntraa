@@ -9,8 +9,10 @@ This section comprises of the following sub-sections:
 
 <div className="custom-block-blue">  
 - [Viewing Attached Disk](#viewing-attached-disk)
+- [Adding Volume](#adding-volume)
 - [Creating Disk Restore Point ](#creating-disk-restore-point)
 - [Viewing Disk Restore Point ](#viewing-disk-restore-point)
+- [Creating a Custom Image or My Image](#creating-a-custom-image-or-my-image)
 - [Creating Volume](#creating-volume)
 - [Deleting Disk Restore Point](#deleting-disk-restore-point)
 </div>
@@ -27,6 +29,20 @@ To view the disks attached to an instance, follow these steps:
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/viewattacheddisk.png)
+
+## Adding Volume
+
+Adding a volume allows you to create and attach additional block storage to your cloud instances. Volumes provide persistent storage for applications, databases, and other data that must be retained independently of the instance lifecycle. You can create volumes with the required capacity and attach them to supported instances to expand available storage.
+
+To add volume, follow these steps:
+
+1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
+   ![Linux Instance Created](img/linuxinstancelist.png)
+2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+   ![Overview](img/linuxinstanceoverview.png)
+3. Click **Volumes**. The following screen appears: 
+   ![Adding Volume](img/addvolume.png)
+4. Click the [**Add Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) button to add the volume. 
 
 ## Creating Disk Restore Point 
 
@@ -57,6 +73,33 @@ To view the disk restore point, follow these steps:
 ![Restore Points list](img/restorepointview.png)
 2. Click **Disk Restore Point**. The following screen appears: 
 ![View Disk Restore Points](img/linuxdiskrestorepoint.png)
+
+## Creating a Custom Image or My Image
+
+Creating custom images or My Image allows you to create a reusable image from an existing instance by using a disk restore point. The custom image captures the current state and configuration of the instance, making it easier to deploy new instances with the same setup.
+
+To create a custom image or My Image, follow these steps:
+
+1. Navigate to **Compute > Other Linux Instances**. The following screen appears: 
+   ![Linux My Image](img/linuxmyimage.png)
+2. Click on your created linux instance from the list. The following screen appears:
+   ![Overview](img/overviewpage.png)
+3. Click **Volumes**. The following screen appears: 
+   ![Volumes in Linux](img/volumesinlinux.png)
+4. Click the **CREATE RESTORE POINT** icon (highlighted in red). The following screen appears: 
+   ![Creating Restore Point](img/creatingrestorepoint.png)
+5. Click the **Create Restore Point**. The disk restore point is created. 
+6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
+   ![Instance Restore Point](img/instancerestorepoint.png)
+7. Click **Disk Restore Point**. The following screen appears: 
+   ![Disk Restore Point](img/diskrestorepoint.png)
+8. Navigate to **Disk Restore Point**. The following screen appears: 
+   ![Disk Restore Point](img/diskrestorepointview.png)
+9. Click the **Create Image** icon (highlighted in red). The following screen appears:
+   ![Creating My Image](img/creatingmyimage.png)
+10. Click the **Yes** button.
+11. Navigate to **Tools and Utilities > My Images**. The following screen appears: 
+   ![My Image Created](img/myimagecreated.png)
 
 ## Creating Volume
 
@@ -111,5 +154,7 @@ This action can not be reversed.
 8. Click the  **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
 ![Disk Restore Point Deleted](img/deleteddiskrestore.png)
 9. Click the **Yes** button. The disk restore point is deleted.
+   
+
 
    

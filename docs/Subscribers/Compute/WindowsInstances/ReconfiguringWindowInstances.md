@@ -7,7 +7,7 @@ Reconfigure a window instance to change its compute and root disk configuration 
 
 To reconfigure the window instances, follow these steps:
 
-1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
+1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
@@ -18,7 +18,7 @@ To reconfigure the window instances, follow these steps:
    ![Root Disk](img/rootdisk.png)
 5. Select a **Compute Pack** and **Root Disk**, or choose **Custom Disk** to specify the required disk size. Click **Select Pack**, and then click **Reconfigure** button. The following screen appears:
    ![Confirm Reconfigure](img/confirmreconfigureinstance.png) 
-6. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy**, and click the **Confirm Reconfigure** button.
+6. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Confirm Reconfigure** button.
  
 
 

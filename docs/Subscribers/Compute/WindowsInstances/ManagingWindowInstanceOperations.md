@@ -77,12 +77,12 @@ To reset SSH key of a window instance, follow these steps:
    ![Instance Stopped](img/instancestopped.png)
 5. Click the **Reset SSH key** button. The following screen appears: 
    ![Reset SSH Key Details](img/resetsshkeydetails.png)
-6. Select an SSH key from the dropdown and select the **Send New Password for this Instance on my Email** option, and then click **Confirm SSH Key Pair Reset** button. 
+6. Select an SSH key from the dropdown and select the **Send New Password for this Instance on my email** option, and then click **Confirm SSH Key Pair Reset** button. 
 A password reset link is sent to your registered email address.
 
 ## Migrating Network
 
-Migrating a windows instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment
+Migrating a windows instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
 
 To migrate windows Instance between networks, follow these steps:
 
@@ -96,7 +96,7 @@ Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurat
    ![Overview](img/windowsoverview.png)
 3. Click the **Migrate Network** button. The following screen appears: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
-4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance**. 
+4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance** option. 
    
 ## Reinstalling Window Instance
 
@@ -114,7 +114,7 @@ To reinstalling a window instance, follow these steps:
    ![Overview](img/windowsoverview.png)
 3. Click the **Reinstall Instance** button. The following screen appears: 
    ![Reinstall Instance](img/reinstallinstance.png)
-4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email**, and **Send the Password via SMS** option, and then click **Reinstall Instance**. The following screen appears: 
+4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email**, and **Send the Password via SMS** option, and then click **Reinstall Instance**.
    
 ## Renaming an Instance
 
