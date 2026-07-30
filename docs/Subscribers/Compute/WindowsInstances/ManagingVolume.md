@@ -84,19 +84,31 @@ To create volume, follow these steps:
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
-![View Root Disk](img/windowinstancevolume.png)
+   ![View Root Disk](img/windowinstancevolume.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
-![Create Disk Restore Point](img/creatediskrestorepoint.png)
+   ![Create Disk Restore Point](img/creatediskrestorepoint.png)
 5. Click the **Create Disk Restore Point** button. 
     :::note
     Restore Point creation will occupy space in your additional storage.
     :::
 6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
-![Restore Points list](img/restorepointview.png)
+   ![Restore Points list](img/restorepointview.png)
 7. Click **Disk Restore Point**. The following screen appears: 
-![Create Volume in Window Instance](img/createvolumewindow.png)
-8. Click the [**Create Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) icon (highlighted in red) corresponding to the required disk restore point. 
-
+   ![Create Volume in Window Instance](img/createvolumewindow.png)
+8. Click the **Create Volume** icon (highlighted in red) corresponding to the required disk restore point. The following screen appears: 
+   ![Windows Create Volume1](img/windowscreatevolume1.png)
+   ![Windows Create Volume2](img/windowscreatevolume2.png)
+9. Select availability zone.
+10. Select the instance from the dropdown for which you want to create a restore point.
+11. In the **Choose Disk Configuration** section:
+    - Select the desired disk tier (**Tier1, Tier2, or Tier3**).
+    - Click the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
+    - Click on **Select Pack** to choose the configured disk pack.
+12. Enter the disk name in **Name Your Data Disk**. 
+13. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click **Buy Monthly** button. The following screen appears: 
+   ![Data Disk Purchase](img/datadiskpurchase.png)
+14. Click the **Confirm** button. The data disk is created.
+    
 ## Deleting a Disk Restore Point
 
 Delete a disk restore point when it is no longer required to free up storage resources and simplify restore point management. Removing outdated or unnecessary restore points helps maintain an organized backup environment while ensuring that only relevant recovery points are retained.

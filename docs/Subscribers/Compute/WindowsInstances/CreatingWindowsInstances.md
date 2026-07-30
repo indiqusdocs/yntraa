@@ -21,7 +21,7 @@ To create a windows instance, follow these steps:
 6. Select a compute pack from the list.
 7. Select a **Root Disk** from the available options or choose **Custom Disk** to specify the required disk size, and then click **Select Pack**.
    ![summarynew](img/summarynew.png)
-8. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click **Buy Hourly** or **Buy Monthly**. The following screen appears: 
+8. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click **Buy Hourly** or **Buy Monthly** button. The following screen appears: 
    ![winconfirmpurchase](img/winconfirmpurchase.png)
 9. Click the **Confirm** button.
 

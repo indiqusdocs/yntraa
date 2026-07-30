@@ -96,6 +96,16 @@
               "sidebar": "sidebar4"
             },
             {
+              "id": "Subscribers/AccountCentre/AccountProfile",
+              "path": "/docs/Subscribers/AccountCentre/AccountProfile",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/ServiceBalance",
+              "path": "/docs/Subscribers/AccountCentre/ServiceBalance",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/AccountCentre/StandardAgreements",
               "path": "/docs/Subscribers/AccountCentre/StandardAgreements",
               "sidebar": "sidebar1"
@@ -106,8 +116,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/TeamMemberManagement",
-              "path": "/docs/Subscribers/AccountCentre/TeamMemberManagement",
+              "id": "Subscribers/AccountCentre/ViewingServiceUsage",
+              "path": "/docs/Subscribers/AccountCentre/ViewingServiceUsage",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/AccountCentre/ViewingSubscriptionCharges",
+              "path": "/docs/Subscribers/AccountCentre/ViewingSubscriptionCharges",
               "sidebar": "sidebar1"
             },
             {

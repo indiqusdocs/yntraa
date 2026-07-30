@@ -14,7 +14,7 @@ This section comprises of the following sub-sections:
 
 To view the details of windows instances, follow these steps:
 
-1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
+1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/windowsoverview.png)

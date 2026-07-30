@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-8a9": {
+  "/docs-074": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-c51": {
+  "/docs-805": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-bba": {
+  "/docs-ce8": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -381,6 +381,14 @@
     "__comp": "17896441",
     "content": "2e75089c"
   },
+  "/docs/Subscribers/AccountCentre/AccountProfile-516": {
+    "__comp": "17896441",
+    "content": "d9bf4cb2"
+  },
+  "/docs/Subscribers/AccountCentre/ServiceBalance-5bb": {
+    "__comp": "17896441",
+    "content": "6df39eb2"
+  },
   "/docs/Subscribers/AccountCentre/StandardAgreements-53c": {
     "__comp": "17896441",
     "content": "4e768af3"
@@ -389,9 +397,13 @@
     "__comp": "17896441",
     "content": "f8da5119"
   },
-  "/docs/Subscribers/AccountCentre/TeamMemberManagement-a69": {
+  "/docs/Subscribers/AccountCentre/ViewingServiceUsage-ff5": {
     "__comp": "17896441",
-    "content": "da87b629"
+    "content": "1aa536f5"
+  },
+  "/docs/Subscribers/AccountCentre/ViewingSubscriptionCharges-972": {
+    "__comp": "17896441",
+    "content": "76615ece"
   },
   "/docs/Subscribers/AddingTeamMembers-e6b": {
     "__comp": "17896441",

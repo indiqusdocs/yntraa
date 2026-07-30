@@ -23,9 +23,9 @@ To create a RHEL instance, follow these steps:
     - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** option or upload the key pair by clicking the **Upload a key pair** option. 
     - **Use Default Password**: On selecting **Use Default Password**, the system automatically generates a password for the instance. You can view or copy this password from the instance details page after creation and use it to log in.
     - **Use Custom Password**: On selecting **Use Custom Password**, you are required to enter and confirm your own password. This password is used to access the instance after it is created. Ensure the password meets the required security criteria.
-9. In the **Name Your RHEL Instance** field, enter the desired name for your RHEL instance.
+9. Enter the instance name in **Name Your RHEL Instance**.
 10. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and then click **Buy Hourly** or **Buy Monthly** button. The following screen appears.
-   ![confirmrhel](img/confirmrhel.png)  
+![confirmrhel](img/confirmrhel.png)  
 11. Click the **Confirm** button. The RHEL Instance is created.
 
 

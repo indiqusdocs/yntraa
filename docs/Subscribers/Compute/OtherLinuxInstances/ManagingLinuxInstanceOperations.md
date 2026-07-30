@@ -5,7 +5,7 @@ sidebar_position: 11
 
  You can manage the lifecycle of linux instance by restarting, force stopping, renaming, or deleting. These operations help you maintain service availability, resolve operational issues, organize resources, and manage your cloud infrastructure efficiently.
 
-Yntraa Cloud provides the following operations on load balancer instances:
+Yntraa Cloud provides the following operations on linux instances:
 
 <div className="custom-block-blue">  
 - [Restarting an Instance](#restarting-an-instance)

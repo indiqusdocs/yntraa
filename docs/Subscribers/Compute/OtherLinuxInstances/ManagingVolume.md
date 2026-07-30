@@ -13,7 +13,7 @@ This section comprises of the following sub-sections:
 - [Creating Disk Restore Point ](#creating-disk-restore-point)
 - [Viewing Disk Restore Point ](#viewing-disk-restore-point)
 - [Creating a Custom Image or My Image](#creating-a-custom-image-or-my-image)
-- [Creating Volume](#creating-volume)
+- [Creating Volume from Disk Restore Point](#creating-volume-from-disk-restore-point)
 - [Deleting Disk Restore Point](#deleting-disk-restore-point)
 </div>
 
@@ -101,7 +101,7 @@ To create a custom image or My Image, follow these steps:
 11. Navigate to **Tools and Utilities > My Images**. The following screen appears: 
    ![My Image Created](img/myimagecreated.png)
 
-## Creating Volume
+## Creating Volume from Disk Restore Point
 
 Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
@@ -123,7 +123,19 @@ To create volume, follow these steps:
    ![Restore Points list](img/restorepointview.png)
 7. Click **Disk Restore Point**. The following screen appears: 
    ![View Disk Restore Points](img/linuxcreatevolume.png)
-8. Click the [**Create Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) icon (highlighted in red) corresponding to the required disk restore point. 
+8. Click the Create Volume icon (highlighted in red) corresponding to the required disk restore point. 
+   ![Linux Create Volume1](img/linuxcreatevolume1.png)
+   ![Linux Create Volume2](img/linuxcreatevolume2.png)
+9. Select availability zone.
+10. Select the instance from the dropdown for which you want to create a restore point.
+11. In the **Choose Disk Configuration** section:
+    - Select the desired disk tier (**Tier1, Tier2, or Tier3**).
+    - Click the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
+    - Click on **Select Pack** to choose the configured disk pack.
+12. Enter the disk name in **Name Your Data Disk**. 
+13. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click **Buy Monthly** button. The following screen appears: 
+   ![Data Disk Purchase](img/datadiskpurchase.png)
+14. Click the **Confirm** button. The data disk is created.
 
 ## Deleting Disk Restore Point
 

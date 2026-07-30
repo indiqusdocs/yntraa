@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8a9'),
+    component: ComponentCreator('/docs', '074'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c51'),
+        component: ComponentCreator('/docs', '805'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'bba'),
+            component: ComponentCreator('/docs', 'ce8'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -329,6 +329,18 @@ export default [
                 sidebar: "sidebar4"
               },
               {
+                path: '/docs/Subscribers/AccountCentre/AccountProfile',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/AccountProfile', '516'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/ServiceBalance',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/ServiceBalance', '5bb'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/AccountCentre/StandardAgreements',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/StandardAgreements', '53c'),
                 exact: true,
@@ -341,8 +353,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/TeamMemberManagement',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/TeamMemberManagement', 'a69'),
+                path: '/docs/Subscribers/AccountCentre/ViewingServiceUsage',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/ViewingServiceUsage', 'ff5'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/ViewingSubscriptionCharges',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/ViewingSubscriptionCharges', '972'),
                 exact: true,
                 sidebar: "sidebar1"
               },

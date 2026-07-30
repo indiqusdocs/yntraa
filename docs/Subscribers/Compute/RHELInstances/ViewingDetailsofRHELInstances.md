@@ -27,7 +27,7 @@ To view the details of RHEL instances, follow these steps:
 - Compute Pack
 - Root Disk
 
-**Internal Information:** This displays the following information that is used for internal identification of the window instances and communication with other internal services:
+**Internal Information:** This displays the following information that is used for internal identification of the RHEL instances and communication with other internal services:
 - Template Name
 - Created On
 
@@ -42,7 +42,7 @@ Launch the RHEL instance web-based console to access and manage your RHEL virtua
 
 1. Navigate to the **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Launch Console**, and then provide the RHEL credentials to login and access the RHEL instance web-based console.
    
@@ -54,7 +54,7 @@ To start and stop the RHEL instance, follow these steps:
 
 1. Navigate to the **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
 ![RHEL Stop Instance Message](img/rhelstopinstancemessage.png)

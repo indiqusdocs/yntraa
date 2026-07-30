@@ -9,6 +9,7 @@ This section comprises of the following sub-sections:
 
 <div className="custom-block-blue">  
 - [Viewing Attached Disk](#viewing-attached-disk)
+- [Adding Volume](#adding-volume)
 - [Creating Disk Restore Point ](#creating-disk-restore-point)
 - [Viewing Disk Restore Point ](#viewing-disk-restore-point)
 - [Creating Volume](#creating-volume)
@@ -27,6 +28,20 @@ To view the disks attached to an instance, follow these steps:
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/viewattacheddisk.png)
+
+## Adding Volume
+
+Adding a volume allows you to create and attach additional block storage to your cloud instances. Volumes provide persistent storage for applications, databases, and other data that must be retained independently of the instance lifecycle. You can create volumes with the required capacity and attach them to supported instances to expand available storage.
+
+To add volume, follow these steps: 
+
+1. Navigate to **Compute > RHEL Instances**. The following screen appears:
+   ![RHEL Instance List](img/rhelinstancelist.png)
+2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+   ![Overview](img/rhelinstanceoverview.png)
+3. Click **Volumes**. The following screen appears: 
+   ![Adding Volume](img/addingvolume.png)
+4. Click the [**Add Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) button to add the volume. 
 
 ## Creating Disk Restore Point 
 
@@ -80,8 +95,20 @@ To create volume, follow these steps:
    ![Restore Points list](img/restorepointview.png)
 7. Click **Disk Restore Point**. The following screen appears: 
    ![View Disk Restore Points](img/rhelcreatevolume.png)
-8. Click the [**Create Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) icon (highlighted in red) corresponding to the required disk restore point. 
-
+8. Click the **Create Volume** icon (highlighted in red) corresponding to the required disk restore point. The following screen appears: 
+   ![RHEL Create Volume1](img/rhelcreatevolume1.png)
+   ![RHEL Create Volume2](img/rhelcreatevolume2.png)
+9. Select availability zone.
+10. Select the instance from the dropdown for which you want to create a restore point.
+11. In the **Choose Disk Configuration** section:
+    - Select the desired disk tier (**Tier1, Tier2, or Tier3**).
+    - Click the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
+    - Click on **Select Pack** to choose the configured disk pack.
+12. Enter the disk name in **Name Your Data Disk**. 
+13. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click **Buy Monthly** button. The following screen appears: 
+   ![Data Disk Purchase](img/datadiskpurchase.png)
+14. Click the **Confirm** button. The data disk is created.
+   
 ## Deleting Disk Restore Point
 
 Delete a disk restore point when it is no longer required to free up storage resources and simplify restore point management. Removing outdated or unnecessary restore points helps maintain an organized backup environment while ensuring that only relevant recovery points are retained.

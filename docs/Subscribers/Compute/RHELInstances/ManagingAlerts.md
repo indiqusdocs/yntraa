@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Managing Alerts 
 
-Alerts help you monitor the health and performance of your window instance by notifying you when predefined conditions are met. You can create, view, modify, or delete alerts and manage email recipients to ensure the appropriate users receive notifications. Managing alerts enables you to proactively monitor your window instance and respond promptly to important events.
+Alerts help you monitor the health and performance of your RHEL instance by notifying you when predefined conditions are met. You can create, view, modify, or delete alerts and manage email recipients to ensure the appropriate users receive notifications. Managing alerts enables you to proactively monitor your RHEL instance and respond promptly to important events.
 
 This section comprises of the following sub-sections:
 
@@ -37,7 +37,7 @@ To configure alerts, follow these steps:
 
 ## Managing Recipients
 
-The manage recipients feature lets you control who receives window instance alerts. It displays all configured or added email IDs and provides options to remove outdated addresses or add new ones. 
+The manage recipients feature lets you control who receives RHEL instance alerts. It displays all configured or added email IDs and provides options to remove outdated addresses or add new ones. 
 
 To remove existing email IDs and add other email IDs, follow these steps:
 
