@@ -5,13 +5,6 @@ sidebar_position: 4
 
 Disk restore points capture the state of a block volume at a specific point in time, allowing you to restore the source volume or create a new volume from the captured data. This enables reliable backup, recovery, and rapid provisioning of additional volumes while helping protect data and maintain business continuity.
 
-This section comprises of the following sub-sections:
-
-<div className="custom-block-blue">  
-- [Creating a Disk Restore Point](#creating-a-disk-restore-point)
-- [Creating Volume from Disk Restore Point](#creating-volume-from-disk-restore-point)
-</div>
-
 # Creating a Disk Restore Point
 
 Creating a disk restore point helps protect your system by saving the current state of a disk before you make significant changes. You can use a restore point to recover the disk to its previous condition if an update, configuration change, or software installation causes unexpected issues. By creating restore points regularly, you reduce the risk of data loss, minimize downtime, and ensure a reliable recovery process when needed.
