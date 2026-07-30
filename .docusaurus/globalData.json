@@ -106,11 +106,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/StandardAgreements",
-              "path": "/docs/Subscribers/AccountCentre/StandardAgreements",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/AccountCentre/SubscriptionsandServices",
               "path": "/docs/Subscribers/AccountCentre/SubscriptionsandServices",
               "sidebar": "sidebar1"
@@ -171,8 +166,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/ManagedKubernetes/CreatingKubernetesCluster",
-              "path": "/docs/Subscribers/Compute/ManagedKubernetes/CreatingKubernetesCluster",
+              "id": "Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster",
               "sidebar": "sidebar1"
             },
             {
@@ -591,8 +586,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/CreatingDiskRestorePoints",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePoints",
+              "id": "Subscribers/Storage/BlockVolumes/CreatingDiskRestorePointsandVolume",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePointsandVolume",
               "sidebar": "sidebar1"
             },
             {
@@ -616,13 +611,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/ViewingDataDisk",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/ViewingDataDisk",
+              "id": "Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/ViewingDataDiskDetails",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/ViewingDataDiskDetails",
+              "id": "Subscribers/Storage/BlockVolumes/ViewingBlockVolumes",
+              "path": "/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes",
               "sidebar": "sidebar1"
             },
             {

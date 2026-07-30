@@ -23,7 +23,7 @@ To create a custom image or My Image, follow these steps:
    ![Overview](img/overviewpage.png)
 3. Click **Volumes**. The following screen appears: 
    ![Volumes in Linux](img/volumesinlinux.png)
-4. Click the **CREATE RESTORE POINT** icon (highlighted in red). The following screen appears: 
+4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
    ![Creating Restore Point](img/creatingrestorepoint.png)
 5. Click the **Create Restore Point**. The disk restore point is created. 
 6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
@@ -47,4 +47,4 @@ To delete a custom image or My Image, follow these steps:
    ![My Image Created](img/myimagecreated.png)
 2. Click the **Delete** icon. The following screen appears: 
    ![Delete My Image](img/deletemyimage.png)
-3. Click the **Yes** button. The custom image or My Image is deleted
+3. Click the **Yes** button. The custom image or My Image is deleted.

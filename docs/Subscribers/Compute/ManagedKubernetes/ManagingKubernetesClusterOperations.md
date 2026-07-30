@@ -21,7 +21,7 @@ To stop a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Operations**. The following screen appears: 
    ![Kubernetes Cluster Operations](img/kubernetesclusteroperations.png)
@@ -36,7 +36,7 @@ To scale a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Operations**. The following screen appears: 
    ![Kubernetes Cluster Operations](img/kubernetesclusteroperations.png)
@@ -52,10 +52,10 @@ To delete a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Operations**. The following screen appears: 
    ![Kubernetes Cluster Operations](img/kubernetesclusteroperations.png)
 4. Click the **Delete Cluster** button. The following screen appears where you specify the kubernetes cluster size in Cluster Size: 
    ![Kubernetes Cluster Delete](img/kubernetesclusterdelete.png)
-5. Enter **DELETE** and click **Delete** button.
+5. Enter **DELETE** and click the **Delete** button.

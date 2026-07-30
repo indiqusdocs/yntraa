@@ -5,7 +5,7 @@ sidebar_position: 3
 
 View the kubernetes cluster details to access comprehensive information about the cluster, including its configuration, node information, networking, and current status. Reviewing these details helps you monitor cluster health, verify settings, and troubleshoot issues effectively.
 
-To view the details of kubernetes cluster, follow these steps:
+To view the details of a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
@@ -36,7 +36,7 @@ To start and stop a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesclusteroverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Cluster</span> button. The following screen appears: 
    ![Kubernetes Cluster Stop Message](img/kubernetesclusterstopmessage.png)

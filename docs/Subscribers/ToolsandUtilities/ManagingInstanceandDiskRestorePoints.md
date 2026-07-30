@@ -9,7 +9,7 @@ This section comprises of the following sub-sections:
 <div className="custom-block-blue"> 
 - [Restoring an Instance Restore Point](#restoring-an-instance-restore-point)
 - [Deleting an Instance Restore Point](#deleting-an-instance-restore-point)
-- [Creating Volume](#creating-volume)
+- [Creating Volume from Disk Restore Point](#creating-volume-from-disk-restore-point)
 - [Deleting a Disk Restore Point](#deleting-a-disk-restore-point)
 </div>
 
@@ -30,7 +30,7 @@ To restore an instance restore point, following these steps:
 
 Deleting an instance restore point permanently removes it from your cloud account and frees the associated storage resources. Delete a restore point only when it is no longer required for recovery purposes, as it cannot be restored once deleted.
 
-To delete an instance restore point, following these steps 
+To delete an instance restore point, following these steps: 
   
 1. Navigate to **Tools and Utilities**. The following screen appears: 
    ![Delete Restore Point](img/deleterestorepointview.png)
@@ -38,7 +38,7 @@ To delete an instance restore point, following these steps
    ![Delete Yes Message](img/deleteyesmessage.png)
 3. Click the **Yes** button. 
 
-## Creating Volume
+## Creating Volume from Disk Restore Point
 
 Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
@@ -47,9 +47,8 @@ To create volume, follow these steps:
 1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
    ![Instance Restore Point](img/instancerestorepoint.png)
 2. Click **Disk Restore Point**. The following screen appears: 
-   ![Disk Restore Point](img/diskrestorepoint.png)
-3. Click [**Create Volume**](/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume). The following screen appears: 
    ![Creating Volume in Root Disk](img/createvolume.png)
+3. Click the [**Create Volume**](/docs/Subscribers/Compute/WindowsInstances/ManagingVolume#creating-volume-from-disk-restore-point) icon (highlighted in red) to initiate the create volume procedure.
 
 ## Deleting a Disk Restore Point
 

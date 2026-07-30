@@ -96,7 +96,7 @@ Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurat
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Migrate Network** button. The following screen appears: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
-4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance**. 
+4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance** option, and click the **Migrate Network** button. 
    
 ## Reinstalling Window Instance
 

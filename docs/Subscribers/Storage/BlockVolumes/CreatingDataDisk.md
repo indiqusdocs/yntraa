@@ -16,10 +16,10 @@ To create a data disk, follow these steps:
 4. Select an Instance from the dropdown to attach the disk to. 
 5. In the **Choose Disk Configuration** section:
     - Select the desired disk tier (**Tier1, Tier2, or Tier3**).
-    - Click on the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
-    - Click on **Select Pack** to choose the configured disk pack.
-6. Name your data disk.
-7. Select I have read and agreed to the **Yntraa Cloud Terms and Conditions Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
+    - Click the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
+    - Click the **Select Pack** to choose the configured disk pack.
+6. Enter the name of data disk in **Name Your Data Disk**.
+7. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
  ![Block Volume Confirm Purchase](img/bvconfirm.png)
 8. Click the **Confirm** button.
 

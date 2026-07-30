@@ -5,11 +5,11 @@ sidebar_position: 5
 
 Adding an object enables you to upload and store data within an object storage bucket. It allows you to efficiently manage files and unstructured data while ensuring they are securely stored and easily accessible when required.
 
-To add an object storage, follow these steps:
+To add an object in object storage bucket, follow these steps:
 
 1. Navigate to **Storage > Object Storage Buckets**. The following screen appears: 
    ![Object Storage Bucket List](img/bucketlist.png)
-2. Click on your created object storage bucket from the list. The following screen appears with the details: 
+2. Click on your created object storage bucket from the list. The following screen appears: 
    ![Overview](img/bucketoverview.png)
 3. Click **Objects**. The following screen appears: 
    ![Adding Objects](img/addingobjects.png)

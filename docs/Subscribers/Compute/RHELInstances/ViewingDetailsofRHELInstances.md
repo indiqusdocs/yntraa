@@ -14,7 +14,7 @@ This section comprises of the following sub-sections:
 
 To view the details of RHEL instances, follow these steps:
 
-1. Navigate to the **Compute > RHEL Instances**. The following screen appears: 
+1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
 2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/rhelinstanceoverview.png)
@@ -40,7 +40,7 @@ To view the details of RHEL instances, follow these steps:
 
 Launch the RHEL instance web-based console to access and manage your RHEL virtual machine through a web browser. The console provides a convenient way to perform administrative and management tasks on the instance.
 
-1. Navigate to the **Compute > RHEL Instances**. The following screen appears: 
+1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
 2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
@@ -52,7 +52,7 @@ Stop a RHEL instance to temporarily shut it down when it is not in use, helping 
 
 To start and stop the RHEL instance, follow these steps:  
 
-1. Navigate to the **Compute > RHEL Instances**. The following screen appears: 
+1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
 2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)

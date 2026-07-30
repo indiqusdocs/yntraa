@@ -18,6 +18,7 @@ To view an object storage bucket details, follow these steps:
 - Bucket Name
 
 **Bucket Usage and Request Information:** This displays the following storage utilization, data transfer activity, and request metrics associated with the object storage bucket. It helps monitor bucket usage, track data movement, and analyze interactions performed on the stored objects:
+
 - Bucket Size
 - Total Objects
 - Data Transfer In

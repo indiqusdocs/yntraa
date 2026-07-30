@@ -16,7 +16,7 @@ To create an object storage, follow these steps:
 5. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Create** button. The following screen appears: 
    ![Confirm Bucket Create Message](img/confirmmessage.png)
 6. Click the **Confirm** button. 
-   ![Object Storage Created](img/objectstoragecreated.png)
+
 
 
 	

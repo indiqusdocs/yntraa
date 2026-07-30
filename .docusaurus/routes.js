@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '074'),
+    component: ComponentCreator('/docs', 'e1d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '805'),
+        component: ComponentCreator('/docs', 'fa9'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ce8'),
+            component: ComponentCreator('/docs', '309'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -341,12 +341,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/StandardAgreements',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/StandardAgreements', '53c'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/AccountCentre/SubscriptionsandServices',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/SubscriptionsandServices', '4c9'),
                 exact: true,
@@ -419,8 +413,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/CreatingKubernetesCluster',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/CreatingKubernetesCluster', '391'),
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster', 'dbf'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -923,8 +917,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePoints', '4c3'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePointsandVolume',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePointsandVolume', 'f72'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -953,14 +947,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/ViewingDataDisk',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingDataDisk', '95d'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails', '33c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/ViewingDataDiskDetails',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingDataDiskDetails', '0a6'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes', 'dd6'),
                 exact: true,
                 sidebar: "sidebar1"
               },

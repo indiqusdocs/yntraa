@@ -77,7 +77,7 @@ To reset SSH key of a window instance, follow these steps:
    ![Instance Stopped](img/instancestopped.png)
 5. Click the **Reset SSH key** button. The following screen appears: 
    ![Reset SSH Key Details](img/resetsshkeydetails.png)
-6. Select an SSH key from the dropdown and select the **Send New Password for this Instance on my email** option, and then click **Confirm SSH Key Pair Reset** button. 
+6. Select an SSH key from the dropdown and select the **Send new password for this Instance on my email** option, and then click **Confirm SSH Key Pair Reset** button. 
 A password reset link is sent to your registered email address.
 
 ## Migrating Network
@@ -96,7 +96,7 @@ Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurat
    ![Overview](img/windowsoverview.png)
 3. Click the **Migrate Network** button. The following screen appears: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
-4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance** option. 
+4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance** option, and click the **Migrate Network** button. 
    
 ## Reinstalling Window Instance
 

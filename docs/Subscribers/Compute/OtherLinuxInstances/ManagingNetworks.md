@@ -13,7 +13,7 @@ Manage the networking configuration of your linux instance to control connectivi
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)
-4. Click **Add Network**, and select the required network from the **Select from Available Networks** dropdown. The following screen appears:
+4. Click the **Add Network** button, and select the required network from the **Select from Available Networks** dropdown. The following screen appears:
    ![Adding NIC](img/addingnic.png)
 5. Click the **Yes** button. The following screen appears:
    ![Network Added](img/networkadded.png) 

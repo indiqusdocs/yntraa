@@ -18,7 +18,7 @@ This section comprises of the following sub-sections:
 
 Detaching a volume from an instance disconnects the block storage volume while preserving the data stored on it. You can detach a volume when it is no longer required by an instance, before attaching it to another instance, or as part of storage maintenance and resource management. This operation helps ensure flexible storage allocation and enables you to manage volumes independently of compute instances.
 
-To detach volume from an instance, follow these steps
+To detach volume from an instance, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
@@ -35,7 +35,7 @@ To detach volume from an instance, follow these steps
 
 Attaching a volume to an instance makes the block storage volume available for use by the selected compute instance. You can attach a volume to provide additional storage capacity, store application data, or support changing workload requirements. This operation enables the instance to access the volume while allowing storage resources to be managed independently of the instance lifecycle.
 
-To attach volume to an instance, follow these steps
+To attach volume to an instance, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
@@ -52,7 +52,7 @@ To attach volume to an instance, follow these steps
 
 Downloading a volume creates a copy of the block storage volume that you can save for backup, migration, or offline access. You can download a volume to preserve its data, transfer it to another environment, or maintain a local copy for recovery purposes. This operation helps ensure data portability and provides additional protection against data loss.
 
-To download a volume, follow these steps
+To download a volume, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
@@ -72,7 +72,7 @@ Deleting a volume permanently removes the block storage volume and its associate
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
 
-To delete a volume, follow these steps
+To delete a volume, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)

@@ -7,10 +7,10 @@ Scaling a Kubernetes cluster allows you to adjust its compute capacity by increa
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Nodes**. The following screen appears: 
    ![Kubernetes Node](img/kubernetesnode.png)
-4. Click the **Scale Cluster** button. The following screen appears where you specify the cluster size: 
+4. Click the **Scale Cluster** button. The following screen appears where you enter the cluster size: 
    ![Cluster Size](img/clustersize.png)
 5. Click the **Confirm Scaling** button.

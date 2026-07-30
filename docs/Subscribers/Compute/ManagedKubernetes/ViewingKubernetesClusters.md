@@ -3,7 +3,11 @@ sidebar_position: 2
 ---
 # Viewing Kubernetes Clusters
 
-To view the kubernetes cluster, navigate to **Compute > Managed Kubernetes**. The following screen appears that shows all the previously created clusters: 
+View kubernetes clusters and access essential details such as cluster name, public IP address, autoscaling configuration, and creation date. Monitor cluster information from a centralized view to quickly review configurations and manage your Kubernetes environments efficiently.
+
+To view the kubernetes cluster, follow the step: 
+
+Navigate to **Compute > Managed Kubernetes**. The following screen appears:
 ![Kubernetes List](img/kuberneteslist.png) 
 
    

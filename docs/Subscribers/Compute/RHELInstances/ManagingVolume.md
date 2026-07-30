@@ -12,7 +12,7 @@ This section comprises of the following sub-sections:
 - [Adding Volume](#adding-volume)
 - [Creating Disk Restore Point ](#creating-disk-restore-point)
 - [Viewing Disk Restore Point ](#viewing-disk-restore-point)
-- [Creating Volume](#creating-volume)
+- [Creating Volume from Disk Restore Point](#creating-volume-from-disk-restore-point)
 - [Deleting Disk Restore Point](#deleting-disk-restore-point)
 </div>
 
@@ -41,7 +41,7 @@ To add volume, follow these steps:
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![Adding Volume](img/addingvolume.png)
-4. Click the [**Add Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) button to add the volume. 
+4. Click the [**Add Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) button to initiate the add volume procedure.
 
 ## Creating Disk Restore Point 
 
@@ -73,7 +73,7 @@ To view the disk restore point, follow these steps:
 2. Click **Disk Restore Point**. The following screen appears: 
 ![View Disk Restore Points](img/rheldiskrestorepoint.png)
 
-## Creating Volume
+## Creating Volume from Disk Restore Point
 
 Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
@@ -103,7 +103,7 @@ To create volume, follow these steps:
 11. In the **Choose Disk Configuration** section:
     - Select the desired disk tier (**Tier1, Tier2, or Tier3**).
     - Click the **Custom Disk** option and adjust the disk size using the plus (+) or minus (–) controls as per requirement.
-    - Click on **Select Pack** to choose the configured disk pack.
+    - Click the **Select Pack** to choose the configured disk pack.
 12. Enter the disk name in **Name Your Data Disk**. 
 13. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click **Buy Monthly** button. The following screen appears: 
    ![Data Disk Purchase](img/datadiskpurchase.png)

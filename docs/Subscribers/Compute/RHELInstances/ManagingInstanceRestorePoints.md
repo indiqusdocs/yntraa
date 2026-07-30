@@ -32,7 +32,7 @@ To create an instance restore point, follow these steps:
  
 ## Restoring an Instance Restore Point
 
-Restoring an instance from a restore point reverts the RHEL instance to a previously saved state. This operation restores the instance configuration and data captured at the selected restore point, allowing you to recover from configuration errors, failed updates, or other unexpected issues. Restoring a restore point helps minimize service disruption, ensures business continuity, and provides a reliable method to recover the load balancer instance to a known working state.
+Restoring an instance from a restore point reverts the RHEL instance to a previously saved state. This operation restores the instance configuration and data captured at the selected restore point, allowing you to recover from configuration errors, failed updates, or other unexpected issues. Restoring a restore point helps minimize service disruption, ensures business continuity, and provides a reliable method to recover the RHEL instance to a known working state.
 
 To restore an instance restore point, follow these steps: 
 

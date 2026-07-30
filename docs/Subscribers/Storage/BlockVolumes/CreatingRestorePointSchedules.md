@@ -1,11 +1,11 @@
 ---
 sidebar_position: 5
 ---
-## Creating Restore Point Schedules
+# Creating Restore Point Schedules
 
 You can create restore point policies for your root and data disks. These schedules enable for strategic management of data retention policies and can be used as an alternative backup solution. 
 
-To create restore point schedule, follow these points: 
+To create a restore point schedule, follow these points: 
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
