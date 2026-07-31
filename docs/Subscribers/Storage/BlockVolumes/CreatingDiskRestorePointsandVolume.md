@@ -36,7 +36,7 @@ To create volume, follow these steps:
    ![Disk Restore Point Message](img/diskrestorepointmessage.png)
 5. Click the **Create Disk Restore Point**. The following screen appears: 
    ![Create Volume](img/createvolume.png)
-6. Click the [**Create Volume**](/docs/Subscribers/Compute/WindowsInstances/ManagingVolume) icon (highlighted in red)  to initiate the create volume or data disk procedure.
+6. Click the [**Create Volume**](/docs/Subscribers/Compute/WindowsInstances/ManagingVolume) icon (highlighted in red) to initiate the create volume or data disk procedure.
    
 
 

@@ -136,18 +136,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
-              "path": "/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/Autoscale/ViewingAutoscaleGroups",
               "path": "/docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard",
-              "path": "/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard",
               "sidebar": "sidebar1"
             },
             {
@@ -171,11 +161,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters",
-              "path": "/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster",
               "path": "/docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster",
               "sidebar": "sidebar1"
@@ -186,13 +171,18 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/Compute/ManagedKubernetes/KubernetesDashboard",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/KubernetesDashboard",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations",
               "path": "/docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Compute/ManagedKubernetes/ManagingNetworks",
-              "path": "/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworks",
+              "id": "Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules",
+              "path": "/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules",
               "sidebar": "sidebar1"
             },
             {
@@ -616,11 +606,6 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails",
               "path": "/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails",
               "sidebar": "sidebar1"
@@ -628,11 +613,6 @@
             {
               "id": "Subscribers/Storage/BlockVolumes/ViewingBlockVolumes",
               "path": "/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes",
-              "path": "/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes",
               "sidebar": "sidebar1"
             },
             {

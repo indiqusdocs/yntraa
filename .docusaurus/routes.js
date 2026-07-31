@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'da0'),
+    component: ComponentCreator('/docs', 'ffa'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '44f'),
+        component: ComponentCreator('/docs', '5e8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f6c'),
+            component: ComponentCreator('/docs', '541'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -377,20 +377,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance', 'fa3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups',
                 component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups', '9d2'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard', '53d'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -419,12 +407,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters', '767'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster', 'e31'),
                 exact: true,
@@ -437,14 +419,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/KubernetesDashboard',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/KubernetesDashboard', 'f4a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations', '993'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworks',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworks', 'cbb'),
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules', '25e'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -953,12 +941,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes', 'a37'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails',
                 component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails', '33c'),
                 exact: true,
@@ -967,12 +949,6 @@ export default [
               {
                 path: '/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes',
                 component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes', 'dd6'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes', '7a2'),
                 exact: true,
                 sidebar: "sidebar1"
               },

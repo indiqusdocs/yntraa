@@ -21,11 +21,11 @@ Restart a load balancer instance to refresh its operating state, apply certain c
 To restart an instance, follow these steps: 
 
 1. Navigate to the **Network and Security > Load Balancers**. The following screen appears:
-![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer Screen](img/loadbalancerscreen.png)
 2. Click on your created load balancer Instance from the list, and click **Operations**. The following screen appears:
-![LB Operations](img/lboperations.png)
+   ![LB Operations](img/lboperations.png)
 3. Click the **Restart Instance** button. The following screen appears: 
- ![Restart Instance Message](img/restartinstancemessage.png)
+   ![Restart Instance Message](img/restartinstancemessage.png)
 4. Click the **Yes** button.
    
 ## Force Stop an Instance
@@ -35,11 +35,11 @@ Force stop a load balancer instance to immediately terminate its operations when
 To force stop an instance, follow these steps: 
 
 1. Navigate to the **Network and Security > Load Balancers**. The following screen appears:
-![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer Screen](img/loadbalancerscreen.png)
 2. Click on your created load balancer Instance from the list, and click **Operations**. The following screen appears:
-![LB Operations](img/lboperations.png)
+   ![LB Operations](img/lboperations.png)
 3. Click the **Force Stop Instance** button. The following screen appears: 
- ![Force Stop Instance Message](img/forcestopinstancemessage.png)
+   ![Force Stop Instance Message](img/forcestopinstancemessage.png)
  4. Click the **Yes** button. 
 
 ## Renaming an Instance
@@ -49,13 +49,13 @@ Rename a load balancer instance to assign a more meaningful or recognizable name
 To rename an instance, follow these steps: 
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer Screen](img/loadbalancerscreen.png)
 2. Click on your created load balancer Instance from the list, and click **Operations**. The following screen appears:
-![LB Operations](img/lboperations.png)
+   ![LB Operations](img/lboperations.png)
 3. Click the **Rename Instance** button. The following screen appears where you can update the LBI name in Instance Name.
- ![Instance Name Changed](img/instancenamechanged.png)
+   ![Instance Name Changed](img/instancenamechanged.png)
 4. Click the **Done** button. The new instance name appears (highlighted in red). 
-![Name Changed](img/namechange.png)
+   ![Name Changed](img/namechange.png)
 
 ## Deleting an Instance
 
@@ -67,11 +67,11 @@ You can schedule deletion to continue using the resource until the end of the cu
 To delete an instance, follow these steps:
 
 1. Navigate to the **Network and Security > Load Balancers**. The following screen appears:
-![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer Screen](img/loadbalancerscreen.png)
 2. Click on your created load balancer Instance from the list, and click **Operations**. The following screen appears:
-![LB Operations](img/lboperations.png)
+   ![LB Operations](img/lboperations.png)
 3. Click the **Delete Instance** button. The following screen appears: 
-![Delete Instance](img/deleteinstance.png)
+   ![Delete Instance](img/deleteinstance.png)
 4. Enter **DELETE** and click the **Delete Now** button. The LBI is deleted.
 5. Enter **DELETE** and click the **Schedule Deletion** button.
 

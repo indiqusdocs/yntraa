@@ -18,11 +18,11 @@ Adding a network allows you to attach an additional network interface to a Load 
 To add a network, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancer**. The following screen appears:
-![LBI Overview Window](img/lbioverviewwindow.png) 
+   ![LBI Overview Window](img/lbioverviewwindow.png) 
 2. Click **Networking**. The following screen appears:
-![Networking](img/networkingscreen.png) 
+   ![Networking](img/networkingscreen.png) 
 3. Click the **Add Network** button. The following screen appears: 
-![addingnic](img/addingnic.png)
+   ![addingnic](img/addingnic.png)
 4. Click the **Yes** button. 
    
     :::note
@@ -36,11 +36,11 @@ A secondary IP is an additional private IP address assigned to an instance apart
 To add a secondary IP, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-![LBI Overview Window](img/lbioverviewwindow.png) 
+   ![LBI Overview Window](img/lbioverviewwindow.png) 
 2. Click **Networking**. The following screen appears:
-![Networking](img/networkingscreen.png) 
+   ![Networking](img/networkingscreen.png) 
 3. Click the **+ New Secondary IP** button. The following screen appears:
-![Add Secondary IP](img/addsecondaryip.png)
+   ![Add Secondary IP](img/addsecondaryip.png)
 4. Click the **Add** button. The secondary IP is added (highlighted in red). The following screen appears: 
 ![Secondary IP Added in LBI](img/secondaryipaddedinlbi.png)
 

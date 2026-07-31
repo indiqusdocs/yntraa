@@ -3,6 +3,8 @@ sidebar_position: 4
 ---
 # Deleting Object Bucket
 
+The delete object storage bucket feature allows you to permanently remove an object storage bucket that is no longer required.
+
 :::note
 This action cannot be undone and only empty buckets can be deleted. Before deleting the object storage bucket, ensure that all objects have been removed from the bucket.
 :::

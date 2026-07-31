@@ -32,6 +32,8 @@ To view your subscriptions and service details, follow these steps:
 ## Active Subscriptions
 Active Subscriptions column shows a tabulated list of all subscriptions that are currently active in your account.
 
+To view the active subscription details, follow the step:
+
 Navigate to **Billing > Subscriptions and Services**. The following screen appears: 
 ![Active Subscriptions](img/activesubscriptions.png)
     :::note
@@ -41,11 +43,15 @@ Navigate to **Billing > Subscriptions and Services**. The following screen appea
 ## Inactive Subscriptions
 Inactive Subscriptions column shows a tabulated list of all subscriptions that were active in the past. This includes all removed subscriptions.
 
+To view the inactive subscription details, follow the step:
+
 Navigate to **Billing > Inactive Subscriptions**. The following screen appears: 
 ![Inactive Subscriptions](img/inactivesubscriptions.png)
    
 ## Schedule for Deletion
-Scheduled for Deletion column shows a tabulated list of all subscriptions that are set not to renew automatically. 
+The scheduled for deletion column lists subscriptions that are marked for deletion but remain within their validity period.
+
+To view the details of services scheduled for deletion, follow the step:
 
 Navigate to **Billing > Scheduled for Deletion**. The following screen appears: 
 ![Schedule for Deletion](img/schedulefordeletion.png)
@@ -53,11 +59,15 @@ Navigate to **Billing > Scheduled for Deletion**. The following screen appears:
 ## Enable Services
 Enable Services column shows a tabulated list of all services that are currently enabled in your account. 
 
+To view the details of enabled services, follow the step:
+
 Navigate to **Billing > Enabled Services**. The following screen appears: 
 ![Enabled Services](img/enabledservices.png)
 
 ## Open Requests
 Open Requests column shows a tabulated list of all service requests that are currently in progress or awaiting completion. 
+
+To view the details of open requests, follow the step:
 
 Navigate to **Billing > Open Requests**. The following screen appears:
 ![Open Requests](img/openrequests.png)
@@ -65,20 +75,11 @@ Navigate to **Billing > Open Requests**. The following screen appears:
 ## Completed Requests
 Completed Requests column shows a tabulated list of all service requests that have been successfully processed, approved, or withdrawn, along with their final status and details.
 
+To view the details of closed requests, follow the step:
+
 Navigate to **Billing > Completed Requests**. The following screen appears:
 ![Billing Completed Request](img/billingcompletedrequest.png)
    
-Subscriptions have the following characteristics:
-
-- By default, all subscriptions are set to renew automatically at the end of their billing durations.
-- By default, all subscriptions are set to prorate on entry as well as on exit. This means that subscriptions created or deleted in the middle of a billing cycle will be charged only for the applicable period, not the entire billing month.
-- Subscriptions can be canceled (or deactivated) at any time. However, while canceling, you’ll have the option to delete the subscription immediately (instant deletion) or just cancel the automatic renewal (scheduled deletion).
-
-Yntraa Cloud supports the following types of subscriptions:
-
-- **Fixed Recurring -** These have a fixed charge for a fixed period and are automatically renewed with the same fixed charges.
-- **Usage-based -** These are metered (mostly) in an hourly fashion and are billed on the number of usage hours.
-- **Fixed Non-Recurring -** These have a fixed one-time charge and do not require renewal.
 
 
 

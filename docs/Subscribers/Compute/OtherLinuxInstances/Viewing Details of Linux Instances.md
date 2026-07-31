@@ -31,7 +31,7 @@ To view the details of linux instances, follow these steps:
 - Template Name
 - Created On
 
-**Security and Access Control:** This displays the available security settings and access control options for the linux instance based on its networking zone. The available information and operations may vary depending on the configured network environment:
+**Security and Access Control:** This displays the following available security settings and access control options for the linux instance based on its networking zone. The available information and operations may vary depending on the configured network environment:
 - Network Name
 - VPC Name
 - Access Control

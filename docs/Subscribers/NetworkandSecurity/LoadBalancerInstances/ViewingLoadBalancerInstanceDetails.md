@@ -14,16 +14,15 @@ This section comprises of the following sub-sections:
 To view the details of a load balancer instance, follow these steps:
 
  1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-  ![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer Screen](img/loadbalancerscreen.png)
  2. Click on your created load balancer Instance from the list. The Overview tab opens automatically. The following screen appears with the details:
- ![LBI Overview](img/lbioverview.png)
+   ![LBI Overview](img/lbioverview.png)
  
 **Configuration and Availability:** This section displays the following details to help verify its current configuration and operational state:
     - The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>
     - Availability Zone
     - Operating System
     - Compute Pack
-![LBI Overview](img/lbioverview.png)
 
 **Internal Information:** This section displays the following information used for internal identification of this instance and communication with other internal services:
     - Template Name
@@ -40,9 +39,9 @@ To view the details of a load balancer instance, follow these steps:
 Launch the LBI Web Based Console to access the browser-based management interface for your load balancer instance. The console enables you to configure and manage load balancing settings, monitor traffic and system health, and perform administrative tasks from a web browser.
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-![loadbalanceinstance](img/lbiwindow.png)
+   ![loadbalanceinstance](img/lbiwindow.png)
 2. Click on your created load balancer instance name from the list. The following screen appears:
-![Overview](img/lbioverview.png) 
+   ![Overview](img/lbioverview.png) 
 3. Click the **Launch Console** button to access the Instance's console interface. One-by-one, run the following commands:
  
 ```
@@ -59,15 +58,15 @@ Stop and start the load balancer instance to apply updates, perform maintenance,
 To start and stop the load balancer instance, follow these steps:  
 
 1. Navigate to **Network and Security > Load balancers**. The following screen appears: 
-![LBI List](img/loadbalancerscreen.png)
+   ![LBI List](img/loadbalancerscreen.png)
  2. Click on your created load balancer instance name from the list. The following screen appears:
-![Overview](img/lbioverview.png) 
+   ![Overview](img/lbioverview.png) 
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
-![Stop LBI Message](img/stopinstancemessage.png)
+   ![Stop LBI Message](img/stopinstancemessage.png)
 4. Click the **Yes** button. The following screen appears:
-![LBI Power Off](img/lbipoweroff.png)
+   ![LBI Power Off](img/lbipoweroff.png)
 5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears: 
-![LBI Power On](img/lbipoweron.png)
+   ![LBI Power On](img/lbipoweron.png)
 6. Click the **Yes** button. The following screen appears:
-![LBI Start](img/lbistart.png) 
+   ![LBI Start](img/lbistart.png) 
 

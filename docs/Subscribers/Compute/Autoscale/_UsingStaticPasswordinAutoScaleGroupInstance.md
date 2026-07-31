@@ -3,7 +3,9 @@ sidebar_position: 4
 ---
 # Using Static Password In Autoscale Group Instance
 
-1. Create a VPC and add a network tier inside the VPC. 
+Using static password in an auto scale group instance feature enables you to use a common login password for instances created within an auto scale group. It helps ensure a consistent authentication experience across all automatically provisioned instances, simplifying instance access and management.
+
+1. Create a VPC and add a network tier inside the VPC.
    ![Tier](img/tier.png)  
 2. Create a instance using the standard templates.
    ![Overview](img/overview.png)
@@ -19,7 +21,7 @@ sidebar_position: 4
 	9. Remove cloud-init data and configuration.  <br />`sudo rm -rf /var/lib/cloud` <br /> `sudo sed -i '/cloud-init/d' /etc/default/grub`
 	11. Remove any cloud-init entry from the grub. <br />`sudo update-grub`
 	12. Reboot the system. <br />`sudo reboot`
-5. Stop the instance from the Yntraa cloud platform and create a Root restore point of that instance.
+5. Stop the instance from the Yntraa cloud platform and create a disk restore point of that instance.
 ![Create Restore Point](img/createrestorepoint.png)
 6. Create Image using the restore point. (After creation, it will be visible in the **My Image** section).
 ![Disk Restore Point](img/diskrestorepoint.png)

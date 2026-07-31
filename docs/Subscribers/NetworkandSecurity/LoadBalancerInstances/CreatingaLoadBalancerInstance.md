@@ -8,9 +8,9 @@ Creating a Load Balancer Instance provisions a dedicated load balancing applianc
 To a create a load balancer instance, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears: 
- ![loadbalanceinstance](img/lbiwindow.png)
+   ![loadbalanceinstance](img/lbiwindow.png)
  2. Click the **+ New Load Balancer Instance** button. The following screen appears:
-![LBI Components](img/lbicomponents.png)
+  ![LBI Components](img/lbicomponents.png)
 3. Choose an **Availability Zone**, which is the geographical region where your Instance will be deployed.
 4. In the **Select Network Destination**, specify the VPC and subnet.
 5. Select **Load Balancer Version**.
@@ -18,7 +18,7 @@ To a create a load balancer instance, follow these steps:
    ![lbconfig](img/lbconfig.png)
 7. **Name Your Load Balancer Instance**.
 8. Under the **Summary and Estimated Costs** section, verify the estimated cost of your Instance based on the chosen specifications.
-![lbcost](img/lbcost.png)
+  ![lbcost](img/lbcost.png)
 9. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option.
 10. Click the **Buy Monthly** button. The Confirm Instance Purchase window appears, and the price summary is displayed along with the discount codes if you have any in your account. 
     - You can apply any of the discount codes listed by clicking on the **Apply** button. 
