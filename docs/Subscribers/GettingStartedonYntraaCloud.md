@@ -18,7 +18,7 @@ This section guides you through the basic steps to create and launch your first 
 </div>
 
 ## Creating Virtual Private Cloud 
-Create a Virtual Private Cloud (VPC) to set up a secure and isolated network environment for your cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing you to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on creating a VPC, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs).
+Create a Virtual Private Cloud (VPC) to set up a secure and isolated network environment for your cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing you to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on creating a VPC, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCs).
 
 ## Creating Subnets and Tiers 
 Create Subnets and Tiers within a VPC to organise the network into logical segments for different application layers such as web, application, and database. For more information on creating subnets and tiers, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers).

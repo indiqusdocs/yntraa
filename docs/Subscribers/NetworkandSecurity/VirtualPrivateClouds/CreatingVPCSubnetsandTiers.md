@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 # Creating VPC Subnets and Tiers
 
@@ -8,6 +8,9 @@ A VPC subnet is a smaller, segmented network within a VPC that helps organise an
 Subnets and tiers help efficiently group resources, control traffic flow, and improve security and performance within your cloud environment.
 
 ## Creating a Subnet and Tier
+
+A subnet and tier are logical network segments within a Virtual Private Cloud (VPC) that help organize resources based on their purpose. Creating subnets and tiers improves network management, enhances security, and enables better control over communication between resources.
+
 To create a subnet and tier, follow these steps:
 
 1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
@@ -28,7 +31,7 @@ Restarting a network tier refreshes the selected tier by reapplying its network 
 To restart a network tier, follow these steps:
 
 1. Click the **Restart Network** icon (highlighted in red). 
-![Restart Network](img/restartnetwork.png)
+   ![Restart Network](img/restartnetwork.png)
 
    The follow screen appears:
    ![Restart Tier in VPC](img/restarttierinvpc.png)
@@ -58,11 +61,11 @@ You can delete only the empty network tiers, which means that in order to delete
 To delete a network tier, follow these steps:
 
 1. Click the **Delete Network** icon (highlighted in red). 
-![Delete Tier in VPC](img/deletetierinvpc.png)
+   ![Delete Tier in VPC](img/deletetierinvpc.png)
 
    The following screen appears: 
    ![Tier Delete Message](img/tierdeletemessage.png)
    
 2. Select the **I confirm that I have removed everything from this tier** option, and click the **Delete Tier** button. The following screen appears: 
-![Tier Deleted in VPC](img/tierdeletedinvpc.png)
+   ![Tier Deleted in VPC](img/tierdeletedinvpc.png)
 

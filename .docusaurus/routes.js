@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e1d'),
+    component: ComponentCreator('/docs', 'd0d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fa9'),
+        component: ComponentCreator('/docs', 'd5b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '309'),
+            component: ComponentCreator('/docs', '7e5'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -743,26 +743,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways', 'fc5'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses', '658'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways', '5e6'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway', 'cde'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations', '41c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -775,6 +763,12 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview', '38b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGateways',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGateways', 'd45'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -839,8 +833,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs', '878'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules', '79c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCs',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCs', 'e22'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -851,14 +851,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC', '53d'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets', 'e65'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlList',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlList', '857'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -877,6 +871,12 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails', 'b1d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs', '318'),
                 exact: true,
                 sidebar: "sidebar1"
               },

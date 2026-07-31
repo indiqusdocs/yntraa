@@ -7,7 +7,7 @@ Manage NAT gateways to monitor their status, review associated instances, manage
 
 To manage a NAT gateway, follow these steps:
 
-1. Navigate to **Network and Security > NAT Gateways**.
+1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![natgatewaydeploy](imgnew/natgatewaydeploy.png)
 2. Click your created NAT Gateway from the list. The following screen appears:
    ![natdetails](imgnew/natdetails.png)

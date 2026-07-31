@@ -19,11 +19,11 @@ Restart a VPC to refresh its network services and apply recent configuration cha
 To restart a VPC, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
-![Delete VPC Instance](img/deletevpcinstance.png) 
+   ![Delete VPC Instance](img/deletevpcinstance.png) 
 2. Click on your created VPC name from the list. The following screen appears:
-![Delete VPC Overview](img/deletevpcoverview.png) 
+   ![Delete VPC Overview](img/deletevpcoverview.png) 
 3. Click **Operations**. The following screen appears:
-![operationnew](img/operationnew.png)
+   ![operationnew](img/operationnew.png)
 4. Click the **Restart Virtual Router** button.
 
 ## Deleting a VPC
@@ -34,19 +34,19 @@ When you no longer need a VPC, delete it to remove unused network resources and 
 Before attempting to delete this VPC, ensure that all Tiers, IPv4 Addresses, and Instances are removed from this VPC. This action is irreversible, and you may not be able to recover any data for this VPC.
 :::
 
-
 To delete a VPC, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
-![Delete VPC Instance](img/deletevpcinstance.png) 
+   ![Delete VPC Instance](img/deletevpcinstance.png) 
 2. Click on your created VPC name from the list. The following screen appears:
-![Delete VPC Overview](img/deletevpcoverview.png) 
+   ![Delete VPC Overview](img/deletevpcoverview.png) 
 3. Click **Operations**. The following screen appears:
-![Delete VPC](img/deletevpc1.png)
+   ![Delete VPC](img/deletevpc1.png)
 4. Click the **Delete VPC Network** button. The following screen appears: 
-![Finally Delete VPC](img/finallydeletevpc.png)
-5. Enter **DELETE** and click the **Delete Now** button. The following screen appears: 
-![VPC Now Deleted](img/vpcnowdeleted.png)
+   ![Finally Delete VPC](img/finallydeletevpc.png)
+5. Enter **DELETE** and click the **Delete Now** button. 
+6. Enter **DELETE** and click the **Schedule for Deletion** button. 
+
 
 
 

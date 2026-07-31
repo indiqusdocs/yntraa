@@ -1,38 +1,33 @@
 ---
 sidebar_position: 5
 ---
-# IPv4 Addresses and VPC
+.
+# Adding IPv4 Addresses and Rules
 
-IPv4 Addresses are an integral part of using VPC networking, and need to be used to access various components of the VPC. By default, a public IPv4 Address is assigned to the VR which can communicate through the internet to transmit traffic to/from the VR. You can use this IPv4 for configuring remote access (L2TP) and site-to-site (IPSec) VPN connections.
+Additional IPv4 addresses provide extra public network endpoints for resources within a Virtual Private Cloud (VPC). After an IPv4 address is added, you can configure network rules, such as load balancing, port forwarding, and Static NAT, to control how incoming traffic is routed and made accessible. This enables flexible network connectivity while supporting application availability and secure access.
 
-## Using Additional IPv4
-
-Additional IPv4 addresses provide extra public IPs that you can assign to your cloud resources as needed. They help configure external access, support network communication, and enable services such as Network Address Translation (NAT) to meet your connectivity requirements.
-
-Primarily, you can use IPv4 addresses for configuring access and perform NAT via the following:
-
-<div className="custom-block-blue">  
-- [Load balancing](#configuring-load-balancing)
-- [Port Forwarding](#configuring-port-forwarding)
-- [Static NAT](#configuring-static-nat)
-</div>
-
-![vpcaddip](img/vpcaddip.png)
-
-To add a a new IPv4 address to the VPC, follow these steps:
+To add a additional IPv4 address to the VPC, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
-![VPC Deployed](img/vpcdeployed.png) 
+   ![VPC Deployed](img/vpcdeployed.png) 
 2. Click on your created VPC name from the list. The following screen appears:
-![Deployed VPC Overview](img/deployedvpcoverview.png)
+   ![Deployed VPC Overview](img/deployedvpcoverview.png)
 3. Click **IP Addresses**. The following screen appears:
-![IP addition in VPC](img/ipaddbutton.png)
+   ![IP addition in VPC](img/ipaddbutton.png)
 4. Click the **Add Public IPv4 Address** button. The following screen appears:
-![IP in VPC](img/ipinvpc.png) 
+   ![IP in VPC](img/ipinvpc.png) 
 
     :::note
     Public IPv4 addresses may carry a price which may vary depending on availability of IPv4 addresses in the country of operation, and/or how they have been priced.
     :::
+    
+This section comprises of the following sub-sections:
+
+<div className="custom-block-blue">  
+- [Configuring Load balancing](#configuring-load-balancing)
+- [Configuring Port Forwarding](#configuring-port-forwarding)
+- [Configuring Static NAT](#configuring-static-nat)
+</div>
 
 ## Configuring Load Balancing 
 
@@ -44,13 +39,13 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 
 To configure the Load Balancing Rule, follow these steps:
 1. Navigate to **Network and Security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
-![VPC IP Address](img/vpcipaddress.png)
+   ![VPC IP Address](img/vpcipaddress.png)
 2. Click the **Load Balancing** icon (highlighted in red). The following screen appears:
-![addrulenew](img/addrulenew.png)
+  ![addrulenew](img/addrulenew.png)
 3. Click **+ Add Rule**. The following screen appears where you provide the required details
-![addrule1new](img/addrule1new.png)	  
+  ![addrule1new](img/addrule1new.png)	  
 4. Click the **Add Load Balancing Rule** button. The following screen appears: 
-![Enable LBI](img/enablelbi.png)
+  ![Enable LBI](img/enablelbi.png)
 
 Once the load balancer rule has been created, the Port Forwarding and Static NAT options are automatically disabled. You can navigate to load balancer and add (or remove) Instances to this rule by following these steps:
 
@@ -59,7 +54,7 @@ Once the load balancer rule has been created, the Port Forwarding and Static NAT
 6. Click the dropdown and select the appropriate **Load Balancing Rule**. This following screen appears that shows the Instances that are part of this load balancer, and those available to be added. 
    ![addrule2](img/addrule2.png)
 7. Click the **+** icon (highlighted in red) to add an instance. The following screen appears:
-![Add Instance in LB Rule](img/addinstanceinlbrule.png) 
+  ![Add Instance in LB Rule](img/addinstanceinlbrule.png) 
 
     :::note
     To delete this Load Balancing Rule, click **Delete This Rule** button.
@@ -73,21 +68,21 @@ A Port Forwarding rule is required for accessing the virtual machines contained 
 
 To configure port forwarding, follow these steps:
 1. Navigate to **Network and security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
-![PF Rule Add](img/pficon.png)
+   ![PF Rule Add](img/pficon.png)
 2. Click the **Port Forwarding** icon (highlighted in red). The following window appears:
-![Add Rule](img/pfaddrulebutton.png) 
+   ![Add Rule](img/pfaddrulebutton.png) 
 3. Click **+ Add Rule**. The following screen appears where you provide the required details: 
-![pfnowadded](img/pfnowadded.png)
+   ![pfnowadded](img/pfnowadded.png)
     :::note
     The end ports should be equal to or greater than the start ports.
     :::
 4. Click the **Add Port Forwarding Rule** button. The following screen appears: 
-![PF Rule Enable](img/pfruleenable.png)
+   ![PF Rule Enable](img/pfruleenable.png)
 
 Once the Port-Forwarding rule is created, the Load Balancing and Static NAT options are automatically disabled. You can then view the details of the Port Forwarding rule by following these steps:
 
 5. Click the **Port Forwarding Rule** icon. The following screen appears:
-![pf](img/pf.png)
+   ![pf](img/pf.png)
 
 You can view the Instance where this rule is configured, along with the private and public port range mappings.
 
@@ -104,11 +99,11 @@ A Static NAT rule maps a public IP address to the private IP address of a virtua
 To configure Static NAT, follow these steps:
 
 1. Navigate to **Network and security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
-![VPC IP Address](img/vpcipaddress3.png)
+   ![VPC IP Address](img/vpcipaddress3.png)
 2. Click the **Static NAT** icon (highlighted in red). The following screen appears: 
-![addstaticnat](img/addstaticnat.png)
+   ![addstaticnat](img/addstaticnat.png)
 3. Select the Instance from the dropdown, and click the **Add Static NAT** button. The following screen appears:
-![Static NAT Enable](img/staticnatenable.png)
+   ![Static NAT Enable](img/staticnatenable.png)
    
 Once the Static NAT is created, the Port Forwarding Rule and  Load Balancing options are automatically disabled.
 

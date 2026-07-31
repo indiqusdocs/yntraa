@@ -6,9 +6,9 @@ sidebar_position: 2
 The NAT gateway overview helps you view the current configuration and operational status of the gateway. Reviewing the overview enables you to validate the gateway's settings, monitor its performance, and manage it more effectively.
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears
-![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
+   ![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
 2. Click on your created NAT Gateway from the list. The Overview tab opens automatically. The following screen appears with the details:
-![Nat Gateway Details](imgnew/natgatewayscreen.png) 
+   ![Nat Gateway Details](imgnew/natgatewayscreen.png) 
 
 - **Configuration and Availability:** This displays the NAT Gateways configuration details to help verify its current configuration and operational state.
 
@@ -22,16 +22,16 @@ The NAT gateway overview helps you view the current configuration and operationa
 	- Virtual Gateway Internal Name
 	- Created On
 	  
-## Powering On and Off the NAT Gateway
+# Starting and Stopping a NAT Gateway
 
-Powering a virtual router on or off allows you to control its operational state. Power on the virtual router to start routing network traffic and enable connectivity between networks. Power off the virtual router when performing maintenance, applying configuration changes, or temporarily stopping network services to conserve resources or troubleshoot issues.
+You can control a NAT gateway’s operational state by starting or stopping the virtual router that provides NAT services. Start the virtual router to enable network address translation, route traffic between connected networks, and restore network connectivity. Stop the virtual router when you perform maintenance, apply configuration changes, or temporarily disable NAT services to conserve resources and troubleshoot network issues.
 
-To **Power On/Off** the virtual router, follow these steps: 
+To Start and Stop a NAT Gateway, follow these steps: 
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears
-![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
+   ![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
 2. Click on your created NAT Gateway from the list. The Overview tab opens automatically. The following screen appears:
-![Nat Gateway Details](imgnew/natgatewayscreen.png) 
+   ![Nat Gateway Details](imgnew/natgatewayscreen.png) 
 3. Click the **Stop NAT Gateway** button. The following screen appears: 
    ![stoprouternew](imgnew/stoprouternew.png)
 4. Select the **I have understood this** option, and click the **Stop Virtual Router** button. The following screen appears: 
@@ -39,7 +39,7 @@ To **Power On/Off** the virtual router, follow these steps:
 5. Click the **Start NAT Gateway** button. The following screen appears: 
    ![Start Virtual Router](imgnew/startvirtualrouter.png)
 6. Click the **Start Virtual Router** button. The following screen appears: 
-![NAT Gateway Starts](imgnew/natgatewaystarts.png)
+  ![NAT Gateway Starts](imgnew/natgatewaystarts.png)
 
 
 

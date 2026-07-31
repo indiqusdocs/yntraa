@@ -441,23 +441,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways",
-              "sidebar": "sidebar1"
-            },
-            {
               "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations",
               "sidebar": "sidebar1"
             },
             {
@@ -468,6 +458,11 @@
             {
               "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGateways",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGateways",
               "sidebar": "sidebar1"
             },
             {
@@ -521,8 +516,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCs",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCs",
               "sidebar": "sidebar1"
             },
             {
@@ -531,13 +531,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC",
-              "sidebar": "sidebar1"
-            },
-            {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlList",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlList",
               "sidebar": "sidebar1"
             },
             {
@@ -553,6 +548,11 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs",
               "sidebar": "sidebar1"
             },
             {

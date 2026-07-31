@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Creating and Viewing VPCs
+# Creating VPCs
 
 A Virtual Private Cloud (VPC) is a private virtual network that provides a secure environment for your cloud resources. It helps you organize and manage your network while controlling communication between resources.
 
@@ -16,7 +16,7 @@ To create a VPC, follow these steps:
 2. Click the **New Virtual Private Cloud** button. The following screen appears:
    ![VPC Screen](img/vpcdetailsnew.png)
 3. Choose an **Availability Zone**, which is the geographical region where your VPC will be configured.
-4. Specify network address base size and select size i.e. The <span class="tooltip-wrapper"> **super CIDR** <span class="tooltip-box">It is the method of combining multiple continuous smaller CIDR blocks into a larger block to reduce the number of routes.</span></span> for internal IP allocation in an x.x.x.x/x format. For more information, refer [IP addressing](/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR)
+4. Specify network address base size and select size i.e. The <span class="tooltip-wrapper"> **super CIDR** <span class="tooltip-box">It is the method of combining multiple continuous smaller CIDR blocks into a larger block to reduce the number of routes.</span></span> for internal IP allocation in an x.x.x.x/x format. For more information, refer [IP addressing](/docs/Knowledgebase/WhatisIPAddressSubnetTierandCIDR).
 5. **Choose a Networking Pack** from the available network collections. 
 6. Select the default IPv4 address for VPC Networking to create the VPC network with a new Public IP address.
   
@@ -32,7 +32,8 @@ To create a VPC, follow these steps:
     2. You can also remove the applied discount code by clicking the **Remove** button. 
 
     ![costsummarynew](img/costsummarynew.png)
-10. Click the **Confirm** button. ![confirmvpcnew](img/confirmvpcnew.png)
+10. Click the **Confirm** button. 
+  ![confirmvpcnew](img/confirmvpcnew.png)
 
 Once your VPC is ready, you will be notified of this purchase on your email address on record. 
 
@@ -40,14 +41,7 @@ Once your VPC is ready, you will be notified of this purchase on your email addr
 This might take up to 5-8 minutes. You may use the cloud console during   this time, but it is advised that you do not refresh the browser window.
 :::
 
-## Viewing Available VPCs
 
-Viewing available VPCs provides a list of all configured virtual private clouds and select the appropriate VPC for your networking requirements.
-
-To view all available VPCs, follow these steps:
-
-Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
-![Available VPC](img/availablevpc.png)
 
 
 

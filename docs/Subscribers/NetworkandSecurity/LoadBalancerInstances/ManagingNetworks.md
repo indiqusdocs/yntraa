@@ -45,7 +45,7 @@ To add a secondary IP, follow these steps:
 ![Secondary IP Added in LBI](img/secondaryipaddedinlbi.png)
 
 It is used in following networking services:
-- [Static NAT](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC): You can map a public IP to a secondary IP for external access.
-- [Port Forwarding](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC): You can direct traffic on specific ports to a secondary IP address assigned to the instance.
-- [Load Balancing](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC): You can use secondary IPs as backend or virtual service IPs to distribute traffic.
+- [Static NAT](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules): You can map a public IP to a secondary IP for external access.
+- [Port Forwarding](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules): You can direct traffic on specific ports to a secondary IP address assigned to the instance.
+- [Load Balancing](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules): You can use secondary IPs as backend or virtual service IPs to distribute traffic.
   

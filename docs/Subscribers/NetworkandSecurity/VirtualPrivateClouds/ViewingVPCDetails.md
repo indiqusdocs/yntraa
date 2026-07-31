@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 # Viewing VPC Details
 
@@ -12,12 +12,12 @@ To view the details associated with a VPC, follow these steps:
 2. Click on your created VPC name from the list. The Overview tab opens automatically, and the following screen appears with the details:
    ![vpcoverviewnew](img/vpcoverviewnew.png)
    
-- **Configuration and Availability**: This displays the VPC configuration details to help verify its current configuration and operational state.
+- **Configuration and Availability**: This displays the following VPC configuration details to help verify its current configuration and operational state:
     - The instance's status <span class="green">**Running**</span> and <span style={{ color: 'red' }}>Stopped</span>.
     - Availability Zone
     - Virtual Router Pack
     - Network Size
-- **Internal Information**: This displays the information that is used for internal identification of this VPC router and communication with other internal services.
+- **Internal Information**: This displays the following information that is used for internal identification of this VPC router and communication with other internal services:
     - Template Name
     - Virtual Router Internal Name
     - Created On
