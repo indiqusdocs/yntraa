@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd0d'),
+    component: ComponentCreator('/docs', 'da0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd5b'),
+        component: ComponentCreator('/docs', '44f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7e5'),
+            component: ComponentCreator('/docs', 'f6c'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -695,8 +695,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks', '9e5'),
+                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2NetworksOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2NetworksOperations', '504'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/ViewingL2Networks',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/ViewingL2Networks', '19f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -829,6 +835,12 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails', '54e'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewalls',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewalls', 'a0a'),
                 exact: true,
                 sidebar: "sidebar1"
               },

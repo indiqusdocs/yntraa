@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 # Managing Volume
 
@@ -11,7 +11,7 @@ This section comprises of the following sub-sections:
 - [Viewing Attached Disk](#viewing-attached-disk)
 - [Creating Disk Restore Point ](#creating-disk-restore-point)
 - [Viewing Disk Restore Point ](#viewing-disk-restore-point)
-- [Creating Volume](#creating-volume)
+- [Creating Volume from Disk Restore Point](#creating-volume-from-disk-restore-point)
 - [Deleting Disk Restore Point](#deleting-disk-restore-point)
 </div>
 
@@ -58,7 +58,7 @@ To view the disk restore point, follow these steps:
 2. Click **Disk Restore Point**. The following screen appears: 
 ![View Disk Restore Points](img/viewdiskrestorepoints.png)
 
-## Creating Volume
+## Creating Volume from Disk Restore Point
 
 Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
@@ -80,8 +80,7 @@ To create volume, follow these steps:
 ![Restore Points list](img/restorepointslist.png)
 7. Click **Disk Restore Point**. The following screen appears: 
 ![Creating Volume](img/createvolume.png)
-8. Click the [**Create Volume**](/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk) icon (highlighted in red) corresponding to the required disk restore point. The following screen appears:
-![Create Image Details](img/createimagedetails.png)
+8. Click the [**Create Volume**](/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints#creating-volume-from-disk-restore-point) icon (highlighted in red) to initiate the process of volume creation.
 
 ## Deleting Disk Restore Point
 

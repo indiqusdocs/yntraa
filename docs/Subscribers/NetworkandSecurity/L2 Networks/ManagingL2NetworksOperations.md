@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
-# Managing L2 Networks
+# Managing L2 Networks Operations
 
 Managing an L2 network allows you to maintain its availability and lifecycle. Manage an L2 network to perform actions such as restarting the network to restore connectivity and deleting unused networks to free resources and keep your network environment organised.
 

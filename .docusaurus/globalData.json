@@ -401,8 +401,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks",
-              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks",
+              "id": "Subscribers/NetworkandSecurity/L2 Networks/ManagingL2NetworksOperations",
+              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2NetworksOperations",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/L2 Networks/ViewingL2Networks",
+              "path": "/docs/Subscribers/NetworkandSecurity/L2 Networks/ViewingL2Networks",
               "sidebar": "sidebar1"
             },
             {
@@ -513,6 +518,11 @@
             {
               "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails",
               "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails",
+              "sidebar": "sidebar1"
+            },
+            {
+              "id": "Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewalls",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewalls",
               "sidebar": "sidebar1"
             },
             {

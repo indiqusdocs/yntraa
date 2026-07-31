@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 ---
 # Managing Firewall Instance Operations
 
@@ -58,7 +58,7 @@ To rename a virtual firewall, follow these steps:
 ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
 ![Operation List View](img/operationlistview.png) 
-4. Click the **Rename Virtual Firewall** button. The following screen appears where you provide the Virtual Firewall Name.
+4. Click the **Rename Virtual Firewall** button. The following screen appears where you can change or update the name of virtual firewall in Virtual Firewall Name.
 ![Rename VF](img/renamevfscreen.png)
 5. Click the **Done** button. The following screen appears: 
 ![Instance Renamed](img/instancerenamed.png)
@@ -80,7 +80,7 @@ To delete a virtual firewall, follow these steps:
 ![Operation List View](img/operationlistview.png) 
 4. Click the **Delete Virtual Firewall** button. The following screen appears:
 ![VF Delete Process](img/vfdeleteprocess.png)
-5. Click the **Okay button**.
+5. Click **Cancel**.
     :::note
     Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
     :::
