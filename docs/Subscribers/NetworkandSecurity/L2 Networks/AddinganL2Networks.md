@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Adding an L2 Network
 
-Adding an L2 Network allows you to create a network layer that enables connectivity within the same broadcast domain. It is useful for setting up isolated or internal networks, supporting seamless communication between resources within a defined environment.
+Adding an L2 network allows you to create a network layer that enables connectivity within the same broadcast domain. It is useful for setting up isolated or internal networks, supporting seamless communication between resources within a defined environment.
 
 To add an L2 network, follow these steps:
 

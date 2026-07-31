@@ -521,13 +521,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCs",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCs",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingaVPC",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingaVPC",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers",
-              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers",
+              "id": "Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingSubnetsandTiers",
+              "path": "/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingSubnetsandTiers",
               "sidebar": "sidebar1"
             },
             {

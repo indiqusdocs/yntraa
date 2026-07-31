@@ -18,10 +18,10 @@ This section guides you through the basic steps to create and launch your first 
 </div>
 
 ## Creating Virtual Private Cloud 
-Create a Virtual Private Cloud (VPC) to set up a secure and isolated network environment for your cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing you to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on creating a VPC, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCs).
+Create a Virtual Private Cloud (VPC) to set up a secure and isolated network environment for your cloud resources. This is one of the initial steps in configuring the network infrastructure, allowing you to define network settings, IP address ranges, and connectivity before deploying other services or applications. For more information on creating a VPC, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingaVPC).
 
 ## Creating Subnets and Tiers 
-Create Subnets and Tiers within a VPC to organise the network into logical segments for different application layers such as web, application, and database. For more information on creating subnets and tiers, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers).
+Create Subnets and Tiers within a VPC to organise the network into logical segments for different application layers such as web, application, and database. For more information on creating subnets and tiers, [click here](/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingSubnetsandTiers).
   
 ## Adding IPv4 Addresses
 Add IPv4 addresses within a VPC to enable communication between network components and external systems. By default, a public IPv4 address is assigned to the Virtual Router (VR), allowing it to send and receive traffic over the internet. These IP addresses can also be used to configure secure connections such as remote access (L2TP) and site-to-site (IPSec) VPN. For more information on adding IPv4 addresses, [click here](/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses).
