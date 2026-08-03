@@ -11,10 +11,10 @@ To create a windows instance, follow these steps:
    ![Window Instance Created](img/windowinstancecreated.png)
 2. Click the **+ New Windows Instance** button. The following screen appears: 
 ![newwindowcreate1](img/newwindowcreate1.png)
-3. Select Availability Zone.
+3. Select availability zone.
 4. Select a network destination for your instance. Choose an existing VPC from the available options and select the appropriate network tier listed under network tier dropdown.
     :::note
-	To add a Windows Instance to a VPC or VNF, you need to have a VPC or VNF configured with at least one tier.
+	To add a windows instance to a VPC or VNF, you need to have a VPC or VNF configured with at least one tier.
 	:::
 5. **Choose an OS Image** and select the required operating system from the available options. Choose the appropriate version based on your requirement.
 ![wininstancethirdnew](img/wininstancethirdnew.png)

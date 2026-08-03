@@ -15,7 +15,7 @@ To create a subnet and tier, follow these steps:
 
 1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
    ![VPC List](img/vpclist.png)
-2. Click on the VPC name from the list. The following screen appears:
+2. Click on your created VPC name from the list. The following screen appears:
    ![Overview in VPC](img/overviewinvpc.png)
 3. Click **Subnet And Tiers**. The following screen appears:
    ![Adding Tier in VPC](img/addingtierinvpc.png)
@@ -62,13 +62,13 @@ To replace an ACL, follow these steps:
    ![Tier Default Deny](img/tierdefaultdeny.png)
 6. Click the **Replace Access Control List** icon (highlighted in red).  The following screen appears:  
    ![Tier Replaced](img/tierreplaced.png)
-7. Select a different **ACL** from the **Access Control** dropdown, and click the **Replace Tier ACL** button.
+7. Select a access control from the **Access Control** dropdown, and click the **Replace Tier ACL** button.
 
 ## Deleting a Network Tier
 
 Deleting a network tier permanently removes the selected tier from the VPC. Use this option to remove tiers that are no longer required, simplify network management, and maintain a clean and organized network configuration.
 :::note
-You can delete only the empty network tiers, which means that in order to delete a network tier, ensure that there are no Instances and no NAT rule(s) associated with it.
+You can delete only the empty network tiers, which means that in order to delete a network tier, ensure that there are no instances and no NAT rule(s) associated with it.
 :::
 
 To delete a network tier, follow these steps:

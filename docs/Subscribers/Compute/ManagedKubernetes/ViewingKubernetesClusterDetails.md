@@ -9,7 +9,7 @@ To view the details of a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created kubernete cluster name from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/kubernetesoverview.png)
    
 **Configuration and Availability:** This displays the following kubernetes cluster configuration details to help verify its current configuration and operational state:
@@ -36,7 +36,7 @@ To start and stop a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created kubernete cluster name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesclusteroverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Cluster</span> button. The following screen appears: 
    ![Kubernetes Cluster Stop Message](img/kubernetesclusterstopmessage.png)

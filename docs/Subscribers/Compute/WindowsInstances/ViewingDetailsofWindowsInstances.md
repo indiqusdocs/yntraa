@@ -16,7 +16,7 @@ To view the details of windows instances, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/windowsoverview.png)
 
 **Configuration and Availability:** This displays the following window instance configuration details to help verify its current configuration and operational state:
@@ -42,7 +42,7 @@ Launch the windows instance web-based console to access and manage your windows 
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click the **Launch Console** button, and then provide the windows credentials to login and access the windows instance web-based console.
    
@@ -54,7 +54,7 @@ To start and stop the window instance, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
    ![Windows Stop Instance Message](img/windowsstopinstancemessage.png)

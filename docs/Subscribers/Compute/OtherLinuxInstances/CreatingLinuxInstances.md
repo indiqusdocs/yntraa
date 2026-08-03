@@ -13,14 +13,14 @@ To create a linux instance, follow these steps:
    ![Creating Linux](img/creatinglinuxnew.png)
    ![Compute Pack](img/computepacknew.png)
    ![Costs Summary](img/costsummarynew.png)
-3. Choose an **Availability Zone**, which is the geographical region where your Instance deploys.
+3. Select availability zone**, which is the geographical region where your Instance deploys.
 4. Select a VPC or VNF network from the **Select Network Destination** dropdown, and select the appropriate tier listed in network.
 	:::note
 	To add a linux instance to a VPC or VNF, you must have a VPC or VNF configured with at least one tier.
 	:::
 5. Select the OS Image to run on your Instance.
 6. Navigate to **Choose an OS Image >** [MY IMAGES](/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages), and select an image.
-7. Select the **Compute Pack** from the list.
+7. Select the compute pack from the list.
 8. Select a **Root Disk** for your instance from the available options or choose **Custom Disk** to define the size. Adjust the disk size as required, and click **Select Pack** to confirm.
 9. **Choose an Authentication Method**:
     - **Use SSH key pair**: To view all the SSH key pairs present in your account, click the **Use SSH key pair** option. If your account doesn’t have any SSH key pair, then you can click the **Generate a new key pair** or upload the key pair by clicking the **Upload a key pair** option. 

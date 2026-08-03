@@ -24,7 +24,7 @@ To view the disks attached to an instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/viewattacheddisk.png)
@@ -37,7 +37,7 @@ To add volume, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance List](img/rhelinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![Adding Volume](img/addingvolume.png)
@@ -51,7 +51,7 @@ To create the disk restore point, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/rhelinstancevolume.png)
@@ -81,7 +81,7 @@ To create volume, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/rhelinstancevolume.png)
@@ -121,7 +121,7 @@ This action can not be reversed.
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/rhelinstancevolume.png)

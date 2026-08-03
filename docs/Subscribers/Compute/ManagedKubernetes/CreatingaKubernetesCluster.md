@@ -18,12 +18,12 @@ To create a kubernetes cluster, follow these steps:
     :::note
     Kubernetes clusters can be created only in availability zones that support VPC networking
     :::
-1. Select a cluster pack from the list.
-2. Select the required IP address configuration for the cluster.
-3. Select a compute pack from the compute intensive list.
-4. Enter the required cluster size to define the number of nodes created in the Kubernetes cluster.
-5. Enter the required node root disk size for each cluster node.
-6. Select a kubernetes version from the dropdown.
-7. Enter the kubernetes cluster name in **Name Your Kubernetes Cluster**.
-8. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Buy Monthly** button. 
+4. Select a cluster pack from the list.
+5. Select the required IP address configuration for the cluster.
+6. Select a compute pack from the compute intensive list.
+7. Enter the required cluster size to define the number of nodes created in the kubernetes cluster.
+8. Enter the required node root disk size for each cluster node.
+9. Select a kubernetes version from the dropdown.
+10. Enter the kubernetes cluster name in **Name Your Kubernetes Cluster**.
+11. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Buy Monthly** button. 
 

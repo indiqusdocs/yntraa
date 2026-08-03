@@ -17,7 +17,7 @@ To view the details associated with a VPC, follow these steps:
     - Availability Zone
     - Virtual Router Pack
     - Network Size
-- **Internal Information**: This displays the following information that is used for internal identification of this VPC router and communication with other internal services:
+- **Internal Information**: This displays the following information that is used for internal identification of the VPC router and communication with other internal services:
     - Template Name
     - Virtual Router Internal Name
     - Created On

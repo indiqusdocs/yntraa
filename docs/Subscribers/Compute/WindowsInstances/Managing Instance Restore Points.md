@@ -21,7 +21,7 @@ To create an instance restore point, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![Windows Instance Restore Point](img/windowsinstancerestorepoint.png)
@@ -38,7 +38,7 @@ To restore an instance restore point, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![Windows Instance Restore Point](img/restorefrominstancewindows.png)
@@ -58,7 +58,7 @@ To delete an instance restore point, follow these steps:
 
 1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![Windows Instance Restore Point](img/deleterestorepoint.png)

@@ -3,19 +3,19 @@ sidebar_position: 7
 ---
 # Managing Networks Rules
 
-Managing Network Rules enables you to control and regulate network traffic for Kubernetes workloads by configuring essential networking rules. It provides options to define firewall rules for traffic filtering, create port forwarding rules for secure access to applications, and configure load balancing rules to distribute incoming traffic across multiple resources. 
+Managing network rules enables you to control and regulate network traffic for kubernetes workloads by configuring essential networking rules. It provides options to define firewall rules for traffic filtering, create port forwarding rules for secure access to applications, and configure load balancing rules to distribute incoming traffic across multiple resources. 
 
-These capabilities help ensure secure, reliable, and efficient network communication within the Kubernetes environment.
+These capabilities help ensure secure, reliable, and efficient network communication within the kubernetes environment.
  
 ## Adding Firewall Rule 
 
-Firewall rules control inbound and outbound network traffic to Kubernetes clusters, helping secure applications and services by allowing or denying access based on defined ports, protocols, IP addresses, or network ranges. Adding a firewall rule ensures that only authorized traffic can reach cluster resources while protecting workloads from unauthorized access. 
+Firewall rules control inbound and outbound network traffic to kubernetes clusters, helping secure applications and services by allowing or denying access based on defined ports, protocols, IP addresses, or network ranges. Adding a firewall rule ensures that only authorized traffic can reach cluster resources while protecting workloads from unauthorized access. 
 
 To add a firewall rule, follow these steps: 
  
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created kubernete cluster name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)
@@ -28,13 +28,13 @@ To add a firewall rule, follow these steps:
    
 ## Adding Port Forwarding Rule
 
-Add a port forwarding rule to securely forward traffic from a specified external port to a target port on a Kubernetes service or pod. Port forwarding enables temporary access to applications running inside the cluster for testing, debugging, development, or administrative tasks without exposing them publicly.
+Add a port forwarding rule to securely forward traffic from a specified external port to a target port on a kubernetes service or pod. Port forwarding enables temporary access to applications running inside the cluster for testing, debugging, development, or administrative tasks without exposing them publicly.
 
 To add a port forwarding rule, follow these steps: 
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created kubernete cluster name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)
@@ -44,7 +44,7 @@ To add a port forwarding rule, follow these steps:
    ![Portward Rule Details](img/portwardingruledetails.png) 
 6. Click the **Add Port forwarding Rule** button. The following screen appears: 
    ![Rule Added](img/ruleadded.png) 
-7. Click the **Port Forwarding** list. The following screen appears: 
+7. Click the **Port Forwarding** column. The following screen appears: 
    ![Port Forwarding Rule Add](img/portforwardingruleadd.png)
    
 ## Adding Load Balance Rule
@@ -55,7 +55,7 @@ To add a load balance rule, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created kubernete cluster name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)

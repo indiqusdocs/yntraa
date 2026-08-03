@@ -20,7 +20,7 @@ To configure alerts, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Alerts**. The following screen appears:
 ![Windows Instance Alert](img/windowsinstancealert.png)
@@ -28,7 +28,7 @@ To configure alerts, follow these steps:
 ![Instance Alert Details](img/instancealertdetails.png)
 
     - **Name** - You can define the name for your alert.
-    - **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT, and NETWORK OUTPUT parameters.
+    - **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, Network Input, and Network Output parameters.
     - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
     - **Reading duration** - This option lets you define the breach window, that is, the duration for which the breach must be consistent to trigger the alert email.
     - **Add Recipients** - You can add the emails of the recipients.
@@ -43,7 +43,7 @@ To remove existing email IDs and add other email IDs, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Alerts**. The following screen appears:
 ![Windows Instance Alert](img/windowsinstancealert.png)

@@ -42,7 +42,7 @@ To delete an instance restore point, following these steps:
 
 Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
-To create volume, follow these steps: 
+To create volume from disk restore point, follow these steps: 
 
 1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
    ![Instance Restore Point](img/instancerestorepoint.png)

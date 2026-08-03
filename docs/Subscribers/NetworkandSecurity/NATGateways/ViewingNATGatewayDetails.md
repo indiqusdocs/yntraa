@@ -1,13 +1,13 @@
 ---
 sidebar_position: 2
 ---
-# Viewing NAT Gateway Overview
+# Viewing NAT Gateways Details
 
-The NAT gateway overview helps you view the current configuration and operational status of the gateway. Reviewing the overview enables you to validate the gateway's settings, monitor its performance, and manage it more effectively.
+The NAT gateway details helps you view the current configuration and operational status of the gateway. Reviewing the overview enables you to validate the gateway's settings, monitor its performance, and manage it more effectively.
 
-1. Navigate to **Network and Security > NAT Gateways**. The following screen appears
+1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
-2. Click on your created NAT Gateway from the list. The Overview tab opens automatically. The following screen appears with the details:
+2. Click a NAT Gateway name from the list. The Overview tab opens automatically. The following screen appears with the details:
    ![Nat Gateway Details](imgnew/natgatewayscreen.png) 
 
 - **Configuration and Availability:** This displays the NAT Gateways configuration details to help verify its current configuration and operational state.
@@ -17,7 +17,7 @@ The NAT gateway overview helps you view the current configuration and operationa
       - Virtual Gateway Pack
       - Network Size
       
-- **Internal Information:** This section displays the information used for internal identification of this instance and communication with other internal services.
+- **Internal Information:** This section displays the information used for internal identification of the NAT Gateway and communication with other internal services.
 	- Template Name
 	- Virtual Gateway Internal Name
 	- Created On
@@ -28,9 +28,9 @@ You can control a NAT gateway’s operational state by starting or stopping the 
 
 To Start and Stop a NAT Gateway, follow these steps: 
 
-1. Navigate to **Network and Security > NAT Gateways**. The following screen appears
+1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
-2. Click on your created NAT Gateway from the list. The Overview tab opens automatically. The following screen appears:
+2. Click a NAT Gateway name from the list. The Overview tab opens automatically. The following screen appears:
    ![Nat Gateway Details](imgnew/natgatewayscreen.png) 
 3. Click the **Stop NAT Gateway** button. The following screen appears: 
    ![stoprouternew](imgnew/stoprouternew.png)
@@ -39,7 +39,7 @@ To Start and Stop a NAT Gateway, follow these steps:
 5. Click the **Start NAT Gateway** button. The following screen appears: 
    ![Start Virtual Router](imgnew/startvirtualrouter.png)
 6. Click the **Start Virtual Router** button. The following screen appears: 
-  ![NAT Gateway Starts](imgnew/natgatewaystarts.png)
+   ![NAT Gateway Starts](imgnew/natgatewaystarts.png)
 
 
 

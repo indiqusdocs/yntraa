@@ -13,7 +13,7 @@ To add a public IPv4 address, follow these steps:
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
 ![List of NAT Gateways](imgnew/listofnatgateways.png)
-2. Click on your created NAT Gateway from the list. The following screen appears: 
+2. Click a NAT Gateway name from the list. The following screen appears: 
 ![Nat Gateway Details Screen](imgnew/natgatewaydetailsscreen.png)
 3. Click **IP Addresses**. The following screen appears:
 ![IP Addresses Tab](imgnew/ipaddressestab.png) 
@@ -21,7 +21,7 @@ To add a public IPv4 address, follow these steps:
 ![confirmpurchaseipv4](imgnew/confirmpurchaseipv4.png)
 5. Select the **Monthly** option and click the **Confirm Purchase** button. The following screen appears:
 ![confirmipv4](imgnew/confirmipv4.png)
-6. Click the **Confirm** button. The public IPv4 address is added where you can perform the following functions: 
+6. Click the **Confirm** button. The public IPv4 address is added where you can perform the following actions: 
    
 <div className="custom-block-blue">  
 - [Adding Firewall Rules](#adding-firewall-rules)
@@ -39,7 +39,7 @@ To add a firewall rule, follow these steps:
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![List of NAT Gateways](imgnew/listofnatgateways.png)
-2. Click on your created NAT Gateway from the list. The following screen appears: 
+2. Click a NAT Gateway name from the list. The following screen appears: 
    ![Nat Gateway Details Screen](imgnew/natgatewaydetailsscreen.png)
 3. Click **IP Addresses**. The following screen appears:
    ![IP Addresses Tab](imgnew/ipaddressestab.png) 
@@ -61,7 +61,7 @@ To add a port forwarding rule, follow these steps:
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![List of NAT Gateways](imgnew/listofnatgateways.png)
-2. Click on your created NAT Gateway from the list. The following screen appears: 
+2. Click a NAT Gateway name from the list. The following screen appears: 
    ![Nat Gateway Details Screen](imgnew/natgatewaydetailsscreen.png)
 3. Click **IP Addresses**. The following screen appears:
    ![IP Addresses Tab](imgnew/ipaddressestab.png) 
@@ -89,7 +89,7 @@ To change the source NAT, follow these steps:
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![List of NAT Gateways](imgnew/listofnatgateways.png)
-2. Click on your created NAT Gateway from the list. The following screen appears: 
+2. Click a NAT Gateway name from the list. The following screen appears: 
    ![Nat Gateway Details Screen](imgnew/natgatewaydetailsscreen.png)
 3. Click **IP Addresses**. The following screen appears:
    ![IP Addresses Tab](imgnew/ipaddressestab.png) 
@@ -111,7 +111,7 @@ To add a static NAT, follow these steps:
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![List of NAT Gateways](imgnew/listofnatgateways.png)
-2. Click on your created NAT Gateway from the list. The following screen appears: 
+2. Click a NAT Gateway name from the list. The following screen appears: 
    ![Nat Gateway Details Screen](imgnew/natgatewaydetailsscreen.png)
 3. Click **IP Addresses**. The following screen appears:
    ![IP Addresses Tab](imgnew/ipaddressestab.png) 
@@ -138,7 +138,7 @@ To delete an IP address, follow these steps:
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![List of NAT Gateways](imgnew/listofnatgateways.png)
-2. Click on your created NAT Gateway from the list. The following screen appears: 
+2. Click a NAT Gateway name from the list. The following screen appears: 
    ![Nat Gateway Details Screen](imgnew/natgatewaydetailsscreen.png)
 3. Click **IP Addresses**. The following screen appears:
    ![IP Addresses Tab](imgnew/ipaddressestab.png) 

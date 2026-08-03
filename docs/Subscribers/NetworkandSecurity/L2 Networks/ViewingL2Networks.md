@@ -8,7 +8,7 @@ The viewing L2 networks section provides you a centralized view of all Layer 2 (
 To View L2 networks, follow the step:
 
 Navigate to **Network and Security > L2 Networks**. The following screen appears: 
-[L2 Network List](img/l2networklistview.png)
+![L2 Network List](img/l2networklistview.png)
 
 
 

@@ -9,7 +9,7 @@ To view an object storage bucket details, follow these steps:
 
 1. Navigate to **Storage > Object Storage Buckets**. The following screen appears: 
    ![Object Storage Bucket List](img/bucketlist.png)
-2. Click on your created object storage bucket from the list. The following screen appears with the details: 
+2. Click on your created object storage bucket name from the list. The following screen appears with the details: 
    ![Overview](img/bucketoverview.png)
 
 **Configuration and Availability:** This displays the following object storage bucket configuration details to help verify its current configuration and operational state:

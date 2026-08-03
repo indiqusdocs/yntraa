@@ -36,17 +36,17 @@ To create autoscale group, follow these steps:
 	- **Quiet Time (in mins):** The cool-down period in which the policy should not be evaluated after the action has been taken.
 	- **Parameter:** Performance parameters represent the current state of the monitored instances. This feature currently supports the following parameters:
 		- **Instance CPU Percentage** - average percentage
-		- **Instance Memory** - average percentage
+		- **Instance Memory** - Average percentage
 		- **Public Network** - mbps received per instance
 		- **Public Network** - mbps transmit per instance
-		- **Load Balancer** - average connections per instance
+		- **Load Balancer** - Average connections per instance
 	- **Breach:** Relational operator to be used with threshold. This will be greater than by default.
 	- **Threshold:** This is the value for which the counter will be evaluated with the operator selected.
 11. Click the **Add Condition** button.
 12.  Define the **Scale Down Policy**. The parameters are similar to the scale up policy. Only the breach parameter will be less than by default.
-    :::note  
-    The reading **Duration** (The time period during which the system monitors metrics before triggering a scaling action.) must be at least 60 seconds. The **Quiet Time** must be between 120 and 3600 seconds.  
-    :::
+        :::note  
+        The reading **Duration** (The time period during which the system monitors metrics before triggering a scaling action.) must be at least 60 seconds. The **Quiet Time** must be between 120 and 3600 seconds.  
+        :::
 13. Configure the SSH key settings. If your account does not have an SSH key pair, select **Generate a New Key Pair** to create one. You can also select **Upload a Key Pair** to upload an existing key pair.
 14. Enable email notifications to receive updates when the auto scale group executes. Select **Also notify other recipients** to add additional email recipients from the dropdown list. The default email address is selected automatically.
 15. Specify the name of your autoscale group. 

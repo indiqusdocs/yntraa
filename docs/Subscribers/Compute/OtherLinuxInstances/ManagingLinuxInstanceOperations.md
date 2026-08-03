@@ -26,7 +26,7 @@ To restart a linux instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Restart Instance** button. The following screen appears: 
    ![Restart Instance Message](img/restartinstancemessage.png)
@@ -40,7 +40,7 @@ To force stop a linux instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Force Stop Instance** button. The following screen appears: 
    ![Force Stop Instance Message](img/forcestopinstancemessage.png)
@@ -54,7 +54,7 @@ To reset password of a linux instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
@@ -62,7 +62,7 @@ To reset password of a linux instance, follow these steps:
    ![Instance Stopped](img/instancestopped.png)
 5. Click the **Reset Password**. The following screen appears: 
    ![Password Sent](img/passwordsent.png)
-6. Select the **Send the Password via Email** and **Send the Password via SMS** option, and click the **Yes** button.
+6. Select the **Send the Password via Email** or **Send the Password via SMS** option, and click the **Yes** button.
 A password reset link is sent to your registered email address or mobile number.
 
 ## Resetting SSH key
@@ -73,7 +73,7 @@ To reset SSH key of a linux instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
@@ -92,7 +92,7 @@ To rename an instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Rename Instance** button. The following screen appears where you can update the linux instance name in Instance Name.
    ![Instance Name Changed](img/instancenamechanged.png)
@@ -111,7 +111,7 @@ Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurat
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Migrate Network** button. The following screen appears: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
@@ -129,11 +129,11 @@ To reinstalling a linux instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Reinstall Instance** button. The following screen appears: 
    ![Reinstall Instance](img/reinstallinstance.png)
-4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email**, and **Send the Password via SMS** option, and then click **Reinstall Instance**. The following screen appears: 
+4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email** or **Send the Password via SMS** option, and then click **Reinstall Instance**. The following screen appears: 
 
 ## Deleting an Instance
 
@@ -146,7 +146,7 @@ To delete an instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Delete Instance** button. The following screen appears: 
    ![Delete Instance](img/deletelinuxinstance.png)

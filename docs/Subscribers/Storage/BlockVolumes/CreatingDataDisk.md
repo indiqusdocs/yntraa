@@ -12,7 +12,7 @@ To create a data disk, follow these steps:
 2. Click the **+ New Block Volume** button. The following screen appears: 
   ![Data Disk Details](img/datadisk1new.png)
   ![Data Disk Name](img/datadiskname.png)
-3. Choose an availability zone.
+3. Select availability zone.
 4. Select an Instance from the dropdown to attach the disk to. 
 5. In the **Choose Disk Configuration** section:
     - Select the desired disk tier (**Tier1, Tier2, or Tier3**).

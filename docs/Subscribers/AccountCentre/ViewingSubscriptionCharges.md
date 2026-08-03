@@ -17,7 +17,7 @@ To view your unbilled charge details, follow these steps:
    ![Profile ID Icon](img/profileidicon.png)
 4. Click **Account**. The profile tab opens automatically. The following screen appears: 
    ![Profile Details](img/profiledetails.png)
-5. Navigate to **Billing > Unbilled Charges**. The following screen appears with the unbilled charges details: 
+5. Navigate to **Billing > Unbilled Charges**. The following screen appears with the unbilled charge details: 
    ![Unbilled Charges](img/unbilledchargesdetails.png)
    
 <div className="custom-block-blue">  

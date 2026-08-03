@@ -23,7 +23,7 @@ To view the disks attached to an Instance, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![Virtual Firewall lists](img/numberofvf.png)
-2. Click on your created virtual firewall from the list. The following screen appears:
+2. Click on your created virtual firewall name from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/viewrootdisk.png)
@@ -36,7 +36,7 @@ To create the disk restore point, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![Virtual Firewall lists](img/numberofvf.png)
-2. Click on your created virtual firewall from the list. The following screen appears:
+2. Click on your created virtual firewall name from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
 3. Click **Volumes**. The following screen appears: 
 ![Root Disk](img/rootdisk.png)
@@ -66,7 +66,7 @@ To create volume, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![Virtual Firewall lists](img/numberofvf.png)
-2. Click on your created virtual firewall from the list. The following screen appears:
+2. Click on your created virtual firewall name from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
 3. Click **Volumes**. The following screen appears: 
 ![Root Disk](img/rootdisk.png)
@@ -80,7 +80,7 @@ To create volume, follow these steps:
 ![Restore Points list](img/restorepointslist.png)
 7. Click **Disk Restore Point**. The following screen appears: 
 ![Creating Volume](img/createvolume.png)
-8. Click the [**Create Volume**](/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints#creating-volume-from-disk-restore-point) icon (highlighted in red) to initiate the process of volume creation.
+8. Click the [**Create Volume**](/docs/Subscribers/Compute/WindowsInstances/ManagingVolume#creating-volume-from-disk-restore-point) icon (highlighted in red) to initiate the process of volume creation.
 
 ## Deleting Disk Restore Point
 
@@ -94,7 +94,7 @@ This action can not be reversed.
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![Virtual Firewall lists](img/numberofvf.png)
-2. Click on your created virtual firewall from the list. The following screen appears:
+2. Click on your created virtual firewall name from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
 3. Click **Volumes**. The following screen appears: 
 ![Root Disk](img/rootdisk.png)

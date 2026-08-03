@@ -3,6 +3,6 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "The Yntraa Load Balancer Instances (LBI) Service allows cloud console users to create load balancer appliances, which are Linux Instances pre-loaded with a Alteon image."
+    "description": "Load Balancer Instance enables you to deploy, configure, and manage load balancing services through a centralized interface. It provides the essential capabilities required to create and access load balancer instances, manage network configurations, maintain restore points, reconfigure instance settings, and perform routine operational tasks. These features help ensure efficient administration and seamless management of load balancing environments."
   }
 }

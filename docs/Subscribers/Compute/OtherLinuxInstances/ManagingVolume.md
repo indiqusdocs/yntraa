@@ -25,7 +25,7 @@ To view the disks attached to an instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/viewattacheddisk.png)
@@ -38,7 +38,7 @@ To add volume, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![Adding Volume](img/addvolume.png)
@@ -52,7 +52,7 @@ To create the disk restore point, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
   ![View Root Disk](img/linuxinstancevolume.png)
@@ -82,7 +82,7 @@ To create a custom image or My Image, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears: 
    ![Linux My Image](img/linuxmyimage.png)
-2. Click on your created linux instance from the list. The following screen appears:
+2. Click on your created linux instance name from the list. The following screen appears:
    ![Overview](img/overviewpage.png)
 3. Click **Volumes**. The following screen appears: 
    ![Volumes in Linux](img/volumesinlinux.png)
@@ -105,11 +105,11 @@ To create a custom image or My Image, follow these steps:
 
 Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
-To create volume, follow these steps: 
+To create volume from disk restore point, follow these steps: 
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/linuxinstancevolume.png)
@@ -149,7 +149,7 @@ This action can not be reversed.
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/linuxinstancevolume.png)

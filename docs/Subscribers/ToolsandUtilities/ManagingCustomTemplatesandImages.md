@@ -19,7 +19,7 @@ To create a custom image or My Image, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears: 
    ![Linux My Image](img/linuxmyimage.png)
-2. Click on your created linux instance from the list. The following screen appears:
+2. Click on your created linux instance name from the list. The following screen appears:
    ![Overview](img/overviewpage.png)
 3. Click **Volumes**. The following screen appears: 
    ![Volumes in Linux](img/volumesinlinux.png)

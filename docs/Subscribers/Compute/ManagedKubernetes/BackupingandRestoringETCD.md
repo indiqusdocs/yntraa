@@ -2,9 +2,9 @@
 sidebar_position: 13
 ---
 # Backuping and Restoring ETCD
-This section describes the procedure for backing up and restoring the Kubernetes ETCD database. It covers creating ETCD snapshots, verifying snapshot integrity, and restoring ETCD in the event of cluster corruption, accidental data deletion, control plane failures, or disaster recovery scenarios.  
+This section describes the procedure for backing up and restoring the kubernetes ETCD database. It covers creating ETCD snapshots, verifying snapshot integrity, and restoring ETCD in the event of cluster corruption, accidental data deletion, control plane failures, or disaster recovery scenarios.  
   
-The ETCD database stores the following critical Kubernetes cluster information:
+The ETCD database stores the following critical kubernetes cluster information:
     - Cluster state
     - Nodes
     - Deployments
@@ -18,7 +18,7 @@ Ensure the following prerequisites are met before proceeding:
 
 ### Requiring Access
 Ensure that the following access requirements are available before performing ETCD backup and restore operations:
-    - Root or sudo access on the Kubernetes control plane nodes.
+    - Root or sudo access on the kubernetes control plane nodes.
     - Access to the ETCD certificates.
     - kubectl installed and configured on the master node.
     
@@ -140,7 +140,7 @@ Restore should only be performed during the following events:
     - Complete cluster corruption
     - Control plane rebuild  
   
-Always stop Kubernetes components before restoring.
+Always stop kubernetes components before restoring.
 
 ## Restoring ETCD Snapshot
 To restore ETCD snapshot, perform the following steps with commands:
@@ -344,4 +344,4 @@ To troubleshoot common issues, perform the following steps:
 
 ## Conclusion
 
-Prometheus and Grafana have now been successfully deployed on the Kubernetes cluster using the Kube-Prometheus-stack Helm chart. The environment is ready for monitoring Kubernetes’ workloads, infrastructure metrics, and alerting integration.
+Prometheus and Grafana have now been successfully deployed on the kubernetes cluster using the Kube-Prometheus-stack Helm chart. The environment is ready for monitoring kubernetes’ workloads, infrastructure metrics, and alerting integration.

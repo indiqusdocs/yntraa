@@ -436,6 +436,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstances",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses",
               "sidebar": "sidebar1"
@@ -446,13 +451,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayDetails",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayDetails",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview",
-              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview",
+              "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances",
               "sidebar": "sidebar1"
             },
             {

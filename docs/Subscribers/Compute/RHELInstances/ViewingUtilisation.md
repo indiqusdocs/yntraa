@@ -9,7 +9,7 @@ To view historical usage across supported parameters, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![Window Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Utilisation**. The following screen appears: 
    ![RHEL Instance Utilisation](img/rhelinstanceutilisation.png)

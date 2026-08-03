@@ -18,7 +18,7 @@ To add an ACL, follow these steps:
   ![Manage ACL](img/testingacl.png)
 3. Click the **Add Access Control List** button. The following screen appears where you provide a name for the ACL in Access Control List Name. 
   ![Creating ACL](img/creatingacl.png) 
-4. Click **Add Access Control List** button. The following screen appears where you can perform the following functions: 
+4. Click **Add Access Control List** button. The following screen appears where you can perform the following actions: 
   ![Add Rule in ACL](img/addruleacl.png)
 
 <div className="custom-block-blue">
@@ -34,7 +34,7 @@ Editing an ACL name enables you to change the name of an existing ACL. Use this 
 
 To edit an ACL name, follow these steps:
 
-1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC](img/vpc.png)
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
   ![Rename ACL](img/renameaclicon.png)
@@ -48,7 +48,7 @@ Access Control List (ACL) rules define the network traffic that is allowed or de
 
 To add rule to ACL, follow these steps:
 
-1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC](img/vpc.png)
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
   ![Manage ACL](img/testingacl.png)
@@ -75,7 +75,7 @@ Applying an Access Control List (ACL) to a tier in a Virtual Private Cloud (VPC)
 
 To apply ACL to tier, follow these steps: 
 
-1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC](img/vpc.png)
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
   ![Manage ACL](img/testingacl.png)
@@ -96,7 +96,7 @@ Deleting an Access Control List (ACL) from a Virtual Private Cloud (VPC) removes
 
 To delete an ACL, follow these steps:
 
-1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC](img/vpc.png)
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
   ![Manage ACL](img/testingacl.png)

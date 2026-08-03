@@ -22,7 +22,7 @@ To restart a RHEL instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Restart Instance** button. The following screen appears: 
    ![Restart Instance Message](img/restartinstancemessage.png)
@@ -36,7 +36,7 @@ To force stop a RHEL instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Force Stop Instance** button. The following screen appears: 
    ![Force Stop Instance Message](img/forcestopinstancemessage.png)
@@ -44,13 +44,13 @@ To force stop a RHEL instance, follow these steps:
     
 ## Resetting Password of an Instance
 
-Resetting the password allows you to regain access to your windows instance if you have forgotten the current password or need to update it for security purposes. You can generate a new administrator password and use it to securely sign in to your RHEL instance.
+Resetting the password allows you to regain access to your RHEL instance if you have forgotten the current password or need to update it for security purposes. You can generate a new administrator password and use it to securely sign in to your RHEL instance.
 
 To reset password of a RHEL instance, follow these steps: 
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
@@ -58,7 +58,7 @@ To reset password of a RHEL instance, follow these steps:
    ![Instance Stopped](img/instancestopped.png)
 5. Click the **Reset Password**. The following screen appears: 
    ![Password Sent](img/passwordsent.png)
-6. Select the **Send the Password via Email** and **Send the Password via SMS** option, and click the **Yes** button.
+6. Select the **Send the Password via Email** or **Send the Password via SMS** option, and click the **Yes** button.
 A password reset link is sent to your registered email address or mobile number.
 
 ## Resetting SSH key
@@ -69,7 +69,7 @@ To reset SSH key of a RHEL instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
@@ -92,7 +92,7 @@ Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurat
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Migrate Network** button. The following screen appears: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
@@ -110,11 +110,11 @@ To reinstalling a RHEL instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Reinstall Instance** button. The following screen appears: 
    ![Reinstall Instance](img/reinstallinstance.png)
-4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email**, and **Send the Password via SMS** option, and then click **Reinstall Instance**. The following screen appears: 
+4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email** or **Send the Password via SMS** option, and then click **Reinstall Instance**. The following screen appears: 
    
 ## Renaming an Instance
 
@@ -124,7 +124,7 @@ To rename an instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Rename Instance** button. The following screen appears where you can update the RHEL name in Instance Name.
    ![Instance Name Changed](img/instancenamechanged.png)
@@ -142,7 +142,7 @@ To delete an instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the **Delete Instance** button. The following screen appears: 
    ![Delete Instance](img/deleteinstance.png)

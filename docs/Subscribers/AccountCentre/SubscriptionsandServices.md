@@ -17,7 +17,7 @@ To view your subscriptions and service details, follow these steps:
    ![Profile ID Icon](img/profileidicon.png)
 4. Click **Account**. The following screen appears: 
    ![Profile Details](img/profiledetails.png)
-5. Navigate to **Billing > Subscriptions and Services**. The following screen appears with the following subscriptions and service details: 
+5. Navigate to **Billing > Subscriptions and Services**. The following screen appears with the subscriptions and service details: 
    ![Active Subscriptions](img/activesubscriptions.png)
    
 <div className="custom-block-blue">  

@@ -20,7 +20,7 @@ To configure alerts, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![vfinstancealert](imgnew/vfinstancealert.png)
-2. Click on your created virtual firewall from the list. The following screen appears:
+2. Click on your created virtual firewall name from the list. The following screen appears:
 ![VF Created](imgnew/launchconsolenew.png) 
 3. Click **Alerts**. The following screen appears:
 ![alertnew](imgnew/alertnew.png)
@@ -41,7 +41,7 @@ To remove existing email IDs and add other email IDs, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![vfinstancealert](imgnew/vfinstancealert.png)
-2. Click on your created virtual firewall from the list. The following screen appears:
+2. Click on your created virtual firewall name from the list. The following screen appears:
 ![VF Created](imgnew/launchconsolenew.png) 
 3. Click **Alerts**. The following screen appears:
 ![alertnew](imgnew/alertnew.png)

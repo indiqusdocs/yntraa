@@ -9,7 +9,7 @@ To reconfigure the load balancer instance, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
    ![Load Balancer Screen](img/loadbalancerscreen.png)
- 2. Click on your created load balancer Instance from the list, and click **Reconfigure**. The following screen appears:
+ 2. Click on your created load balancer instance name from the list, and click **Reconfigure**. The following screen appears:
    ![Reconfigure Screen](img/reconfigurescreen.png)
 3. Click the **Stop Instance** button. The following screen appears:
    ![Stop Instance Message](img/stopinstancemessage.png)

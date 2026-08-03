@@ -24,7 +24,7 @@ To view the disks attached to an Instance, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/viewattacheddisk.png)
@@ -37,7 +37,7 @@ To add volume, follow these steps:
 
 1. Navigate to **Compute > Window Instances**. The following screen appears:
    ![Window Instance List](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![Adding Volume](img/addingvolume.png)
@@ -51,7 +51,7 @@ To create the disk restore point, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/windowinstancevolume.png)
@@ -77,11 +77,11 @@ To view the disk restore point, follow these steps:
 
 Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
-To create volume, follow these steps: 
+To create volume from disk restore point, follow these steps: 
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/windowinstancevolume.png)
@@ -121,7 +121,7 @@ This action can not be reversed.
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
   ![View Root Disk](img/windowinstancevolume.png)

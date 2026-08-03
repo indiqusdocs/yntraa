@@ -22,7 +22,7 @@ To detach volume from an instance, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
-2. Click on your created block volume from the list. The following screen appears: 
+2. Click on your created block volume name from the list. The following screen appears: 
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Operations**. The following screen appears: 
    ![Disk Operations](img/diskoperations.png)
@@ -39,7 +39,7 @@ To attach volume to an instance, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
-2. Click on your created block volume from the list. The following screen appears: 
+2. Click on your created block volume name from the list. The following screen appears: 
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Operations**. The following screen appears: 
   ![Attach to Instance](img/instanceattachbutton.png)
@@ -56,7 +56,7 @@ To download a volume, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
-2. Click on your created block volume from the list. The following screen appears: 
+2. Click on your created block volume name from the list. The following screen appears: 
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Operations**. The following screen appears: 
   ![Attach to Instance](img/instanceattachbutton.png)
@@ -76,7 +76,7 @@ To delete a volume, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
-2. Click on your created block volume from the list. The following screen appears: 
+2. Click on your created block volume name from the list. The following screen appears: 
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Operations**. The following screen appears: 
   ![Attach to Instance](img/instanceattachbutton.png)

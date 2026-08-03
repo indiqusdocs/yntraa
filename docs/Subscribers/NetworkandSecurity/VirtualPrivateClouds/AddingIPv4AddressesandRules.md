@@ -42,16 +42,16 @@ To configure the Load Balancing Rule, follow these steps:
    ![VPC IP Address](img/vpcipaddress.png)
 2. Click the **Load Balancing** icon (highlighted in red). The following screen appears:
   ![addrulenew](img/addrulenew.png)
-3. Click **+ Add Rule**. The following screen appears where you provide the required details
+3. Click **+ Add Rule**. The following screen appears:
   ![addrule1new](img/addrule1new.png)	  
 4. Click the **Add Load Balancing Rule** button. The following screen appears: 
   ![Enable LBI](img/enablelbi.png)
 
-Once the load balancer rule has been created, the Port Forwarding and Static NAT options are automatically disabled. You can navigate to load balancer and add (or remove) Instances to this rule by following these steps:
+Once the load balancer rule has been created, the **Port Forwarding Rule** and **Static NAT** icons are automatically disabled. You can navigate to load balancer and add (or remove) instances to this rule by following these steps:
 
 5. Click the **Load Balancer Rule** icon. The following screen appears:
    ![addrulenew](img/addrulenew.png)
-6. Click the dropdown and select the appropriate **Load Balancing Rule**. This following screen appears that shows the Instances that are part of this load balancer, and those available to be added. 
+6. Click the dropdown and select the appropriate **Load Balancing Rule**. This following screen appears that shows the instances that are part of this load balancer, and those available to be added. 
    ![addrule2](img/addrule2.png)
 7. Click the **+** icon (highlighted in red) to add an instance. The following screen appears:
   ![Add Instance in LB Rule](img/addinstanceinlbrule.png) 
@@ -60,18 +60,18 @@ Once the load balancer rule has been created, the Port Forwarding and Static NAT
     To delete this Load Balancing Rule, click **Delete This Rule** button.
     :::
 
-To verify the load balancer configuration, log into each virtual machine behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
+To verify the load balancer configuration, log into each instance behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
 ## Configuring Port Forwarding
 
-A Port Forwarding rule is required for accessing the virtual machines contained in a VPC. Since virtual machines in a VPC only have a private IP address, a public IP address is required for each virtual machine that you want to access from your terminal.
+A Port Forwarding rule is required for accessing the instances contained in a VPC. Since instances in a VPC only have a private IP address, a public IP address is required for each instances that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
 1. Navigate to **Network and security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
    ![PF Rule Add](img/pficon.png)
-2. Click the **Port Forwarding** icon (highlighted in red). The following window appears:
+2. Click the **Port Forwarding** icon (highlighted in red). The following screen appears:
    ![Add Rule](img/pfaddrulebutton.png) 
-3. Click **+ Add Rule**. The following screen appears where you provide the required details: 
+3. Click **+ Add Rule**. The following screen appears: 
    ![pfnowadded](img/pfnowadded.png)
     :::note
     The end ports should be equal to or greater than the start ports.
@@ -79,22 +79,22 @@ To configure port forwarding, follow these steps:
 4. Click the **Add Port Forwarding Rule** button. The following screen appears: 
    ![PF Rule Enable](img/pfruleenable.png)
 
-Once the Port-Forwarding rule is created, the Load Balancing and Static NAT options are automatically disabled. You can then view the details of the Port Forwarding rule by following these steps:
+Once the Port-Forwarding rule is created, the **Load Balancing** and **Static NAT** icons are automatically disabled. You can then view the details of the Port Forwarding rule by following these steps:
 
 5. Click the **Port Forwarding Rule** icon. The following screen appears:
    ![pf](img/pf.png)
 
-You can view the Instance where this rule is configured, along with the private and public port range mappings.
+You can view the instance where this rule is configured, along with the private and public port range mappings.
 
-To test if port-forwarding is configured correctly, use the public IP to SSH into the virtual machine the IP forwards to.
+To test if port-forwarding is configured correctly, use the public IP to SSH into the instances the IP forwards to.
 
 :::note
-A Port-Forwarding IP address can be used to configure multiple Port- Forwarding  access rules but with one virtual machine. To port-forward into a different virtual machine, you must purchase an additional public IP address.
+A Port-Forwarding IP address can be used to configure multiple Port-Forwarding  access rules but with one instance. To port-forward into a different instance, you must purchase an additional public IP address.
 :::
 
 ## Configuring Static NAT
 
-A Static NAT rule maps a public IP address to the private IP address of a virtual machine, allowing direct access from external networks. Configure a Static NAT rule to assign a dedicated public IP address to a virtual machine and enable consistent inbound connectivity.
+A Static NAT rule maps a public IP address to the private IP address of a instance, allowing direct access from external networks. Configure a Static NAT rule to assign a dedicated public IP address to a instance and enable consistent inbound connectivity.
 
 To configure Static NAT, follow these steps:
 
@@ -102,9 +102,9 @@ To configure Static NAT, follow these steps:
    ![VPC IP Address](img/vpcipaddress3.png)
 2. Click the **Static NAT** icon (highlighted in red). The following screen appears: 
    ![addstaticnat](img/addstaticnat.png)
-3. Select the Instance from the dropdown, and click the **Add Static NAT** button. The following screen appears:
+3. Select the instance from the dropdown, and click the **Add Static NAT** button. The following screen appears:
    ![Static NAT Enable](img/staticnatenable.png)
    
-Once the Static NAT is created, the Port Forwarding Rule and  Load Balancing options are automatically disabled.
+Once the Static NAT is created, the **Port Forwarding Rule** and **Load Balancing** icons are automatically disabled.
 
-To test whether static NAT has been configured correctly, you can use the public IP to SSH into the virtual machine that the IP is NAT-ing to.
+To test whether static NAT has been configured correctly, you can use the public IP to SSH into the instance that the IP is NAT-ing to.

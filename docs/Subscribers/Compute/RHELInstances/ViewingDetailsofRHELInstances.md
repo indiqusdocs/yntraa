@@ -16,7 +16,7 @@ To view the details of RHEL instances, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/rhelinstanceoverview.png)
 
 **Configuration and Availability:** This displays the following RHEL instance configuration details to help verify its current configuration and operational state:
@@ -42,7 +42,7 @@ Launch the RHEL instance web-based console to access and manage your RHEL virtua
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Launch Console**, and then provide the RHEL credentials to login and access the RHEL instance web-based console.
    
@@ -54,7 +54,7 @@ To start and stop the RHEL instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
-2. Click on your created RHEL instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
 ![RHEL Stop Instance Message](img/rhelstopinstancemessage.png)

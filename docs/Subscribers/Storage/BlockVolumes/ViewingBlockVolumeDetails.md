@@ -5,11 +5,11 @@ sidebar_position: 3
 
 Viewing block volume details allows you to monitor and manage the additional storage attached to your cloud instances. In Yntraa Cloud, you can view key details such as volume name, attached instance, and storage utilization to track disk usage, optimize resource management, and maintain better control over your cloud infrastructure.
 
-To view a data disk, follow these steps:
+To view the disk details, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes](img/datadisk3new.png)
-2. Click on your created data disk from the list. The Overview tab opens automatically. The following screen appears with the details: 
+2. Click on your created data disk name from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/blockvolumeoverviewview.png)
 
 **Configuration and Availability:** This section displays the following details to help verify disk current configuration and operational state:

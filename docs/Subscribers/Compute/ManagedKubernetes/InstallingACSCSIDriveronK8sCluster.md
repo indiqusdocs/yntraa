@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 # Installing ACS CSI Driver on K8s Cluster
 
-This section describes the process for installing and configuring the Apache CloudStack (ACS) Container Storage Interface (CSI) driver on a Kubernetes cluster using Helm.
+This section describes the process for installing and configuring the Apache CloudStack (ACS) Container Storage Interface (CSI) driver on a kubernetes cluster using Helm.
 
 ## Prerequisites
 
@@ -12,12 +12,12 @@ Before proceeding with the installation, ensure the following prerequisites are 
 - Kubernetes cluster is up and running. 
 - kubectl access is configured on the master/control-plane node. 
 - Internet connectivity is available from the master node. 
-- CloudStack API endpoint (api-url) must be reachable from the Kubernetes master node. 
-- Root or sudo access is available on all Kubernetes nodes.
+- CloudStack API endpoint (api-url) must be reachable from the kubernetes master node. 
+- Root or sudo access is available on all kubernetes nodes.
   
 ## Installing Helm 
 
-Execute the following commands on the Kubernetes master node to install Helm:
+Execute the following commands on the kubernetes master node to install Helm:
 
 ### Installing Required Packages
 To install the required packages, run the following command:
@@ -59,7 +59,7 @@ After downloading, run the following commands: 
    
 ## Preparing Kubernetes Nodes 
 
-Create the metadata directory on all Kubernetes nodes by running the following command: 
+Create the metadata directory on all kubernetes nodes by running the following command: 
 
 `mkdir -p /run/metadata`
     
@@ -123,4 +123,4 @@ Ensure: 
 
     `kubectl logs -n kube-system <cloudstack-csi-node-pod-name>`
 
-The Apache CloudStack CSI Driver is now successfully installed and integrated with the Kubernetes cluster. Persistent Volumes can now be dynamically provisioned using CloudStack-backed storage.
+The Apache CloudStack CSI Driver is now successfully installed and integrated with the kubernetes cluster. Persistent Volumes can now be dynamically provisioned using CloudStack-backed storage.

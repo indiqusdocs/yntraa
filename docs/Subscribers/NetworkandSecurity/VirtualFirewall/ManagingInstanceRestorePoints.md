@@ -17,7 +17,7 @@ This section comprises of the following sub-sections:
 
 Create a restore point to capture the current state of an instance before making configuration changes, updates, or other modifications. A restore point helps you recover the instance to a previous state if needed, improving data protection and minimizing the impact of unexpected changes.
 
-To create a restore point, follow these steps:
+To create an restore point, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![Virtual Firewall Lists](img/numberofvf.png)
@@ -53,7 +53,7 @@ To restore an instance restore point, follow these steps:
 
 Delete an instance restore point to remove recovery points that are no longer required. This helps you keep restore point records organized and manage storage resources efficiently while retaining only the recovery points you need.
 
-To delete instance restore point, follow these steps:
+To delete an instance restore point, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![Virtual Firewall Lists](img/numberofvf.png)

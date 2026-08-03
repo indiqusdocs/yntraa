@@ -24,11 +24,11 @@ To create a disk restore point, follow these steps:
 
 A data disk is additional storage attached to a cloud instance for storing application data, files, databases, and other workloads separately from the system disk. Creating a data disk in Yntraa Cloud helps improve data management, provides flexibility to scale storage as needed, and ensures better performance and organization of your cloud resources.
 
-To create volume, follow these steps: 
+To create volume from disk restore point, follow these steps: 
 
 1. Navigate to **Storage > Block Volume**. The following screen appears:
    ![Block Volumes List](img/blockvolumelistview.png)
-2. Click on your created block volume from the list. The following screen appears: 
+2. Click on your created block volume name from the list. The following screen appears: 
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Restore Points**. The following screen appears:
    ![Block Volume Restore Points](img/blockvolumerestorepoints.png)

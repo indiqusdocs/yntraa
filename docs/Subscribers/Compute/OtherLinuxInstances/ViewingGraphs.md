@@ -9,7 +9,7 @@ To view graphs, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Graphs**. The following screen appears: 
    ![Linux Instance Graph](img/linuxinstancegraph.png)

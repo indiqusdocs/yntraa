@@ -11,7 +11,7 @@ To create an object storage, follow these steps:
    ![New Object Storage Bucket](img/newobjectstoragebucket.png)
 2. Click the **New Object Storage Bucket** button. The following screen appears: 
    ![Create Bucket Details](img/createbucketdetails.png)
-3. Select availability zone from the options.
+3. Select availability zone.
 4. Enter bucket name in **Name Your Bucket**.
 5. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Create** button. The following screen appears: 
    ![Confirm Bucket Create Message](img/confirmmessage.png)

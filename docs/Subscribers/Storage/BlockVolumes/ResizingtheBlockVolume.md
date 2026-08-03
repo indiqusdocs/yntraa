@@ -13,7 +13,7 @@ To resize the block volume, follow these steps:
 
 1. Navigate to **Storage > Block Volumes**. The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
-2. Click on your created block volume from the list. The following screen appears: 
+2. Click on your created block volume name from the list. The following screen appears: 
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Resize**. The following screen appears: 
    ![Disk Configuration](img/diskconfiguration.png)

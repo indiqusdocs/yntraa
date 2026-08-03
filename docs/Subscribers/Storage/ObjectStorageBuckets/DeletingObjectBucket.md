@@ -13,7 +13,7 @@ To delete an object storage bucket, follow these steps:
 
 1. Navigate to **Storage > Object Storage Buckets**. The following screen appears: 
    ![Object Storage Bucket List](img/bucketlist.png)
-2. Click on your created object storage bucket from the list. The following screen appears: 
+2. Click on your created object storage bucket name from the list. The following screen appears: 
    ![Overview](img/bucketoverview.png)
 3. Click **Objects**. The following screen appears: 
    ![Adding Objects](img/addingobjects.png)

@@ -9,7 +9,7 @@ Manage the networking configuration of your windows instance to control connecti
  
  1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)
