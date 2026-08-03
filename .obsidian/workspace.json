@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Other Services/SubscribingtoaService.md",
+                "file": "docs/Subscribers/ToolsandUtilities/AddingVPNGateways.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SubscribingtoaService"
+              "title": "AddingVPNGateways"
             }
           }
         ]
@@ -173,6 +173,11 @@
   },
   "active": "ca21f1c8e9f8d0cc",
   "lastOpenFiles": [
+    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs.md",
+    "docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel.md",
+    "docs/Subscribers/Other Services/SubscribingtoaService.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/search-index.json",
@@ -183,7 +188,6 @@
     "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs",
     "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
     "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
-    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -214,10 +218,6 @@
     "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses.md",
     "docs/Subscribers/Compute/WindowsInstances/ManagingVolume.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume.md",
-    "docs/Subscribers/AddingTeamMembers.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails.md"
+    "docs/Subscribers/AddingTeamMembers.md"
   ]
 }

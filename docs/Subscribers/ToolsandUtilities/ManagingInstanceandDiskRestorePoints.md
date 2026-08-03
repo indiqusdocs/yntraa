@@ -54,12 +54,4 @@ To create volume from disk restore point, follow these steps:
 
 Deleting a disk restore point permanently removes it from your cloud account and releases the associated storage resources. Delete a restore point only when it is no longer needed for recovery, as it cannot be recovered after deletion.
 
-To delete a disk restore point, follow these steps: 
-
-1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
-   ![Instance Restore Point](img/instancerestorepoint.png)
-2. Click **Disk Restore Point**. The following screen appears: 
-   ![Delete Disk Restore Point](img/deletediskrestorepoint.png)
-3. Click **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
-   ![Delete Disk Restore Point Message](img/deletediskrestorepointmessage.png)
-4. Click the **Yes** button. 
+To delete a disk restore point, [click here](/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume#deleting-disk-restore-point).
