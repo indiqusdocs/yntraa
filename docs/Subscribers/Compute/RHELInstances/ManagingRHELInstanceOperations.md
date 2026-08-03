@@ -82,7 +82,7 @@ A password reset link is sent to your registered email address.
 
 ## Migrating Network
 
-Migrating a RHEL instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment
+Migrating a RHEL instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
 
 To migrate RHEL Instance between networks, follow these steps:
 
@@ -126,7 +126,7 @@ To rename an instance, follow these steps:
    ![RHEL Instance Created](img/rhelinstancelist.png)
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
-3. Click the **Rename Instance** button. The following screen appears where you can update the RHEL name in Instance Name.
+3. Click the **Rename Instance** button. The following screen appears where you can update the RHEL instance name in Instance Name.
    ![Instance Name Changed](img/instancenamechanged.png)
 4. Click the **Done** button. The new instance name appears (highlighted in red). 
    ![Name Changed](img/namechange.png)

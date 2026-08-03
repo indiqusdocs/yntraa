@@ -15,6 +15,8 @@ This section comprises of the following sub-sections:
 
 ## Creating an Instance Restore Point
 
+Creating an instance restore point allows you to capture the current state of a load balancer instance. A restore point serves as a recovery restore point that can be used to revert the instance to a previous state if required. This helps preserve the existing configuration before making changes, performing maintenance, or applying updates, ensuring improved reliability and simplified recovery when needed.
+
 To create an instance restore point, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:

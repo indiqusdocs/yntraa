@@ -40,7 +40,7 @@ To scale a kubernetes cluster, follow these steps:
    ![Overview](img/kubernetesoverview.png)
 3. Click **Operations**. The following screen appears: 
    ![Kubernetes Cluster Operations](img/kubernetesclusteroperations.png)
-4. Click the **Scale Cluster** button. The following screen appears where you specify the kubernetes cluster size in Cluster Size: 
+4. Click the **Scale Cluster** button. The following screen appears where you specify the kubernetes cluster size in Cluster Size (Worker Nodes): 
    ![Kubernetes Cluster Scale](img/clusterscaling.png)
 5. Click the **Confirm Scaling** button. 
    
@@ -56,6 +56,6 @@ To delete a kubernetes cluster, follow these steps:
    ![Overview](img/kubernetesoverview.png)
 3. Click **Operations**. The following screen appears: 
    ![Kubernetes Cluster Operations](img/kubernetesclusteroperations.png)
-4. Click the **Delete Cluster** button. The following screen appears where you specify the kubernetes cluster size in Cluster Size (Worker Nodes): 
+4. Click the **Delete Cluster** button. The following screen appears: 
    ![Kubernetes Cluster Delete](img/kubernetesclusterdelete.png)
-5. Enter **DELETE** and click the **Delete** button.
+5. Enter **DELETE** and click the **Delete Now** button.

@@ -51,7 +51,7 @@ To add a firewall rule, follow these steps:
    ![Firewall Rule](imgnew/firewallrulenew.png)
 7. Click the **Firewall Rule** icon (highlighted in red). The following screen appears:  
    ![Firewall Rule Creation](imgnew/frcreation.png)
-8. Click the **Add Rule** button. The firewall rule is added
+8. Click the **Add Rule** button. The firewall rule is added.
 
 ## Adding Port Forwarding Rules
 
@@ -99,7 +99,7 @@ To change the source NAT, follow these steps:
    ![Confirm IPv4](imgnew/confirmipv4.png)
 6. Click the **Confirm** button. The following screen appears:
    ![Source NAT Change](imgnew/sourcenatchange.png)
-7. Click the **Source NAT** icon (highlighted in red). The following screen appears
+7. Click the **Source NAT** icon (highlighted in red). The following screen appears:
    ![warning](imgnew/warning.png)
 8. Click the **Okay** button.
 

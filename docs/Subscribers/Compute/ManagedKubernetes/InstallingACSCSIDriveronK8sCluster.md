@@ -49,7 +49,7 @@ Download the latest CloudStack CSI Driver Helm charts from the official release 
 https://github.com/cloudstack/cloudstack-csi-driver/releases/ 
 
 After downloading, run the following commands: 
-1. Extract/unzip the downloaded package:  
+1. Extract/unzip the downloaded package. 
    
 	`unzip cloudstack-csi-driver.zip`
    

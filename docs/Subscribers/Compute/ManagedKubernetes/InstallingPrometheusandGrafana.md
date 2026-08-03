@@ -42,7 +42,7 @@ Verify that all monitoring pods are running successfully.
 
 `kubectl get pods -n monitoring`
 
-Expected output should show pods in Running state.
+Expected output should show pods in running state.
 
 Example:
 

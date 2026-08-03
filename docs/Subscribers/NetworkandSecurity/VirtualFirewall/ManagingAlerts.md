@@ -28,7 +28,7 @@ To configure alerts, follow these steps:
 ![Create Alert](imgnew/createalertoninstance.png)
 
     - **Name** - You can define the name for your alert.
-    - **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, NETWORK INPUT, and NETWORK OUTPUT parameters.
+    - **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, Network Input, and Network Output parameters.
     - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
     - **Reading duration** - This option lets you define the breach window, that is, the duration for which the breach must be consistent to trigger the alert email.
     - **Add Recipients** - You can add the emails of the recipients.

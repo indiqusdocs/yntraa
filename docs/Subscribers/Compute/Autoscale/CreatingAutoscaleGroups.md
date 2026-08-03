@@ -35,7 +35,7 @@ To create autoscale group, follow these steps:
 	- **Duration (in mins):** This is the duration in which the conditions have to be true before action is taken.
 	- **Quiet Time (in mins):** The cool-down period in which the policy should not be evaluated after the action has been taken.
 	- **Parameter:** Performance parameters represent the current state of the monitored instances. This feature currently supports the following parameters:
-		- **Instance CPU Percentage** - average percentage
+		- **Instance CPU Percentage** - Average percentage
 		- **Instance Memory** - Average percentage
 		- **Public Network** - mbps received per instance
 		- **Public Network** - mbps transmit per instance
@@ -49,7 +49,7 @@ To create autoscale group, follow these steps:
         :::
 13. Configure the SSH key settings. If your account does not have an SSH key pair, select **Generate a New Key Pair** to create one. You can also select **Upload a Key Pair** to upload an existing key pair.
 14. Enable email notifications to receive updates when the auto scale group executes. Select **Also notify other recipients** to add additional email recipients from the dropdown list. The default email address is selected automatically.
-15. Specify the name of your autoscale group. 
+15. Enter name of your autoscale group in **Name Your Autoscale Group**.
 16. Click the **Publish This Autoscale Group** button. The autoscale group is created.
 
 

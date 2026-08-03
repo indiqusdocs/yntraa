@@ -123,7 +123,7 @@ To create volume from disk restore point, follow these steps:
    ![Restore Points list](img/restorepointview.png)
 7. Click **Disk Restore Point**. The following screen appears: 
    ![View Disk Restore Points](img/linuxcreatevolume.png)
-8. Click the **Create Volume** icon (highlighted in red) corresponding to the required disk restore point. 
+8. Click the **Create Volume** icon (highlighted in red) corresponding to the required disk restore point. The following screen appears:
    ![Linux Create Volume1](img/linuxcreatevolume1.png)
    ![Linux Create Volume2](img/linuxcreatevolume2.png)
 9. Select availability zone.

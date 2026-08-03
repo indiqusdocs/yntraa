@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 # Creating Restore Point Schedules
 
-You can create restore point policies for your root and data disks. These schedules enable for strategic management of data retention policies and can be used as an alternative backup solution. 
+Creating restore point schedules enables you to automate the creation of restore points for your resources at predefined intervals. By configuring a schedule, the platform creates restore points automatically based on the specified settings, helping maintain consistent recovery points while reducing the need for manual intervention. This ensures regular data protection and supports efficient recovery whenever required.
 
 To create a restore point schedule, follow these points: 
 

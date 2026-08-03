@@ -95,7 +95,7 @@ To automate ETCD backup, perform the following steps:
 
     `/usr/local/bin/etcd-backup.sh`
 
- Add the following in the etcd-backup.sh file
+ Add the following in the etcd-backup.sh file.
   
 ```
 #!/bin/bash

@@ -37,7 +37,7 @@ To add volume, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance List](img/rhelinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![Adding Volume](img/addingvolume.png)
@@ -77,7 +77,7 @@ To view the disk restore point, follow these steps:
 
 Create a volume to provision additional block storage for your cloud resources. Volumes provide persistent storage that can be attached to instances to expand storage capacity, host application data, or separate data from the operating system. Creating dedicated volumes improves storage flexibility, simplifies data management, and allows independent backup, restore, and lifecycle management without affecting the associated instance.
 
-To create volume, follow these steps: 
+To create volume from disk restore point, follow these steps: 
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)
@@ -134,7 +134,7 @@ This action can not be reversed.
 6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
 ![Restore Points list](img/restorepointview.png)
 7. Click **Disk Restore Point**. The following screen appears:
-![Delete Restore Point Windows](img/deleterestorepointrhel.png)
+![Delete Restore Point](img/deleterestorepointrhel.png)
 8. Click the  **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
 ![Disk Restore Point Deleted](img/deleteddiskrestore.png)
 9. Click the **Yes** button. The disk restore point is deleted.
