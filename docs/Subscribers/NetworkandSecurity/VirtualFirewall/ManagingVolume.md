@@ -25,12 +25,15 @@ To view the disks attached to an Instance, follow these steps:
 ![Virtual Firewall lists](img/numberofvf.png)
 2. Click on your created virtual firewall name from the list. The following screen appears:
 ![Overview](img/overviewscreen.png) 
-3. Click **Volumes**. The following screen appears: 
+3. Click **Volumes**. The following screen appears that shows the associated disks: 
 ![View Root Disk](img/viewrootdisk.png)
 
 ## Creating Disk Restore Point 
 
 Create a disk restore point to capture the current state of a disk before performing updates, configuration changes, or other modifications. A disk restore point preserves the disk data at a specific point in time, allowing you to restore the disk to that state if needed. This helps protect against accidental data loss, simplifies recovery from unexpected issues, and ensures business continuity with minimal downtime.
+:::note
+Restore Point creation will occupy space in your additional storage.
+:::
 
 To create the disk restore point, follow these steps: 
 
@@ -43,9 +46,7 @@ To create the disk restore point, follow these steps:
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
 ![Create Disk Restore Point](img/creatediskrestorepoint.png)
 5. Click the **Create Disk Restore Point** button. The disk restore point is created.
-    :::note
-    Restore Point creation will occupy space in your additional storage.
-    :::
+    
 
 ## Viewing Disk Restore Point
 
@@ -85,12 +86,10 @@ To create volume from disk restore point, follow these steps:
 ## Deleting Disk Restore Point
 
 Delete a disk restore point when it is no longer required to free up storage resources and simplify restore point management. Removing outdated or unnecessary restore points helps maintain an organized backup environment while ensuring that only relevant recovery points are retained.
-
-To delete disk restore point, follow these steps: 
-
 :::warning
 This action can not be reversed.
 :::
+To delete disk restore point, follow these steps: 
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![Virtual Firewall lists](img/numberofvf.png)
@@ -108,7 +107,7 @@ This action can not be reversed.
 ![Restore Points list](img/restorepointslist.png)
 7. Click **Disk Restore Point**. The following screen appears:
 ![Creating Volume](img/deletediskrestorepoint.png)
-8. Click the  **Delete Disk Restore Point** button. The following screen appears: 
+8. Click the  **Delete Disk Restore Point** button (highlighted in red). The following screen appears: 
 ![Disk Restore Point Deleted](img/diskrestorepointdeleted.png)
 9. Click the **Yes** button. The disk restore point is deleted.
 

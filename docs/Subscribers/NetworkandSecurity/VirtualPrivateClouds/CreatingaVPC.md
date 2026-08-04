@@ -22,9 +22,9 @@ To create a VPC, follow these steps:
    You cannot edit the Super CIDR after creating it.
    :::
 
-8. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and Click the **Buy Monthly** button. The following screen appears: 
+1. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
    ![Confirm VPC](img/confirmvpcnew.png)
-9. Click the **Confirm** button. 
+2. Click the **Confirm** button. 
    
 Once your VPC is ready, you will be notified of this purchase on your email address on record. 
 

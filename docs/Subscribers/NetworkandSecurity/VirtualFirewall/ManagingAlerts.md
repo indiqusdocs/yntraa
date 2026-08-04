@@ -32,6 +32,7 @@ To configure alerts, follow these steps:
     - **Trigger when** - This set of options lets you define whether to trigger above or below a custom value.
     - **Reading duration** - This option lets you define the breach window, that is, the duration for which the breach must be consistent to trigger the alert email.
     - **Add Recipients** - You can add the emails of the recipients.
+5. Click the **Create** button.
 
 ## Managing Recipients
 

@@ -1,9 +1,11 @@
 ---
 sidebar_position: 2
 ---
-# Viewing NAT Gateways Details
+# Viewing NAT Gateway Details
 
-The NAT gateway details helps you view the current configuration and operational status of the gateway. Reviewing the overview enables you to validate the gateway's settings, monitor its performance, and manage it more effectively.
+ You can view and validate the gateway's settings, monitor its performance, and manage it more effectively.
+ 
+ To view NAT Gateway details, follow these steps: 
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
@@ -26,7 +28,7 @@ The NAT gateway details helps you view the current configuration and operational
 
 You can control a NAT gateway’s operational state by starting or stopping the virtual router that provides NAT services. Start the virtual router to enable network address translation, route traffic between connected networks, and restore network connectivity. Stop the virtual router when you perform maintenance, apply configuration changes, or temporarily disable NAT services to conserve resources and troubleshoot network issues.
 
-To Start and Stop a NAT Gateway, follow these steps: 
+To start and stop a NAT Gateway, follow these steps: 
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![NAT Gateway Instances](imgnew/natgatewayinstances.png)  

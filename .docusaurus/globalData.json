@@ -101,8 +101,8 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/ServiceBalance",
-              "path": "/docs/Subscribers/AccountCentre/ServiceBalance",
+              "id": "Subscribers/AccountCentre/ServiceBalanceDetails",
+              "path": "/docs/Subscribers/AccountCentre/ServiceBalanceDetails",
               "sidebar": "sidebar1"
             },
             {

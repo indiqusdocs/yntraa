@@ -16,7 +16,7 @@ To view the details associated with a virtual firewall instance, follow these st
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![VF Listing View](imgnew/vflistingview.png)
-2. Click on your created virtual firewall from the list. The Overview tab opens automatically. The following screen appears with the details:
+2. Click on your created virtual firewall name from the list. The Overview tab opens automatically. The following screen appears with the details:
 ![Instance Overview](imgnew/overview.png)
 
 **Configuration and Availability:** This displays the following virtual firewall configuration details to help verify its current configuration and operational state:
@@ -47,13 +47,14 @@ The virtual firewall console provides a secure, web‑based interface to manage 
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)
 2. Click on your created virtual firewall name from the list. The following screen appears:
 ![All Details Screen](imgnew/launchconsolenew.png) 
-3. Click the **Launch Console** button, enter your username and password, and then click **Login** button to access the FortiGate web-based management interface.
+3. Click the **Launch Console** button. The FortiGate web-based management interface opens.
+4. Enter your username and password, and then click **Login** button to access the FortiGate web-based management interface.
    
 ## Stopping and Starting Virtual Firewall Instance
 
 Stop and start the virtual firewall instance to apply updates, perform maintenance, or optimize resource usage. This action suspends firewall operations without deleting configurations and quickly restores protection when restarted.
 
-To start and stop the virtual firewall instance, follow these steps:  
+To stop and start the virtual firewall instance, follow these steps:  
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
 ![virtualfirewallnew](imgnew/virtualfirewallnew.png)

@@ -1,7 +1,12 @@
 ---
 sidebar_position: 3
 ---
-# Service Balance
+
+# Viewing Service Balance Details and Adding Credit Points
+
+Service Balance enables you to view and manage your available wallet balance, voucher credits, and transaction history from a single location. It also allows you to apply voucher balances to add credit points to your account, helping you efficiently manage available funds for eligible cloud services and track related transactions.
+
+# Viewing Service Balance Details
 
 The service balance provides a consolidated view of your available wallet balance, credit voucher balance, and transaction history. It enables you to monitor the funds available for service consumption, manage your wallet, apply credit vouchers, and review wallet and voucher transactions. You can also search, filter, and download transaction records, helping you efficiently track and manage your service balance and payment activities.
 
@@ -31,7 +36,29 @@ To view your service balance details, follow these steps:
 - **View Wallet Transactions:** Select the **Wallet** tab to view wallet-related transactions, including payment and balance activities.
 
 - **View Voucher Transactions:** Select the **Vouchers** tab to view all credit voucher-related transaction records.
+  
+## Adding Credit Points
 
+Applying a voucher allows you to redeem available voucher credits and add them to your service balance. Once the voucher is successfully applied, the corresponding credit points are reflected in your account balance and can be used for eligible cloud services. 
+  
+To redeem free credit points, apply a voucher balance code by following these steps:
+  
+  1. Navigate to [Yntraa Cloud portal](https://portal.yntraacloud.ai/).The following screen appears where you provide the required details: 
+   ![Yntraa Sign In](img/yntraasignin.png) 
+    - **Email**
+    - **Password**.
+2. Click the **Sign In** button. The following screen appears: 
+   ![Dashboard](img/dashboard.png)
+3. Click the user profile id icon (highlighted in red). The following screen appears:
+   ![Profile ID Icon](img/profileidicon.png)
+4. Click **Account**. The profile tab opens automatically. The following screen appears: 
+   ![Profile Details](img/profiledetails.png)
+5. Navigate to **Billing > Service Balance**. The following screen appears with the details: 
+   ![Service Balance View](img/servicebalanceview.png)
+6. Click the **Apply Voucher** button. The following screen appears: 
+   ![Voucher Code](img/vouchercode.png)
+7. Select voucher code and click the **Add to Balance** button. The following screen appears:
+  ![Voucher Balance Added](img/voucherbalance.png)
    
 
 

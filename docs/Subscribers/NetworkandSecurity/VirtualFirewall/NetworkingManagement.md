@@ -18,18 +18,16 @@ A network connects your virtual firewall to other resources and defines secure t
 To add and detach a network, follow these steps: 
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
-![networknew](imgnew/networknew.png)
-2. Click on your created virtual firewall name from the list. The following screen appears: 
-![VF Listing View](imgnew/vflistingview.png)
-3. Click **Networking**. The following screen appears: 
-![Networking Screen](imgnew/networkingscreen.png)
-4. Click the **Add Network** button. The following screen appears:
+   ![VF Listing View](imgnew/vflistingview.png)
+2. Click on your created virtual firewall name from the list and click **Networking**. The following screen appears: 
+  ![networknew](imgnew/networknew.png)
+3. Click the **Add Network** button. The following screen appears where you can provide the required details:
 ![Add Network Requirements](imgnew/addnetworkrequirements.png) 
-5. Click the **Confirm** button. The following screen appears: 
+4. Click the **Confirm** button. The following screen appears: 
 ![Network Added](imgnew/networkadded.png)
-6. Click the **Detach NIC** icon (highlighted in red). The following screen appears: 
+5. Click the **Detach NIC** icon (highlighted in red). The following screen appears: 
 ![Detach NIC](imgnew/detachnic.png)
-7. Click the **Yes** button. The following screen appears: 
+6. Click the **Yes** button. The following screen appears: 
 ![NIC Detached](imgnew/nicdetached.png)
 
 ## Adding a Secondary IP 
@@ -39,12 +37,9 @@ A secondary IP is an additional address assigned to your virtual firewall instan
 To add a secondary IP, follow these steps: 
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
-![Network](imgnew/networknew.png)
-2. Click on your created virtual firewall name from the list. The following screen appears: 
-![VF Listing View](imgnew/vflistingview.png)
-3. Click **Networking**. The following screen appears: 
-![Networking Screen](imgnew/networkingscreen.png)
-4. Click the **+ New Secondary IP** button. The following screen appears:
+   ![VF Listing View](imgnew/vflistingview.png)
+2. Click on your created virtual firewall name from the list and click **Networking**. The following screen appears:![Network](imgnew/networknew.png)
+3. Click the **New Secondary IP** button. The following screen appears where you can provide the required details: 
 ![Adding New Secondary IP](imgnew/newsecondaryip.png)
-5. Click the **Add** button. The secondary IP is added (highlighted in red). The following screen appears:
+4. Click the **Add** button. The secondary IP is added (highlighted in red).
 ![Secondary IP is Added](imgnew/secondaryipaddinvf.png)

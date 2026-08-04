@@ -7,9 +7,7 @@ The virtual firewalls list provides you a centralized view of all configured vir
 
 This page allows you to view firewall details, monitor their availability status, search for specific firewalls, and manage firewall resources.
 
-To view the virtual firewalls , follow the step:
-
-Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
+To view the virtual firewalls, navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
 ![List of VF](img/numberofvf.png) 
 
 

@@ -25,7 +25,7 @@ To create an restore point, follow these steps:
 ![VF Overview](img/vfoverview.png)
 3. Click **Restore Points**. The following screen appears: 
 ![Restore Points](imgnew/restorepoints.png)
-4. Click the **Create Instance Restore Point** button. The following screen appears:
+4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
 ![Create Restore Point](imgnew/createrestorenew.png)
 5. Click the **Create** button. 
 
@@ -41,7 +41,7 @@ To restore an instance restore point, follow these steps:
 ![VF Overview](img/vfoverview.png)
 3. Click **Restore Points**. The following screen appears: 
 ![Restore Points](imgnew/restorepoints.png)
-4. Click the **Create Instance Restore Point** button. The following screen appears:
+4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
 ![Create Restore Point](imgnew/createrestorenew.png)
 5. Click the **Create** button. The following screen appears: 
 ![Restore Points](imgnew/restorefrominstancerestorepoint.png)
@@ -61,7 +61,7 @@ To delete an instance restore point, follow these steps:
 ![VF Overview](img/vfoverview.png)
 3. Click **Restore Points**. The following screen appears: 
 ![Restore Points](imgnew/restorefrominstancerestorepoint.png)
-4. Click the **Create Instance Restore Point** button. The following screen appears:
+4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
 ![Create Restore Point](imgnew/createrestorenew.png)
 5. Click the **Create** button. The following screen appears: 
 ![Delete Restore Points](imgnew/deleterestorepoint.png)

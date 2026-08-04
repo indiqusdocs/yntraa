@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '634'),
+    component: ComponentCreator('/docs', '711'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '4ae'),
+        component: ComponentCreator('/docs', 'ffc'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'eaf'),
+            component: ComponentCreator('/docs', '1e3'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -370,8 +370,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/ServiceBalance',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/ServiceBalance', '5bb'),
+                path: '/docs/Subscribers/AccountCentre/ServiceBalanceDetails',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/ServiceBalanceDetails', '295'),
                 exact: true,
                 sidebar: "sidebar1"
               },

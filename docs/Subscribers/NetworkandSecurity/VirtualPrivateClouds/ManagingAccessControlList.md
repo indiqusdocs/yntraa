@@ -18,8 +18,10 @@ To add an ACL, follow these steps:
   ![Manage ACL](img/testingacl.png)
 3. Click the **Add Access Control List** button. The following screen appears where you provide a name for the ACL in Access Control List Name. 
   ![Creating ACL](img/creatingacl.png) 
-4. Click **Add Access Control List** button. The following screen appears where you can perform the following actions: 
+4. Click **Add Access Control List** button. The following screen appears:  
   ![Add Rule in ACL](img/addruleacl.png)
+  
+  You can perform the following actions:
 
 <div className="custom-block-blue">
 - [Editing an ACL Name](#editing-an-acl-name)
@@ -106,19 +108,8 @@ To delete an ACL, follow these steps:
   ![Delete ACL](img/deleteaclicon.png)
 5. Click the **Delete** icon (highlighted in red). The following screen appears: 
    ![Deleting ACL](img/deletingacl.png)
-6. Click the **Cancel** button. 
-7. Navigate to **Subnet and Tiers**. The following screen appears: 
-  ![Subnet and Tier](img/subnetandtierview.png)
-8. Click the **Replace Access Control List** icon (highlighted in red). The following screen appears: 
-  ![Replace Tier ACL](img/replacetieraclview.png)
-9. Select access control from the dropdown and click the **Replace Tier ACL** button. The following screen appears: 
-   ![Replace ACL New View](img/replaceaclnewview.png)
-10. Click the **Delete Network** icon (highlighted in red). 
-11. Navigate to **Access Control Lists**. The following screen appears: 
-   ![Delete ACL](img/deleteaclicon.png)
-12. Click the **Delete** icon (highlighted in red). The following screen appears: 
-   ![Deleting ACL](img/deletingacl.png)
-13. Click the **I confirm that I have delinked all Tiers from this Access Control List** option, and click the **Delete Access Control List** button.
+6. Click the **Delete Access Control List** button. 
+
 
 
 

@@ -31,7 +31,7 @@ To restart a VPC, follow these steps:
 When you no longer need a VPC, delete it to remove unused network resources and keep your cloud environment organised and easy to manage.
 
 :::note
-Before attempting to delete this VPC, ensure that all Tiers, IPv4 Addresses, and Instances are removed from this VPC. This action is irreversible, and you may not be able to recover any data for this VPC.
+Before attempting to delete this VPC, ensure that all Tiers, IPv4 Addresses, and instances are removed from this VPC. This action is irreversible, and you may not be able to recover any data for this VPC.
 :::
 
 To delete a VPC, follow these steps:

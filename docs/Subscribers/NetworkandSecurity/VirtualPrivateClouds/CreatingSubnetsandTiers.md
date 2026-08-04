@@ -13,7 +13,7 @@ A subnet and tier are logical network segments within a Virtual Private Cloud (V
 
 To create a subnet and tier, follow these steps:
 
-1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC List](img/vpclist.png)
 2. Click on your created VPC name from the list. The following screen appears:
    ![Overview in VPC](img/overviewinvpc.png)
@@ -30,7 +30,7 @@ Restarting a network tier refreshes the selected tier by reapplying its network 
 
 To restart a network tier, follow these steps:
 
-1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC List](img/vpclist.png)
 2. Click on the VPC name from the list. The following screen appears:
    ![Overview in VPC](img/overviewinvpc.png)
@@ -50,7 +50,7 @@ Replacing an Access Control List (ACL) enables you to assign a different ACL to 
 
 To replace an ACL, follow these steps:
 
-1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC List](img/vpclist.png)
 2. Click on the VPC name from the list. The following screen appears:
    ![Overview in VPC](img/overviewinvpc.png)
@@ -73,7 +73,7 @@ You can delete only the empty network tiers, which means that in order to delete
 
 To delete a network tier, follow these steps:
 
-1. Navigate to **Network & Security > Virtual Private Clouds**. The following screen appears:
+1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC List](img/vpclist.png)
 2. Click on the VPC name from the list. The following screen appears:
    ![Overview in VPC](img/overviewinvpc.png)
@@ -85,6 +85,6 @@ To delete a network tier, follow these steps:
    ![Delete Tier](img/deletetiericonview.png)
 6. Click the **Delete Network** icon (highlighted in red). The following screen appears: 
    ![Tier Delete Message](img/tierdeletemessage.png)
-7. Select the **I confirm that I have removed everything from this tier** option, and click the **Delete Tier** button. The following screen appears: 
+7. Select the **I confirm that I have removed everything from this tier** option, and click the **Delete Tier** button. 
 
 

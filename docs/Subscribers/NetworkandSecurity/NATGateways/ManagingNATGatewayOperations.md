@@ -26,12 +26,12 @@ To restart a NAT gateway, follow these steps:
    ![Operations](img/natgatewayoperations.png)
 4. Click the **Restart NAT Gateway** button. The following screen appears:   
    ![Restart](img/restartmessage.png)
-5. Click the **Yes** button. 
+5. Click the **Restart** button. 
 
 ## Deleting a NAT Gateway
 
 This permanently removes the NAT gateway. This action is irreversible and you will not be able to recover any data for this NAT Gateway. Before attempting to delete this NAT Gateway, make sure that Virtual Firewall and IPv4 Addresses are removed from this NAT Gateway. 
-:::note
+:::warning
 Deleting this NAT Gateway will permanently remove it. Before you delete the NAT Gateway, remove the associated Virtual Firewall and IPv4 Addresses. This action is irreversible, and you may not recover any data associated with this NAT Gateway after deletion.
 :::
 
@@ -45,7 +45,7 @@ To delete a NAT gateway, follow these steps:
    ![Operations](img/natgatewayoperations.png)
 4. Click the **Delete NAT Gateway** button. The following screen appears:  
    ![Delete](img/deletenow.png) 
-5. Enter **DELETE** and click **Delete Now** button. 
+5. Enter **DELETE** and click the **Delete Now** button. 
 
 
 
