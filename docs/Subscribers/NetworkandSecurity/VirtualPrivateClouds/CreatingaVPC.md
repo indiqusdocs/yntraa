@@ -5,10 +5,6 @@ sidebar_position: 1
 
 A Virtual Private Cloud (VPC) is a private virtual network that provides a secure environment for your cloud resources. It helps you organize and manage your network while controlling communication between resources.
 
-## Creating a VPC
-
-You must create a VPC to establish a private network for your cloud environment. A VPC provides the foundation for deploying and managing your cloud resources.
-
 To create a VPC, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
