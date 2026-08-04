@@ -40,7 +40,7 @@ To add a port forwarding rule, follow these steps:
    ![Network Tab](img/networktab.png)
 4. Click **Add Networking Rule** button. The following screen appears:
    ![Adding Firewall Rule](img/addingfirewallrule.png)
-5. Click the **Firewall** rule from the dropdown. The following screen appears: 
+5. Select the **Port Forwarding** rule from the dropdown. The following screen appears where you provide the required details: 
    ![Portward Rule Details](img/portwardingruledetails.png) 
 6. Click the **Add Port forwarding Rule** button. The following screen appears: 
    ![Rule Added](img/ruleadded.png) 
@@ -61,7 +61,7 @@ To add a load balance rule, follow these steps:
    ![Network Tab](img/networktab.png)
 4. Click **Add Networking Rule** button. The following screen appears:
    ![Adding Firewall Rule](img/addingfirewallrule.png)
-5. Click the **Load Balancing Rule** rule from the dropdown. The following screen appears: 
+5. Select the **Load Balancing Rule** rule from the dropdown. The following screen appears: 
    ![Load Balance Rule Details](img/loadbalaceruledetails.png) 
 6. Click the **Add Port Forwarding Rule** button. The following screen appears:
   

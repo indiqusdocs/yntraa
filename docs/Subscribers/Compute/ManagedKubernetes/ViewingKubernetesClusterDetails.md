@@ -32,7 +32,7 @@ To view the details of a kubernetes cluster, follow these steps:
 
 Stop and start a kubernetes cluster to perform maintenance, troubleshoot issues, or manage resource usage. Stopping the cluster temporarily suspends its operation, while starting it restores the cluster and its services, allowing your containerized workloads to resume normal operation.
 
-To start and stop a kubernetes cluster, follow these steps:  
+To stop and start a kubernetes cluster, follow these steps:  
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 

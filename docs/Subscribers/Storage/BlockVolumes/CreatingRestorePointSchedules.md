@@ -11,7 +11,7 @@ To create a restore point schedule, follow these points:
    ![Block Volumes List](img/blockvolumelistview.png)
 2. Click **Schedules**. The following scree appears: 
    ![Restore Point Schedule](img/restorepointschedule.png)
-3. Click the **Create Schedule** button. The following screen appears: 
+3. Click the **Create Schedule** button. The following screen appears where you provide the required details: 
    ![Restore Point Details](img/restorepointdetails.png)
 4. Click the **Set Schedule** button. The following screen appears: 
    ![Schedule Created](img/schedulecreated.png)

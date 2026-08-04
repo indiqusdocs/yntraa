@@ -95,7 +95,7 @@ To create a custom image or My Image, follow these steps:
    ![Disk Restore Point](img/diskrestorepoint.png)
 8. Navigate to **Disk Restore Point**. The following screen appears: 
    ![Disk Restore Point](img/diskrestorepointview.png)
-9. Click the **Create Image** icon (highlighted in red). The following screen appears:
+9. Click the **Create Image** icon (highlighted in red). The following screen appears where you provide the required details:
    ![Creating My Image](img/creatingmyimage.png)
 10. Click the **Yes** button.
 11. Navigate to **Tools and Utilities > My Images**. The following screen appears: 
@@ -140,12 +140,11 @@ To create volume from disk restore point, follow these steps:
 ## Deleting Disk Restore Point
 
 Delete a disk restore point when it is no longer required to free up storage resources and simplify restore point management. Removing outdated or unnecessary restore points helps maintain an organized backup environment while ensuring that only relevant recovery points are retained.
-
-To delete disk restore point, follow these steps: 
-
 :::warning
 This action can not be reversed.
 :::
+
+To delete disk restore point, follow these steps: 
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)

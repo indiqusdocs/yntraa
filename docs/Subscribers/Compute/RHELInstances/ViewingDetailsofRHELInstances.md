@@ -50,7 +50,7 @@ Launch the RHEL instance web-based console to access and manage your RHEL virtua
 
 Stop a RHEL instance to temporarily shut it down when it is not in use, helping optimize resource usage. Start the instance whenever you need to restore access and resume running your RHEL-based applications and workloads.
 
-To start and stop the RHEL instance, follow these steps:  
+To stop and start the RHEL instance, follow these steps:  
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)

@@ -25,7 +25,7 @@ To create an instance restore point, follow these steps:
    ![Overview](img/lbioverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![Create Restore Point LBI](img/createrestorepointlbi.png)
-4. Click the **Create Instance Restore Point** button. The following screen appears:
+4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
    ![Restore Point Details](img/restorepointdetails.png)
 5. Click the **Create** button. The following screen appears: 
    ![LBI Restore Point Created.png](img/lbirestorepointcreated.png)

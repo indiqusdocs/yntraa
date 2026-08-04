@@ -5,7 +5,5 @@ sidebar_position: 2
 
 The linux instances page lets you view and monitor all linux instances in your cloud environment. It displays key instance details and status information, helping you quickly identify, access, and manage your linux-based workloads.
 
-To view the linux instances, follow the step: 
-
-Navigate to **Compute > Other Linux Instances**. The following screen appears: 
+To view the linux instances, navigate to **Compute > Other Linux Instances**. The following screen appears: 
 ![Linux Instance List](img/linuxinstancelist.png)

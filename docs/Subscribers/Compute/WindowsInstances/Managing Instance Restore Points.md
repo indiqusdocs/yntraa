@@ -25,7 +25,7 @@ To create an instance restore point, follow these steps:
    ![Overview](img/windowsoverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![Windows Instance Restore Point](img/windowsinstancerestorepoint.png)
-4. Click the **Create Instance Restore Point** button. The following screen appears:
+4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
    ![Restore Point Details](img/createrestorepoint.png)
 5. Click the **Create** button. The following screen appears: 
    ![Windows Restore Point Created.png](img/windowsrestorepointcreated.png)

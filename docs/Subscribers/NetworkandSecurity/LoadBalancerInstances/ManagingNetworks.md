@@ -43,7 +43,7 @@ To add a secondary IP, follow these steps:
    ![LBI Overview Window](img/lbioverviewwindow.png) 
 3. Click **Networking**. The following screen appears:
    ![Networking](img/networkingscreen.png) 
-4. Click the **+ New Secondary IP** button. The following screen appears:
+4. Click the **New Secondary IP** button. The following screen appears where you provide the required details:
    ![Add Secondary IP](img/addsecondaryip.png)
 5. Click the **Add** button. The secondary IP is added (highlighted in red). The following screen appears: 
 ![Secondary IP Added in LBI](img/secondaryipaddedinlbi.png)

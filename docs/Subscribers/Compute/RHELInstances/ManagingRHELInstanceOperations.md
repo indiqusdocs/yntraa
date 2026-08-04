@@ -83,12 +83,11 @@ A password reset link is sent to your registered email address.
 ## Migrating Network
 
 Migrating a RHEL instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
-
-To migrate RHEL Instance between networks, follow these steps:
-
 :::note
 Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurations from the selected NIC before migrating the instance to another network.
 ::: 
+
+To migrate RHEL Instance between networks, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)

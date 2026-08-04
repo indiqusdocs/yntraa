@@ -83,18 +83,16 @@ A password reset link is sent to your registered email address.
 ## Migrating Network
 
 Migrating a windows instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
-
-To migrate windows Instance between networks, follow these steps:
-
 :::note
 Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurations from the selected NIC before migrating the instance to another network.
 ::: 
+To migrate windows Instance between networks, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Migrate Network** button. The following screen appears: 
+3. Click the **Migrate Network** button. The following screen appears where you provide the required details: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
 4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance** option, and click the **Migrate Network** button. 
    

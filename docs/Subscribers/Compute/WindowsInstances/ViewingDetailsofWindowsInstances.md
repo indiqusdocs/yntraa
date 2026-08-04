@@ -50,7 +50,7 @@ Launch the windows instance web-based console to access and manage your windows 
 
 Stop a windows instance to temporarily shut it down when it is not in use, helping optimize resource usage. Start the instance whenever you need to restore access and resume running your windows-based applications and workloads.
 
-To start and stop the window instance, follow these steps:  
+To stop and start the window instance, follow these steps:  
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)

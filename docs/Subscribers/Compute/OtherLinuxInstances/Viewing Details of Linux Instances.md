@@ -50,7 +50,7 @@ Launch the linux instance web-based console to access and manage your linux inst
 
 Stop a linux instance to temporarily shut it down when it is not in use, helping optimize resource usage. Start the instance whenever you need to restore access and resume running your linux-based applications and workloads.
 
-To start and stop the linux instance, follow these steps:  
+To stop and start the linux instance, follow these steps:  
 
 1. Navigate to the **Compute > Other Linux Instances**. The following screen appears: 
   ![Linux Instance List](img/linuxinstancelist.png)

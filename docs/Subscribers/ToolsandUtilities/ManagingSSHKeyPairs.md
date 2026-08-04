@@ -37,7 +37,7 @@ Uploading a public key allows you to use an existing SSH key pair to securely au
 To upload a public SSH key, follow these steps: 
 1. Navigate to **Tools and Utilities > SSH Keys Pairs**. The following screen appears: 
    ![SSH Keypair List](img/sshkeypairslist.png) 
-2. Click **Upload a Public Key**. The following screen appears: 
+2. Click **Upload a Public Key**. The following screen appears where you provide the required details:
    ![Upload Public Key](img/uploadpublickey.png)
 3. Click the **Upload Public Key** button. 
    

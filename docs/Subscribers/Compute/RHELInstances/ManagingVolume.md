@@ -112,12 +112,10 @@ To create volume from disk restore point, follow these steps:
 ## Deleting Disk Restore Point
 
 Delete a disk restore point when it is no longer required to free up storage resources and simplify restore point management. Removing outdated or unnecessary restore points helps maintain an organized backup environment while ensuring that only relevant recovery points are retained.
-
-To delete disk restore point, follow these steps: 
-
 :::warning
 This action can not be reversed.
 :::
+To delete disk restore point, follow these steps: 
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears:
    ![RHEL Instance Created](img/rhelinstancelist.png)

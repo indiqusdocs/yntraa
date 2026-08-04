@@ -15,7 +15,7 @@ To view your profile details, follow these steps:
    ![Dashboard](img/dashboard.png)
 3. Click the user profile id icon (highlighted in red). The following screen appears:
    ![Profile ID Icon](img/profileidicon.png)
-4. Click **Account**. The profile tab opens automatically. The following screen appears: 
+4. Click **Account**. The profile tab opens automatically. The following screen appears with the details: 
    ![Profile Details](img/profiledetails.png)
 
 
