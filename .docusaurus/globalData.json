@@ -11,26 +11,6 @@
           "mainDocId": "Subscribers/intro",
           "docs": [
             {
-              "id": "FAQs/CloudAssure/AssesmentandAdvisory",
-              "path": "/docs/FAQs/CloudAssure/AssesmentandAdvisory",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "FAQs/CloudAssure/CloudAssure",
-              "path": "/docs/FAQs/CloudAssure/",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "FAQs/CloudAssure/MigrationAssist",
-              "path": "/docs/FAQs/CloudAssure/MigrationAssist",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "FAQs/CloudAssure/ProfessionalService",
-              "path": "/docs/FAQs/CloudAssure/ProfessionalService",
-              "sidebar": "sidebar2"
-            },
-            {
               "id": "FAQs/FAQs",
               "path": "/docs/FAQs/",
               "sidebar": "sidebar2"
@@ -46,13 +26,33 @@
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/Other Services/File Storage",
-              "path": "/docs/FAQs/Other Services/File Storage",
+              "id": "FAQs/Other Services/CloudAssureServices/AssesmentandAdvisory",
+              "path": "/docs/FAQs/Other Services/CloudAssureServices/AssesmentandAdvisory",
               "sidebar": "sidebar2"
             },
             {
-              "id": "FAQs/Storage/ObjectStorage",
-              "path": "/docs/FAQs/Storage/ObjectStorage",
+              "id": "FAQs/Other Services/CloudAssureServices/CloudAssure",
+              "path": "/docs/FAQs/Other Services/CloudAssureServices/CloudAssure",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "FAQs/Other Services/CloudAssureServices/MigrationAssist",
+              "path": "/docs/FAQs/Other Services/CloudAssureServices/MigrationAssist",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "FAQs/Other Services/CloudAssureServices/ProfessionalService",
+              "path": "/docs/FAQs/Other Services/CloudAssureServices/ProfessionalService",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "FAQs/Other Services/StorageasaService/File Storage",
+              "path": "/docs/FAQs/Other Services/StorageasaService/File Storage",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "FAQs/Other Services/StorageasaService/ObjectStorage",
+              "path": "/docs/FAQs/Other Services/StorageasaService/ObjectStorage",
               "sidebar": "sidebar2"
             },
             {
@@ -766,23 +766,23 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "/category/managed-solutions",
-              "path": "/docs/category/managed-solutions",
-              "sidebar": "sidebar2"
-            },
-            {
-              "id": "/category/cloud-assure",
-              "path": "/docs/category/cloud-assure",
-              "sidebar": "sidebar2"
-            },
-            {
               "id": "/category/other-services-1",
               "path": "/docs/category/other-services-1",
               "sidebar": "sidebar2"
             },
             {
-              "id": "/category/storage-1",
-              "path": "/docs/category/storage-1",
+              "id": "/category/cloud-assure-services",
+              "path": "/docs/category/cloud-assure-services",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "/category/storage-as-a-service",
+              "path": "/docs/category/storage-as-a-service",
+              "sidebar": "sidebar2"
+            },
+            {
+              "id": "/category/managed-solutions",
+              "path": "/docs/category/managed-solutions",
               "sidebar": "sidebar2"
             }
           ],
