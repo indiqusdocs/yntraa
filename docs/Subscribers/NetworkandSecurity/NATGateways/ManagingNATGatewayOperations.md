@@ -19,7 +19,7 @@ Restarting a NAT Gateway performs a quick reboot of the gateway to refresh its o
 To restart a NAT gateway, follow these steps: 
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears: 
-   ![Nat Gateway List](img/natgatewaylistview.png)
+   ![NAT Gateway List](img/natgatewaylistview.png)
 2. Click a NAT Gateway name from the list. The Overview tabs opens automatically. The following screen appears: 
    ![Overview](img/natgatewayoverviewscreen.png)
 3. Click **Operations**. The following screen appears: 
@@ -38,7 +38,7 @@ Deleting this NAT Gateway will permanently remove it. Before you delete the NAT 
 To delete a NAT gateway, follow these steps: 
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears: 
-   ![Nat Gateway List](img/natgatewaylistview.png)
+   ![NAT Gateway List](img/natgatewaylistview.png)
 2. Click a NAT Gateway name from the list. The Overview tabs opens automatically. The following screen appears: 
    ![Overview](img/natgatewayoverviewscreen.png)
 3. Click **Operations**. The following screen appears: 

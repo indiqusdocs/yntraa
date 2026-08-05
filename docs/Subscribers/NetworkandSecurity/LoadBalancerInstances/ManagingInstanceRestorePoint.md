@@ -20,7 +20,7 @@ Creating an instance restore point allows you to capture the current state of a 
 To create an instance restore point, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-   ![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer](img/loadbalancerscreen.png)
 2. Click on your created load balancer instance name from the list. The following screen appears:
    ![Overview](img/lbioverview.png)
 3. Click **Restore Points**. The following screen appears: 
@@ -28,7 +28,7 @@ To create an instance restore point, follow these steps:
 4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
    ![Restore Point Details](img/restorepointdetails.png)
 5. Click the **Create** button. The following screen appears: 
-   ![LBI Restore Point Created.png](img/lbirestorepointcreated.png)
+   ![LBI Restore Point Created](img/lbirestorepointcreated.png)
 
 ## Restoring an Instance Restore Point
 
@@ -37,13 +37,13 @@ Restoring an instance from a restore point reverts the load balancer instance to
 To restore an instance restore point, follow these steps: 
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-   ![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer](img/loadbalancerscreen.png)
 2. Click on your created load balancer instance name from the list. The following screen appears:
    ![Overview](img/lbioverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![LBI Restore Point Created.png](img/restorefrominstanceicon.png)
 4. Click the **Restore from Instance Restore Point** icon (highlighted in red). The following screen appears: 
-  ![Restore Message](img/restoremessage.png)
+   ![Restore Message](img/restoremessage.png)
 5. Click the **Yes** button. 
 
 ## Deleting an Instance Restore Point

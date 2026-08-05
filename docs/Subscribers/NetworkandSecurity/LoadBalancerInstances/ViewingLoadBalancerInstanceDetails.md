@@ -14,7 +14,7 @@ This section comprises of the following sub-sections:
 To view the details of a load balancer instance, follow these steps:
 
  1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-   ![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer](img/loadbalancerscreen.png)
  2. Click on your created load balancer instance name from the list. The Overview tab opens automatically. The following screen appears with the details:
    ![LBI Overview](img/lbioverview.png)
  
@@ -39,7 +39,7 @@ To view the details of a load balancer instance, follow these steps:
 Launch the LBI Web Based Console to access the browser-based management interface for your load balancer instance. The console enables you to configure and manage load balancing settings, monitor traffic and system health, and perform administrative tasks from a web browser.
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-   ![loadbalanceinstance](img/lbiwindow.png)
+   ![Load Balance Instance](img/lbiwindow.png)
 2. Click on your created load balancer instance name from the list. The following screen appears:
    ![Overview](img/lbioverview.png) 
 3. Click the **Launch Console** button to access the Instance's console interface. One-by-one, run the following commands:
@@ -62,7 +62,7 @@ To start and stop the load balancer instance, follow these steps:
  2. Click on your created load balancer instance name from the list. The following screen appears:
    ![Overview](img/lbioverview.png) 
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
-   ![Stop LBI Message](img/stopinstancemessage.png)
+   ![Stop LBI](img/stopinstancemessage.png)
 4. Click the **Yes** button. The following screen appears:
    ![LBI Power Off](img/lbipoweroff.png)
 5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears: 

@@ -10,10 +10,10 @@ To create a RHEL instance, follow these steps:
 1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
 2. Click the **+ New RHEL Instance** button. The following screen appears: 
-   ![rhelzonenew](img/rhelzonenew.png) 
-   ![computepacknew](img/computepacknew.png)
-   ![Root Disk Rhel New](img/rootdiskrhelnew.png)
-   ![costrhelnew](img/costrhelnew.png)
+   ![Availability Zone](img/rhelzonenew.png) 
+   ![Compute Pack](img/computepacknew.png)
+   ![Root Disk](img/rootdiskrhelnew.png)
+   ![Cost Summary](img/costrhelnew.png)
 3. Select an availability zone, which is the geographical region where your Instance deploys.
 4. Select a VPC or VNF network from the **Select Network Destination** dropdown, and select the appropriate tier listed in network.
 5. Select an OS Image for your instance, or choose a customized image from **[My Images](/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages)**.
@@ -25,7 +25,7 @@ To create a RHEL instance, follow these steps:
     - **Use Custom Password**: On selecting **Use Custom Password**, you are required to enter and confirm your own password. This password is used to access the instance after it is created. Ensure the password meets the required security criteria.
 9. Enter the instance name in **Name Your RHEL Instance**.
 10. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and then click **Buy Hourly** or **Buy Monthly** button. The following screen appears.
-![confirmrhel](img/confirmrhel.png)  
+![Confirm Purchase](img/confirmrhel.png)  
 11. Click the **Confirm** button. The RHEL Instance is created.
 
 

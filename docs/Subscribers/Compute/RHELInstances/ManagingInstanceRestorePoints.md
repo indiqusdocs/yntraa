@@ -45,9 +45,9 @@ To restore an instance restore point, follow these steps:
 4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
    ![RHEL Restore Point Created.png](img/rhelsrestorepointcreated.png)
 5. Click the **Create** button. The following screen appears:
-   ![instancerestoring](img/instancerestoring.png)
+   ![Instance Restoring](img/instancerestoring.png)
 6. Click the **Restore from Instance Restore Point** icon (highlighted in red). The following screen appears: 
-  ![restoreinstanceyes](img/restoreinstanceyes.png)
+  ![Restore Instance](img/restoreinstanceyes.png)
   7. Click the **Yes** button. 
   
 ## Deleting an Instance Restore Point
@@ -71,7 +71,7 @@ To delete an instance restore point, follow these steps:
 5. Click the **Create** button. The following screen appears:
    ![Delete Instance Restore](img/deleteinstancerestore.png)
 6. Click the **Restore from Instance Restore Point** icon (highlighted in red). The following screen appears: 
-  ![restoreinstanceyes](img/restoreinstanceyes.png)
+  ![Restore Instance](img/restoreinstanceyes.png)
   7. Click the **Yes** button. The instance restore point is deleted.
    
 

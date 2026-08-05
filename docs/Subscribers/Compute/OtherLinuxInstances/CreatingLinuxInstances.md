@@ -28,7 +28,7 @@ To create a linux instance, follow these steps:
     - **Use Custom Password**: On selecting **Use Custom Password**, you are required to enter and confirm your own password. This password is used to access the instance after it is created. Ensure the password meets the required security criteria.
 10. Enter the name for your linux instance in **Name Your Linux Instance**.
 11. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and then click **Buy Hourly** or **Buy Monthly** button. The following screen appears:
-   ![confirmpurchasenew](img/confirmpurchasenew.png)
+   ![Confirm Purchas](img/confirmpurchasenew.png)
 12. Click the **Confirm** button. The linux Instance is created.
 
 

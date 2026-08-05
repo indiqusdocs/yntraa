@@ -97,7 +97,7 @@ To access the dashboard in kubernetes version 1.24 and onwards, follow these ste
 		```
 
 	You should be able to see the following output:
-	![outputkube2](img/outputkube2.png)
+	![Output kube2](img/outputkube2.png)
 
 5. Fetch the secret token for dashboard login using the following command:
 	```
@@ -108,17 +108,17 @@ To access the dashboard in kubernetes version 1.24 and onwards, follow these ste
 	:::
 
 You should be able to see the token in the output.
-![outputkube3](img/outputkube3.png)
+![Output kube3](img/outputkube3.png)
 6. Run the following command to start the proxy for the kubernetes cluster: 
 
 		`# kubectl --kubeconfig /custom/path/kube.conf proxy`
 
 You should be able to see the following output:
-![outputkube4](img/outputkube4.png)
+![Output kube4](img/outputkube4.png)
 7. Open the following URL on your browser:
    
 [http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/](http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/)
 
 To view the dashboard interface, select **Token**, paste the token fetched from **Step 5**, and click **Sign in**.
-![tokenkube](img/tokenkube.png)
-![podkube](img/podkube.png)
+![Token Kube](img/tokenkube.png)
+![Pod Kube](img/podkube.png)

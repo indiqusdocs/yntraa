@@ -8,11 +8,11 @@ Reconfigure a load balancer instance to change its compute configuration when yo
 To reconfigure the load balancer instance, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-   ![Load Balancer Screen](img/loadbalancerscreen.png)
+   ![Load Balancer](img/loadbalancerscreen.png)
  2. Click on your created load balancer instance name from the list, and click **Reconfigure**. The following screen appears:
-   ![Reconfigure Screen](img/reconfigurescreen.png)
+   ![Reconfigure](img/reconfigurescreen.png)
 3. Click the **Stop Instance** button. The following screen appears:
-   ![Stop Instance Message](img/stopinstancemessage.png)
+   ![Stop Instance](img/stopinstancemessage.png)
 4. Click the **Yes** button. The following screen appears: 
    ![Pack Selection](img/packselection.png)
 5. Select a **Compute Pack** from the list, and click the **Reconfigure Compute Pack** button. The following screen appears: 

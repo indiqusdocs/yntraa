@@ -17,7 +17,7 @@ To add an ACL, follow these steps:
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
   ![Manage ACL](img/testingacl.png)
 3. Click the **Add Access Control List** button. The following screen appears where you provide a name for the ACL in Access Control List Name. 
-  ![Creating ACL](img/creatingacl.png) 
+   ![Creating ACL](img/creatingacl.png) 
 4. Click **Add Access Control List** button. The following screen appears:  
   ![Add Rule in ACL](img/addruleacl.png)
   
@@ -53,11 +53,11 @@ To add rule to ACL, follow these steps:
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC](img/vpc.png)
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
-  ![Manage ACL](img/testingacl.png)
+   ![Manage ACL](img/testingacl.png)
 3. Click the **Add Access Control List** button. The following screen appears where you provide a name for the ACL in Access Control List Name. 
-  ![Creating ACL](img/creatingacl.png) 
+   ![Creating ACL](img/creatingacl.png) 
 4. Click **Add Access Control List** button. The following screen appears:
-  ![Add Rule to ACL](img/addruletoacl.png)
+   ![Add Rule to ACL](img/addruletoacl.png)
 5. Click the **Add Rule** icon (highlighted in red). The following screen appears where you provide the required details: 
   ![Rule Adding](img/ruleadding.png)
 
@@ -80,11 +80,11 @@ To apply ACL to tier, follow these steps:
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC](img/vpc.png)
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
-  ![Manage ACL](img/testingacl.png)
+   ![Manage ACL](img/testingacl.png)
 3. Click the **Add Access Control List** button. The following screen appears where you provide a name for the ACL in Access Control List Name. 
-  ![Creating ACL](img/creatingacl.png) 
+   ![Creating ACL](img/creatingacl.png) 
 4. Click **Add Access Control List** button. The following screen appears:
-  ![Apply ACL to Tier](img/applyacltotiericon.png)
+   ![Apply ACL to Tier](img/applyacltotiericon.png)
 5. Click the **Apply ACL to Tier** icon (highlighted in red). The following screen appears: 
    ![Attach Network Tier](img/attachnetworktier.png)
 6. Select a network tier from the dropdown and click the **Replace Tier ACL** button.
@@ -101,11 +101,11 @@ To delete an ACL, follow these steps:
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC](img/vpc.png)
 2. Click on your created VPC name from the list, and click **Access Control Lists**. The following screen appears:
-  ![Manage ACL](img/testingacl.png)
+   ![Manage ACL](img/testingacl.png)
 3. Click the **Add Access Control List** button. The following screen appears where you provide a name for the ACL in Access Control List Name. 
-  ![Creating ACL](img/creatingacl.png) 
+   ![Creating ACL](img/creatingacl.png) 
 4. Click **Add Access Control List** button. The following screen appears:
-  ![Delete ACL](img/deleteaclicon.png)
+   ![Delete ACL](img/deleteaclicon.png)
 5. Click the **Delete** icon (highlighted in red). The following screen appears: 
    ![Deleting ACL](img/deletingacl.png)
 6. Click the **Delete Access Control List** button. 

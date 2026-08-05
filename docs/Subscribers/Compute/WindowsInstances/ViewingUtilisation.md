@@ -12,7 +12,7 @@ To view historical usage across supported parameters, follow these steps:
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Utilisation**. The following screen appears: 
-  ![Windows Instance Utilisation](img/windowsinstanceutilisation.png)
+   ![Windows Instance Utilisation](img/windowsinstanceutilisation.png)
 
 
 

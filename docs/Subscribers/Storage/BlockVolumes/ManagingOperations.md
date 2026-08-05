@@ -42,9 +42,9 @@ To attach volume to an instance, follow these steps:
 2. Click on your created block volume name from the list. The following screen appears: 
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Operations**. The following screen appears: 
-  ![Attach to Instance](img/instanceattachbutton.png)
+   ![Attach to Instance](img/instanceattachbutton.png)
 4. Click the **Attach to Instance**. The following screen appears: 
-  ![Attach Instance Details](img/attachinstancedetails.png)
+   ![Attach Instance Details](img/attachinstancedetails.png)
 5. Click the **Yes** button. The following screen appears: 
    ![Instance Attached](img/instanceattached.png)
    

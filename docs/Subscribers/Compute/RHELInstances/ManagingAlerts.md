@@ -48,7 +48,7 @@ To remove existing email IDs and add other email IDs, follow these steps:
 3. Click **Alerts**. The following screen appears:
    ![RHEL Instance Alert](img/rhelinstancealertcreate.png)
 4. Click the **Manage Recipients** button. The following screen appears:
-![Managing Recipients for Alerts](img/rhelmanagingrecepients.png) 
+   ![Managing Recipients for Alerts](img/rhelmanagingrecepients.png) 
 5. Click the dropdown. From the list, you can perform the following:
     - **Add recipients**: Select the email IDs that you want to add.
     - **Remove recipients**: Clear the selection for the email IDs that you want to remove.

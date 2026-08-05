@@ -10,8 +10,8 @@ To create a data disk, follow these steps:
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
 2. Click the **+ New Block Volume** button. The following screen appears: 
-  ![Data Disk Details](img/datadisk1new.png)
-  ![Data Disk Name](img/datadiskname.png)
+   ![Data Disk Details](img/datadisk1new.png)
+   ![Data Disk Name](img/datadiskname.png)
 3. Select availability zone.
 4. Select an Instance from the dropdown to attach the disk to. 
 5. In the **Choose Disk Configuration** section:
@@ -20,7 +20,7 @@ To create a data disk, follow these steps:
     - Click the **Select Pack** to choose the configured disk pack.
 6. Enter the name of data disk in **Name Your Data Disk**.
 7. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
- ![Block Volume Confirm Purchase](img/bvconfirm.png)
+   ![Block Volume Confirm Purchase](img/bvconfirm.png)
 8. Click the **Confirm** button.
 
 

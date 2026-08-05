@@ -53,7 +53,7 @@ Stop a linux instance to temporarily shut it down when it is not in use, helping
 To stop and start the linux instance, follow these steps:  
 
 1. Navigate to the **Compute > Other Linux Instances**. The following screen appears: 
-  ![Linux Instance List](img/linuxinstancelist.png)
+   ![Linux Instance List](img/linuxinstancelist.png)
 2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 

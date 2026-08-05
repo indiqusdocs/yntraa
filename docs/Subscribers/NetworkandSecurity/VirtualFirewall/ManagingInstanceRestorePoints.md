@@ -20,13 +20,13 @@ Create a restore point to capture the current state of an instance before making
 To create an restore point, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/numberofvf.png)
+   ![Virtual Firewall Lists](img/numberofvf.png)
 2. Click on created your virtual firewall name from the list. The following screen appears: 
-![VF Overview](img/vfoverview.png)
+   ![VF Overview](img/vfoverview.png)
 3. Click **Restore Points**. The following screen appears: 
-![Restore Points](imgnew/restorepoints.png)
+   ![Restore Points](imgnew/restorepoints.png)
 4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
-![Create Restore Point](imgnew/createrestorenew.png)
+   ![Create Restore Point](imgnew/createrestorenew.png)
 5. Click the **Create** button. 
 
 ## Restoring an Instance Restore Point
@@ -36,17 +36,17 @@ Restore an instance from a restore point to recover it to a previously captured 
 To restore an instance restore point, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/numberofvf.png)
+   ![Virtual Firewall Lists](img/numberofvf.png)
 2. Click on created your virtual firewall name from the list. The following screen appears: 
-![VF Overview](img/vfoverview.png)
+   ![VF Overview](img/vfoverview.png)
 3. Click **Restore Points**. The following screen appears: 
-![Restore Points](imgnew/restorepoints.png)
+   ![Restore Points](imgnew/restorepoints.png)
 4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
-![Create Restore Point](imgnew/createrestorenew.png)
+   ![Create Restore Point](imgnew/createrestorenew.png)
 5. Click the **Create** button. The following screen appears: 
-![Restore Points](imgnew/restorefrominstancerestorepoint.png)
+   ![Restore Points](imgnew/restorefrominstancerestorepoint.png)
 6. Click the **Restore from Instance Restore Point** icon (highlighted in red). The following screen appears: 
-![Restore Yes Message](imgnew/restoreyesmessage.png)
+   ![Restore Yes Message](imgnew/restoreyesmessage.png)
 7. Click the **Yes** button. 
    
 ## Deleting an Instance Restore Point
@@ -56,17 +56,17 @@ Delete an instance restore point to remove recovery points that are no longer re
 To delete an instance restore point, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/numberofvf.png)
+   ![Virtual Firewall Lists](img/numberofvf.png)
 2. Click on created your virtual firewall name from the list. The following screen appears: 
-![VF Overview](img/vfoverview.png)
+   ![VF Overview](img/vfoverview.png)
 3. Click **Restore Points**. The following screen appears: 
-![Restore Points](imgnew/restorefrominstancerestorepoint.png)
+   ![Restore Points](imgnew/restorefrominstancerestorepoint.png)
 4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
-![Create Restore Point](imgnew/createrestorenew.png)
+   ![Create Restore Point](imgnew/createrestorenew.png)
 5. Click the **Create** button. The following screen appears: 
-![Delete Restore Points](imgnew/deleterestorepoint.png)
+   ![Delete Restore Points](imgnew/deleterestorepoint.png)
 6. Click the **Delete Restore Point** icon (highlighted in red). The following screen appears: 
-![Delete Restore Yes Message](img/deleterestoreyesmessage.png) 
+   ![Delete Restore Yes Message](img/deleterestoreyesmessage.png) 
 7. Click the **Yes** button.
 
 

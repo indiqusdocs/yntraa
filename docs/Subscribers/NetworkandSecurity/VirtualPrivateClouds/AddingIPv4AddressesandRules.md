@@ -40,18 +40,18 @@ To configure the Load Balancing Rule, follow these steps:
 1. Navigate to **Network and Security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
    ![VPC IP Address](img/vpcipaddress.png)
 2. Click the **Load Balancing** icon (highlighted in red). The following screen appears:
-  ![addrulenew](img/addrulenew.png)
-3. Click **+ Add Rule**. The following screen appears:
-  ![addrule1new](img/addrule1new.png)	  
+   ![Add Rule](img/addrulenew.png)
+3. Click **Add Rule**. The following screen appears:
+   ![addrule1new](img/addrule1new.png)	  
 4. Click the **Add Load Balancing Rule** button. The following screen appears: 
-  ![Enable LBI](img/enablelbi.png)
+   ![Enable LBI](img/enablelbi.png)
 
 Once the load balancer rule has been created, the **Port Forwarding Rule** and **Static NAT** icons are automatically disabled. You can navigate to load balancer and add (or remove) instances to this rule by following these steps:
 
 5. Click the **Load Balancer Rule** icon. The following screen appears:
-   ![addrulenew](img/addrulenew.png)
+   ![Add Rule](img/addrulenew.png)
 6. Click the dropdown and select the appropriate **Load Balancing Rule**. This following screen appears that shows the instances that are part of this load balancer, and those available to be added. 
-   ![addrule2](img/addrule2.png)
+   ![Add Rule](img/addrule2.png)
 7. Click the **+** icon (highlighted in red) to add an instance. The following screen appears:
   ![Add Instance in LB Rule](img/addinstanceinlbrule.png) 
 
@@ -71,7 +71,7 @@ To configure port forwarding, follow these steps:
 2. Click the **Port Forwarding** icon (highlighted in red). The following screen appears:
    ![Add Rule](img/pfaddrulebutton.png) 
 3. Click **+ Add Rule**. The following screen appears: 
-   ![pfnowadded](img/pfnowadded.png)
+   ![PF Rule Added](img/pfnowadded.png)
     :::note
     The end ports should be equal to or greater than the start ports.
     :::
@@ -81,7 +81,7 @@ To configure port forwarding, follow these steps:
 Once the Port-Forwarding rule is created, the **Load Balancing** and **Static NAT** icons are automatically disabled. You can then view the details of the Port Forwarding rule by following these steps:
 
 5. Click the **Port Forwarding Rule** icon. The following screen appears:
-   ![pf](img/pf.png)
+   ![PF](img/pf.png)
 
 You can view the instance where this rule is configured, along with the private and public port range mappings.
 
@@ -100,7 +100,7 @@ To configure Static NAT, follow these steps:
 1. Navigate to **Network and security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
    ![VPC IP Address](img/vpcipaddress3.png)
 2. Click the **Static NAT** icon (highlighted in red). The following screen appears: 
-   ![addstaticnat](img/addstaticnat.png)
+   ![Add Static NAT](img/addstaticnat.png)
 3. Select the instance from the dropdown, and click the **Add Static NAT** button. The following screen appears:
    ![Static NAT Enable](img/staticnatenable.png)
    

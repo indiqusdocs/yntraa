@@ -16,7 +16,7 @@ To add an object in object storage bucket, follow these steps:
 4. Click the **Add Object** button. The following screen appears where you provide the required details:
    ![Add Object Details](img/addobjectdetails.png)
 5. Click the **Upload Object** button. The following screen appears: 
-  ![Download Object](img/downloadobject.png)
+   ![Download Object](img/downloadobject.png)
 6. Click the **Download** icon (highlighted in red).
  
 	

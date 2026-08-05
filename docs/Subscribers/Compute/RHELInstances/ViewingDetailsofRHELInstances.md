@@ -57,11 +57,11 @@ To stop and start the RHEL instance, follow these steps:
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
-![RHEL Stop Instance Message](img/rhelstopinstancemessage.png)
+   ![RHEL Stop Instance Message](img/rhelstopinstancemessage.png)
 4. Click the **Yes** button. The following screen appears:
-![RHEL Instance Stopped](img/rhelinstancestopped.png)
+   ![RHEL Instance Stopped](img/rhelinstancestopped.png)
 5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears: 
-![RHEL Instance Start Message](img/rhelinstancestartmessage.png)
+   ![RHEL Instance Start Message](img/rhelinstancestartmessage.png)
 6. Click the **Yes** button. The following screen appears:
   ![Overview](img/rhelinstanceoverview.png)
 

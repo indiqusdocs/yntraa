@@ -19,13 +19,13 @@ Create an alert to monitor a specific virtual firewall metric and receive an ema
 To configure alerts, follow these steps: 
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
-![vfinstancealert](imgnew/vfinstancealert.png)
+   ![Alert](imgnew/vfinstancealert.png)
 2. Click on your created virtual firewall name from the list. The following screen appears:
-![VF Created](imgnew/launchconsolenew.png) 
+   ![VF Created](imgnew/launchconsolenew.png) 
 3. Click **Alerts**. The following screen appears:
-![alertnew](imgnew/alertnew.png)
+   ![Alert](imgnew/alertnew.png)
 4. Click the **Create Alert** button. The following screen appears where you provide the required details: 
-![Create Alert](imgnew/createalertoninstance.png)
+   ![Create Alert](imgnew/createalertoninstance.png)
 
     - **Name** - You can define the name for your alert.
     - **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, Network Input, and Network Output parameters.
@@ -41,13 +41,13 @@ The Manage Recipients feature lets you control who receives firewall alerts. It 
 To remove existing email IDs and add other email IDs, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears: 
-![vfinstancealert](imgnew/vfinstancealert.png)
+   ![Alert](imgnew/vfinstancealert.png)
 2. Click on your created virtual firewall name from the list. The following screen appears:
-![VF Created](imgnew/launchconsolenew.png) 
+   ![VF Created](imgnew/launchconsolenew.png) 
 3. Click **Alerts**. The following screen appears:
-![alertnew](imgnew/alertnew.png)
+   ![Alert](imgnew/alertnew.png)
 4. Click the **Manage Recipients** button. The following screen appears:
-![Managing Recipients](imgnew/managingrecepients.png) 
+   ![Managing Recipients](imgnew/managingrecepients.png) 
 5. Click the dropdown. From the list, you can perform the following:
     - **Add recipients**: Select the email IDs that you want to add.
     - **Remove recipients**: Clear the selection for the email IDs that you want to remove.

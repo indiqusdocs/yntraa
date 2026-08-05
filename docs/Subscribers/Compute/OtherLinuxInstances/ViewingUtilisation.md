@@ -12,7 +12,7 @@ To view historical usage across supported parameters, follow these steps:
 2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Utilisation**. The following screen appears: 
-   ![linux Instance Utilisation](img/linuxinstanceutilisation.png)
+   ![Linux Instance Utilisation](img/linuxinstanceutilisation.png)
 
 
 

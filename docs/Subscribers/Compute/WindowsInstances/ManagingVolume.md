@@ -27,7 +27,7 @@ To view the disks attached to an Instance, follow these steps:
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
-![View Root Disk](img/viewattacheddisk.png)
+   ![View Root Disk](img/viewattacheddisk.png)
 
 ## Adding Volume
 
@@ -54,9 +54,9 @@ To create the disk restore point, follow these steps:
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
-![View Root Disk](img/windowinstancevolume.png)
+   ![View Root Disk](img/windowinstancevolume.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
-![Create Disk Restore Point in Windows Instance](img/creatediskrestorepoint.png)
+   ![Create Disk Restore Point in Windows Instance](img/creatediskrestorepoint.png)
 5. Click the **Create Disk Restore Point** button. The disk restore point is created.
     :::note
     Restore Point creation will occupy space in your additional storage.
@@ -69,9 +69,9 @@ View disk restore points to monitor the available recovery snapshots created for
 To view the disk restore point, follow these steps: 
 
 1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears:
-![Restore Points list](img/restorepointview.png)
+   ![Restore Points list](img/restorepointview.png)
 2. Click **Disk Restore Point**. The following screen appears: 
-![View Disk Restore Points](img/windowsdiskrestorepoint.png)
+   ![View Disk Restore Points](img/windowsdiskrestorepoint.png)
 
 ## Creating Volume from Disk Restore Point
 
@@ -122,9 +122,9 @@ To delete a disk restore point, follow these steps:
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
-  ![View Root Disk](img/windowinstancevolume.png)
+   ![View Root Disk](img/windowinstancevolume.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
- ![Create Disk Restore Point](img/creatediskrestorepoint.png)
+   ![Create Disk Restore Point](img/creatediskrestorepoint.png)
 5. Click the **Create Disk Restore Point** button. 
     :::note
     Restore Point creation will occupy space in your additional storage.

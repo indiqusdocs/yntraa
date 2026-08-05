@@ -23,9 +23,9 @@ To configure alerts, follow these steps:
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Alerts**. The following screen appears:
-![Windows Instance Alert](img/windowsinstancealert.png)
+   ![Windows Instance Alert](img/windowsinstancealert.png)
 4. Click the **Create Alert** button. The following screen appears where you provide the required details: 
-![Instance Alert Details](img/instancealertdetails.png)
+   ![Instance Alert Details](img/instancealertdetails.png)
 
     - **Name** - You can define the name for your alert.
     - **Choose Parameter** - This option allows you to define what parameter needs to be monitored to trigger the alert email. Yntraa Cloud supports CPU, RAM, Network Input, and Network Output parameters.
@@ -46,9 +46,9 @@ To remove existing email IDs and add other email IDs, follow these steps:
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Alerts**. The following screen appears:
-![Windows Instance Alert](img/windowsinstancealert.png)
+   ![Windows Instance Alert](img/windowsinstancealert.png)
 4. Click the **Manage Recipients** button. The following screen appears:
-![Managing Recipients for Alerts](img/windowsmanagingrecepients.png) 
+   ![Managing Recipients for Alerts](img/windowsmanagingrecepients.png) 
 5. Click the dropdown. From the list, you can perform the following:
     - **Add recipients**: Select the email IDs that you want to add.
     - **Remove recipients**: Clear the selection for the email IDs that you want to remove.

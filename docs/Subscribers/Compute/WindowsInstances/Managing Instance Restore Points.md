@@ -63,7 +63,7 @@ To delete an instance restore point, follow these steps:
 3. Click **Restore Points**. The following screen appears: 
    ![Windows Instance Restore Point](img/deleterestorepoint.png)
 4. Click the **Delete Restore Point** icon (highlighted in red). The following screen appears: 
-![Deleting Restore Point Message](img/deletemessage.png)
+   ![Deleting Restore Point Message](img/deletemessage.png)
 5. Click the **Yes** button. The restore point is deleted.
    
 

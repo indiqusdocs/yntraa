@@ -23,7 +23,7 @@ To view your service balance details, follow these steps:
 4. Click **Account**. The profile tab opens automatically. The following screen appears: 
    ![Profile Details](img/profiledetails.png)
 5. Navigate to **Billing > Service Balance**. The following screen appears with the details: 
-   ![Service Balance View](img/servicebalanceview.png)
+   ![Service Balance](img/servicebalanceview.png)
    
 - **View Wallet Balance:** View the available wallet balance added through the One Yotta wallet system. The balance is displayed in INR and USD.
 

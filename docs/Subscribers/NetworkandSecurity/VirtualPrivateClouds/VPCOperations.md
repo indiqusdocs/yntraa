@@ -23,7 +23,7 @@ To restart a VPC, follow these steps:
 2. Click on your created VPC name from the list. The following screen appears:
    ![Delete VPC Overview](img/deletevpcoverview.png) 
 3. Click **Operations**. The following screen appears:
-   ![operationnew](img/operationnew.png)
+   ![Operation](img/operationnew.png)
 4. Click the **Restart Virtual Router** button.
 
 ## Deleting a VPC

@@ -8,7 +8,7 @@ The Alteon Load Balancer Instance (LBI) control panel is a web-based management 
 To activate the Alteon LBI control panel and accessing it after activation, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
-   ![loadbalanceinstance](img/lbiwindow.png)
+   ![Load Balance Instance](img/lbiwindow.png)
 2. Click on your created load balancer instance name from the list. The following screen appears:
    ![LBI Overview](img/lbioverviewwindow.png) 
 3. Click **Access**. The following screen appears: 

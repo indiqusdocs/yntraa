@@ -10,7 +10,7 @@ sidebar_position: 2
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
    ![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
 2. Click a NAT Gateway name from the list. The Overview tab opens automatically. The following screen appears with the details:
-   ![Nat Gateway Details](imgnew/natgatewayscreen.png) 
+   ![NAT Gateway Details](imgnew/natgatewayscreen.png) 
 
 - **Configuration and Availability:** This displays the NAT Gateways configuration details to help verify its current configuration and operational state.
 

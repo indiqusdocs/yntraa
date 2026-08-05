@@ -161,9 +161,9 @@ To delete disk restore point, follow these steps:
 6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
    ![Restore Points list](img/restorepointview.png)
 7. Click **Disk Restore Point**. The following screen appears:
-![Delete Restore Point Linux](img/deleterestorepointlinux.png)
+   ![Delete Restore Point Linux](img/deleterestorepointlinux.png)
 8. Click the  **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
-![Disk Restore Point Deleted](img/deleteddiskrestore.png)
+   ![Disk Restore Point Deleted](img/deleteddiskrestore.png)
 9. Click the **Yes** button. The disk restore point is deleted.
    
 

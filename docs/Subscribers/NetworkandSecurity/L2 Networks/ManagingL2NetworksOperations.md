@@ -19,9 +19,9 @@ Restarting an L2 network refreshes the L2 network to restore its operational sta
 To restart an L2 network, follow these steps: 
 
 1. Navigate to **Network and Security > L2 Networks**. The following screen appears: 
-![L2 Network List.png](img/l2networklist.png)
+   ![L2 Network List.png](img/l2networklist.png)
 2. Click the **Restart Network** icon (highlighted in red) for the required L2 network. The following screen appears:
-![Restart L2 Network Message](img/restartl2networkmessage.png)
+   ![Restart L2 Network Message](img/restartl2networkmessage.png)
 3. Click the **Yes, Restart** button.
    
 ## Deleting an L2 Network
@@ -33,9 +33,9 @@ This action is irreversible and permanently deletes the L2 network. You will not
 To delete an L2 network, follow these steps:
 
 1. Navigate to **Network and Security > L2 Networks**. The following screen appears: 
-![L2 Network List](img/deletel2network.png) 
+   ![L2 Network List](img/deletel2network.png) 
 2. Click the **Delete Network** icon (highlighted in red) for the required L2 network. The following screen appears:
-![Delete L2 Network Message](img/networkfinallydeleted.png)
+  ![Delete L2 Network Message](img/networkfinallydeleted.png)
 3. Click the **Yes, Delete** button. 
 
 

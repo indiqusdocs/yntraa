@@ -17,7 +17,7 @@ To reconfigure a VPC, follow these steps:
 2. Click on your created VPC name from the list. The following screen appears: 
    ![VPC Reconfigure Overview](img/vpcreconfigureoverview.png)
 3. Click **Reconfigure**. The following screen appears: 
-   ![reconfignew1](img/reconfignew1.png)
+   ![Reconfigure](img/reconfignew1.png)
 4. Reconfigure a virtual router from the list, and click the **Reconfiguring Networking Pack** button.
 
 

@@ -47,7 +47,7 @@ To restore an instance restore point, follow these steps:
 5. Click the **Create** button. The following screen appears:
    ![Instance Restore Point Create](img/restoringinstance.png) 
 6. Click the **Restore from Instance Restore Point** icon (highlighted in red). The following screen appears: 
-  ![restoreinstanceyes](img/restoreinstanceyes.png)
+  ![Restore Instance](img/restoreinstanceyes.png)
   7. Click the **Yes** button. 
   
 ## Deleting an Instance Restore Point

@@ -21,9 +21,9 @@ To connect a linux instance from a windows machine, follow these steps:
 1. [Download and install PuTTy.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Launch PuTTy on your computer.
 3. Enter your Instance’s IP address in the **Host Name (or IP Address)**.
-   ![putty1](img/puttyview1.png)
+   ![Putty1](img/puttyview1.png)
 4. Navigate to **Connection > SSH > Auth**. The following screen appears: 
-   ![putty2](img/puttyview2.png)
+   ![Putty2](img/puttyview2.png)
 5. To open a connection to the Instance, click **Open** at the bottom of the screen. PuTTY prompts you to allow the connection to the host.
 6. Click the **Browse** button and select the previously generated private key file.
 7. Click **OK** to confirm. The terminal screen appears.

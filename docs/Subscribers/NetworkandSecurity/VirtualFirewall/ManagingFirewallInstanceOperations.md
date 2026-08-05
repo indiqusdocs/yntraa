@@ -21,13 +21,13 @@ Restart a Virtual Firewall to refresh its services and apply recent configuratio
 To restart a virtual firewall, follow these steps: 
 
 1. Navigate to **Network and security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/numberofvf.png)
+   ![Virtual Firewall Lists](img/numberofvf.png)
 2. Click on your created virtual firewall name from the list. The following screen appears: 
-![Overview](img/overviewpanel.png)
+   ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
-![Operation List View](img/operationlistview.png) 
+   ![Operation List](img/operationlistview.png) 
 4. Click the **Restart Virtual Firewall** button. The following screen appears: 
-![Restart VF Message](img/restartvfmessage.png)
+   ![Restart VF Message](img/restartvfmessage.png)
 5. Click the **Yes** button.
 
 ## Force Stop a Virtual Firewall
@@ -37,13 +37,13 @@ Force stop a Virtual Firewall to immediately terminate its operations when it be
 To force stop a virtual firewall, follow these steps: 
 
 1. Navigate to **Network and security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/numberofvf.png)
+   ![Virtual Firewall Lists](img/numberofvf.png)
 2. Click on your created virtual firewall name from the list. The following screen appears: 
-![Overview](img/overviewpanel.png)
+   ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
-![Operation List View](img/operationlistview.png) 
+   ![Operation List](img/operationlistview.png) 
 4. Click the **Force Stop Virtual Firewall** button. The following screen appears: 
-![Force Stop VF Message](img/forcestopvf.png)
+   ![Force Stop VF Message](img/forcestopvf.png)
 5. Click the **Yes** button.
 
 ## Renaming a Virtual Firewall
@@ -53,15 +53,15 @@ Rename a Virtual Firewall to assign a more meaningful or updated name for easier
 To rename a virtual firewall, follow these steps: 
 
 1. Navigate to **Network and security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/numberofvf.png)
+   ![Virtual Firewall Lists](img/numberofvf.png)
 2. Click on your created virtual firewall name from the list. The following screen appears: 
-![Overview](img/overviewpanel.png)
+   ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
-![Operation List View](img/operationlistview.png) 
+   ![Operation List](img/operationlistview.png) 
 4. Click the **Rename Virtual Firewall** button. The following screen appears where you can change or update the name of virtual firewall in Virtual Firewall Name.
-![Rename VF](img/renamevfscreen.png)
+   ![Rename VF](img/renamevfscreen.png)
 5. Click the **Done** button. The following screen appears: 
-![Instance Renamed](img/instancerenamed.png)
+   ![Instance Renamed](img/instancerenamed.png)
 
 ## Deleting a Virtual Firewall
 
@@ -73,31 +73,31 @@ You can schedule deletion to continue using the resource until the end of the cu
 To delete a virtual firewall, follow these steps: 
 
 1. Navigate to **Network and security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/numberofvf.png)
+   ![Virtual Firewall Lists](img/numberofvf.png)
 2. Click on your created virtual firewall name from the list. The following screen appears: 
-![Overview](img/overviewpanel.png)
+   ![Overview](img/overviewpanel.png)
 3. Click **Operations**. The following screen appears:
-![Operation List View](img/operationlistview.png) 
+   ![Operation List](img/operationlistview.png) 
 4. Click the **Delete Virtual Firewall** button. The following screen appears:
-![VF Delete Process](img/vfdeleteprocess.png)
+   ![VF Delete Process](img/vfdeleteprocess.png)
 5. Click **Cancel**.
     :::note
     Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
     :::
 6. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
-![Virtual Firewall Lists](img/numberofvf.png)
+   ![Virtual Firewall Lists](img/numberofvf.png)
 7. Click on your created virtual firewall name from the list. The following screen appears: 
-![Overview](img/overviewpanel.png)
+   ![Overview](img/overviewpanel.png)
 8. Click **Networking**. The following screen appears: 
-![Delete VF Process1](img/deletevfprocess1.png)
+   ![Delete VF](img/deletevfprocess1.png)
 9. Click the **Detach NIC** icon (highlighted in red) next to the required private network to detach the network interface card(s) (NIC) from the virtual firewall. The following screen appears: 
-![Detaching NIC](img/detachingnic.png)
+   ![Detaching NIC](img/detachingnic.png)
 10. Click the **Yes** button. The following screen appears:
-![NIC Detached](img/nicdetached.png)
+   ![NIC Detached](img/nicdetached.png)
 11. Click **Operations**. The following screen appears: 
-![Operation List View](img/operationlistview.png) 
+   ![Operation List](img/operationlistview.png) 
 12. Click the **Delete Virtual Firewall** button. The following screen appears: 
-![Deleting VF](img/deletingvfinstance.png)
+   ![Deleting VF](img/deletingvfinstance.png)
 13. Enter **DELETE** and click the **Delete Now** button. The virtual firewall instance is deleted. 
 14. Enter **DELETE** and click the **Schedule Deletion** button. 
 
