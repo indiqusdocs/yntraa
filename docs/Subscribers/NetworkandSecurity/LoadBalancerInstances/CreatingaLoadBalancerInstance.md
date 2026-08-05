@@ -9,7 +9,7 @@ To a create a load balancer instance, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears: 
    ![Load Balance Instance](img/lbiwindow.png)
- 2. Click the **+ New Load Balancer Instance** button. The following screen appears:
+ 2. Click the **New Load Balancer Instance** button. The following screen appears:
    ![LBI Components](img/lbicomponents.png)
    ![LBI Configuration](img/lbconfig.png)
    ![Cost and Summary](img/lbcost.png)

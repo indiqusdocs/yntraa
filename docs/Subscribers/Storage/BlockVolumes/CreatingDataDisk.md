@@ -9,7 +9,7 @@ To create a data disk, follow these steps:
 
 1. Navigate to **Storage > Block Volumes.** The following screen appears: 
    ![Block Volumes List](img/blockvolumelistview.png)
-2. Click the **+ New Block Volume** button. The following screen appears: 
+2. Click the **New Block Volume** button. The following screen appears: 
    ![Data Disk Details](img/datadisk1new.png)
    ![Data Disk Name](img/datadiskname.png)
 3. Select availability zone.

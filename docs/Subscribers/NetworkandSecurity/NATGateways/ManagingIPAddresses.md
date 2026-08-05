@@ -75,7 +75,7 @@ To add a port forwarding rule, follow these steps:
    ![Port Forwarding Rule](imgnew/pfrulenew.png)
 7. Click the **Port Forwarding Rule** icon (highlighted in red). The following screen appears: 
    ![Port Forwarding Rule](imgnew/pfrulenewadd.png)
-8. Click **+ Add Rule**. The following screen appears where you provide the required details:
+8. Click **Add Rule**. The following screen appears where you provide the required details:
    ![PF Rule Details](imgnew/natpfrulenew.png)
 9. Click the **Add Port Forwarding Rule** button. The port forwarding rule is added.
 

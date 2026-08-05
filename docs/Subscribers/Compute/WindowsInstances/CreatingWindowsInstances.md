@@ -9,7 +9,7 @@ To create a windows instance, follow these steps:
 
 1. Navigate to the **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancecreated.png)
-2. Click the **+ New Windows Instance** button. The following screen appears: 
+2. Click the **New Windows Instance** button. The following screen appears: 
    ![Window Instance Creation](img/newwindowcreate1.png)
 3. Select availability zone.
 4. Select a network destination for your instance. Choose an existing VPC from the available options and select the appropriate network tier listed under network tier dropdown.

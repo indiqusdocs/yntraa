@@ -9,7 +9,7 @@ To create a RHEL instance, follow these steps:
 
 1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
-2. Click the **+ New RHEL Instance** button. The following screen appears: 
+2. Click the **New RHEL Instance** button. The following screen appears: 
    ![Availability Zone](img/rhelzonenew.png) 
    ![Compute Pack](img/computepacknew.png)
    ![Root Disk](img/rootdiskrhelnew.png)

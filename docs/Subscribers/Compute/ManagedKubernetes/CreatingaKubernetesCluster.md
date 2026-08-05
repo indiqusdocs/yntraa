@@ -9,7 +9,7 @@ To create a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click **+ New Kubernetes Cluster**. The following screen appears: 
+2. Click **New Kubernetes Cluster**. The following screen appears: 
    ![Kubernetes Cluster Details1](img/kubeclusterdetails1.png)
    ![Kubernetes Cluster Details2](img/kubeclusterdetails2.png)
    ![Kubernetes Cluster Details2](img/kubeclusterdetails3.png)

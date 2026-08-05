@@ -9,7 +9,7 @@ To create a linux instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance List](img/linuxinstancelist.png)
-2. Click the **+ New Linux Instance** button. The following screen appears: 
+2. Click the **New Linux Instance** button. The following screen appears: 
    ![Creating Linux](img/creatinglinuxnew.png)
    ![Compute Pack](img/computepacknew.png)
    ![Costs Summary](img/costsummarynew.png)

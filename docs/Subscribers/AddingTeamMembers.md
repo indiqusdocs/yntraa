@@ -16,7 +16,7 @@ To add a team member or child user, follow these steps:
    ![Profile](img/profile.png) 
 4. Navigate to **Account > Team**. The following screen appears:
    ![Team Member](img/teams.png)
-5. Click the **+ Invite Team Members** button. The portal redirects you to the [One Yotta](https://account.yotta.com) platform and automatically opens the Contacts tab as shown in the screen.
+5. Click the **Invite Team Members** button. The portal redirects you to the [One Yotta](https://account.yotta.com) platform and automatically opens the Contacts tab as shown in the screen.
    ![Add Team Member](img/contacts.png)
 6. Click the **New Contact** button. The following screen appears:
   ![Adding Team Member](img/newmember.png)

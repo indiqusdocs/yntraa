@@ -66,7 +66,7 @@ To configure port forwarding, follow these steps:
    ![PF Rule Add](img/pficon.png)
 2. Click the **Port Forwarding** icon (highlighted in red). The following screen appears:
    ![Add Rule](img/pfaddrulebutton.png) 
-3. Click **+ Add Rule**. The following screen appears: 
+3. Click **Add Rule**. The following screen appears: 
    ![PF Rule Added](img/pfnowadded.png)
     :::note
     The end ports should be equal to or greater than the start ports.
