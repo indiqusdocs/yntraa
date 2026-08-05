@@ -85,6 +85,4 @@ To delete a volume, follow these steps:
 5. Enter **DELETE** and click the **Delete Now** button. 
 6. Enter **DELETE** and click the **Schedule Deletion** button. 
 
-   
-
 

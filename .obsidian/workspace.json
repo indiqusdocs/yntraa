@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket.md",
+                "file": "docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DeletingObjectBucket"
+              "title": "CreatingObjectStorage"
             }
           }
         ]
@@ -171,19 +171,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca21f1c8e9f8d0cc",
+  "active": "b7a0c898a65a0b2a",
   "lastOpenFiles": [
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/search-index.json",
+    "build/sitemap.xml",
+    "build/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails/index.html",
+    "build/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails/index.html",
+    "build/icons/home.svg",
+    "docs/Subscribers/Storage/BlockVolumes/ManagingOperations.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume.md",
+    "docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket.md",
-    "docs/Subscribers/Storage/BlockVolumes/ManagingOperations.md",
     "docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes.md",
     "docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
     "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume.md",
     "docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations.md",
     "docs/Subscribers/Compute/RHELInstances/ManagingVolume.md",
     "docs/Subscribers/Compute/WindowsInstances/ManagingVolume.md",
@@ -194,16 +207,6 @@
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingaVPC.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances.md",
     "docs/Subscribers/AccountCentre/ViewingSubscriptionCharges.md",
-    "build/sitemap.xml",
-    "build/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall/index.html",
-    "build/docs/Subscribers/Compute/ManagedKubernetes/AccessingaClusterusingtheCommandLine/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes/index.html",
-    "build/docs/Subscribers/Compute/RHELInstances/ViewingGraphs/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -213,11 +216,8 @@
     "build/img/sbs.svg",
     "build/img/rn.png",
     "build/img/sbs.png",
-    "build/img/rn.svg",
     "docs/Subscribers/AccountCentre/ViewingServiceUsage.md",
     "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/ServiceBalanceDetails.md",
-    "docs/Subscribers/AccountCentre/AccountProfile.md",
-    "docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups.md"
+    "docs/Subscribers/AccountCentre/ServiceBalanceDetails.md"
   ]
 }

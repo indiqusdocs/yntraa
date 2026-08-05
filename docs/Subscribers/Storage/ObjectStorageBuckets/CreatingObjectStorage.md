@@ -19,11 +19,4 @@ To create an object storage, follow these steps:
 
 
 
-	
-
-
-
-
-
-
 

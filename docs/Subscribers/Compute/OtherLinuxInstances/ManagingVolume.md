@@ -142,7 +142,6 @@ This action can not be reversed.
 :::
 
 To delete disk restore point, follow these steps: 
-
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
 2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
@@ -151,7 +150,7 @@ To delete disk restore point, follow these steps:
    ![View Root Disk](img/linuxinstancevolume.png)
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
    ![Create Disk Restore Point in linux Instance](img/creatediskrestorepoint.png)
-5. Click the **Create Disk Restore Point** button. 
+5. Click the **Create Disk Restore Point** button.
 6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
    ![Restore Points list](img/restorepointview.png)
 7. Click **Disk Restore Point**. The following screen appears:
