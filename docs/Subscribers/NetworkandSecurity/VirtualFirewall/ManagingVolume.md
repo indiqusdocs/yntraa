@@ -105,8 +105,6 @@ To delete disk restore point, follow these steps:
    ![Disk Restore Point Deleted](img/diskrestorepointdeleted.png)
 9. Click the **Yes** button. The disk restore point is deleted.
 
-   
-
 
 
 

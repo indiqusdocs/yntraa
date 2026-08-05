@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage.md",
+                "file": "docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CreatingObjectStorage"
+              "title": "ManagingVolume"
             }
           }
         ]
@@ -171,8 +171,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b7a0c898a65a0b2a",
+  "active": "ca21f1c8e9f8d0cc",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/RHELInstances/ManagingVolume.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/NetworkingManagement.md",
+    "docs/Subscribers/SigningUp.md",
+    "docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/search-index.json",
@@ -183,7 +188,6 @@
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails/index.html",
     "build/icons/home.svg",
     "docs/Subscribers/Storage/BlockVolumes/ManagingOperations.md",
     "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
@@ -198,11 +202,9 @@
     "docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations.md",
     "docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations.md",
-    "docs/Subscribers/Compute/RHELInstances/ManagingVolume.md",
     "docs/Subscribers/Compute/WindowsInstances/ManagingVolume.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingaVPC.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances.md",
@@ -216,8 +218,6 @@
     "build/img/sbs.svg",
     "build/img/rn.png",
     "build/img/sbs.png",
-    "docs/Subscribers/AccountCentre/ViewingServiceUsage.md",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/ServiceBalanceDetails.md"
+    "docs/Subscribers/AccountCentre/ViewingServiceUsage.md"
   ]
 }
