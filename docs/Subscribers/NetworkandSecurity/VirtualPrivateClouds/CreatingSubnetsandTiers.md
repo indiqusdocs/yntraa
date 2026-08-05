@@ -32,7 +32,7 @@ To restart a network tier, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC List](img/vpclist.png)
-2. Click on the VPC name from the list. The following screen appears:
+2. Click on your created VPC name from the list. The following screen appears:
    ![Overview in VPC](img/overviewinvpc.png)
 3. Click **Subnet And Tiers**. The following screen appears:
    ![Adding Tier in VPC](img/addingtierinvpc.png)
@@ -52,7 +52,7 @@ To replace an ACL, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC List](img/vpclist.png)
-2. Click on the VPC name from the list. The following screen appears:
+2. Click on your created VPC name from the list. The following screen appears:
    ![Overview in VPC](img/overviewinvpc.png)
 3. Click **Subnet And Tiers**. The following screen appears:
    ![Adding Tier in VPC](img/addingtierinvpc.png)
@@ -75,7 +75,7 @@ To delete a network tier, follow these steps:
 
 1. Navigate to **Network and Security > Virtual Private Clouds**. The following screen appears:
    ![VPC List](img/vpclist.png)
-2. Click on the VPC name from the list. The following screen appears:
+2. Click on your created VPC name from the list. The following screen appears:
    ![Overview in VPC](img/overviewinvpc.png)
 3. Click **Subnet And Tiers**. The following screen appears:
    ![Adding Tier in VPC](img/addingtierinvpc.png)

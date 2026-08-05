@@ -19,7 +19,7 @@ To add a network, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancer**. The following screen appears:
    ![LBI Instance List](img/newlbinstance.png)
-2. Click on your created load balancer instance name. The Overview tab opens automatically. The following screen appears:
+2. Click on your created load balancer instance name from the list. The Overview tab opens automatically. The following screen appears:
    ![LBI Overview](img/lbioverviewwindow.png) 
 3. Click **Networking**. The following screen appears:
    ![Networking](img/networkingscreen.png) 
@@ -39,7 +39,7 @@ To add a secondary IP, follow these steps:
 
 1. Navigate to **Network and Security > Load Balancer**. The following screen appears:
    ![LBI Instance List](img/newlbinstance.png)
-2. Click on your created load balancer instance name. The Overview tab opens automatically. The following screen appears:
+2. Click on your created load balancer instance name from the list. The Overview tab opens automatically. The following screen appears:
    ![LBI Overview](img/lbioverviewwindow.png) 
 3. Click **Networking**. The following screen appears:
    ![Networking](img/networkingscreen.png) 

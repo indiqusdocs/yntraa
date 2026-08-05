@@ -53,7 +53,7 @@ Once the load balancer rule has been created, the **Port Forwarding Rule** and *
 6. Click the dropdown and select the appropriate **Load Balancing Rule**. This following screen appears that shows the instances that are part of this load balancer, and those available to be added. 
    ![Add Rule](img/addrule2.png)
 7. Click the **+** icon (highlighted in red) to add an instance. The following screen appears:
-  ![Add Instance in LB Rule](img/addinstanceinlbrule.png) 
+   ![Add Instance in LB Rule](img/addinstanceinlbrule.png) 
 
 To verify the load balancer configuration, log into each instance behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
