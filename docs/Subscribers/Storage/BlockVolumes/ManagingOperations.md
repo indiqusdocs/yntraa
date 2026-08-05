@@ -68,7 +68,7 @@ To download a volume, follow these steps:
 ## Deleting a Volume
 
 Deleting a volume permanently removes the block storage volume and its associated data from the environment. You can delete a volume when it is no longer required and is no longer attached to any instance. This operation helps reclaim storage resources, maintain an organized storage environment, and prevent unnecessary resource usage. Before deleting a volume, ensure that any required data has been backed up, as the operation cannot be undone.
-:::note
+:::warning
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
 

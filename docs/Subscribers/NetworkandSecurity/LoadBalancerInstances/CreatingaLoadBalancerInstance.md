@@ -21,9 +21,6 @@ To a create a load balancer instance, follow these steps:
 8. Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
    ![Confirm LBI Purchase](img/confirmlbipurchase.png)
 9. Click the **Confirm** button. 
-    :::note
-    The above steps create an LBI and place it in the correct spot in the network. To configure traffic management rules and access other options via the Alteon control panel, additional activation steps are needed. These instructions are sent over email when an LBI is created.
-    :::
 
 
 

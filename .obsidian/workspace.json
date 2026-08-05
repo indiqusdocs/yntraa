@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/AccountCentre/ViewingSubscriptionCharges.md",
+                "file": "docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ViewingSubscriptionCharges"
+              "title": "DeletingObjectBucket"
             }
           }
         ]
@@ -171,8 +171,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "b7a0c898a65a0b2a",
+  "active": "ca21f1c8e9f8d0cc",
   "lastOpenFiles": [
+    "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails.md",
+    "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket.md",
+    "docs/Subscribers/Storage/BlockVolumes/ManagingOperations.md",
+    "docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes.md",
+    "docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
+    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ConnectingtoaLinuxInstance.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume.md",
+    "docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations.md",
+    "docs/Subscribers/Compute/RHELInstances/ManagingVolume.md",
+    "docs/Subscribers/Compute/WindowsInstances/ManagingVolume.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingaVPC.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances.md",
+    "docs/Subscribers/AccountCentre/ViewingSubscriptionCharges.md",
     "build/sitemap.xml",
     "build/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket/index.html",
@@ -183,7 +204,6 @@
     "build/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes/index.html",
     "build/docs/Subscribers/Compute/RHELInstances/ViewingGraphs/index.html",
     "build/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails/index.html",
-    "build/docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -198,26 +218,6 @@
     "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
     "docs/Subscribers/AccountCentre/ServiceBalanceDetails.md",
     "docs/Subscribers/AccountCentre/AccountProfile.md",
-    "docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups.md",
-    "docs/Subscribers/Compute/Autoscale/Modifying Configurations.md",
-    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
-    "docs/Subscribers/SystemRequirements.md",
-    "docs/Subscribers/SigningUp.md",
-    "docs/Subscribers/SigningIn.md",
-    "docs/Subscribers/intro.md",
-    "docs/Subscribers/GettingStartedonYntraaCloud.md",
-    "docs/Subscribers/AddingTeamMembers.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints.md",
-    "docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages.md",
-    "docs/Subscribers/ToolsandUtilities/AddingVPNGateways.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/AddingObjectinBucket.md",
-    "docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes.md",
-    "docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails.md"
+    "docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups.md"
   ]
 }

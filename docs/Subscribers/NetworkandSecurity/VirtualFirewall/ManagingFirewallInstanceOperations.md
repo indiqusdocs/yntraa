@@ -66,7 +66,7 @@ To rename a virtual firewall, follow these steps:
 ## Deleting a Virtual Firewall
 
 Delete a Virtual Firewall to permanently remove it when it is no longer required. Use this option to free up associated resources and maintain an organized cloud environment.
-:::note
+:::warning
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
 

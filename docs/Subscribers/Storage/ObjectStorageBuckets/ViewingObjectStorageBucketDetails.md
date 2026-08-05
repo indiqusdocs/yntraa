@@ -28,9 +28,6 @@ To view an object storage bucket details, follow these steps:
 - HTTP DELETE Requests
 
 
-	
-
-
 
 
 

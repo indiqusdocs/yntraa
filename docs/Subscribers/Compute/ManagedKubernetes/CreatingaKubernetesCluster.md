@@ -16,7 +16,7 @@ To create a kubernetes cluster, follow these steps:
 3. Select availability zone.
    
     :::note
-    Kubernetes clusters can be created only in availability zones that support VPC networking
+    Kubernetes clusters can be created only in availability zones that support VPC networking.
     :::
 4. Select a cluster pack from the list.
 5. Select the required IP address configuration for the cluster.

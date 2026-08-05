@@ -55,10 +55,6 @@ Once the load balancer rule has been created, the **Port Forwarding Rule** and *
 7. Click the **+** icon (highlighted in red) to add an instance. The following screen appears:
   ![Add Instance in LB Rule](img/addinstanceinlbrule.png) 
 
-    :::note
-    To delete this Load Balancing Rule, click **Delete This Rule** button.
-    :::
-
 To verify the load balancer configuration, log into each instance behind it, create an **index.html** file with different content on each, and access the public IP address from your browser. If configured correctly, each browser page refresh should take turns in loading the two index.html pages.
 
 ## Configuring Port Forwarding

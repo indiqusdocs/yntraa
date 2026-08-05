@@ -74,9 +74,6 @@ To create volume from disk restore point, follow these steps:
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
    ![Create Disk Restore Point](img/creatediskrestorepoint.png)
 5. Click the **Create Disk Restore Point** button. 
-    :::note
-    Restore Point creation will occupy space in your additional storage.
-    :::
 6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
    ![Restore Points list](img/restorepointslist.png)
 7. Click **Disk Restore Point**. The following screen appears: 
@@ -100,9 +97,6 @@ To delete disk restore point, follow these steps:
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
    ![Create Disk Restore Point](img/creatediskrestorepoint.png)
 5. Click the **Create Disk Restore Point** button. 
-    :::note
-    Restore Point creation will occupy space in your additional storage.
-    :::
 6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
    ![Restore Points list](img/restorepointslist.png)
 7. Click **Disk Restore Point**. The following screen appears:

@@ -133,7 +133,7 @@ To rename an instance, follow these steps:
 ## Deleting an Instance
 
 Delete a RHEL instance when it is no longer required to remove it permanently from cloud environment. This action helps free up resources, reduce unnecessary costs, and keep your infrastructure organized by eliminating unused instances. 
-:::note
+:::warning
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
 

@@ -41,7 +41,7 @@ To connect a RHEL instance from a macOS or linux machine, follow these steps:
 	ssh -i ~/.ssh/<your_private_key> <username>@<your_instance_ip>
 	```
 
-    :::note
+    :::important
     Make sure you replace `your_private_key` with the filename of your private key; `your_instance_ip` with the IP address of your Instance; and `username` with the default root user name (**root**).
     :::
 

@@ -35,7 +35,7 @@ To add instances to a VPC, follow these steps:
 
 ## Viewing Instances Associated to a VPC
 
-Yntraa Cloud portal offers a quick means to view instances that are part of a VPC network.
+Viewing instances associated with a VPC enables you to monitor the compute resources deployed within the selected network. The Yntraa Cloud portal provides a centralized view of all instances connected to a VPC, making it easier to review their deployment, verify network association, and efficiently manage resources within the VPC environment.
 
 To view the instances that are a part of the VPC network, follow these steps:
 

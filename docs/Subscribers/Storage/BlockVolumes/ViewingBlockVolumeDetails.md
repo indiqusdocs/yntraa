@@ -22,7 +22,6 @@ To view the disk details, follow these steps:
     - Offering Name
     - Instance State
     - Created On
-
   
 
 
