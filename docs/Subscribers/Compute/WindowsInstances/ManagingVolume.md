@@ -113,6 +113,7 @@ Delete a disk restore point when it is no longer required to free up storage res
 :::warning
 This action can not be reversed.
 :::
+
 To delete a disk restore point, follow these steps: 
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 

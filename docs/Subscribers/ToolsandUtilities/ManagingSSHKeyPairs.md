@@ -11,7 +11,6 @@ This section comprises of the following sub-sections:
 - [Generating a SSH Public Key Pair](#generating-a-ssh-public-key-pair)
 - [Uploading a SSH Public Key](#uploading-a-ssh-public-key)
 - [Deleting a SSH Public key](#deleting-a-ssh-public-key)
-- [Using Linux Instances with SSH Public Keys](#using-linux-instances-with-ssh-public-keys)
 </div>
 
 
@@ -35,6 +34,7 @@ To generate a SSH key pair, follow these steps:
 Uploading a public key allows you to use an existing SSH key pair to securely authenticate access to your cloud instances. Instead of generating a new key pair, you can upload the public key from an existing SSH key pair while keeping the corresponding private key on your local system. This is useful when you want to use the same SSH credentials across multiple instances or cloud environments.
 
 To upload a public SSH key, follow these steps: 
+
 1. Navigate to **Tools and Utilities > SSH Keys Pairs**. The following screen appears: 
    ![SSH Keypair List](img/sshkeypairslist.png) 
 2. Click **Upload a Public Key**. The following screen appears where you provide the required details:
@@ -46,21 +46,11 @@ To upload a public SSH key, follow these steps:
 Deleting an SSH public key removes it from your cloud account, preventing it from being used to authenticate new SSH connections to instances. Delete a public key only if it is no longer required or has been replaced with a new key. Ensure that the associated private key is no longer in use before deleting the public key to avoid losing SSH access to instances that depend on it.
 
 To delete a public SSH key, follow these steps: 
+
 1. Navigate to **Tools and Utilities > SSH Keys Pairs**. The following screen appears: 
    ![Delete SSH Keypair](img/deletesshkeypair.png) 
 2. Click **Delete** icon (highlighted in red). The following screen appears:
    ![Delete Key Yes Message](img/deletekeyyesmessage.png) 
 3. Click the **Yes** button.   
 
-## Using Linux Instances with SSH Public Keys
-
-To use an Linux Instance with an SSH key, it needs to be associated with a key first. This can be done in two ways:
-
-1. While creating a [Linux Instance](/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances), in the provisioning details form, choose any of the SSH options from the **Use SSH key pair** option under **Choose an Authentication method**. This will let you:
-    1. Generate a new key pair.
-    2. Upload a public key from your system.
-    3. Select an existing SSH key from your Yntraa Cloud account. 
-       ![Authentication](img/authenticationnew.png)
-    4. **Use Default Password** to allow the system to automatically generate a password. You can view or copy this password from the instance details page after creation.
-    5. **Use Custom Password** to define your own password. Enter and confirm the password, ensuring it meets the required security criteria.
 

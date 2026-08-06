@@ -13,6 +13,7 @@ The deployment includes:
     - Kubernetes Metrics Collection Components
 
 ## Prerequisites
+
 Ensure the following prerequisites are met before proceeding:
     - A running kubernetes cluster.
     - kubectl installed and configured.
@@ -21,23 +22,31 @@ Ensure the following prerequisites are met before proceeding:
     - Sufficient cluster resources available for monitoring components.
   
 ## Adding Prometheus Community Helm Repository
+
 Run the following commands to add the official Prometheus Community Helm repository and update the local Helm cache:
 
 ### Adding Helm Repository
+
 `helm repo add prometheus-community https://prometheus-community.github.io/helm-charts`
 
 ### Updating Helm Repository
+
 `helm repo update`
+
 ## Creating Monitoring Namespace
+
 Create a dedicated namespace for monitoring components by running the following command:
 
 `kubectl create namespace monitoring`
    
 ## Deploying Prometheus and Grafana Stack
+
 Deploy the kube-prometheus-stack Helm chart into the monitoring namespace by running the following command.
 
 `helm install prometheus prometheus-community/kube-prometheus-stack --namespace monitoring`
+
 ## Verifying Installation
+
 Verify that all monitoring pods are running successfully.
 
 `kubectl get pods -n monitoring`
@@ -54,20 +63,25 @@ READY   STATUS    RESTARTS alertmanager-prometheus-kube-prometheus-alertman
 1/1     Running   0 prometheus-prometheus-kube-prometheus-prometheus-0       
 2/2     Running   0
 ```
+
 ## Accessing Grafana
+
 The Helm chart automatically deploys Grafana and generates a default admin password.
 
 ### Forwarding Grafana Service Port
+
 Run the following command to access Grafana locally:
    
 `kubectl port-forward svc/prometheus-grafana 3000:80 -n monitoring`
    
 ### Accessing Grafana UI
+
 Open the following URL in web browser:
 
 `http://localhost:3000`
 
 ## Default Grafana Credentials
+
 - Username: admin
 - Retrieve the automatically generated admin password by running the following command:
   
@@ -76,16 +90,19 @@ Open the following URL in web browser:
 ## Accessing Prometheus
 
 ### Forwarding Prometheus Service Port
+
 Run the following command:
 
 `kubectl port-forward svc/prometheus-kube-prometheus-prometheus 9090:9090 -n monitoring` 
 
 ### Accessing Prometheus UI
+
 Open the following URL in your web browser:
 
  `http://localhost:9090` 
 
 ## Validation Checks
+
 After deployment, verify the following validations:
     - All pods in the monitoring namespace are running.
     - Grafana dashboard is accessible.
@@ -96,12 +113,15 @@ After deployment, verify the following validations:
 ## Troubleshooting
 
 ### Checking Helm Release Status
+
 `helm list -n monitoring` 
    
 ### Checking Pod Logs
+
  `kubectl logs -n monitoring <pod-name>`
   
 ### Describing Failed Pods
+
 `kubectl describe pod <pod-name> -n monitoring`
  
  Prometheus and Grafana have now been successfully deployed on the kubernetes cluster using the kube-prometheus-stack Helm chart. The environment is ready for monitoring kubernetes workloads, infrastructure metrics, and alerting integration.

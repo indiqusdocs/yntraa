@@ -38,6 +38,8 @@ To view the details of a load balancer instance, follow these steps:
 
 Launch the LBI Web Based Console to access the browser-based management interface for your load balancer instance. The console enables you to configure and manage load balancing settings, monitor traffic and system health, and perform administrative tasks from a web browser.
 
+To launch LBI web based console, follow these steps:   
+
 1. Navigate to **Network and Security > Load Balancers**. The following screen appears:
    ![Load Balance Instance](img/lbiwindow.png)
 2. Click on your created load balancer instance name from the list. The following screen appears:

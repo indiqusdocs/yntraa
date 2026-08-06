@@ -43,6 +43,7 @@ To create a custom image or My Image, follow these steps:
 Deleting custom images or My Image allows you to remove custom images that are no longer required. This helps keep the image repository organised and ensures that only relevant images are available for future use.
 
 To delete a custom image or My Image, follow these steps: 
+
 1. Navigate to **Tools and Utilities > My Images**. The following screen appears: 
    ![My Image Created](img/myimagecreated.png)
 2. Click the **Delete** icon. The following screen appears: 

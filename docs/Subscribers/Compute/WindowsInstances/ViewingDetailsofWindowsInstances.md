@@ -40,6 +40,8 @@ To view the details of windows instances, follow these steps:
 
 Launch the windows instance web-based console to access and manage your windows virtual machine through a web browser. The console provides a convenient way to perform administrative and management tasks on the instance.
 
+To launch window instance web based console, follow these steps:   
+
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 

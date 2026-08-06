@@ -43,6 +43,8 @@ To view the details associated with a virtual firewall instance, follow these st
 
 The virtual firewall console provides a secure, web‑based interface to manage and monitor your firewall. It allows administrators or you to configure policies, review system activity, and ensure network protection through a centralized dashboard. 
 
+To launch virtual firewall web based console, follow these steps:   
+
 1. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
    ![Virtual Firewall](imgnew/virtualfirewallnew.png)
 2. Click on your created virtual firewall name from the list. The following screen appears:

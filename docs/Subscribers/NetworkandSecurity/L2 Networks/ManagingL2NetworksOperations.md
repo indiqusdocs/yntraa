@@ -30,6 +30,7 @@ Deleting an L2 network permanently removes an unused Layer 2 network from your e
 :::warning
 This action is irreversible and permanently deletes the L2 network. You will not be able to recover the L2 network or its associated configuration after deletion.
 :::
+
 To delete an L2 network, follow these steps:
 
 1. Navigate to **Network and Security > L2 Networks**. The following screen appears: 

@@ -37,6 +37,7 @@ A load balancer IP rule can only be configured if the tier/subnet type is set to
 :::
 
 To configure the Load Balancing Rule, follow these steps:
+
 1. Navigate to **Network and Security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
    ![VPC IP Address](img/vpcipaddress.png)
 2. Click the **Load Balancing** icon (highlighted in red). The following screen appears:
@@ -62,6 +63,7 @@ To verify the load balancer configuration, log into each instance behind it, cre
 A Port Forwarding rule is required for accessing the instances contained in a VPC. Since instances in a VPC only have a private IP address, a public IP address is required for each instances that you want to access from your terminal.
 
 To configure port forwarding, follow these steps:
+
 1. Navigate to **Network and security > Virtual Private Clouds**, and click **IP Addresses**. The following screen appears:
    ![PF Rule Add](img/pficon.png)
 2. Click the **Port Forwarding** icon (highlighted in red). The following screen appears:

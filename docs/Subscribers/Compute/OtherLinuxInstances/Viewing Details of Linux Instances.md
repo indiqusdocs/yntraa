@@ -40,6 +40,8 @@ To view the details of linux instances, follow these steps:
 
 Launch the linux instance web-based console to access and manage your linux instance through a web browser. The console provides a convenient way to perform administrative and management tasks on the instance.
 
+To launch linux instance web based console, follow these steps:  
+
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears: 
    ![Linux Instance List](img/linuxinstancelist.png)
 2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 

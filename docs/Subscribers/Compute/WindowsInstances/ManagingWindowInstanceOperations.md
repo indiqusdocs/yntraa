@@ -86,6 +86,7 @@ Migrating a windows instance between networks allows you to move the instance fr
 :::note
 Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurations from the selected NIC before migrating the instance to another network.
 ::: 
+
 To migrate windows Instance between networks, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 

@@ -20,11 +20,13 @@ Before proceeding with the installation, ensure the following prerequisites are 
 Execute the following commands on the kubernetes master node to install Helm:
 
 ### Installing Required Packages
+
 To install the required packages, run the following command:
 
    `sudo apt-get install curl gpg apt-transport-https --yes`
 
 ### Adding Helm Repository
+
 Run the following commands to add the Helm repository:
 ```
  curl -fsSL https://packages.buildkite.com/helm-linux/helm-debian/gpgkey | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null

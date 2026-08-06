@@ -40,6 +40,8 @@ To view the details of RHEL instances, follow these steps:
 
 Launch the RHEL instance web-based console to access and manage your RHEL virtual machine through a web browser. The console provides a convenient way to perform administrative and management tasks on the instance.
 
+To launch RHEL instance web based console, follow these steps:  
+
 1. Navigate to **Compute > RHEL Instances**. The following screen appears: 
    ![RHEL Instance List](img/rhelinstancelist.png)
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 

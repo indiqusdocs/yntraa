@@ -72,6 +72,7 @@ You can schedule deletion to continue using the resource until the end of the cu
 :::note
 Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
 :::
+
 To delete a virtual firewall, follow these steps: 
 
 1. Navigate to **Network and security > Virtual Firewalls**. The following screen appears: 
