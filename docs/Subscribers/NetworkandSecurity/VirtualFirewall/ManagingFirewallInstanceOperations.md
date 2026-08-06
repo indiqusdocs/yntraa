@@ -30,7 +30,7 @@ To restart a virtual firewall, follow these steps:
    ![Restart VF Message](img/restartvfmessage.png)
 5. Click the **Yes** button.
 
-## Force Stop a Virtual Firewall
+## Force Stopping a Virtual Firewall
 
 Force stop a Virtual Firewall to immediately terminate its operations when it becomes unresponsive or cannot be stopped through the normal shutdown process. Use this option to recover from critical issues, regain control of the firewall, or prepare it for troubleshooting or restart.
 
@@ -69,7 +69,9 @@ Delete a Virtual Firewall to permanently remove it when it is no longer required
 :::warning
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
-
+:::note
+Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
+:::
 To delete a virtual firewall, follow these steps: 
 
 1. Navigate to **Network and security > Virtual Firewalls**. The following screen appears: 
@@ -80,26 +82,8 @@ To delete a virtual firewall, follow these steps:
    ![Operation List](img/operationlistview.png) 
 4. Click the **Delete Virtual Firewall** button. The following screen appears:
    ![VF Delete Process](img/vfdeleteprocess.png)
-5. Click **Cancel**.
-    :::note
-    Before deleting a virtual firewall, ensure that all associated L2 networks are detached.
-    :::
-6. Navigate to **Network and Security > Virtual Firewalls**. The following screen appears:
-   ![Virtual Firewall Lists](img/numberofvf.png)
-7. Click on your created virtual firewall name from the list. The following screen appears: 
-   ![Overview](img/overviewpanel.png)
-8. Click **Networking**. The following screen appears: 
-   ![Delete VF](img/deletevfprocess1.png)
-9. Click the **Detach NIC** icon (highlighted in red) next to the required private network to detach the network interface card(s) (NIC) from the virtual firewall. The following screen appears: 
-   ![Detaching NIC](img/detachingnic.png)
-10. Click the **Yes** button. The following screen appears:
-   ![NIC Detached](img/nicdetached.png)
-11. Click **Operations**. The following screen appears: 
-   ![Operation List](img/operationlistview.png) 
-12. Click the **Delete Virtual Firewall** button. The following screen appears: 
-   ![Deleting VF](img/deletingvfinstance.png)
-13. Enter **DELETE** and click the **Delete Now** button. The virtual firewall instance is deleted. 
-14. Enter **DELETE** and click the **Schedule Deletion** button. 
+5. Click the **Okay** button.
+    
 
 
 

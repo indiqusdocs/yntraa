@@ -40,14 +40,10 @@ To restore an instance restore point, follow these steps:
 2. Click on created your virtual firewall name from the list. The following screen appears: 
    ![VF Overview](img/vfoverview.png)
 3. Click **Restore Points**. The following screen appears: 
-   ![Restore Points](imgnew/restorepoints.png)
-4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
-   ![Create Restore Point](imgnew/createrestorenew.png)
-5. Click the **Create** button. The following screen appears: 
-   ![Restore Points](imgnew/restorefrominstancerestorepoint.png)
-6. Click the **Restore from Instance Restore Point** icon (highlighted in red). The following screen appears: 
+  ![Restore Points](imgnew/restorefrominstancerestorepoint.png)
+4. Click the **Restore from Instance Restore Point** icon (highlighted in red). The following screen appears: 
    ![Restore Yes Message](imgnew/restoreyesmessage.png)
-7. Click the **Yes** button. 
+5. Click the **Yes** button. 
    
 ## Deleting an Instance Restore Point
 
@@ -59,15 +55,11 @@ To delete an instance restore point, follow these steps:
    ![Virtual Firewall Lists](img/numberofvf.png)
 2. Click on created your virtual firewall name from the list. The following screen appears: 
    ![VF Overview](img/vfoverview.png)
-3. Click **Restore Points**. The following screen appears: 
-   ![Restore Points](imgnew/restorefrominstancerestorepoint.png)
-4. Click the **Create Instance Restore Point** button. The following screen appears where you provide the required details:
-   ![Create Restore Point](imgnew/createrestorenew.png)
-5. Click the **Create** button. The following screen appears: 
+3. Click the **Create** button. The following screen appears: 
    ![Delete Restore Points](imgnew/deleterestorepoint.png)
-6. Click the **Delete Restore Point** icon (highlighted in red). The following screen appears: 
+4. Click the **Delete Restore Point** icon (highlighted in red). The following screen appears: 
    ![Delete Restore Yes Message](img/deleterestoreyesmessage.png) 
-7. Click the **Yes** button.
+5. Click the **Yes** button.
 
 
 

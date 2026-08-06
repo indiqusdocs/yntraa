@@ -46,6 +46,9 @@ To add volume, follow these steps:
 ## Creating Disk Restore Point 
 
 Create a disk restore point to capture the current state of a disk before performing updates, configuration changes, or other modifications. A disk restore point preserves the disk data at a specific point in time, allowing you to restore the disk to that state if needed. This helps protect against accidental data loss, simplifies recovery from unexpected issues, and ensures business continuity with minimal downtime.
+:::note
+Restore Point creation will occupy space in your additional storage.
+:::
 
 To create the disk restore point, follow these steps: 
 
@@ -58,9 +61,7 @@ To create the disk restore point, follow these steps:
 4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
    ![Create Disk Restore Point in Windows Instance](img/creatediskrestorepoint.png)
 5. Click the **Create Disk Restore Point** button. The disk restore point is created.
-    :::note
-    Restore Point creation will occupy space in your additional storage.
-    :::
+    
 
 ## Viewing Disk Restore Points
 
@@ -130,9 +131,6 @@ To delete a disk restore point, follow these steps:
 8. Click the  **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
    ![Disk Restore Point Deleted](img/deleteddiskrestore.png)
 9. Click the **Yes** button. The disk restore point is deleted.
-
-   
-
 
 
 

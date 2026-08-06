@@ -32,7 +32,7 @@ To restart a linux instance, follow these steps:
    ![Restart Instance Message](img/restartinstancemessage.png)
 4. Click the **Yes** button.
    
-## Force Stop an Instance
+## Force Stopping an Instance
 
 Force stop a linux instance to immediately terminate its operations when it becomes unresponsive or cannot be shut down through a normal stop operation. This action helps recover from critical issues, restore control of the instance, and prepare it for troubleshooting or restart. 
 
