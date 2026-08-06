@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
 ---
-# Viewing Subscription Charges
+# Unbilled Charges Details
 
-The unbilled charges provides a consolidated view of charges that have been incurred for your active subscriptions but have not yet been included in an invoice. It enables you to monitor the estimated charges accumulated during the current billing cycle, helping you track your spending before the invoice is generated. The page includes charges for both fixed subscriptions and usage-based services, ensuring better visibility into ongoing costs.
+The unbilled charges or subscription charges provides a consolidated view of charges that have been incurred for your active subscriptions but have not yet been included in an invoice. It enables you to monitor the estimated charges accumulated during the current billing cycle, helping you track your spending before the invoice is generated. The page includes charges for both fixed subscriptions and usage-based services, ensuring better visibility into ongoing costs.
 
 To view your unbilled charge details, follow these steps: 
 

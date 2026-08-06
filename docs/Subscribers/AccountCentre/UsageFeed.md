@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
 ---
-# Viewing Service Usage
+# Viewing Usage Feed Details
 
-The usage feed provides a consolidated view of usage records for your subscribed services. It enables you to monitor subscription usage by displaying key details such as subscription information, usage period, and related charge information. You can also search, filter, and download the usage records to help review and track service consumption during the selected period.
+The usage feed or service usage provides a consolidated view of usage records for your subscribed services. It enables you to monitor subscription usage by displaying key details such as subscription information, usage period, and related charge information. You can also search, filter, and download the usage records to help review and track service consumption during the selected period.
 
 To view your service usage details, follow these steps: 
 

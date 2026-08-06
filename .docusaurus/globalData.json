@@ -111,13 +111,13 @@
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/ViewingServiceUsage",
-              "path": "/docs/Subscribers/AccountCentre/ViewingServiceUsage",
+              "id": "Subscribers/AccountCentre/UnbilledCharges",
+              "path": "/docs/Subscribers/AccountCentre/UnbilledCharges",
               "sidebar": "sidebar1"
             },
             {
-              "id": "Subscribers/AccountCentre/ViewingSubscriptionCharges",
-              "path": "/docs/Subscribers/AccountCentre/ViewingSubscriptionCharges",
+              "id": "Subscribers/AccountCentre/UsageFeed",
+              "path": "/docs/Subscribers/AccountCentre/UsageFeed",
               "sidebar": "sidebar1"
             },
             {

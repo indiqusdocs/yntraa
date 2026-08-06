@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e89'),
+    component: ComponentCreator('/docs', 'c41'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'df3'),
+        component: ComponentCreator('/docs', '629'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '43c'),
+            component: ComponentCreator('/docs', 'bdf'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -382,14 +382,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/ViewingServiceUsage',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/ViewingServiceUsage', 'ff5'),
+                path: '/docs/Subscribers/AccountCentre/UnbilledCharges',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/UnbilledCharges', 'aa3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/ViewingSubscriptionCharges',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/ViewingSubscriptionCharges', '972'),
+                path: '/docs/Subscribers/AccountCentre/UsageFeed',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/UsageFeed', 'c2b'),
                 exact: true,
                 sidebar: "sidebar1"
               },

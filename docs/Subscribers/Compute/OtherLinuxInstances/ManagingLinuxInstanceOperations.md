@@ -9,7 +9,7 @@ Yntraa Cloud provides the following operations on linux instances:
 
 <div className="custom-block-blue">  
 - [Restarting an Instance](#restarting-an-instance)
-- [Force Stop an Instance](#force-stop-an-instance)
+- [Force Stopping an Instance](#force-stopping-an-instance)
 - [Resetting Password of an Instance](#resetting-password-of-an-instance)
 - [Resetting SSH key](#resetting-ssh-key)
 - [Renaming an Instance](#renaming-an-instance)

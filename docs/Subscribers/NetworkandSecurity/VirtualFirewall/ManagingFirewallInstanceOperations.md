@@ -9,7 +9,7 @@ This section comprises of the following sub-sections:
 
 <div className="custom-block-blue">  
 - [Restarting a Virtual Firewall](#restarting-a-virtual-firewall)
-- [Force Stop a Virtual Firewall](#force-stop-a-virtual-firewall)
+- [Force Stopping a Virtual Firewall](#force-stopping-a-virtual-firewall)
 - [Renaming a Virtual Firewall](#renaming-a-virtual-firewall)
 - [Deleting a Virtual Firewall](#deleting-a-virtual-firewall)
 </div>

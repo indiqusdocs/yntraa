@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations.md",
+                "file": "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ManagingLinuxInstanceOperations"
+              "title": "ManagingFirewallInstanceOperations"
             }
           }
         ]
@@ -173,28 +173,34 @@
   },
   "active": "ca21f1c8e9f8d0cc",
   "lastOpenFiles": [
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/search-index.json",
+    "build/sitemap.xml",
+    "build/index.html",
+    "build/blog/tags/hello/index.html",
+    "build/blog/tags/hello",
+    "build/blog/tags/docusaurus/index.html",
+    "build/blog/tags/docusaurus",
+    "build/blog/tags/facebook/index.html",
+    "build/blog/tags/facebook",
+    "docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations.md",
+    "docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations.md",
+    "docs/Subscribers/AccountCentre/ServiceBalanceDetails.md",
+    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
+    "docs/Subscribers/AccountCentre/UnbilledCharges.md",
+    "docs/Subscribers/AccountCentre/UsageFeed.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/ManagingInstanceRestorePoints.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume.md",
-    "docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations.md",
     "docs/Subscribers/Compute/RHELInstances/ManagingInstanceRestorePoints.md",
     "docs/Subscribers/Compute/RHELInstances/ManagingVolume.md",
-    "docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations.md",
     "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/ManagingVolume.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
     "docs/FAQs/FAQs.md",
     "docs/FAQs/ManagedSolutions/ResiliencyAssuranceService.md",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstances/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation/index.html",
-    "build/docs/Subscribers/Compute/RHELInstances/ManagingAlerts/index.html",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails/index.html",
-    "build/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes/index.html",
     "build/img/sps.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_tree.svg",
@@ -205,10 +211,6 @@
     "build/img/rn.svg",
     "build/img/sbs.png",
     "build/img/rn.png",
-    "docs/Subscribers/AccountCentre/SubscriptionsandServices.md",
-    "docs/Subscribers/AccountCentre/ServiceBalanceDetails.md",
-    "docs/Subscribers/AccountCentre/ViewingServiceUsage.md",
-    "docs/Subscribers/AccountCentre/ViewingSubscriptionCharges.md",
     "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ViewingUtilisation.md",
     "docs/Subscribers/Compute/RHELInstances/ViewingRHELInstances.md",
@@ -216,8 +218,6 @@
     "docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
     "docs/Subscribers/Compute/RHELInstances/ManagingNetworks.md",
-    "docs/Subscribers/Compute/RHELInstances/ManagingAlerts.md",
-    "docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ConnectingtoaRHELInstance.md"
+    "docs/Subscribers/Compute/RHELInstances/ManagingAlerts.md"
   ]
 }

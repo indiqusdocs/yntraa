@@ -9,7 +9,7 @@ Yntraa Cloud provides the following operations on RHEL instances:
 
 <div className="custom-block-blue">  
 - [Restarting an Instance](#restarting-an-instance)
-- [Force Stop an Instance](#force-stop-an-instance)
+- [Force Stopping an Instance](#force-stopping-an-instance)
 - [Renaming an Instance](#renaming-an-instance)
 - [Deleting an Instance](#deleting-an-instance)
 </div>
