@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
+                "file": "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ManagingFirewallInstanceOperations"
+              "title": "ManagingLoadBalanceInstanceOperations"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "ca21f1c8e9f8d0cc",
   "lastOpenFiles": [
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/search-index.json",
@@ -183,7 +185,6 @@
     "build/blog/tags/docusaurus/index.html",
     "build/blog/tags/docusaurus",
     "build/blog/tags/facebook/index.html",
-    "build/blog/tags/facebook",
     "docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations.md",
     "docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations.md",
@@ -198,7 +199,6 @@
     "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/ManagingVolume.md",
     "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations.md",
     "docs/FAQs/FAQs.md",
     "docs/FAQs/ManagedSolutions/ResiliencyAssuranceService.md",
     "build/img/sps.svg",

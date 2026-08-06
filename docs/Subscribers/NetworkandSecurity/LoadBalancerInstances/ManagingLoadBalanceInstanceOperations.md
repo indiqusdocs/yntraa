@@ -9,7 +9,7 @@ Yntraa Cloud provides the following operations on load balancer instances:
 
 <div className="custom-block-blue">  
 - [Restarting an Instance](#restarting-an-instance)
-- [Force Stop an Instance](#force-stop-an-instance)
+- [Force Stopping an Instance](#force-stopping-an-instance)
 - [Renaming an Instance](#renaming-an-instance)
 - [Deleting an Instance](#deleting-an-instance)
 </div>
@@ -28,7 +28,7 @@ To restart an instance, follow these steps:
    ![Restart Instance Message](img/restartinstancemessage.png)
 4. Click the **Yes** button.
    
-## Force Stop an Instance
+## Force Stopping an Instance
 
 Force stop a load balancer instance to immediately terminate its operations when it becomes unresponsive or cannot be shut down through a normal stop operation. This action helps recover from critical issues, restore control of the instance, and prepare it for troubleshooting or restart. 
 
