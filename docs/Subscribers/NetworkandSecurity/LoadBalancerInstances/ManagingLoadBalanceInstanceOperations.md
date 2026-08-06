@@ -70,9 +70,9 @@ To delete an instance, follow these steps:
    ![Load Balancer](img/loadbalancerscreen.png)
 2. Click on your created load balancer instance name from the list, and click **Operations**. The following screen appears:
    ![LB Operations](img/lboperations.png)
-3. Click the **Delete Instance** button. The following screen appears: 
+3. Click the **Delete Instance** button. The following screen appears, where you can choose to delete the LBI instantly or schedule it to be deleted at a later stage:
    ![Delete Instance](img/deleteinstance.png)
-4. Enter **DELETE** and click the **Delete Now** button. The LBI is deleted.
-5. Enter **DELETE** and click the **Schedule Deletion** button.
+	- To delete the LBI instantly, enter **DELETE** and click the **Delete Now** button. The LBI is deleted.
+	- To schedule the LBI to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.
 
 

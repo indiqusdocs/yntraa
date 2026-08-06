@@ -46,12 +46,12 @@ To launch LBI web based console, follow these steps:
    ![Overview](img/lbioverview.png) 
 3. Click the **Launch Console** button to access the Instance's console interface. One-by-one, run the following commands:
  
-```
-set ns config -IPAddress <VM_private_IP_address> -netmask <VM_tier_netmask>
-add route 0 0 <gateway_IP_address_for_tier>
-save config
-reboot
-```
+	```
+	set ns config -IPAddress <VM_private_IP_address> -netmask <VM_tier_netmask>
+	add route 0 0 <gateway_IP_address_for_tier>
+	save config
+	reboot
+	```
    
 ## Stopping and Starting Load Balancer Instance
 
@@ -59,16 +59,10 @@ Stop and start the load balancer instance to apply updates, perform maintenance,
 
 To start and stop the load balancer instance, follow these steps:  
 
-1. Navigate to **Network and Security > Load balancers**. The following screen appears: 
-   ![LBI List](img/loadbalancerscreen.png)
- 2. Click on your created load balancer instance name from the list. The following screen appears:
-   ![Overview](img/lbioverview.png) 
-3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: 
-   ![Stop LBI](img/stopinstancemessage.png)
-4. Click the **Yes** button. The following screen appears:
-   ![LBI Power Off](img/lbipoweroff.png)
-5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears: 
-   ![LBI Power On](img/lbipoweron.png)
-6. Click the **Yes** button. The following screen appears:
-   ![LBI Start](img/lbistart.png) 
+1. Navigate to **Network and Security > Load balancers**. The following screen appears:   ![LBI List](img/loadbalancerscreen.png)
+ 2. Click on your created load balancer instance name from the list. The following screen appears: ![Overview](img/lbioverview.png)
+3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears:    ![Stop LBI](img/stopinstancemessage.png)
+4. Click the **Yes** button. The following screen appears:   ![LBI Power Off](img/lbipoweroff.png)
+5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears:   ![LBI Power On](img/lbipoweron.png)
+6. Click the **Yes** button. The following screen appears:   ![LBI Start](img/lbistart.png) 
 

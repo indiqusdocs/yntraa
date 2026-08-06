@@ -23,7 +23,7 @@ To add a network, follow these steps:
    ![LBI Overview](img/lbioverviewwindow.png) 
 3. Click **Networking**. The following screen appears:
    ![Networking](img/networkingscreen.png) 
-4. Click the **Add Network** button. The following screen appears: 
+4. Click the **Add Network** button. The following screen appears where you can add NIC to the instance: 
    ![Adding NIC](img/addingnic.png)
 5. Click the **Yes** button. 
    

@@ -24,7 +24,7 @@ To restart a window instance, follow these steps:
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Restart Instance** button. The following screen appears: 
+3. Click **Operations** and click the **Restart Instance** button. The following screen appears: 
    ![Restart Instance Message](img/restartinstancemessage.png)
 4. Click the **Yes** button.
    
@@ -38,7 +38,7 @@ To force stop a window instance, follow these steps:
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Force Stop Instance** button. The following screen appears: 
+3. Click **Operations** and click the **Force Stop Instance** button. The following screen appears: 
    ![Force Stop Instance Message](img/forcestopinstancemessage.png)
  4. Click the **Yes** button. 
     
@@ -52,13 +52,15 @@ To reset password of a window instance, follow these steps:
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Stop Instance** button. The following screen appears: 
+3. Click the  **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
 4. Click the **Yes** button. The following screen appears: 
    ![Instance Stopped](img/instancestopped.png)
 5. Click the **Reset Password**. The following screen appears: 
    ![Password Sent](img/passwordsent.png)
-6. Select the **Send the Password via Email** or **Send the Password via SMS** option, and click the **Yes** button.
+6. Select the **Send the Password via Email** or **Send the Password via SMS** option.
+7. Click the **Yes** button.
+
 A password reset link is sent to your registered email address or mobile number.
 
 ## Resetting SSH key
@@ -77,7 +79,9 @@ To reset SSH key of a window instance, follow these steps:
    ![Instance Stopped](img/instancestopped.png)
 5. Click the **Reset SSH key** button. The following screen appears: 
    ![Reset SSH Key Details](img/resetsshkeydetails.png)
-6. Select an SSH key from the dropdown and select the **Send new password for this Instance on my email** option, and then click **Confirm SSH Key Pair Reset** button. 
+6. Select an SSH key from the dropdown and select the **Send new password for this Instance on my email** option.
+7. Click the **Confirm SSH Key Pair Reset** button. 
+   
 A password reset link is sent to your registered email address.
 
 ## Migrating Network
@@ -95,7 +99,8 @@ To migrate windows Instance between networks, follow these steps:
    ![Overview](img/windowsoverview.png)
 3. Click the **Migrate Network** button. The following screen appears where you provide the required details: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
-4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance** option, and click the **Migrate Network** button. 
+4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance** option.
+5. Click the **Migrate Network** button. 
    
 ## Reinstalling Window Instance
 
@@ -113,7 +118,8 @@ To reinstalling a window instance, follow these steps:
    ![Overview](img/windowsoverview.png)
 3. Click the **Reinstall Instance** button. The following screen appears: 
    ![Reinstall Instance](img/reinstallinstance.png)
-4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email** or **Send the Password via SMS** option, and then click **Reinstall Instance**.
+4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email** or **Send the Password via SMS** option.
+5. Click the **Reinstall Instance** button.
    
 ## Renaming an Instance
 
@@ -125,7 +131,7 @@ To rename an instance, follow these steps:
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Rename Instance** button. The following screen appears where you can update the window instance name in Instance Name.
+3. Click the **Rename Instance** button. The following screen appears where you can update the window instance name in **Instance Name**.
    ![Instance Name Changed](img/instancenamechanged.png)
 4. Click the **Done** button. The new instance name appears (highlighted in red). 
    ![Name Changed](img/namechange.png)
@@ -133,7 +139,7 @@ To rename an instance, follow these steps:
 ## Deleting an Instance
 
 Delete a window instance when it is no longer required to remove it permanently from cloud environment. This action helps free up resources, reduce unnecessary costs, and keep your infrastructure organized by eliminating unused instances. 
-:::note
+:::warning
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
 
@@ -143,10 +149,10 @@ To delete an instance, follow these steps:
    ![Window Instance Created](img/windowinstancelist.png)
 2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Delete Instance** button. The following screen appears: 
+3. Click the **Delete Instance** button. The following screen appears, where you can choose to delete the windows instance instantly or schedule it to be deleted at a later stage: 
    ![Delete Instance](img/deleteinstance.png)
-4. Enter **DELETE** and click the **Delete Now** button. The window instance is deleted.
-5. Enter **DELETE** and click the **Schedule Deletion** button.
+	- To delete the window instance instantly, enter **DELETE** and click the **Delete Now** button. The window instance is deleted.
+	- To schedule the window instance to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.
 
 
 

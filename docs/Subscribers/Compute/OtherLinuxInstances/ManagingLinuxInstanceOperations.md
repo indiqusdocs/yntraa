@@ -62,7 +62,9 @@ To reset password of a linux instance, follow these steps:
    ![Instance Stopped](img/instancestopped.png)
 5. Click the **Reset Password**. The following screen appears: 
    ![Password Sent](img/passwordsent.png)
-6. Select the **Send the Password via Email** or **Send the Password via SMS** option, and click the **Yes** button.
+6. Select the **Send the Password via Email** or **Send the Password via SMS** option.
+7. Click the **Yes** button.
+   
 A password reset link is sent to your registered email address or mobile number.
 
 ## Resetting SSH key
@@ -81,7 +83,9 @@ To reset SSH key of a linux instance, follow these steps:
    ![Instance Stopped](img/instancestopped.png)
 5. Click the **Reset SSH key** button. The following screen appears: 
    ![Reset SSH Key Details](img/resetsshkeydetails.png)
-6. Select an SSH key from the dropdown and select the **Send new password for this instance on my email** option, and then click **Confirm SSH Key Pair Reset** button. 
+6. Select an SSH key from the dropdown and select the **Send new password for this instance on my email** option.
+7. Click **Confirm SSH Key Pair Reset** button. 
+   
 A password reset link is sent to your registered email address.
 
 ## Renaming an Instance
@@ -94,7 +98,7 @@ To rename an instance, follow these steps:
    ![Linux Instance Created](img/linuxinstancelist.png)
 2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
-3. Click the **Rename Instance** button. The following screen appears where you can update the linux instance name in Instance Name.
+3. Click the **Rename Instance** button. The following screen appears where you can update the linux instance name in **Instance Name**.
    ![Instance Name Changed](img/instancenamechanged.png)
 4. Click the **Done** button. The new instance name appears (highlighted in red). 
    ![Name Changed](img/namechange.png)
@@ -133,7 +137,8 @@ To reinstalling a linux instance, follow these steps:
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Reinstall Instance** button. The following screen appears: 
    ![Reinstall Instance](img/reinstallinstance.png)
-4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email** or **Send the Password via SMS** option, and then click **Reinstall Instance**. The following screen appears: 
+4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email** or **Send the Password via SMS** option.
+5. Click the **Reinstall Instance** button.
 
 ## Deleting an Instance
 
@@ -148,9 +153,10 @@ To delete an instance, follow these steps:
    ![Linux Instance Created](img/linuxinstancelist.png)
 2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
-3. Click the **Delete Instance** button. The following screen appears: 
+3. Click the **Delete Instance** button. The following screen appears, where you can choose to delete the Linux instance instantly or schedule it to be deleted at a later stage:
    ![Delete Instance](img/deletelinuxinstance.png)
-4. Enter **DELETE** and click the **Delete Now** button. The linux instance is deleted.
-5. Enter **DELETE** and click the **Schedule Deletion** button.
+	- To delete the Linux instance instantly, enter **DELETE** and click the **Delete Now** button. The Linux instance  is deleted.
+	- To schedule the Linux instance to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.
+
 
 

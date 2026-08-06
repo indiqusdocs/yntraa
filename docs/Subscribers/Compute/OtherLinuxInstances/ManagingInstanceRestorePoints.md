@@ -25,7 +25,7 @@ To create an instance restore point, follow these steps:
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Restore Points**. The following screen appears: 
    ![Linux Instance Restore Point](img/linuxinstancerestorepoint.png)
-4. Click the **Create Instance Restore Point** button. The following screen appears:
+4. Click the **Create Instance Restore Point** button. The following screen appears, where you can provide the required details:
    ![Linux Restore Point Created.png](img/linuxrestorepointcreated.png)
 5. Click the **Create** button. The following screen appears:
    ![Instance Restore Point Create](img/instancerestorepointcreate.png) 

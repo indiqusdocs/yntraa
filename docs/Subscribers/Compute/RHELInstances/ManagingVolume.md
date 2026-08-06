@@ -114,20 +114,11 @@ This action can not be reversed.
 :::
 To delete disk restore point, follow these steps: 
 
-1. Navigate to **Compute > RHEL Instances**. The following screen appears:
-   ![RHEL Instance Created](img/rhelinstancelist.png)
-2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
-   ![Overview](img/rhelinstanceoverview.png)
-3. Click **Volumes**. The following screen appears: 
-   ![View Root Disk](img/rhelinstancevolume.png)
-4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
-   ![Create Disk Restore Point in RHEL Instance](img/creatediskrestorepoint.png)
-5. Click the **Create Disk Restore Point** button. 
-6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
+1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
    ![Restore Points list](img/restorepointview.png)
-7. Click **Disk Restore Point**. The following screen appears:
+2. Click **Disk Restore Point**. The following screen appears:
    ![Delete Restore Point](img/deleterestorepointrhel.png)
-8. Click the  **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
+3. Click the  **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
    ![Disk Restore Point Deleted](img/deleteddiskrestore.png)
-9. Click the **Yes** button. The disk restore point is deleted.
+4. Click the **Yes** button. The disk restore point is deleted.
 

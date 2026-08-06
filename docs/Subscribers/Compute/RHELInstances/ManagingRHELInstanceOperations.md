@@ -38,7 +38,7 @@ To force stop a RHEL instance, follow these steps:
    ![RHEL Instance Created](img/rhelinstancelist.png)
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
-3. Click the **Force Stop Instance** button. The following screen appears: 
+3. Click **Operations** and click the **Force Stop Instance** button. The following screen appears: 
    ![Force Stop Instance Message](img/forcestopinstancemessage.png)
  4. Click the **Yes** button. 
     
@@ -93,7 +93,7 @@ To migrate RHEL Instance between networks, follow these steps:
    ![RHEL Instance Created](img/rhelinstancelist.png)
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
-3. Click the **Migrate Network** button. The following screen appears: 
+3. Click **Operations** and click the **Migrate Network** button. The following screen appears: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
 4. Select the target network from the dropdown, and select the **I Agree to Migrate Network for the Instance** option, and click the **Migrate Network** button. 
    
@@ -111,9 +111,10 @@ To reinstalling a RHEL instance, follow these steps:
    ![RHEL Instance Created](img/rhelinstancelist.png)
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
-3. Click the **Reinstall Instance** button. The following screen appears: 
+3. Click **Operations** and click the **Reinstall Instance** button. The following screen appears: 
    ![Reinstall Instance](img/reinstallinstance.png)
-4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email** or **Send the Password via SMS** option, and then click **Reinstall Instance**. The following screen appears: 
+4. Select a Reinstall Mode from the dropdown and select the **Send the Password via Email** or **Send the Password via SMS** option.
+5. Click the **Reinstall Instance** button. 
    
 ## Renaming an Instance
 
@@ -125,9 +126,9 @@ To rename an instance, follow these steps:
    ![RHEL Instance Created](img/rhelinstancelist.png)
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
-3. Click the **Rename Instance** button. The following screen appears where you can update the RHEL instance name in Instance Name.
+3. Click **Operations** and click the **Rename Instance** button. The following screen appears where you can update the RHEL instance name in **Instance Name**.
    ![Instance Name Changed](img/instancenamechanged.png)
-4. Click the **Done** button. The new instance name appears (highlighted in red). 
+4. Click the **Done** button. The following screen appears:
    ![Name Changed](img/namechange.png)
 
 ## Deleting an Instance
@@ -143,10 +144,11 @@ To delete an instance, follow these steps:
    ![RHEL Instance Created](img/rhelinstancelist.png)
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/rhelinstanceoverview.png)
-3. Click the **Delete Instance** button. The following screen appears: 
+3. Click **Operations** and click the **Delete Instance** button. The following screen appears, where you can choose to delete the RHEL instance instantly or schedule it to be deleted at a later stage:
    ![Delete Instance](img/deleteinstance.png)
-4. Enter **DELETE** and click the **Delete Now** button. The RHEL instance is deleted.
-5. Enter **DELETE** and click the **Schedule Deletion** button.
+	- To delete the RHEL instance instantly, enter **DELETE** and click the **Delete Now** button. The RHEL instance is deleted.
+	- To schedule the RHEL instance to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.
+
 
 
 
