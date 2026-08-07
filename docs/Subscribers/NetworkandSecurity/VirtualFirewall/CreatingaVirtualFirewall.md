@@ -12,7 +12,7 @@ Creating a virtual firewall allows you to deploy a firewall instance to secure a
 2. Click **New Virtual Firewall**. The following screen appears: 
    ![VF Config](img/vfconfignew.png)
    ![VF Detail](img/vfdetailsnewnew.png)
-3. Select your availability zone.
+3. Select your Availability Zone.
 4. Select the virtual firewall provider from the dropdown.
 5. Choose the virtual firewall configuration from the list.
 6. Select the Incoming Traffic Rule (Allow All, Deny All, or Allow Custom) and give a name to your virtual firewall.	

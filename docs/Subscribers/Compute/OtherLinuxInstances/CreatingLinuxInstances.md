@@ -13,7 +13,7 @@ To create a Linux instance, follow these steps:
    ![Creating Linux](img/creatinglinuxnew.png)
    ![Compute Pack](img/computepacknew.png)
    ![Costs Summary](img/costsummarynew.png)
-3. Select availability zone, which is the geographical region where your Instance deploys.
+3. Select Availability Zone, which is the geographical region where your Instance deploys.
 4. Select a VPC or VNF network from the **Select Network Destination** dropdown, and select the appropriate tier listed in network.
 	:::note
 	To add a Linux instance to a VPC or VNF, you must have a VPC or VNF configured with at least one tier.

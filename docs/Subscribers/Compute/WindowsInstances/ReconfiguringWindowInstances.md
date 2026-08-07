@@ -17,9 +17,11 @@ To reconfigure the Window instances, follow these steps:
    ![Pack Selection](img/stopwindowinstance.png)
    ![Root Disk](img/rootdisk.png)
 5. Select a compute pack from the list.
-6. Select **Root Disk**, or choose **Custom Disk** to specify the required disk size. Click **Select Pack**, and then click **Reconfigure** button. The following screen appears:
+6. Select **Root Disk**.
+7. Select the **Custom Disk** option to specify the required disk size. 
+8. Click the **Select Pack** button and click **Reconfigure** button. The following screen appears:
    ![Confirm Reconfigure](img/confirmreconfigureinstance.png) 
-7. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Confirm Reconfigure** button.
+9. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Confirm Reconfigure** button.
  
 
 

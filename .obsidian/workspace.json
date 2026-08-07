@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails.md",
+                "file": "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ViewingVirtualFirewallInstanceDetails"
+              "title": "ReconfiguringLinuxInstances"
             }
           }
         ]
@@ -173,22 +173,31 @@
   },
   "active": "b7a0c898a65a0b2a",
   "lastOpenFiles": [
-    "build/docs/Subscribers/AccountCentre/AddingCreditPoints/index.html",
-    "build/docs/Subscribers/AccountCentre/AddingCreditPoints",
-    "build/docs/Subscribers/intro/index.html",
-    "build/docs/Subscribers/intro",
-    "build/docs/Subscribers/GettingStartedonYntraaCloud/index.html",
-    "build/docs/Subscribers/GettingStartedonYntraaCloud",
+    "build/blog/tags/hola/index.html",
+    "build/blog/tags/hello/index.html",
+    "build/blog/tags/facebook/index.html",
+    "build/blog/tags/docusaurus/index.html",
+    "build/blog/authors/yangshun/index.html",
+    "build/blog/authors/all-sebastien-lorber-articles/index.html",
+    "build/blog/tags/index.html",
+    "build/blog/tags/facebook",
+    "build/blog/tags/hola",
+    "build/blog/tags/hello",
+    "build/blog/tags/docusaurus",
+    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
+    "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowInstances.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/ReconfiguringLinuxInstances.md",
+    "docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk.md",
+    "docs/Subscribers/Compute/Autoscale/CreatingAutoscaleGroups.md",
+    "docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances.md",
+    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingaLoadBalancerInstance.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/CreatingaVirtualFirewall.md",
+    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayDetails.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/StartingandStoppingaNATGateway.md",
     "docs/Subscribers/Compute/WindowsInstances/ManagingVolume.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCOperations.md",
     "docs/Subscribers/Compute/OtherLinuxInstances/Viewing Details of Linux Instances.md",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/search-index.json",
-    "build/sitemap.xml",
-    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails/index.html",
     "build/icons/home.svg",
     "docs/Subscribers/GettingStartedonYntraaCloud.md",
     "build/assets/images/windowsoverview-db19b7450c734efd41aa65755d1768c5.png",
@@ -204,20 +213,11 @@
     "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket.md",
     "docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails.md",
     "docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCDetails.md",
-    "docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGateways.md",
     "docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayInstances.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstances.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails.md",
     "docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2NetworksOperations.md",
-    "docs/Subscribers/NetworkandSecurity/L2 Networks/ViewingL2Networks.md",
-    "docs/Subscribers/NetworkandSecurity/L2 Networks/AddinganL2Networks.md",
-    "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
-    "docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ViewingUtilisation.md",
-    "docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters.md",
-    "docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups.md"
+    "docs/Subscribers/NetworkandSecurity/L2 Networks/ViewingL2Networks.md"
   ]
 }

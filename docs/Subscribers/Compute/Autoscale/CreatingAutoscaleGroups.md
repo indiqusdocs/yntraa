@@ -17,7 +17,7 @@ To create Autoscale group, follow these steps:
    ![Scale Down](img/scaledown.png)
    ![SSH Key](img/sshkey.png)
 3. Select an instance category.
-4. Select the availability zone that represents the geographic region where you want to deploy your auto-scaled instance.
+4. Select the Availability Zone that represents the geographic region where you want to deploy your auto-scaled instance.
 5. Select VPC network, choose the appropriate tier in **Select a Network Tier**, and then select a load balancer from the options in the **Select Load Balancer** dropdown.
 6. Select the OS image.
 7. Select a compute pack from the available compute collections.

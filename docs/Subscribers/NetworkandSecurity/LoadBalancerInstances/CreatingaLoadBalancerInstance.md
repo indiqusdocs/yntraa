@@ -13,7 +13,7 @@ To a create a load balancer instance, follow these steps:
    ![LBI Components](img/lbicomponents.png)
    ![LBI Configuration](img/lbconfig.png)
    ![Cost and Summary](img/lbcost.png)
-3. Select an availability zone, which is the geographical region where your instance will be deployed.
+3. Select an Availability Zone, which is the geographical region where your instance will be deployed.
 4. In the **Select Network Destination**, specify the VPC and subnet.
 5. **Select Load Balancer Version**.
 6. Under the **Choose an Appliance Configuration**, select a load balancer appliance pack.
