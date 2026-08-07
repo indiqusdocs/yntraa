@@ -1,6 +1,7 @@
 # Dependencies
 /node_modules
-
+.obsidian/
+.docusaurus/
 # Production
 /build
 

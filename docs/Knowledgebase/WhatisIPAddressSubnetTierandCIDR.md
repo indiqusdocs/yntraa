@@ -17,7 +17,7 @@ To make this structure even more useful, cloud networks usually follow a 3-tier 
 
 This brings us to **CIDR**, which stands for Classless Inter-Domain Routing. CIDR notation (like `/24`, `/16`, etc.) tells the network how many IP addresses are available in a subnet. For example, `192.168.1.0/24` means you have 256 usable IP addresses in that subnet. This system gives you flexibility to divide your network into small or large chunks, depending on how many devices you need to support.
 
-### Super CIDR
+## Super CIDR
 
 All smaller CIDR blocks (your subnets) come from a larger pool called the **Super CIDR**. This is the main IP range assigned to your VPC. Think of it as the master bucket of IPs from which you carve out subnets. For example, if your VPC has a Super CIDR of `192.168.0.0/16`, you can create hundreds of `/24` subnets from it—each with 256 IPs for different tiers or services.
 

@@ -11,7 +11,7 @@ In the cloud, many applications and systems are constantly talking to each other
 
 Because it’s virtual, the firewall is easy to set up and scale—meaning you can add more protection as your system grows. It also gives you better control and visibility over what's happening in your cloud, helping you stop threats before they cause problems.
 
-### Use Cases for Virtual Firewalls in the Cloud
+## Use Cases for Virtual Firewalls in the Cloud
 
 1. **Securing Communication Between Virtual Machines**  
     VF ensures that only allowed systems and services can talk to each other, preventing unwanted access or internal threats.    

@@ -20,11 +20,13 @@ Before proceeding with the installation, ensure the following prerequisites are 
 Execute the following commands on the Kubernetes master node to install Helm:
 
 ### Installing Required Packages
+
 To install the required packages, run the following command:
 
    `sudo apt-get install curl gpg apt-transport-https --yes`
 
 ### Adding Helm Repository
+
 Run the following commands to add the Helm repository:
 ```
  curl -fsSL https://packages.buildkite.com/helm-linux/helm-debian/gpgkey | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null
@@ -49,7 +51,7 @@ Download the latest CloudStack CSI Driver Helm charts from the official release 
 https://github.com/cloudstack/cloudstack-csi-driver/releases/ 
 
 After downloading, run the following commands: 
-1. Extract/unzip the downloaded package:  
+1. Extract/unzip the downloaded package. 
    
 	`unzip cloudstack-csi-driver.zip`
    

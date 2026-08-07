@@ -93,7 +93,7 @@ export default {
           "label": "Release Notes"
         },
         {
-          "href": "https://yntraacloud.ai",
+          "href": "https://portal.yntraacloud.ai",
           "label": "Yntraa Cloud Platform",
           "position": "right",
           "className": "button button--primary"

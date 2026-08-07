@@ -9,7 +9,7 @@ To view all the instances associated with NAT Gateway, follow these steps:
 
 1. Navigate to **Network and Security > NAT Gateways**. The following screen appears:
 ![NAT Gateway Instances](imgnew/natgatewayinstances.png)  
-2. Click the instance name from the list. The following screen appears: 
+2. Click a NAT Gateway name from the list. The following screen appears: 
 ![Nat Gateway Details Screen](imgnew/natgatewayscreen.png)
 3. Click **Instances**. The following screen appears:
 ![NAT Gateway Instances](imgnew/natgatewayinstancesscreen.png)

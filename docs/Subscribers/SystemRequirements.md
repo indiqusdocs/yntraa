@@ -12,7 +12,6 @@ To ensure optimal performance and full functionality of the Yntraa Cloud, your s
 - [Internet Connectivity](#internet-connectivity)
 </div>
 
-
 ## Supported Web Browsers
 
 The Yntraa Cloud portal is a web-based application and is supported on the following desktop web browsers:

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Creating a Virtual Firewall
 
@@ -7,27 +7,23 @@ Creating a virtual firewall allows you to deploy a firewall instance to secure a
 
  To create a virtual firewall, follow these steps:
  
-1. In the main menu, navigate to the **Network and Security > Virtual Firewalls**. The following screen appears: 
-![Virtual Firewall Lists](img/virtualfirewalllists.png)
-2. Click **+ New Virtual Firewall**. The following screen appears: 
-![vfconfignew](img/vfconfignew.png)
-![vfdetailsnewnew](img/vfdetailsnewnew.png)
+1. Navigate to the **Network and Security > Virtual Firewalls**. The following screen appears: 
+   ![Virtual Firewall Lists](img/numberofvf.png)
+2. Click **New Virtual Firewall**. The following screen appears: 
+   ![VF Config](img/vfconfignew.png)
+   ![VF Detail](img/vfdetailsnewnew.png)
 3. Select your Availability Zone.
-4. Select the Virtual Firewall provider from the dropdown.
+4. Select the virtual firewall provider from the dropdown.
 5. Choose the virtual firewall configuration from the list.
-6. Select the Incoming Traffic Rule (Allow All, Deny All, Allow Custom) and give a name to your Virtual Firewall.
-	
+6. Select the Incoming Traffic Rule (Allow All, Deny All, or Allow Custom) and give a name to your virtual firewall.	
 	:::note
-		**Allow All-** Grants access to all protocols and services without restriction when selected. <br/>
-		**Deny All-**  Restrict access to all protocols and services when selected. <br/>
-		**Allow Custom-** Enable you to specify the source from which traffic should be allowed.
+		**Allow All:** Grants access to all protocols and services without restriction when selected. <br/>
+		**Deny All:**  Restrict access to all protocols and services when selected. <br/>
+		**Allow Custom:** Enable you to specify the source from which traffic should be allowed.
 	:::
-	
-1. Review the summary and estimated costs.
-   ![costnew](img/costnew.png)
-2.  Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
-   ![confirmvfnew](img/confirmvfnew.png)
-3. Click the **Confirm** button.
+7.  Select the **I have read and agreed to the End User License Agreement and Privacy Policy** option, and click the **Buy Monthly** button. The following screen appears: 
+   ![Confirm VF](img/confirmvfnew.png)
+8. Click the **Confirm** button.
 
 
 

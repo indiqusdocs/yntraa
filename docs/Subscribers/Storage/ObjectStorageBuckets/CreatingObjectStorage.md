@@ -1,39 +1,21 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Creating Object Storage
 
-An Object Storage is where you store your files in the cloud. Creating an Object Storage is the first step to organize, access, and manage your data easily.
+Creating object storage enables you to set up a scalable and reliable storage environment for storing and managing various types of data. It allows you to efficiently organize, access, and manage data while providing flexibility, security, and optimized storage capabilities.
 
-To create an Object Storage, follow these steps:
+To create an object storage, follow these steps:
 
-1. Navigate to **Storage > Object Storage Bucket**.
-   ![createbucketnew](img/createbucketnew.png)
-2. Click the **+ Create Bucket** button.
-3. Select an availability zone from **Choose Your Availability Zone** filed.
-  ![az](img/az.png)
-	:::note 
-	Pricing may vary based on the selected availability zone.
-	:::
-	
-4. In the **Name Your Bucket** field, enter a valid bucket name.
-
-	:::note 
-	Bucket names may include alphanumeric characters, dots (.), underscores (_), and hyphens (-).
-	:::
-
-5. In the **Summary and Estimated Costs** section.
-    - This section outlines usage-based pricing details for:
-	    - Storage Used
-	    - Data Transfer IN
-	    - Data Transfer OUT
-	    - HTTP Request GET/HEAD
-	    - HTTP Request PUT/POST
-   ![summarynew](img/summarynew.png)
-6. Scroll down and select the **I have read and agreed to the end user license agreement and Privacy Policy** option.
-7. Click the **Create Bucket** button to finalize the setup.
-
-
+1. Navigate to **Storage > Object Storage Buckets**. The following screen appears: 
+   ![New Object Storage Bucket](img/newobjectstoragebucket.png)
+2. Click the **New Object Storage Bucket** button. The following screen appears: 
+   ![Create Bucket Details](img/createbucketdetails.png)
+3. Select Availability Zone.
+4. Enter bucket name in **Name Your Bucket**.
+5. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click the **Create** button. The following screen appears: 
+   ![Confirm Bucket Create Message](img/confirmmessage.png)
+6. Click the **Confirm** button. 
 
 
 

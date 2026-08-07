@@ -1,49 +1,51 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 # Managing Custom Templates and Images
 
-Managing custom templates and images helps you create and maintain reusable system configurations for future deployments. You can create custom images from existing instances, view image details, and remove unused images to keep resources organised and easy to manage.
+Custom templates and images help standardize and simplify the deployment of cloud resources. You can create custom images from existing instances for future reuse and delete custom images that are no longer required. Managing custom templates and images enables consistent deployments while keeping your image repository organized and up to date.
 
-The following sections describe how to create, view, and delete custom images:
-- [Creating Custom Images](#creating-custom-images)
-- [Viewing Custom Images](#viewing-custom-images)
-- [Deleting Custom Images](#deleting-custom-images)
+This section comprises of the following sub-sections:
+<div className="custom-block-blue"> 
+- [Creating a Custom Image or My Image](#creating-a-custom-image-or-my-image)
+- [ Deleting a Custom Image or My Image](#deleting-a-custom-image-or-my-image)
+</div>
 
-## Creating Custom Images
+## Creating a Custom Image or My Image
 
-Creating custom images allows you to create a reusable image from an existing instance by using a disk restore point. The custom image captures the current state and configuration of the instance, making it easier to deploy new instances with the same setup.
+Creating custom images or My Image allows you to create a reusable image from an existing instance by using a disk restore point. The custom image captures the current state and configuration of the instance, making it easier to deploy new instances with the same setup.
 
-To create custom images, follow these steps:
+To create a custom image or My Image, follow these steps:
 
-1. Navigate to **Compute > Other Linux Instances**. The following screen appears: ![Linux My Image](img/linuxmyimage.png)
-2. Click an instance under **Other Linux Instances**.
-3. Click **Volumes** to view the attached volumes or data disks.
-4. Click the **CREATE RESTORE POINT** icon to create a restore point for the selected volume.
-5. Navigate to **TOOLS AND UTILITIES > Restore Points**. 
-6. Navigate to **Disk Restore Point** to view the newly created restore point. The following screen appears: ![Disk Restore Point](img/diskrestorepoint.png)
-7. Click the **Create Image** icon for the newly created **Disk Restore Point**. The following screen appears where you enter the following details:
-    - **Image Name**
-    - **Description**
-   
-   ![My Image](img/customimage.png)  
-1. Click **Yes** to confirm and create the image.
-2. Navigate to **Tools and Utilities > My Images** to view the newly created custom image.
-   ![Template Creation](img/templatecreation.png)
+1. Navigate to **Compute > Other Linux Instances**. The following screen appears: 
+   ![Linux My Image](img/linuxmyimage.png)
+2. Click on your created linux instance name from the list. The following screen appears:
+   ![Overview](img/overviewpage.png)
+3. Click **Volumes**. The following screen appears: 
+   ![Volumes in Linux](img/volumesinlinux.png)
+4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
+   ![Creating Restore Point](img/creatingrestorepoint.png)
+5. Click the **Create Restore Point**. The disk restore point is created. 
+6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
+   ![Instance Restore Point](img/instancerestorepoint.png)
+7. Click **Disk Restore Point**. The following screen appears: 
+   ![Disk Restore Point](img/diskrestorepoint.png)
+8. Navigate to **Disk Restore Point**. The following screen appears: 
+   ![Disk Restore Point](img/diskrestorepointview.png)
+9. Click the **Create Image** icon (highlighted in red). The following screen appears where you provide the required details:
+   ![Creating My Image](img/creatingmyimage.png)
+10. Click the **Yes** button.
+11. Navigate to **Tools and Utilities > My Images**. The following screen appears: 
+   ![My Image Created](img/myimagecreated.png)
 
-## Viewing Custom Images
+## Deleting a Custom Image or My Image
 
-Viewing custom images allows you to access and review the available custom images in the portal. You can open an image to view its details and verify the required information.
+Deleting custom images or My Image allows you to remove custom images that are no longer required. This helps keep the image repository organised and ensures that only relevant images are available for future use.
 
-To view custom images, follow these steps: 
-1. Navigate to **Tools and Utilities > My Images**. The following screen appears: ![myimagenew](img/myimagenew.png)
-2. Click the image name (for example, **latestimage**) under the **Image Name** column. The following screen appears:  ![Image Details](img/imagedetails.png)
+To delete a custom image or My Image, follow these steps: 
 
-## Deleting Custom Images
-
-Deleting custom images allows you to remove custom images that are no longer required. This helps keep the image repository organised and ensures that only relevant images are available for future use.
-
-To delete custom images, follow these steps: 
-1. Navigate to **Tools and Utilities > My Images**. The following screen appears: ![myimagenew](img/myimagenew.png)
-2. Click the **Delete** icon. The following screen appears: ![deletemyimagenew](img/deletemyimagenew.png)
-3. Click the **Yes** button to confirm.
+1. Navigate to **Tools and Utilities > My Images**. The following screen appears: 
+   ![My Image Created](img/myimagecreated.png)
+2. Click the **Delete** icon. The following screen appears: 
+   ![Delete My Image](img/deletemyimage.png)
+3. Click the **Yes** button. The custom image or My Image is deleted.

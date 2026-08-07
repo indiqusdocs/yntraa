@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b71'),
+    component: ComponentCreator('/docs', 'e92'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3b1'),
+        component: ComponentCreator('/docs', 'b22'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '67e'),
+            component: ComponentCreator('/docs', '003'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -113,20 +113,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/category/cloud-assure',
-                component: ComponentCreator('/docs/category/cloud-assure', '285'),
+                path: '/docs/category/cloud-assure-services',
+                component: ComponentCreator('/docs/category/cloud-assure-services', 'afe'),
                 exact: true,
                 sidebar: "sidebar2"
               },
               {
                 path: '/docs/category/compute',
                 component: ComponentCreator('/docs/category/compute', 'a28'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/category/details-of-block-volume',
-                component: ComponentCreator('/docs/category/details-of-block-volume', '644'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -203,6 +197,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/category/storage-as-a-service',
+                component: ComponentCreator('/docs/category/storage-as-a-service', '72b'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
                 path: '/docs/category/tools-and-utilities',
                 component: ComponentCreator('/docs/category/tools-and-utilities', '6e6'),
                 exact: true,
@@ -233,30 +233,6 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/FAQs/CloudAssure/',
-                component: ComponentCreator('/docs/FAQs/CloudAssure/', 'ae2'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/FAQs/CloudAssure/AssesmentandAdvisory',
-                component: ComponentCreator('/docs/FAQs/CloudAssure/AssesmentandAdvisory', '101'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/FAQs/CloudAssure/MigrationAssist',
-                component: ComponentCreator('/docs/FAQs/CloudAssure/MigrationAssist', '561'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
-                path: '/docs/FAQs/CloudAssure/ProfessionalService',
-                component: ComponentCreator('/docs/FAQs/CloudAssure/ProfessionalService', '4ba'),
-                exact: true,
-                sidebar: "sidebar2"
-              },
-              {
                 path: '/docs/FAQs/ManagedSolutions/ManagedDatabases',
                 component: ComponentCreator('/docs/FAQs/ManagedSolutions/ManagedDatabases', '1ec'),
                 exact: true,
@@ -269,8 +245,38 @@ export default [
                 sidebar: "sidebar2"
               },
               {
-                path: '/docs/FAQs/Other Services/File Storage',
-                component: ComponentCreator('/docs/FAQs/Other Services/File Storage', 'daf'),
+                path: '/docs/FAQs/Other Services/CloudAssureServices/AssesmentandAdvisory',
+                component: ComponentCreator('/docs/FAQs/Other Services/CloudAssureServices/AssesmentandAdvisory', '602'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/Other Services/CloudAssureServices/CloudAssure',
+                component: ComponentCreator('/docs/FAQs/Other Services/CloudAssureServices/CloudAssure', '489'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/Other Services/CloudAssureServices/MigrationAssist',
+                component: ComponentCreator('/docs/FAQs/Other Services/CloudAssureServices/MigrationAssist', 'ccc'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/Other Services/CloudAssureServices/ProfessionalService',
+                component: ComponentCreator('/docs/FAQs/Other Services/CloudAssureServices/ProfessionalService', '119'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/Other Services/StorageasaService/File Storage',
+                component: ComponentCreator('/docs/FAQs/Other Services/StorageasaService/File Storage', '17d'),
+                exact: true,
+                sidebar: "sidebar2"
+              },
+              {
+                path: '/docs/FAQs/Other Services/StorageasaService/ObjectStorage',
+                component: ComponentCreator('/docs/FAQs/Other Services/StorageasaService/ObjectStorage', '9f5'),
                 exact: true,
                 sidebar: "sidebar2"
               },
@@ -323,8 +329,14 @@ export default [
                 sidebar: "sidebar4"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/StandardAgreements',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/StandardAgreements', '53c'),
+                path: '/docs/Subscribers/AccountCentre/AccountProfile',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/AccountProfile', '516'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/AddingCreditPoints',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/AddingCreditPoints', '9a4'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -335,20 +347,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/TeamMemberManagement',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/TeamMemberManagement', 'a69'),
+                path: '/docs/Subscribers/AccountCentre/UnbilledCharges',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/UnbilledCharges', 'aa3'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/UsageFeed',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/UsageFeed', 'c2b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/ViewingServiceBalanceDetails',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/ViewingServiceBalanceDetails', '4d9'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
                 path: '/docs/Subscribers/AddingTeamMembers',
                 component: ComponentCreator('/docs/Subscribers/AddingTeamMembers', 'e6b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/Autoscale/AboutAutoscale',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/AboutAutoscale', '784'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -365,26 +383,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/RequirementsforAutoscale', 'ce7'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance',
-                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/UsingStaticPasswordinAutoScaleGroupInstance', 'fa3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetes', '83a'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/AboutKubernetesDashboard', '53d'),
+                path: '/docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups',
+                component: ComponentCreator('/docs/Subscribers/Compute/Autoscale/ViewingAutoscaleGroups', '9d2'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -407,20 +407,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ClusterOperations', 'd88'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster', 'dbf'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/IngressNetworkingonKubernetesClusters', '767'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -437,8 +425,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/ManagedKubernetes/Overview',
-                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/Overview', 'a2b'),
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/KubernetesDashboard',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/KubernetesDashboard', 'f4a'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations', '993'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules', '25e'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -449,14 +449,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/StoppingandStartingaKubernetesCluster',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/StoppingandStartingaKubernetesCluster', '0aa'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails', '489'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/AboutLinuxInstances', 'a58'),
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters', '465'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -467,32 +473,38 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/CreatingAlerts', 'c58'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances',
                 component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/CreatingLinuxInstances', '261'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/NetworkingManagement', '49e'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingAlerts',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingAlerts', '4ca'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/Operations',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/Operations', 'c32'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingInstanceRestorePoints', '35f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/Overview',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/Overview', 'ec3'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingLinuxInstanceOperations', '4a8'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingNetworks',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingNetworks', '2e9'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ManagingVolume', 'bd3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -503,26 +515,26 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphsandUtilizationofLinuxInstances', '914'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/Viewing Details of Linux Instances',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/Viewing Details of Linux Instances', 'b78'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/VolumeManagement', 'f77'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphs',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ViewingGraphs', 'f90'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/WorkingwithLinuxInstanceRestorePoints', 'edc'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ViewingLinuxInstances', '494'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/AboutRHELInstances', '02c'),
+                path: '/docs/Subscribers/Compute/OtherLinuxInstances/ViewingUtilisation',
+                component: ComponentCreator('/docs/Subscribers/Compute/OtherLinuxInstances/ViewingUtilisation', '96d'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -533,26 +545,38 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/CreatingAlerts',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/CreatingAlerts', 'ff9'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances',
                 component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/CreatingRHELInstances', 'b48'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/NetworkingManagement',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/NetworkingManagement', 'eb7'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingAlerts',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingAlerts', '02f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/Overview',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/Overview', '398'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingInstanceRestorePoints', '221'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingNetworks',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingNetworks', '96c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingRHELInstanceOperations', '045'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/RHELInstances/ManagingVolume',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ManagingVolume', '710'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -563,14 +587,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/RHELInstanceOperations', 'dfc'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingDetailsofRHELInstances', '0c1'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingGraphsandUtilisation', 'cd3'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ViewingGraphs',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingGraphs', 'a01'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -581,32 +605,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/RHELInstances/VolumeManagement',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/VolumeManagement', '7c3'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/WorkingwithRestorePoints', '784'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/AboutWindowsInstances', 'ff7'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ConnectingtoaWindowsInstance', '5b0'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/CreatingAlertsonWindowsInstances', 'a87'),
+                path: '/docs/Subscribers/Compute/RHELInstances/ViewingUtilisation',
+                component: ComponentCreator('/docs/Subscribers/Compute/RHELInstances/ViewingUtilisation', 'c81'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -617,14 +617,38 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/NetworkingManagementonWindowsInstances', '495'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/Managing Instance Restore Points',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/Managing Instance Restore Points', 'd18'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowsInstances', '425'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ManagingAlerts',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ManagingAlerts', '06d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/WindowsInstances/ManagingNetworks',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ManagingNetworks', '08d'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/WindowsInstances/ManagingVolume',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ManagingVolume', '326'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations', '4d1'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowInstances', 'd79'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -635,26 +659,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ViewingGraphsandUtilisationofWindowsInstances', '104'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ViewingGraphs',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ViewingGraphs', 'a7c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/VolumeManagementwithWindowsInstances', 'b4d'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ViewingUtilisation',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ViewingUtilisation', 'b78'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WindowsInstanceOperations', '650'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/WorkingwithWindowsInstanceRestorePoints', 'd3a'),
+                path: '/docs/Subscribers/Compute/WindowsInstances/ViewingWindowsInstances',
+                component: ComponentCreator('/docs/Subscribers/Compute/WindowsInstances/ViewingWindowsInstances', 'ee5'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -677,20 +695,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2Networks', '9e5'),
+                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2NetworksOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/ManagingL2NetworksOperations', '504'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AboutLoadBalancerInstances', 'a56'),
+                path: '/docs/Subscribers/NetworkandSecurity/L2 Networks/ViewingL2Networks',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/L2 Networks/ViewingL2Networks', '19f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ActivatingtheAlteonLBIControlPanel', '52e'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/AccessingtheAlteonLBIControlPanel', '358'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -701,8 +719,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/CreatingInstanceRestorePoint', 'ec8'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint', '1b3'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -725,20 +743,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Viewing Load Balancer Instance Details', '1d4'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstanceDetails', '922'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Volume Management',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/Volume Management', 'e35'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/AboutNATGateways', 'fc5'),
+                path: '/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstances',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ViewingLoadBalancerInstances', 'caa'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -749,26 +761,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGateways', '5e6'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations', '41c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingforVMviaVNF', 'd08'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/StartingandStoppingaNATGateway',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/StartingandStoppingaNATGateway', '8df'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/PortForwardingwithPublicIP', 'e32'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/RestartingandDeletingaNATGateway', 'cde'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayDetails',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayDetails', 'd0f'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -779,32 +785,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayOverview', '38b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AboutVirtualFirewallInstances', '37b'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AccessingtheVFIControlPanel', 'f76'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/AddingInstancestoaVFI-basedNetwork', '220'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ConfiguringAlerts', '596'),
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGateways',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGateways', 'd45'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -815,14 +797,20 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandInstanceWithinVNF',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/DeployingVNFandInstanceWithinVNF', 'a30'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingAlerts', '589'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingFirewallInstanceOperations', '842'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingInstanceRestorePoints', 'c5c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -845,18 +833,6 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Snapshots', '596'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/Viewing Firewall Instance Details', '729'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingGraphs', '3e4'),
                 exact: true,
@@ -869,32 +845,50 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingandViewingVPCs', '878'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewallInstanceDetails', '54e'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingVPCSubnetsandTiers', '31e'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewalls',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingVirtualFirewalls', 'a0a'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/IPv4AddressesandVPC', '53d'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/AddingIPv4AddressesandRules', '79c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlonVPCSubnets', 'e65'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingaVPC',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingaVPC', '887'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingSubnetsandTiers',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/CreatingSubnetsandTiers', 'ded'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlList',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingAccessControlList', '857'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCInstances', '6d9'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCOperations', 'f75'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -911,14 +905,14 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations', 'cca'),
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs', '318'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Other Services/OfferingServices',
-                component: ComponentCreator('/docs/Subscribers/Other Services/OfferingServices', 'c74'),
+                path: '/docs/Subscribers/Other Services/ServicesOffered',
+                component: ComponentCreator('/docs/Subscribers/Other Services/ServicesOffered', 'b02'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -941,62 +935,50 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/AboutBlockVolumes', 'b4d'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
                 path: '/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk',
                 component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/CreatingDataDisk', '64e'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Operations', '198'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePointsandVolume',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/CreatingDiskRestorePointsandVolume', 'f72'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Overview', 'd3d'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/CreatingRestorePointSchedules',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/CreatingRestorePointSchedules', '3fe'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/ResizetheBlockVolume', '011'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/ManagingOperations',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ManagingOperations', '622'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/Schedules', 'e0e'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/ResizingtheBlockVolume',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ResizingtheBlockVolume', 'd43'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/DetailsofBlockVolumes/WorkingwithDiskRestorePoints', '6b5'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumeDetails', '33c'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/UsingBlockVolumeswithKubernetes', 'a37'),
+                path: '/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes',
+                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/ViewingBlockVolumes', 'dd6'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes',
-                component: ComponentCreator('/docs/Subscribers/Storage/BlockVolumes/WorkingwithInstanceVolumes', '7a2'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/AboutYntraaObjectStorage', 'e12'),
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/AddingObjectinBucket',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/AddingObjectinBucket', 'e15'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1007,26 +989,32 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails', 'f60'),
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket', '21d'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/FrequentlyAskedQuestions', '187'),
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/IntegrationDetailsandFeatureList',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/IntegrationDetailsandFeatureList', '5ae'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket', '9fb'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails', 'd11'),
                 exact: true,
                 sidebar: "sidebar1"
               },
               {
                 path: '/docs/Subscribers/SystemRequirements',
                 component: ComponentCreator('/docs/Subscribers/SystemRequirements', '4d4'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/AboutToolsandUtilities', 'f81'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -1049,8 +1037,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances',
-                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingSSHKeysandKeyPairsforLinuxInstances', '7bc'),
+                path: '/docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs',
+                component: ComponentCreator('/docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs', '55e'),
                 exact: true,
                 sidebar: "sidebar1"
               }

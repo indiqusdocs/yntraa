@@ -1,13 +1,22 @@
 ---
-sidebar_position: 2
+sidebar_position: 12
 ---
 # Connecting to a RHEL Instance
 
-You can connect to RHEL Instances via SSH sessions using passwords (less secure) or SSH key pairs (most secure).
+Connecting to a RHEL instance allows you to securely access and manage your virtual machine remotely. You can connect using either a password or an SSH key pair. SSH key-based authentication is recommended as it provides a more secure way to access your instance.
+
+This section comprises of the following sub-sections:
+
+<div className="custom-block-blue">  
+- [Connecting from a Windows Machine](#connecting-from-a-windows-machine)
+- [Connecting from a macOS or Linux Machine](#connecting-from-a-macos-or-linux-machine)
+</div>
 
 ## Connecting from a Windows Machine
 
-To connect to your RHEL Instance from a Windows machine, you will must use an application called PuTTy, an SSH client.
+You can connect to your RHEL instance from a Windows machine using an SSH client such as PuTTY. This allows you to securely access and manage your instance for administration and configuration tasks.
+
+To connect a RHEL instance from a Windows machine, follow these steps: 
 
 1. [Download and install PuTTy.](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 2. Launch PuTTy on your computer.
@@ -22,17 +31,21 @@ You are now connected to your Instance.
 
 ## Connecting from a macOS or Linux Machine
 
+You can connect to your RHEL instance from a macOS or Linux machine using the built-in SSH client. This allows you to securely access and manage your instance for administration and configuration tasks.
+
+To connect a RHEL instance from a macOS or Linux machine, follow these steps: 
+
 1. Open any terminal program.
 2. Enter the following command into the terminal. 
 	```
 	ssh -i ~/.ssh/<your_private_key> <username>@<your_instance_ip>
 	```
 
-:::note
-Make sure you replace `your_private_key` with the filename of your private key; `your_instance_ip` with the IP address of your Instance; and `username` with the default root user name (**root**).
-:::
+    :::important
+    Make sure you replace `your_private_key` with the filename of your private key; `your_instance_ip` with the IP address of your Instance; and `username` with the default root user name (**root**).
+    :::
 
-3. When prompted, allow connection to the host by typing **yes**, then press **Enter**.
+3. When prompted, allow connection to the host by typing **Yes**, then press **Enter**.
 	```
 	The authenticity of host 'myhost.ext (212.47.206.34)' can't be established.  
 	RSA key fingerprint is 4f:ba:65:cf:14:64:a7:1e:b6:07:7c:00:71:95:21:fa.

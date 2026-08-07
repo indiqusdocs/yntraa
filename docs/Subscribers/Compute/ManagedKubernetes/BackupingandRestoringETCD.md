@@ -2,6 +2,7 @@
 sidebar_position: 13
 ---
 # Backuping and Restoring ETCD
+
 This section describes the procedure for backing up and restoring the Kubernetes ETCD database. It covers creating ETCD snapshots, verifying snapshot integrity, and restoring ETCD in the event of cluster corruption, accidental data deletion, control plane failures, or disaster recovery scenarios.  
   
 The ETCD database stores the following critical Kubernetes cluster information:
@@ -14,9 +15,11 @@ The ETCD database stores the following critical Kubernetes cluster information:
     - Persistent Volume definitions
 
 ## Prerequisites
+
 Ensure the following prerequisites are met before proceeding:
 
 ### Requiring Access
+
 Ensure that the following access requirements are available before performing ETCD backup and restore operations:
     - Root or sudo access on the Kubernetes control plane nodes.
     - Access to the ETCD certificates.
@@ -31,6 +34,7 @@ Example output:
 `etcd-master01 1/1 Running`
   
 ## Identifying ETCD Configuration
+
 To check the ETCD static pod manifest, run the following command:
 
 `cat /etc/kubernetes/manifests/etcd.yaml`
@@ -46,6 +50,7 @@ Common Paths:
     - ETCD data directory
 
 ## Taking ETCD Backup
+
 To take ETCD backup, perform the following steps: 
 
 1. To create a backup directory, run the following command:
@@ -72,6 +77,7 @@ etcdctl snapshot save /backup/etcd/etcd-snapshot-$(date +%Y%m%d-%H%M%S).db
   ![Snapshot Backup](img/snapshotbackup.png)
    
 ## Backup Retention Recommendation
+
 This section defines the recommended ETCD backup retention policy.
 
 - Recommended:  
@@ -89,13 +95,14 @@ This section defines the recommended ETCD backup retention policy.
         - DR site
 
 ## Automating ETCD Backup
+
 To automate ETCD backup, perform the following steps:
 
 1. Create the backup script:
 
     `/usr/local/bin/etcd-backup.sh`
 
- Add the following in the etcd-backup.sh file
+ Add the following in the etcd-backup.sh file.
   
 ```
 #!/bin/bash
@@ -135,6 +142,7 @@ Add:
 This will take backup daily at 1 AM.
    
 ## ETCD Restoring Procedure
+
 Restore should only be performed during the following events:
     - Disaster recovery
     - Complete cluster corruption
@@ -143,6 +151,7 @@ Restore should only be performed during the following events:
 Always stop Kubernetes components before restoring.
 
 ## Restoring ETCD Snapshot
+
 To restore ETCD snapshot, perform the following steps with commands:
 
 1. Stop Kubelet.  
@@ -163,6 +172,7 @@ etcdctl snapshot restore /backup/etcd/etcd-snapshot-20260602-120000.db \
 ```
 
 ## Verifying ETCD Manifest
+
 To verify ETCD manifest, run the following commands:
 
 Edit:
@@ -176,13 +186,15 @@ Ensure:
 Matches restored directory. 
 
 ## Starting Kubernetes Services
-To start the kubernetes services, run the following command:  
+
+To start the Kubernetes services, run the following command:  
   
 `systemctl start kubelet`
 
 Wait 2–5 minutes.
 
-## Verifying Cluster Health  
+## Verifying Cluster Health 
+ 
 To verify the cluster health, perform the followings steps:
 
 1. Checking Nodes
@@ -210,6 +222,7 @@ Expected Output:
 `https://127.0.0.1:2379 is healthy`   
 
 ## ETCD Backup Best Practices
+
 This section highlights best practices for maintaining secure and reliable backup operations:
 
 - Keep Backup Outside Cluster
@@ -281,6 +294,7 @@ prometheus-kube-state
 ```
 
 ## Accessing Grafana
+
 To access Grafana, which is automatically deployed by the Helm chart along with a default admin password and required configurations, perform the following steps:
 
 1. To forward Grafana Service Port, run the following command to access Grafana locally:

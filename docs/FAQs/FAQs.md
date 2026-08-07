@@ -1,14 +1,9 @@
 ---
 sidebar_position: 1
 ---
-# Frequently Asked Questions (FAQs)
+# FAQs
 
-<details><summary>**What happens if I miss a payment due date?**</summary>Depending on how your service provider has set up the payment collections policies, one of the following might happen: <br />
-**1.** You may be able to continue using your cloud account (uninterrupted usage); <br />
-**2.**  You might get payment due date notifications (reminder state); <br />
-**3.** You might be disallowed from purchasing new resources but continue to use existing ones (restricted usage); <br />
-**4.** You might be put in a disabled state along with all your cloud resources (suspended state); <br />
-**5.** You might lose access to your account and all your resources entirely (terminated state). While scenario 1 is the most ideal, realistically one of 2-5 will be configured as a policy. To avoid any likelihood of these events, it is best recommended to always pay your due invoices on time and never miss a due date.</details>
+<details><summary>**Can root disks be attached to other Instances?**</summary>No, Root Volumes, i.e., root disks that are created at the time of Instance creation, can not be moved between Instances.<br/>Data Volumes, i.e., addon disks that are created separately, can be attached to and detached from Instances. In other words, Data Volumes are portable while Root Volumes are not.</details>
 
 <details><summary>**How is my wallet balance calculated?**</summary>
 Wallet balance or Service Balance is a real-time 'ability to spend' on Yntraa Cloud. It is a net total of your credit limit, all charges incurred and all payments made for your account. <br />
@@ -38,15 +33,20 @@ Wallet balance or Service Balance is a real-time 'ability to spend' on Yntraa C
 <details><summary> **Can control and worker nodes be scaled individually in a Kubernetes cluster**</summary>No, when a Kubernetes cluster is scaled, the scaling configurations are applied to all the nodes alike.<br /> The following [scaling modes](/docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters) are available:
 <br/>**Scaling the Control Node** - this can be done by enabling High Availability (HA) at the time of cluster creation;<br/>**Scaling the number of Worker Nodes** - this can be done by specifying minimum and maximum cluster size (Control Nodes are excluded from these limits);<br/>**Reconfiguring the Cluster** - this can be done by specifying a new number of Worker Nodes and changing their Compute configuration.<br/></details>
 
-<details><summary>**Is there a way to add or link multiple emails to an account?**</summary>Yes, multiple email IDs can be used to login to the same subscriber 'parent' account by creating [team members](/docs/Subscribers/AccountCentre/TeamMemberManagement). Team members/users are semi-isolated accounts, in the sense that they all have their own identities on Yntraa Cloud, but share all resources created in the parent subscriber account.</details>
+<details><summary>**Is there a way to add or link multiple emails to an account?**</summary>Yes, multiple email IDs can be used to login to the same subscriber 'parent' account by creating [team members](/docs/Subscribers/AddingTeamMembers). Team members/users are semi-isolated accounts, in the sense that they all have their own identities on Yntraa Cloud, but share all resources created in the parent subscriber account.</details>
 
 <details><summary> **How can I get admin credentials for Windows Instances on Yntraa Cloud?**</summary>When you create a Windows Instance on Yntraa Cloud, you will receive the password on the email ID registered for your Yntraa Cloud account.</details>
 
-<details><summary>**Can Kubernetes clusters be created with differently-sized control and worker nodes?**</summary>No, Yntraa Kubernetes Service (YK8s) only supports equally-sized Control and Worker nodes in a Kubernetes cluster.</details>
+<details><summary>**Can Kubernetes clusters be created with differently-sized control and worker nodes?**</summary>No, Yntraa Kubernetes Service only supports equally-sized Control and Worker nodes in a Kubernetes cluster.</details>
 
-<details><summary>**Can root disks be attached to other Instances?**</summary>No, Root Volumes, i.e., root disks that are created at the time of Instance creation, can not be moved between Instances.<br/>Data Volumes, i.e., addon disks that are created separately, can be attached to and detached from Instances. In other words, Data Volumes are portable while Root Volumes are not.</details>
+<details><summary>**What happens if I miss a payment due date?**</summary>Depending on how your service provider has set up the payment collections policies, one of the following might happen: <br />
+**1.** You may be able to continue using your cloud account (uninterrupted usage); <br />
+**2.**  You might get payment due date notifications (reminder state); <br />
+**3.** You might be disallowed from purchasing new resources but continue to use existing ones (restricted usage); <br />
+**4.** You might be put in a disabled state along with all your cloud resources (suspended state); <br />
+**5.** You might lose access to your account and all your resources entirely (terminated state). While scenario 1 is the most ideal, realistically one of 2-5 will be configured as a policy. To avoid any likelihood of these events, it is best recommended to always pay your due invoices on time and never miss a due date.</details>
 
-<details><summary>**Will I be billled for the entire month if I don't use a resource for the whole month?**</summary>Resources are billed based on pro-ration rules defined by the service provider. Pro-ration works in the following ways:<br/>
+<details><summary>**Will I be billed for the entire month if I don't use a resource for the whole month?**</summary>Resources are billed based on pro-ration rules defined by the service provider. Pro-ration works in the following ways:<br/>
 **Pro-rate on entry** : This means that, if enabled, your resource will be billed **from** the date of purchase and not from the beginning of the billing month.<br/>
 **Pro-rate on exit** : This means that, if enabled, your resource will be billed **till** the date of usage and not till the end of the billing month.<br/>
 Here's a more detailed illustration:<br/></details>
