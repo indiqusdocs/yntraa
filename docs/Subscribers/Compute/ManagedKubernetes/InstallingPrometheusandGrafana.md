@@ -3,7 +3,7 @@ sidebar_position: 12
 ---
 # Installing Prometheus and Grafana
 
-This section describes the process for deploying Prometheus and Grafana on a kubernetes cluster using the kube-prometheus-stack Helm chart from the Prometheus Community repository.
+This section describes the process for deploying Prometheus and Grafana on a Kubernetes cluster using the kube-prometheus-stack Helm chart from the Prometheus Community repository.
 
 The deployment includes:
     - Prometheus Server
@@ -15,10 +15,10 @@ The deployment includes:
 ## Prerequisites
 
 Ensure the following prerequisites are met before proceeding:
-    - A running kubernetes cluster.
+    - A running Kubernetes cluster.
     - kubectl installed and configured.
     - Helm installed and configured.
-    - Internet connectivity from the kubernetes master node.
+    - Internet connectivity from the Kubernetes master node.
     - Sufficient cluster resources available for monitoring components.
   
 ## Adding Prometheus Community Helm Repository
@@ -124,4 +124,4 @@ After deployment, verify the following validations:
 
 `kubectl describe pod <pod-name> -n monitoring`
  
- Prometheus and Grafana have now been successfully deployed on the kubernetes cluster using the kube-prometheus-stack Helm chart. The environment is ready for monitoring kubernetes workloads, infrastructure metrics, and alerting integration.
+ Prometheus and Grafana have now been successfully deployed on the Kubernetes cluster using the kube-prometheus-stack Helm chart. The environment is ready for monitoring Kubernetes workloads, infrastructure metrics, and alerting integration.

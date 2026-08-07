@@ -19,25 +19,24 @@ To view the details associated with a virtual firewall instance, follow these st
 2. Click on your created virtual firewall name from the list. The Overview tab opens automatically. The following screen appears with the details:
    ![Instance Overview](imgnew/overview.png)
 
-**Configuration and Availability:** This displays the following virtual firewall configuration details to help verify its current configuration and operational state:
+- **Configuration and Availability:** This displays the following virtual firewall configuration details to help verify its current configuration and operational state:
+	- The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>
+	- Availability Zone
+	- Firewall Provider
+	- Firewall Configuration
+	- Root Disk
 
-- The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>
-- Availability Zone
-- Firewall Provider
-- Firewall Configuration
-- Root Disk
-
-**Internal Information:** This displays the following information that is used for internal identification of the virtual firewall and communication with other internal services:
-- Template Name
-- Virtual Firewall Internal Name
-- Created On
-  
-**NIC Information:** This displays the following network interface details associated with the virtual firewall to help identify and manage its network connectivity:
-- Network Name
-- MAC Address
-- IP Address
-- Netmask
-- Gateway
+- **Internal Information:** This displays the following information that is used for internal identification of the virtual firewall and communication with other internal services:
+	- Template Name
+	- Virtual Firewall Internal Name
+	- Created On
+	  
+- **NIC Information:** This displays the following network interface details associated with the virtual firewall to help identify and manage its network connectivity:
+	- Network Name
+	- MAC Address
+	- IP Address
+	- Netmask
+	- Gateway
 
 ## Launching Virtual Firewall Web Based Console 
 

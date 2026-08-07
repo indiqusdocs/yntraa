@@ -3,13 +3,13 @@ sidebar_position: 10
 ---
 # Reconfiguring Linux Instances
 
-Reconfigure a linux instance to change its compute and root disk configuration when your workload requirements change. Updating the compute pack and root disk allows you to allocate resources that better match your application's performance and capacity needs. 
+Reconfigure a Linux instance to change its compute and root disk configuration when your workload requirements change. Updating the compute pack and root disk allows you to allocate resources that better match your application's performance and capacity needs. 
 
-To reconfigure the linux instances, follow these steps:
+To reconfigure the Linux instances, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Stop Instance** button. The following screen appears:
    ![Stop Instance Message](img/stopinstanceyesmessage.png)

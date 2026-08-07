@@ -17,26 +17,27 @@ To view your unbilled charge details, follow these steps:
    ![Profile ID Icon](img/profileidicon.png)
 4. Click **Account**. The profile tab opens automatically. The following screen appears: 
    ![Profile Details](img/profiledetails.png)
-5. Navigate to **Billing > Unbilled Charges**. The following screen appears with the unbilled charge details: 
+5. Navigate to **Billing > Unbilled Charges**. The following screen appears: 
    ![Unbilled Charges](img/unbilledchargesdetails.png)
    
-<div className="custom-block-blue">  
-- [Fix Charges](#fix-charges)
+<div className="custom-block-blue">
+The following are the unbilled charge details on the screen:   
+- [Fixed Charges](#fixed-charges)
 - [Usage Charges](#usage-charges)
 </div>
    
-## Fix Charges
+## Fixed Charges
 
 Fixed subscriptions (recurring or non-recurring) incur charges that are calculated on a daily prorated basis by default.
 
-To view fix charge details, navigate to **Billing > Unbilled Charges**. The following screen appears: 
+To view the fixed charge details, navigate to **Billing > Unbilled Charges**. The following screen appears: 
 ![Fixed Charges](img/unbilledchargesdetails.png)
 
 ## Usage Charges
 
 Usage charges shows the actual charges incurred up to the previous hour, providing an up-to-date view of your consumption-based charges.
 
-To view fix charge details, navigate to **Billing > Usage Charges**. The following screen appears: 
+To view usage charge details, navigate to **Billing > Usage Charges**. The following screen appears: 
 ![Usage Charges](img/usagecharges.png)
 
 

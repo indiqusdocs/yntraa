@@ -24,7 +24,7 @@ List nodes kubectl --kubeconfig /custom/path/kube.conf get nodes --all-namespace
 List services kubectl --kubeconfig /custom/path/kube.conf get services --all-namespaces  
 ```
  
-Download kubeconfig for the cluster using the above button. The kubectl command-line tool uses kubeconfig files to find the information it needs to choose a cluster and communicate with the API server of a cluster.
+Click the **Download kubeconfig** button for the cluster. The kubectl command-line tool uses kubeconfig files to find the information it needs to choose a cluster and communicate with the API server of a cluster.
 
 ## Downloading kubectl
 

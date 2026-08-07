@@ -14,7 +14,7 @@ To create a RHEL instance, follow these steps:
    ![Compute Pack](img/computepacknew.png)
    ![Root Disk](img/rootdiskrhelnew.png)
    ![Cost Summary](img/costrhelnew.png)
-3. Select an availability zone, which is the geographical region where your Instance deploys.
+3. Select an Availability Zone, which is the geographical region where your Instance deploys.
 4. Select a VPC or VNF network from the **Select Network Destination** dropdown, and select the appropriate tier listed in network.
 5. Select an OS Image for your instance, or choose a customized image from **[My Images](/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages)**.
 6. Select a compute pack from the list.

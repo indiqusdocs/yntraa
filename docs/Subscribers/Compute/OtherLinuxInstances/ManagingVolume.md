@@ -25,7 +25,7 @@ To view the disks attached to an instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
 ![View Root Disk](img/viewattacheddisk.png)
@@ -38,7 +38,7 @@ To add volume, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![Adding Volume](img/addvolume.png)
@@ -55,7 +55,7 @@ To create the disk restore point, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
   ![View Root Disk](img/linuxinstancevolume.png)
@@ -108,7 +108,7 @@ To create volume from disk restore point, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/linuxinstancevolume.png)

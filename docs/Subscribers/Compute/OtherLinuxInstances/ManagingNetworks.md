@@ -3,13 +3,13 @@ sidebar_position: 8
 ---
 # Managing Networks
 
-Manage the networking configuration of your linux instance to control connectivity and communication with other resources. You can configure network settings, and manage network access to ensure secure and reliable communication for your workloads.
+Manage the networking configuration of your Linux instance to control connectivity and communication with other resources. You can configure network settings, and manage network access to ensure secure and reliable communication for your workloads.
 
- To add network interface to a linux instance, follow these steps:
+ To add network interface to a Linux instance, follow these steps:
  
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)

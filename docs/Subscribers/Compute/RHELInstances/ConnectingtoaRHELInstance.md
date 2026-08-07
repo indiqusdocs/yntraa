@@ -33,7 +33,7 @@ You are now connected to your Instance.
 
 You can connect to your RHEL instance from a macOS or Linux machine using the built-in SSH client. This allows you to securely access and manage your instance for administration and configuration tasks.
 
-To connect a RHEL instance from a macOS or linux machine, follow these steps: 
+To connect a RHEL instance from a macOS or Linux machine, follow these steps: 
 
 1. Open any terminal program.
 2. Enter the following command into the terminal. 

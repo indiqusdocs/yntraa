@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 ---
-# VPC Operations
+# Managing VPC Operations
 
 This section help you manage your VPC efficiently after it is created. You can perform key actions to monitor, update, and maintain your VPC, ensuring it continues to support your workload and network requirements effectively.
 

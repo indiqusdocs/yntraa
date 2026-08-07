@@ -14,13 +14,13 @@ This section comprises of the following sub-sections:
 
 ## Configuring Alerts
 
-Create an alert to monitor a specific window instance metric and receive an email notification when the configured threshold is reached. While creating an alert, specify a name, select the parameter to monitor, define the trigger condition and reading duration, and add the email recipients for notifications.
+Create an alert to monitor a specific Window instance metric and receive an email notification when the configured threshold is reached. While creating an alert, specify a name, select the parameter to monitor, define the trigger condition and reading duration, and add the email recipients for notifications.
 
 To configure alerts, follow these steps: 
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Alerts**. The following screen appears:
    ![Windows Instance Alert](img/windowsinstancealert.png)
@@ -37,13 +37,13 @@ To configure alerts, follow these steps:
 
 ## Managing Recipients
 
-The Manage Recipients feature lets you control who receives window instance alerts. It displays all configured or added email IDs and provides options to remove outdated addresses or add new ones. 
+The Manage Recipients feature lets you control who receives Window instance alerts. It displays all configured or added email IDs and provides options to remove outdated addresses or add new ones. 
 
 To remove existing email IDs and add other email IDs, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Alerts**. The following screen appears:
    ![Windows Instance Alert](img/windowsinstancealert.png)

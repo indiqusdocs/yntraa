@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c41'),
+    component: ComponentCreator('/docs', '753'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '629'),
+        component: ComponentCreator('/docs', '921'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'bdf'),
+            component: ComponentCreator('/docs', '803'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -335,8 +335,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/AccountCentre/ServiceBalanceDetails',
-                component: ComponentCreator('/docs/Subscribers/AccountCentre/ServiceBalanceDetails', '295'),
+                path: '/docs/Subscribers/AccountCentre/AddingCreditPoints',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/AddingCreditPoints', '9a4'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -355,6 +355,12 @@ export default [
               {
                 path: '/docs/Subscribers/AccountCentre/UsageFeed',
                 component: ComponentCreator('/docs/Subscribers/AccountCentre/UsageFeed', 'c2b'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/AccountCentre/ViewingServiceBalanceDetails',
+                component: ComponentCreator('/docs/Subscribers/AccountCentre/ViewingServiceBalanceDetails', '4d9'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -439,6 +445,12 @@ export default [
               {
                 path: '/docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters',
                 component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters', '318'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/Compute/ManagedKubernetes/StoppingandStartingaKubernetesCluster',
+                component: ComponentCreator('/docs/Subscribers/Compute/ManagedKubernetes/StoppingandStartingaKubernetesCluster', '0aa'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -869,6 +881,12 @@ export default [
                 sidebar: "sidebar1"
               },
               {
+                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCOperations',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ManagingVPCOperations', 'f75'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ReconfiguringaVPC',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ReconfiguringaVPC', 'a1a'),
                 exact: true,
@@ -883,12 +901,6 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/ViewingVPCs', '318'),
-                exact: true,
-                sidebar: "sidebar1"
-              },
-              {
-                path: '/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations',
-                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/VirtualPrivateClouds/VPCOperations', 'cca'),
                 exact: true,
                 sidebar: "sidebar1"
               },
@@ -977,8 +989,8 @@ export default [
                 sidebar: "sidebar1"
               },
               {
-                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails',
-                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/FeatureListandIntegrationDetails', 'f60'),
+                path: '/docs/Subscribers/Storage/ObjectStorageBuckets/IntegrationDetailsandFeatureList',
+                component: ComponentCreator('/docs/Subscribers/Storage/ObjectStorageBuckets/IntegrationDetailsandFeatureList', '5ae'),
                 exact: true,
                 sidebar: "sidebar1"
               },

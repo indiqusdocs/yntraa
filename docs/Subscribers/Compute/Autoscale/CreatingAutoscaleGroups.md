@@ -3,13 +3,13 @@ sidebar_position: 1
 ---
 # Creating Autoscale Groups
 
-Creating an autoscale group enables automatic scaling of compute instances based on workload demand and defined scaling policies. This helps maintain application performance, improve availability, and optimize resource utilization by automatically adding or removing instances as needed.
+Creating an Autoscale group enables automatic scaling of compute instances based on workload demand and defined scaling policies. This helps maintain application performance, improve availability, and optimize resource utilization by automatically adding or removing instances as needed.
 
-To create autoscale group, follow these steps:
+To create Autoscale group, follow these steps:
 
 1. Navigate to **Compute > Autoscale Groups**. The following screen appears: 
    ![Autoscale Group List](img/newautoscalegroup.png)
-2. Click the **NEW AUTOSCALE GROUP** button. The following screen appears: 
+2. Click the **New Autoscale Group** button. The following screen appears: 
    ![LB in Autoscale Group](img/lbinautoscalegroup.png) 
    ![OS Image](img/osimage.png)
    ![Autoscale Root Disk](img/autoscalerootdisk.png)
@@ -21,16 +21,16 @@ To create autoscale group, follow these steps:
 5. Select VPC network, choose the appropriate tier in **Select a Network Tier**, and then select a load balancer from the options in the **Select Load Balancer** dropdown.
 6. Select the OS image.
 7. Select a compute pack from the available compute collections.
-8. Select a **Root Disk** for your auto scale group from the available options or choose **Custom Disk** to define the size. Adjust the disk size as required, and click **Select Pack** to confirm.
-9. Configure the autoscale group by specifying all the required options:
-	- **Min. Group Limit:** This is the minimum number of members in the autoscale group. The number of instances in the group will be equal to or more than this number.
-    - **Max. Group Limit:** This is the maximum number of members in the autoscale group. The number of instances in the group will be equal to or more than this number.
+8. Select a **Root Disk** for your Auto Scale group from the available options or choose **Custom Disk** to define the size. Adjust the disk size as required, and click **Select Pack** to confirm.
+9. Configure the Autoscale group by specifying all the required options:
+	- **Min. Group Limit:** This is the minimum number of members in the Autoscale group. The number of instances in the group will be equal to or more than this number.
+    - **Max. Group Limit:** This is the maximum number of members in the Autoscale group. The number of instances in the group will be equal to or more than this number.
     - **Expunge Instance grace period:** This defines how long before a scale-down is executed should the app/user connections to an Instance be removed.
-    - **Polling Interval:** This defines at what interval should the autoscale group check your policy conditions and execute the relevant scale or scale-down configurations.
+    - **Polling Interval:** This defines at what interval should the Autoscale group check your policy conditions and execute the relevant scale or scale-down configurations.
     :::note  
     The **Polling Interval** must be between 60 and 3600 seconds.  
     :::
-10. Define the scale up policy (Multiple policies can be configured; if multiple conditions are specified, all of them must be met for the autoscale group to execute) by specifying all the required options:
+10. Define the scale up policy (Multiple policies can be configured; if multiple conditions are specified, all of them must be met for the Autoscale group to execute) by specifying all the required options:
 	- **Policy Name**: Specify the name for your policy.
 	- **Duration (in mins):** This is the duration in which the conditions have to be true before action is taken.
 	- **Quiet Time (in mins):** The cool-down period in which the policy should not be evaluated after the action has been taken.
@@ -48,9 +48,9 @@ To create autoscale group, follow these steps:
         The reading **Duration** (The time period during which the system monitors metrics before triggering a scaling action.) must be at least 60 seconds. The **Quiet Time** must be between 120 and 3600 seconds.  
         :::
 13. Configure the SSH key settings. If your account does not have an SSH key pair, select **Generate a New Key Pair** to create one. You can also select **Upload a Key Pair** to upload an existing key pair.
-14. Enable email notifications to receive updates when the auto scale group executes. Select **Also notify other recipients** to add additional email recipients from the dropdown list. The default email address is selected automatically.
-15. Enter name of your autoscale group in **Name Your Autoscale Group**.
-16. Click the **Publish This Autoscale Group** button. The autoscale group is created.
+14. Enable email notifications to receive updates when the Auto Scale group executes. Select **Also notify other recipients** to add additional email recipients from the dropdown list. The default email address is selected automatically.
+15. Enter name of your Autoscale group in **Name Your Autoscale Group**.
+16. Click the **Publish This Autoscale Group** button. The Autoscale group is created.
 
 
 

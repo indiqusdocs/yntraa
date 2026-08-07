@@ -19,22 +19,21 @@ To view the details of RHEL instances, follow these steps:
 2. Click on your created RHEL instance name from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/rhelinstanceoverview.png)
 
-**Configuration and Availability:** This displays the following RHEL instance configuration details to help verify its current configuration and operational state:
+- **Configuration and Availability:** This displays the following RHEL instance configuration details to help verify its current configuration and operational state:
+	- The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>
+	- Availability Zone
+	- Operating System
+	- Compute Pack
+	- Root Disk
 
-- The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>
-- Availability Zone
-- Operating System
-- Compute Pack
-- Root Disk
+- **Internal Information:** This displays the following information that is used for internal identification of the RHEL instances and communication with other internal services:
+	- Template Name
+	- Created On
 
-**Internal Information:** This displays the following information that is used for internal identification of the RHEL instances and communication with other internal services:
-- Template Name
-- Created On
-
-**Security and Access Control:** This displays the available security settings and access control options for the RHEL instance based on its networking zone. The available information and operations may vary depending on the configured network environment:
-- Network Name
-- VPC Name
-- Access Control
+- **Security and Access Control:** This displays the available security settings and access control options for the RHEL instance based on its networking zone. The available information and operations may vary depending on the configured network environment:
+	- Network Name
+	- VPC Name
+	- Access Control
 
 ## Launching RHEL Instance Web Based Console 
 
@@ -66,10 +65,6 @@ To stop and start the RHEL instance, follow these steps:
    ![RHEL Instance Start Message](img/rhelinstancestartmessage.png)
 6. Click the **Yes** button. The following screen appears:
   ![Overview](img/rhelinstanceoverview.png)
-
-
-
-
 
 
 

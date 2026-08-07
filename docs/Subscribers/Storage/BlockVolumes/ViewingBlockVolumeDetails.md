@@ -12,13 +12,13 @@ To view the disk details, follow these steps:
 2. Click on your created data disk name from the list. The Overview tab opens automatically. The following screen appears with the details: 
    ![Overview](img/blockvolumeoverviewview.png)
 
-**Configuration and Availability:** This section displays the following details to help verify disk current configuration and operational state:
+- **Configuration and Availability:** This section displays the following details to help verify disk current configuration and operational state:
     - Status, <span class= "green">**Ready**</span>
     - Availability Zone
     - Disk Pack
     - Disk Utilisation
 
-**Internal Information:** This section displays the following information used for internal identification of this disk and communication with other internal services:
+- **Internal Information:** This section displays the following information used for internal identification of this disk and communication with other internal services:
     - Offering Name
     - Instance State
     - Created On

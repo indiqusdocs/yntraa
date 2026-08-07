@@ -3,7 +3,7 @@ sidebar_position: 11
 ---
 # Managing Window Instance Operations
 
-You can manage the lifecycle of window instance by restarting, force stopping, renaming, or deleting. These operations help you maintain service availability, resolve operational issues, organize resources, and manage your cloud infrastructure efficiently.
+You can manage the lifecycle of Window instance by restarting, force stopping, renaming, or deleting. These operations help you maintain service availability, resolve operational issues, organize resources, and manage your cloud infrastructure efficiently.
 
 Yntraa Cloud provides the following operations on load balancer instances:
 
@@ -16,13 +16,13 @@ Yntraa Cloud provides the following operations on load balancer instances:
 
 ## Restarting an Instance
 
-Restart a window instance to refresh its operating state, apply certain configuration changes, or resolve temporary issues without changing its existing settings. This action helps restore normal operation, improve service reliability, and ensure efficient traffic distribution across backend resources.
+Restart a Window instance to refresh its operating state, apply certain configuration changes, or resolve temporary issues without changing its existing settings. This action helps restore normal operation, improve service reliability, and ensure efficient traffic distribution across backend resources.
 
-To restart a window instance, follow these steps: 
+To restart a Window instance, follow these steps: 
 
  1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Operations** and click the **Restart Instance** button. The following screen appears: 
    ![Restart Instance Message](img/restartinstancemessage.png)
@@ -30,13 +30,13 @@ To restart a window instance, follow these steps:
    
 ## Force Stopping an Instance
 
-Force stop a window instance to immediately terminate its operations when it becomes unresponsive or cannot be shut down through a normal stop operation. This action helps recover from critical issues, restore control of the instance, and prepare it for troubleshooting or restart. 
+Force stop a Window instance to immediately terminate its operations when it becomes unresponsive or cannot be shut down through a normal stop operation. This action helps recover from critical issues, restore control of the instance, and prepare it for troubleshooting or restart. 
 
-To force stop a window instance, follow these steps: 
+To force stop a Window instance, follow these steps: 
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Operations** and click the **Force Stop Instance** button. The following screen appears: 
    ![Force Stop Instance Message](img/forcestopinstancemessage.png)
@@ -44,13 +44,13 @@ To force stop a window instance, follow these steps:
     
 ## Resetting Password of an Instance
 
-Resetting the password allows you to regain access to your windows instance if you have forgotten the current password or need to update it for security purposes. You can generate a new administrator password and use it to securely sign in to your windows instance.
+Resetting the password allows you to regain access to your Windows instance if you have forgotten the current password or need to update it for security purposes. You can generate a new administrator password and use it to securely sign in to your Windows instance.
 
-To reset password of a window instance, follow these steps: 
+To reset password of a Window instance, follow these steps: 
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click the  **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
@@ -65,13 +65,13 @@ A password reset link is sent to your registered email address or mobile number.
 
 ## Resetting SSH key
 
-Resetting the SSH key allows you to replace the existing key pair associated with your windows instance. This is useful if the current SSH key is lost, compromised, or needs to be updated for secure administrative access.
+Resetting the SSH key allows you to replace the existing key pair associated with your Windows instance. This is useful if the current SSH key is lost, compromised, or needs to be updated for secure administrative access.
 
-To reset SSH key of a window instance, follow these steps: 
+To reset SSH key of a Window instance, follow these steps: 
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click the **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
@@ -86,16 +86,16 @@ A password reset link is sent to your registered email address.
 
 ## Migrating Network
 
-Migrating a windows instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
+Migrating a Windows instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
 :::note
 Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurations from the selected NIC before migrating the instance to another network.
 ::: 
 
-To migrate windows Instance between networks, follow these steps:
+To migrate Windows Instance between networks, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click the **Migrate Network** button. The following screen appears where you provide the required details: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
@@ -110,11 +110,11 @@ Reinstalling a Windows instance replaces the existing operating system with a fr
 Reinstalling the operating system permanently erases all data on the root disk, including system files, installed applications, and any data stored on the root partition (/ or C drive). Attached data disks remain unaffected. Before proceeding, create a restore point or backup of the instance and ensure that you have saved all important data to another location.
 :::
 
-To reinstalling a window instance, follow these steps:
+To reinstalling a Window instance, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click the **Reinstall Instance** button. The following screen appears: 
    ![Reinstall Instance](img/reinstallinstance.png)
@@ -123,22 +123,22 @@ To reinstalling a window instance, follow these steps:
    
 ## Renaming an Instance
 
-Rename a window instance to assign a more meaningful or recognizable name without affecting its configuration or functionality. This action helps improve resource identification, simplifies instance management, and makes it easier to locate the instance in cloud environment. 
+Rename a Window instance to assign a more meaningful or recognizable name without affecting its configuration or functionality. This action helps improve resource identification, simplifies instance management, and makes it easier to locate the instance in cloud environment. 
 
 To rename an instance, follow these steps: 
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Rename Instance** button. The following screen appears where you can update the window instance name in **Instance Name**.
+3. Click the **Rename Instance** button. The following screen appears where you can update the Window instance name in **Instance Name**.
    ![Instance Name Changed](img/instancenamechanged.png)
 4. Click the **Done** button. The new instance name appears (highlighted in red). 
    ![Name Changed](img/namechange.png)
 
 ## Deleting an Instance
 
-Delete a window instance when it is no longer required to remove it permanently from cloud environment. This action helps free up resources, reduce unnecessary costs, and keep your infrastructure organized by eliminating unused instances. 
+Delete a Window instance when it is no longer required to remove it permanently from cloud environment. This action helps free up resources, reduce unnecessary costs, and keep your infrastructure organized by eliminating unused instances. 
 :::warning
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
@@ -147,12 +147,12 @@ To delete an instance, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
-3. Click the **Delete Instance** button. The following screen appears, where you can choose to delete the windows instance instantly or schedule it to be deleted at a later stage: 
+3. Click the **Delete Instance** button. The following screen appears, where you can choose to delete the Windows instance instantly or schedule it to be deleted at a later stage: 
    ![Delete Instance](img/deleteinstance.png)
-	- To delete the window instance instantly, enter **DELETE** and click the **Delete Now** button. The window instance is deleted.
-	- To schedule the window instance to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.
+	- To delete the Window instance instantly, enter **DELETE** and click the **Delete Now** button. The Window instance is deleted.
+	- To schedule the Window instance to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.
 
 
 

@@ -17,7 +17,9 @@ To resize the block volume, follow these steps:
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Resize**. The following screen appears: 
    ![Disk Configuration](img/diskconfiguration.png)
-4. Select the required disk tier (**Tier1, Tier2, or Tier3**), use the **Custom Disk** option to adjust the disk size as needed, click **Select Pack** to apply the configuration, and then click **Resize Data Disk** button. The following screen appears:
+4. Select the required disk tier (**Tier1, Tier2, or Tier3**).
+5. Click the **Custom Disk** option to adjust the disk size as needed.
+6. Click **Select Pack** to apply the configuration, and then click **Resize Data Disk** button. The following screen appears:
    ![Resize Terms and Condition](img/resizetermsandcondition.png)
-5. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click **Confirm Resize** button.
+7. Select the **I have read and agreed to the Yntraa Cloud Terms and Conditions and Privacy Policy** option, and click **Confirm Resize** button.
    

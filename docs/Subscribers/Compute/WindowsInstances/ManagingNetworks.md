@@ -3,13 +3,13 @@ sidebar_position: 8
 ---
 # Managing Networks
 
-Manage the networking configuration of your windows instance to control connectivity and communication with other resources. You can configure network settings, and manage network access to ensure secure and reliable communication for your workloads.
+Manage the networking configuration of your Windows instance to control connectivity and communication with other resources. You can configure network settings, and manage network access to ensure secure and reliable communication for your workloads.
 
- To add network interface to a windows instance, follow these steps:
+ To add network interface to a Windows instance, follow these steps:
  
  1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Networking**. The following screen appears: 
    ![Network Tab](img/networktab.png)

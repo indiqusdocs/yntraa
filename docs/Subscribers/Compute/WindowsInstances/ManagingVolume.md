@@ -24,7 +24,7 @@ To view the disks attached to an Instance, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/viewattacheddisk.png)
@@ -37,7 +37,7 @@ To add volume, follow these steps:
 
 1. Navigate to **Compute > Window Instances**. The following screen appears:
    ![Window Instance List](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![Adding Volume](img/addingvolume.png)
@@ -54,7 +54,7 @@ To create the disk restore point, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/windowinstancevolume.png)
@@ -82,7 +82,7 @@ To create volume from disk restore point, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/windowinstancevolume.png)
@@ -118,7 +118,7 @@ To delete a disk restore point, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click **Volumes**. The following screen appears: 
    ![View Root Disk](img/windowinstancevolume.png)

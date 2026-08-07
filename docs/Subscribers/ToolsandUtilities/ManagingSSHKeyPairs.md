@@ -22,12 +22,13 @@ To generate a SSH key pair, follow these steps:
 
 1. Navigate to **Tools and Utilities > SSH Keys Pairs**. The following screen appears: 
    ![SSH Keypair List](img/sshkeypairslist.png)
-2. Click **Generate a New Key Pair**. The following screen appears where you provide the required details: 
+2. Click **Generate a New Key Pair**. The following screen appears: 
    ![Generating SSH Key](img/generatingsshkey.png)
+3. Provide the following details: 
     - Enter name for SSH key pair in **Name Your SSH Key Pair**.
     - Select the required **Availability Zone** from the drop-down.
     - Select the **I agree to keep this downloaded private key secure. I understand that sharing this private key would potentially give access to my computing resource and data** option.
-3. Click **Generate SSH Key Pair**. The SSH key pair is generated.
+4. Click **Generate SSH Key Pair**. The SSH key pair is generated.
 
 ## Uploading a SSH Public Key
 

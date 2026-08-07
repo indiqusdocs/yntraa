@@ -18,18 +18,18 @@ To view the details of a load balancer instance, follow these steps:
  2. Click on your created load balancer instance name from the list. The Overview tab opens automatically. The following screen appears with the details:
    ![LBI Overview](img/lbioverview.png)
  
-**Configuration and Availability:** This section displays the following details to help verify load balancer instance current configuration and operational state:
+- **Configuration and Availability:** This section displays the following details to help verify load balancer instance current configuration and operational state:
     - The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>
     - Availability Zone
     - Operating System
     - Compute Pack
 
-**Internal Information:** This section displays the following information used for internal identification of a load balancer instance and communication with other internal services:
+- **Internal Information:** This section displays the following information used for internal identification of a load balancer instance and communication with other internal services:
     - Template Name
     - Internal Name
     - Created On
 
-**Network Details:** This displays the following network interface details associated with the load balancer instance to help identify and manage its network connectivity:
+- **Network Details:** This displays the following network interface details associated with the load balancer instance to help identify and manage its network connectivity:
     - VPC Name
     - Gateway
     - Subnet Mask
@@ -59,10 +59,9 @@ Stop and start the load balancer instance to apply updates, perform maintenance,
 
 To start and stop the load balancer instance, follow these steps:  
 
-1. Navigate to **Network and Security > Load balancers**. The following screen appears:   ![LBI List](img/loadbalancerscreen.png)
+1. Navigate to **Network and Security > Load balancers**. The following screen appears: ![LBI List](img/loadbalancerscreen.png)
  2. Click on your created load balancer instance name from the list. The following screen appears: ![Overview](img/lbioverview.png)
-3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears:    ![Stop LBI](img/stopinstancemessage.png)
-4. Click the **Yes** button. The following screen appears:   ![LBI Power Off](img/lbipoweroff.png)
-5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears:   ![LBI Power On](img/lbipoweron.png)
-6. Click the **Yes** button. The following screen appears:   ![LBI Start](img/lbistart.png) 
-
+3. Click the <span style={{ color: 'red' }}>Stop Instance</span> button. The following screen appears: ![Stop LBI](img/stopinstancemessage.png)
+4. Click the **Yes** button. The following screen appears: ![LBI Power Off](img/lbipoweroff.png)
+5. Click the <span style={{ color: 'blue' }}>Start Instance</span> button. The following screen appears: ![LBI Power On](img/lbipoweron.png)
+6. Click the **Yes** button. The following screen appears: ![LBI Start](img/lbistart.png)

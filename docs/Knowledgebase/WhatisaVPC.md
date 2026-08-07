@@ -15,6 +15,7 @@ VPCs commonly follow a **3-tier network architecture**, which is a widely adopte
 
 ![3-Tiered Network Architecture](img/3tierednetwork.png)
 This tiered model improves security (by isolating each layer), scalability (you can scale tiers independently), and maintainability.
+
 ## Use Cases of VPCs
 
 1. **E-commerce Platforms**  

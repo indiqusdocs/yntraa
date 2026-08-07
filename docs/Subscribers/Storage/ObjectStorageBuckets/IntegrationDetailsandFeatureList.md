@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 ---
-# Feature List and Integration Details
+# Integration Details and Feature List
 
 The feature list and integration details section provides an overview of the core capabilities and integration aspects of the Object Storage service. It outlines the standard and service-specific integration touchpoints that enable seamless provisioning, management, and monitoring of storage resources. 
 

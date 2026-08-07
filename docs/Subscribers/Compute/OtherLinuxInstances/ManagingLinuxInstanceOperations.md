@@ -3,9 +3,9 @@ sidebar_position: 11
 ---
 # Managing Linux Instance Operations
 
- You can manage the lifecycle of linux instance by restarting, force stopping, renaming, or deleting. These operations help you maintain service availability, resolve operational issues, organize resources, and manage your cloud infrastructure efficiently.
+ You can manage the lifecycle of Linux instance by restarting, force stopping, renaming, or deleting. These operations help you maintain service availability, resolve operational issues, organize resources, and manage your cloud infrastructure efficiently.
 
-Yntraa Cloud provides the following operations on linux instances:
+Yntraa Cloud provides the following operations on Linux instances:
 
 <div className="custom-block-blue">  
 - [Restarting an Instance](#restarting-an-instance)
@@ -20,13 +20,13 @@ Yntraa Cloud provides the following operations on linux instances:
 
 ## Restarting an Instance
 
-Restart a linux instance to refresh its operating state, apply certain configuration changes, or resolve temporary issues without changing its existing settings. This action helps restore normal operation, improve service reliability, and ensure efficient traffic distribution across backend resources.
+Restart a Linux instance to refresh its operating state, apply certain configuration changes, or resolve temporary issues without changing its existing settings. This action helps restore normal operation, improve service reliability, and ensure efficient traffic distribution across backend resources.
 
-To restart a linux instance, follow these steps: 
+To restart a Linux instance, follow these steps: 
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Restart Instance** button. The following screen appears: 
    ![Restart Instance Message](img/restartinstancemessage.png)
@@ -34,13 +34,13 @@ To restart a linux instance, follow these steps:
    
 ## Force Stopping an Instance
 
-Force stop a linux instance to immediately terminate its operations when it becomes unresponsive or cannot be shut down through a normal stop operation. This action helps recover from critical issues, restore control of the instance, and prepare it for troubleshooting or restart. 
+Force stop a Linux instance to immediately terminate its operations when it becomes unresponsive or cannot be shut down through a normal stop operation. This action helps recover from critical issues, restore control of the instance, and prepare it for troubleshooting or restart. 
 
-To force stop a linux instance, follow these steps: 
+To force stop a Linux instance, follow these steps: 
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Force Stop Instance** button. The following screen appears: 
    ![Force Stop Instance Message](img/forcestopinstancemessage.png)
@@ -48,13 +48,13 @@ To force stop a linux instance, follow these steps:
     
 ## Resetting Password of an Instance
 
-Resetting the password allows you to regain access to your linux instance if you have forgotten the current password or need to update it for security purposes. You can generate a new administrator password and use it to securely sign in to your linux instance.
+Resetting the password allows you to regain access to your Linux instance if you have forgotten the current password or need to update it for security purposes. You can generate a new administrator password and use it to securely sign in to your Linux instance.
 
-To reset password of a linux instance, follow these steps: 
+To reset password of a Linux instance, follow these steps: 
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
@@ -69,13 +69,13 @@ A password reset link is sent to your registered email address or mobile number.
 
 ## Resetting SSH key
 
-Resetting the SSH key allows you to replace the existing key pair associated with your linux instance. This is useful if the current SSH key is lost, compromised, or needs to be updated for secure administrative access.
+Resetting the SSH key allows you to replace the existing key pair associated with your Linux instance. This is useful if the current SSH key is lost, compromised, or needs to be updated for secure administrative access.
 
-To reset SSH key of a linux instance, follow these steps: 
+To reset SSH key of a Linux instance, follow these steps: 
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Stop Instance** button. The following screen appears: 
    ![Stop Instance](img/resetinstance.png)
@@ -90,24 +90,24 @@ A password reset link is sent to your registered email address.
 
 ## Renaming an Instance
 
-Rename a linux instance to assign a more meaningful or recognizable name without affecting its configuration or functionality. This action helps improve resource identification, simplifies instance management, and makes it easier to locate the instance in cloud environment. 
+Rename a Linux instance to assign a more meaningful or recognizable name without affecting its configuration or functionality. This action helps improve resource identification, simplifies instance management, and makes it easier to locate the instance in cloud environment. 
 
 To rename an instance, follow these steps: 
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
-3. Click the **Rename Instance** button. The following screen appears where you can update the linux instance name in **Instance Name**.
+3. Click the **Rename Instance** button. The following screen appears where you can update the Linux instance name in **Instance Name**.
    ![Instance Name Changed](img/instancenamechanged.png)
 4. Click the **Done** button. The new instance name appears (highlighted in red). 
    ![Name Changed](img/namechange.png)
 
 ## Migrating Network
 
-Migrating a linux instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
+Migrating a Linux instance between networks allows you to move the instance from its current network to a different target network while retaining the instance and its data. This is useful when reorganizing network infrastructure, improving connectivity, or aligning the instance with a different network environment.
 
-To migrate linux Instance between networks, follow these steps:
+To migrate Linux instance between networks, follow these steps:
 
 :::note
 Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurations from the selected NIC before migrating the instance to another network.
@@ -115,7 +115,7 @@ Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurat
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Migrate Network** button. The following screen appears: 
    ![Migrate Network Details](img/migratenetworkdetails.png)
@@ -123,17 +123,17 @@ Remove any **Port Forwarding**, **Load Balancing**, or **Static NAT** configurat
    
 ## Reinstalling Linux Instance
 
-Reinstalling a linux instance replaces the existing operating system with a fresh installation while preserving the instance configuration. This is useful for recovering from system issues, restoring a clean operating system, or resolving configuration problems.
+Reinstalling a Linux instance replaces the existing operating system with a fresh installation while preserving the instance configuration. This is useful for recovering from system issues, restoring a clean operating system, or resolving configuration problems.
 
 :::note
 Reinstalling the operating system permanently erases all data on the root disk, including system files, installed applications, and any data stored on the root partition (/ or C drive). Attached data disks remain unaffected. Before proceeding, create a restore point or backup of the instance and ensure that you have saved all important data to another location.
 :::
 
-To reinstalling a linux instance, follow these steps:
+To reinstalling a Linux instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Reinstall Instance** button. The following screen appears: 
    ![Reinstall Instance](img/reinstallinstance.png)
@@ -142,7 +142,7 @@ To reinstalling a linux instance, follow these steps:
 
 ## Deleting an Instance
 
-Delete a linux instance when it is no longer required to remove it permanently from cloud environment. This action helps free up resources, reduce unnecessary costs, and keep your infrastructure organized by eliminating unused instances. 
+Delete a Linux instance when it is no longer required to remove it permanently from cloud environment. This action helps free up resources, reduce unnecessary costs, and keep your infrastructure organized by eliminating unused instances. 
 :::warning
 You can schedule deletion to continue using the resource until the end of the current billing cycle and cancel the deletion before it takes effect. Alternatively, you can delete the resource immediately, which is permanent and cannot be undone.
 :::
@@ -151,7 +151,7 @@ To delete an instance, follow these steps:
 
 1. Navigate to **Compute > Other Linux Instances**. The following screen appears:
    ![Linux Instance Created](img/linuxinstancelist.png)
-2. Click on your created linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Linux instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/linuxinstanceoverview.png)
 3. Click the **Delete Instance** button. The following screen appears, where you can choose to delete the Linux instance instantly or schedule it to be deleted at a later stage:
    ![Delete Instance](img/deletelinuxinstance.png)

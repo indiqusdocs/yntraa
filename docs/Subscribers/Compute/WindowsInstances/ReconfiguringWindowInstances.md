@@ -3,13 +3,13 @@ sidebar_position: 10
 ---
 # Reconfiguring Window Instances
 
-Reconfigure a window instance to change its compute and root disk configuration when your workload requirements change. Updating the compute pack and root disk allows you to allocate resources that better match your application's performance and capacity needs. 
+Reconfigure a Window instance to change its compute and root disk configuration when your workload requirements change. Updating the compute pack and root disk allows you to allocate resources that better match your application's performance and capacity needs. 
 
-To reconfigure the window instances, follow these steps:
+To reconfigure the Window instances, follow these steps:
 
 1. Navigate to **Compute > Windows Instances**. The following screen appears: 
    ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created window instance name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/windowsoverview.png)
 3. Click the **Stop Instance** button. The following screen appears:
    ![Stop Instance Message](img/stopinstanceyesmessage.png)

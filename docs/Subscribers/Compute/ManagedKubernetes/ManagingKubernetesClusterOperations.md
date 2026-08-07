@@ -27,6 +27,7 @@ To stop a kubernetes cluster, follow these steps:
    ![Kubernetes Cluster Operations](img/kubernetesclusteroperations.png)
 4. Click the **Stop Cluster** button. The following screen appears: 
    ![Kubernetes Cluster Stop](img/clusterstopyesmessage.png)
+5. Click the **Yes** button. 
 
 ## Scaling a Kubernetes Cluster
 
@@ -36,23 +37,23 @@ To scale a kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created kubernetes cluster name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Operations**. The following screen appears: 
    ![Kubernetes Cluster Operations](img/kubernetesclusteroperations.png)
-4. Click the **Scale Cluster** button. The following screen appears where you specify the kubernetes cluster size in Cluster Size (Worker Nodes): 
+4. Click the **Scale Cluster** button. The following screen appears where you specify the Kubernetes cluster size in **Cluster Size (Worker Nodes)**: 
    ![Kubernetes Cluster Scale](img/clusterscaling.png)
 5. Click the **Confirm Scaling** button. 
    
 ## Deleting a Kubernetes Cluster
 
-Delete a kubernetes cluster when it is no longer required. Deleting the cluster permanently removes its configuration, worker nodes, and associated resources, helping you free up infrastructure resources and avoid unnecessary costs.
+Delete a Kubernetes cluster when it is no longer required. Deleting the cluster permanently removes its configuration, worker nodes, and associated resources, helping you free up infrastructure resources and avoid unnecessary costs.
 
-To delete a kubernetes cluster, follow these steps: 
+To delete a Kubernetes cluster, follow these steps: 
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created kubernete cluster name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Kubernetes cluster name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesoverview.png)
 3. Click **Operations**. The following screen appears: 
    ![Kubernetes Cluster Operations](img/kubernetesclusteroperations.png)

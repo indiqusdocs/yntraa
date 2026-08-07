@@ -13,7 +13,6 @@ sidebar_position: 2
    ![NAT Gateway Details](imgnew/natgatewayscreen.png) 
 
 - **Configuration and Availability:** This displays the NAT Gateways configuration details to help verify its current configuration and operational state.
-
       - The instance's status <span class="green">**Running**</span> or <span style={{ color: 'red' }}>**Stopped**</span>.
       - Availability Zone
       - Virtual Gateway Pack

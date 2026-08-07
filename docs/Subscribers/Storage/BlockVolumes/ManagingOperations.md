@@ -80,9 +80,9 @@ To delete a volume, follow these steps:
    ![Overview](img/blockvolumeoverviewview.png)
 3. Click **Operations**. The following screen appears: 
   ![Attach to Instance](img/instanceattachbutton.png)
-4. Click the **Delete Volume**. The following screen appears: 
+4. Click the **Delete Volume**. The following screen appears, where you can choose to delete the volume instantly or schedule it to be deleted at a later stage:
    ![Deleting Volume](img/deletingvolume.png)
-5. Enter **DELETE** and click the **Delete Now** button. 
-6. Enter **DELETE** and click the **Schedule Deletion** button. 
+	- To delete the volume instantly, enter **DELETE** and click the **Delete Now** button. The volume is deleted.
+	- To schedule the volume to be deleted at a later stage, enter **DELETE** and click the **Schedule Deletion** button.
 
 
