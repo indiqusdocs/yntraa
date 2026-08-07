@@ -461,6 +461,11 @@
               "sidebar": "sidebar1"
             },
             {
+              "id": "Subscribers/NetworkandSecurity/NATGateways/StartingandStoppingaNATGateway",
+              "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/StartingandStoppingaNATGateway",
+              "sidebar": "sidebar1"
+            },
+            {
               "id": "Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayDetails",
               "path": "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayDetails",
               "sidebar": "sidebar1"

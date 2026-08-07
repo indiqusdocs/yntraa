@@ -116,22 +116,13 @@ This action can not be reversed.
 
 To delete a disk restore point, follow these steps: 
 
-1. Navigate to **Compute > Windows Instances**. The following screen appears: 
-   ![Window Instance Created](img/windowinstancelist.png)
-2. Click on your created Window instance name from the list. The Overview tab opens automatically. The following screen appears: 
-   ![Overview](img/windowsoverview.png)
-3. Click **Volumes**. The following screen appears: 
-   ![View Root Disk](img/windowinstancevolume.png)
-4. Click the **Create Restore Point** icon (highlighted in red). The following screen appears: 
-   ![Create Disk Restore Point](img/creatediskrestorepoint.png)
-5. Click the **Create Disk Restore Point** button. 
-6. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
+1. Navigate to **Tools and Utilities > Restore Points**. The following screen appears: 
    ![Restore Points list](img/restorepointview.png)
-7. Click **Disk Restore Point**. The following screen appears:
+2. Click **Disk Restore Point**. The following screen appears:
    ![Delete Restore Point Windows](img/deleterestorepointwindows.png)
-8. Click the  **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
+3. Click the  **Delete Disk Restore Point** icon (highlighted in red). The following screen appears: 
    ![Disk Restore Point Deleted](img/deleteddiskrestore.png)
-9. Click the **Yes** button. The disk restore point is deleted.
+4. Click the **Yes** button. The disk restore point is deleted.
 
 
 

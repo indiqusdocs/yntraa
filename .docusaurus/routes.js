@@ -84,15 +84,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '753'),
+    component: ComponentCreator('/docs', 'e92'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '921'),
+        component: ComponentCreator('/docs', 'b22'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '803'),
+            component: ComponentCreator('/docs', '003'),
             routes: [
               {
                 path: '/docs/category/account-centre',
@@ -763,6 +763,12 @@ export default [
               {
                 path: '/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations',
                 component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations', '41c'),
+                exact: true,
+                sidebar: "sidebar1"
+              },
+              {
+                path: '/docs/Subscribers/NetworkandSecurity/NATGateways/StartingandStoppingaNATGateway',
+                component: ComponentCreator('/docs/Subscribers/NetworkandSecurity/NATGateways/StartingandStoppingaNATGateway', '8df'),
                 exact: true,
                 sidebar: "sidebar1"
               },

@@ -212,17 +212,17 @@
       "plugin": "138e0e15"
     }
   },
-  "/docs-753": {
+  "/docs-e92": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/docs-921": {
+  "/docs-b22": {
     "__comp": "a7bd4aaa",
     "__props": "0058b4c6"
   },
-  "/docs-803": {
+  "/docs-003": {
     "__comp": "a94703ab"
   },
   "/docs/category/account-centre-23a": {
@@ -672,6 +672,10 @@
   "/docs/Subscribers/NetworkandSecurity/NATGateways/ManagingNATGatewayOperations-41c": {
     "__comp": "17896441",
     "content": "08989c10"
+  },
+  "/docs/Subscribers/NetworkandSecurity/NATGateways/StartingandStoppingaNATGateway-8df": {
+    "__comp": "17896441",
+    "content": "0c32a277"
   },
   "/docs/Subscribers/NetworkandSecurity/NATGateways/ViewingNATGatewayDetails-d0f": {
     "__comp": "17896441",
