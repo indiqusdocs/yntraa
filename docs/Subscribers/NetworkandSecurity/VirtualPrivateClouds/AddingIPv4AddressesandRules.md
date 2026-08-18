@@ -86,7 +86,7 @@ You can view the instance where this rule is configured, along with the private 
 To test if port-forwarding is configured correctly, use the public IP to SSH into the instances the IP forwards to.
 
 :::note
-A Port-Forwarding IP address can be used to configure multiple Port-Forwarding  access rules but with one instance. To port-forward into a different instance, you must purchase an additional public IP address.
+A Port-Forwarding IP address can be used to configure multiple Port-Forwarding access rules but with one instance. To port-forward into a different instance, you must purchase an additional public IP address.
 :::
 
 ## Configuring Static NAT
