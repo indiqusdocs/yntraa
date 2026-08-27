@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket.md",
+                "file": "docs/Subscribers/AddingTeamMembers.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ViewingObjectStorageBucket"
+              "title": "AddingTeamMembers"
             }
           }
         ]
@@ -173,11 +173,12 @@
   },
   "active": "ca21f1c8e9f8d0cc",
   "lastOpenFiles": [
+    "docs/Subscribers/intro.md",
+    "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/CreatingObjectStorage.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/DeletingObjectBucket.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/AddingObjectinBucket.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/IntegrationDetailsandFeatureList.md",
-    "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucket.md",
     "docs/Subscribers/Storage/ObjectStorageBuckets/ViewingObjectStorageBucketDetails.md",
     "docs/Subscribers/Storage/BlockVolumes/ManagingOperations.md",
     "docs/Subscribers/Storage/BlockVolumes/ResizingtheBlockVolume.md",
@@ -198,7 +199,6 @@
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingInstanceRestorePoint.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingLoadBalanceInstanceOperations.md",
     "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ManagingNetworks.md",
-    "docs/Subscribers/NetworkandSecurity/LoadBalancerInstances/ReconfiguringLoadBalancerInstance.md",
     "build/blog/tags/hola/index.html",
     "build/blog/tags/hello/index.html",
     "build/blog/tags/facebook/index.html",

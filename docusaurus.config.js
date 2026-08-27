@@ -135,6 +135,19 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
     position: 'left',
     label: 'Release Notes',
   },
+  
+  {
+	  type: 'dropdown',
+	  label: 'Resources',
+	  position: 'left', // Can be 'left' or 'right'
+	  items: [
+		{
+		 label: 'One Yotta User Guide',
+		 href: 'https://docs.yntraacloud.ai/PDFs/OneYottaUserGuide.pdf',
+		},            
+	  ],
+	},
+  
 {
     href: 'https://portal.yntraacloud.ai',
     label: 'Yntraa Cloud Platform',
