@@ -9,7 +9,7 @@ To stop and start a Kubernetes cluster, follow these steps:
 
 1. Navigate to **Compute > Managed Kubernetes**. The following screen appears: 
    ![Kubernetes List](img/kuberneteslist.png) 
-2. Click on your created Kubernete cluster name from the list. The Overview tab opens automatically. The following screen appears: 
+2. Click on your created Kubernetes cluster name from the list. The Overview tab opens automatically. The following screen appears: 
    ![Overview](img/kubernetesclusteroverview.png)
 3. Click the <span style={{ color: 'red' }}>Stop Cluster</span> button. The following screen appears: 
    ![Kubernetes Cluster Stop Message](img/kubernetesclusterstopmessage.png)
