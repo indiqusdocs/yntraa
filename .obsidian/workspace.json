@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters.md",
+                "file": "docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ViewingKubernetesClusters"
+              "title": "ManagingNetworkRules"
             }
           }
         ]
@@ -173,11 +173,12 @@
   },
   "active": "ca21f1c8e9f8d0cc",
   "lastOpenFiles": [
+    "docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails.md",
     "docs/Subscribers/Compute/ManagedKubernetes/StoppingandStartingaKubernetesCluster.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations.md",
     "docs/Subscribers/Compute/ManagedKubernetes/KubernetesDashboard.md",
     "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
     "docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster.md",
@@ -198,7 +199,6 @@
     "docs/Subscribers/Compute/WindowsInstances/ManagingAlerts.md",
     "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
     "docs/Subscribers/AddingTeamMembers.md",
-    "docs/Subscribers/intro.md",
     "build/blog/tags/hola/index.html",
     "build/blog/tags/hello/index.html",
     "build/blog/tags/facebook/index.html",

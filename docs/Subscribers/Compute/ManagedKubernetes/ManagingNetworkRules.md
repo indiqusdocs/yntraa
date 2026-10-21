@@ -63,5 +63,5 @@ To add a load balance rule, follow these steps:
    ![Adding Firewall Rule](img/addingfirewallrule.png)
 5. Select the **Load Balancing Rule** rule from the dropdown. The following screen appears, where you provide the required details: 
    ![Load Balance Rule Details](img/loadbalaceruledetails.png) 
-6. Click the **Add Port Forwarding Rule** button. 
+6. Click the **Add Load Balancing Rule** button. 
   
