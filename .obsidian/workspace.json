@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "ManagingNetworkRules"
             }
+          },
+          {
+            "id": "5da4f9cf2d73ea46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Subscribers/NetworkandSecurity/NATGateways/ManagingIPAddresses.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ManagingIPAddresses"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,15 +186,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca21f1c8e9f8d0cc",
+  "active": "5da4f9cf2d73ea46",
   "lastOpenFiles": [
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints/index.html",
+    "build/docs/Subscribers/ToolsandUtilities/AddingVPNGateways",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingCustomTemplatesandImages",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingInstanceandDiskRestorePoints",
+    "build/docs/Subscribers/ToolsandUtilities/ManagingSSHKeyPairs",
+    "build/docs/Subscribers/ToolsandUtilities",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ViewingUtilisation/index.html",
+    "build/docs/Subscribers/NetworkandSecurity/VirtualFirewall/ManagingVolume/index.html",
+    "build/icons/home.svg",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/_ManagingNATGateways.md",
+    "docs/Subscribers/NetworkandSecurity/NATGateways/_AboutNATGateways.md",
+    "docs/Subscribers/Compute/RHELInstances/ReconfiguringRHELInstances.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules.md",
+    "docs/Subscribers/Compute/ManagedKubernetes/KubernetesDashboard.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ManagingKubernetesClusterOperations.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusters.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ViewingKubernetesClusterDetails.md",
     "docs/Subscribers/Compute/ManagedKubernetes/StoppingandStartingaKubernetesCluster.md",
     "docs/Subscribers/Compute/ManagedKubernetes/ScalingKubernetesClusters.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/ManagingNetworkRules.md",
-    "docs/Subscribers/Compute/ManagedKubernetes/KubernetesDashboard.md",
     "docs/Subscribers/Compute/ManagedKubernetes/InstallingPrometheusandGrafana.md",
     "docs/Subscribers/Compute/ManagedKubernetes/InstallingACSCSIDriveronK8sCluster.md",
     "docs/Subscribers/Compute/ManagedKubernetes/CreatingaKubernetesCluster.md",
@@ -195,20 +225,6 @@
     "docs/Subscribers/Compute/WindowsInstances/ViewingDetailsofWindowsInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/ReconfiguringWindowInstances.md",
     "docs/Subscribers/Compute/WindowsInstances/ManagingWindowInstanceOperations.md",
-    "docs/Subscribers/Compute/WindowsInstances/ManagingVolume.md",
-    "docs/Subscribers/Compute/WindowsInstances/ManagingAlerts.md",
-    "docs/Subscribers/Compute/WindowsInstances/CreatingWindowsInstances.md",
-    "docs/Subscribers/AddingTeamMembers.md",
-    "build/blog/tags/hola/index.html",
-    "build/blog/tags/hello/index.html",
-    "build/blog/tags/facebook/index.html",
-    "build/blog/tags/docusaurus/index.html",
-    "build/blog/authors/yangshun/index.html",
-    "build/blog/authors/all-sebastien-lorber-articles/index.html",
-    "build/blog/welcome/index.html",
-    "build/blog/tags/hola",
-    "build/blog/tags/index.html",
-    "build/blog/tags/hello",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -217,7 +233,6 @@
     "build/img/sps.svg",
     "build/img/sps.png",
     "build/img/sbs.svg",
-    "build/img/rn.svg",
-    "build/img/favicon.png"
+    "build/img/rn.svg"
   ]
 }
